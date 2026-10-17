@@ -1,0 +1,25 @@
+name: 投稿配方 / Submit a recipe
+description: 认领或投稿一个可复用的 Grok Bot 配方
+labels: [recipe, needs-test]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 配方名
+    validations:
+      required: true
+  - type: textarea
+    id: scene
+    attributes:
+      label: 场景
+      description: 谁、在什么情况下用、解决什么问题
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交前自查
+      options:
+        - label: 无 key / token / cookie，无营收数字，无内部路径，无可识别个人信息
+          required: true
+        - label: 我实际跑通过（可选，跑通会加「✅ 实测」）

@@ -1,0 +1,17 @@
+name: 报告失效 / Report broken
+description: 链接失效、仓库归档或配方跑不通
+labels: [broken]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: 哪一条
+      description: 条目名或配方文件路径
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 现象
+    validations:
+      required: true

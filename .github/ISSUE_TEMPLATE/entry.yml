@@ -1,0 +1,30 @@
+name: 推荐条目 / Suggest an entry
+description: 推荐一个 Grok Bot 相关项目、文章或工具
+labels: [entry]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: 链接
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类
+      options: [Official & SDK, Self-hosted bots, Skills & Playbooks, Multi-bot teams, Routines & Digests, Chinese solo-founder, Learning]
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: 一句话短评
+      description: 为什么值得看？不要复制项目简介
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: 声明
+      options:
+        - label: 我与该项目有商业关系（会标注「作者相关」）

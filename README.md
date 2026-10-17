@@ -1,6 +1,12 @@
 # Awesome Grok Bot Playbooks
 
-> 中文向 Grok Bot / 多 Agent 玩法清单。每条 = 短评 + 链接 + 标签。
+[![Stars](https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat)](https://github.com/sit-in/awesome-grokbot-playbooks/stargazers)
+[![link-check](https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg)](https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+**中文** | [English](README.en.md) | [Roadmap](ROADMAP.md)
+
+> 中文向 Grok Bot / 多 Agent 玩法清单。每条 = 短评 + 链接 + 标签；配方可直接抄，标 ✅ 的已实测。
 
 本仓**不是** Grok Bot 客户端，也**不是** xAI 官方项目，只做整理与点评。
 
