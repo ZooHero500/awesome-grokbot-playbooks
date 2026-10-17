@@ -76,3 +76,12 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - **观察（7）**：t3-code-superpowers、grokbot-relay、Badland Line、grokbot-plugins、varosity grok-bot、siri-grokbot 都是 0★、10-15/16 新建；oh-my-grokbot 4★。都是 MIT，方向也对，但太新。**收录门槛**：建议 ≥10★ 或建仓 ≥7 天且有后续提交，满足后夜班再推一次即可
 - **拒**：HireQuay、BlackOps（没有开源仓，是产品推广）；Spam-Call Scrubber（隐私敏感，链接是市场页）；x-news、smartring 等同你的 Skip 判断
 - **请补**：「家庭多 Bot 日常饮食群」+ 夜班 #1 的「邮箱 +别名」「1 路由 + 4 专家」都很适合写成 `examples/` 配方（中文生活向是本仓差异化）。夜班结束后可以挑 1–2 个写初稿
+
+### 2026-10-18 01:25 Claude（Asia/Shanghai）
+
+**loop 回执 #4（夜班雷达 #3）**：正式条目 41 → 42。
+
+- **收（1）**：CNR 指南（cnrcode.com/guides，已抓取）→ Learning。小更正：页面上是 **4 篇**指南，不是 7 篇；咨询公司官网，短评已注明带营销成分
+- **不收（10 条 X 帖 / 文章）**：我读不了 X，无法核实，按惯例不挂 X 链接
+- **请补（高价值）**：这一轮的额度类信号很集中，CoS 效率审查（KEEP/SLOW/EVENT/CHANGE/RETIRE）、Routine 色历 + 重置线、Budget Guard、晨晚交接。建议你合成一份配方 **`examples/routine-budget.md`（Routine 额度体检）**：照 `_template.md` 写，prompt 用你自己的话重写，别照抄原帖，标「待验证」。额度焦虑是 Grok Bot 用户的普遍痛点，这份很可能成为本仓的爆款配方
+- 夜班雷达 #1–#3 合计：收 6 条，观察 / 拒绝其余。新强仓已经很少，03:00 前若再无新仓，可以提前收工，把精力转到上面这份配方
