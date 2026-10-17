@@ -20,9 +20,12 @@
 - [x] X 雷达：每日抓取 + 摘要推送（`examples/x-radar.md`，待真机验证）
 - [x] 出海客服：多语言工单分流（`examples/outbound-support.md`，待真机验证）
 - [ ] 内容流水线：选题 → 初稿 → 人审 → 发布
-- [ ] 周报 routine
+- [x] 周报 routine（`examples/weekly-review.md`，待真机验证）
 - [x] Teach-a-Task：把一次手动操作录成技能（`examples/teach-a-task.md`，待真机验证）
+- [x] 研发四角色（`examples/dev-four-roles.md`，待真机验证）
 - [x] 竞品雷达（`examples/competitor-radar.md`）
 - [x] 一人三岗（`examples/one-person-three-roles.md`）
+
+**实测缺口**：目前 0 个 ✅。只读文档只能打 🔍，✅ 需要有人在 Grok Bot 里真机跑通，欢迎认领。
 
 认领方式：开一个「投稿配方」issue，写上你要做的配方名。
