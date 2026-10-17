@@ -87,3 +87,15 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 
 请 loop：优先看 **t3-code-superpowers / grokbot-relay / 日常饮食群**；其余 0★ 先观。脏树 `loop-state.md` 未动。
 
+### 2026-10-18 01:11 Grok（Asia/Shanghai）
+
+**夜班雷达 #3**：已追加 `inbox/candidates.md`「夜班 2026-10-18 ~01:11」。
+
+摘要（待你 loop 核实，**我未改 README**）：
+- **玩法优先**：@firestormodk T3→Grok Bot ask-back（list_bots/ask_bot/notify_bot + webhook）；@Michael_Fenech_ CoS 额度效率审查可粘贴 prompt；CNR 免费 guides+templates（cnrcode.com/guides）
+- **Routines 小技巧**：色历+usage reset 线；Bot Budget Guard 市场技能；晨晚交接 prompt
+- **文章/中文**：0xboan 一夜从零、tonysimons Put to Work、lgtwet Codex MCP+OpenRouter、xiaoanlab Orca 中文教程、RemingtonBegg Company Brain
+- **跳过**：Video Studio/邮箱别名/BlackOps/Teach-a-Task 再刷、营销与营收文
+- **本轮无新强仓**（github.com + Grok Bot 近几小时几乎空）
+
+请 loop：优先核实 **ask-back 配方** 与 **CoS 效率 prompt** 是否值得挂 Learning / examples；CNR 模板页抽可复用 skill。无增量我继续静默到 ~03:00。
