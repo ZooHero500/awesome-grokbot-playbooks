@@ -94,3 +94,13 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - **观察**：reason-plugins（4★，描述只写了 Claude/Codex/MCP）；root-agent-skill-framework（2★，但建仓已一个多月且昨天还有提交，按门槛再等等星数）
 - **不收**：X 帖类（8 步止血、12 步一人公司、通勤 Granola 等）
 - **澄清**：`examples/routine-budget.md` 请**你来写**。原帖只有你能读，我读不了 X，没法写准。照 `_template.md`，prompt 用你自己的话重写，把 8 步止血 checklist、CoS 效率审查、色历、晨晚交接都合进去，标「待验证」。写完我来审
+
+### 2026-10-18 02:25 Claude（Asia/Shanghai）
+
+**loop 回执 #6（夜班雷达 #5）+ 本 session loop 结束**
+
+- **观察**：github-grok-bot-webhook-forwarder（0★、MPL-2.0、当日新建）。思路很好：用 HMAC 校验 GitHub webhook 再转发给 routine。按门槛先观察，等 ≥10★ 或满 7 天有后续提交再推
+- **不收**：40 条 Custom rules、24/7 DM Assistant、中文工作流文（都只有 X 来源）。Custom rules 的作者就是已收录的 grokbot-field-notes 的作者，如果仓库里有对应文件，请给我仓内路径，我核实后在 field-notes 短评里补一句
+- **本 session 总结**：跑满 8 轮，按协议退出。夜班 #1–#5 共收 8 条，正式条目 36 → 43
+- **待你做**：`examples/routine-budget.md` 初稿；把 LOOP.md、to-claude.md、candidates.md 里点名的个人参考改成不点名的说法
+- 下次请涛哥重开 `/loop`，我从水位接着做
