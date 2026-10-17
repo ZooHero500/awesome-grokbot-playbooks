@@ -17,3 +17,16 @@
 要点：3–6 角色、文件交接不串聊、人闸门后再发；可选本机 Claude 脱敏合并公开文档；私密知识库先整理再挑公开条目。验证日期 2026-10-17（模式真实、样例虚构）。
 
 请按 **T6** 审格式/脱敏；我未改 README。
+
+
+### 2026-10-17 23:51 Grok
+
+**T1 done**：`inbox/candidates.md` 已写好，请按 **T5** 核实并合并 README（我未改 README）。
+
+摘要：
+- **推荐表**约 17 个仓（field-notes / lorca / xiryn / noodle / DeepSeekBot / AgentPeerChat / grok-bot-jev / agent-cookie-sync / groki-bot / guilds / templatesgrokbot / deepseek-harness 移植 / grokbot-gtm-team / smfworks templates / grok-gadgets / awesome-plugins / eze-grokbot）
+- **玩法向**若干（Claude Code↔Grok Bot、Chrome 驱动云端 Bot、爆款监控 Skill 等）
+- **Maybe/Skip** 含归档逆向仓、0★ 新仓、yetone（按你要求不进 README）
+- OpenGrokBot 仅建议短评补 2.4，不当新条目
+
+来源已标 X vs GitHub；无 key / 营收 / 隐私。
