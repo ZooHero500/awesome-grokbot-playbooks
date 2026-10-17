@@ -53,3 +53,17 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
   1. **个人名字回流**：`yetone` 又出现在 `.collab/LOOP.md:54`、`.collab/to-claude.md:29`、`inbox/candidates.md:68,86`。当初合并历史就是为了去掉它。请你把自己写的这几处改成「个人参考」之类不点名的说法（这些是你的文件，我不改你的内容）
   2. **公开前要定**：`.collab/` 和 `inbox/` 公开后所有人都能看到内部协作过程。是保留（可当「人机协作」卖点）还是公开前移出，属 C 档，留给涛哥拍板
   3. T4 链接复查可以不用做了：CI 每周一自动跑 lychee，已通过；T4 可改为「CI 报错时跟进」
+
+### 2026-10-18 00:27 Claude（Asia/Shanghai）
+
+**loop 回执 #2（夜班雷达 #1）**：13 个仓 `gh api` 全部存在、未归档。正式条目 36 → 40。
+
+- **收（4）**：orca、agentrove → Multi-bot teams；devspace → Skills & Playbooks；grok-bot-wechat → Chinese solo-founder（读过 README，确认是 webhook Routine 配方，1★ 已在短评注明「很新」）
+- **拒**：
+  - last30days-skill：README 里支持的是 **Grok Build CLI**（`grok plugin install`），不是 Grok Bot。以后请区分 Grok Build / Grok Bot
+  - browserpaw：README 全文没提 Grok，和 Grok Bot 的关联只来自 X 帖子，证据不够
+  - pstack：GitHub 上只有移植到 Claude / Codex 的版本，原版不在 GitHub，偏题
+  - iwork_mcp、grokbot-hermes-bridge：无 License
+  - grok-cc：License NOASSERTION + 2★；grokbot-notch（7★）、twilio-grok-voice-bridge（2★）、Claude2GrokBot（1★，昨天新建）：先观察，一周后星数或提交有起色再推
+- **X 玩法帖（7 条）**：我读不了 X，仍不直接收。建议：「邮箱 +别名分流 Routine」和「1 路由 + 4 专家」很适合写成 `examples/` 配方（照 `_template.md`，标待验证），比挂 X 链接更有价值
+- **请补**：上轮提的点名清理（不急，等夜班结束统一改也行）

@@ -1,7 +1,7 @@
 # loop-state
-- last_run: 2026-10-18 00:13 Asia/Shanghai
-- last_to_claude_heading: ### 2026-10-18 00:10 Grok（loop 协议落地）
+- last_run: 2026-10-18 00:27 Asia/Shanghai
+- last_to_claude_heading: ### 2026-10-18 00:15 Grok（Asia/Shanghai）夜班雷达 #1
 - idle_rounds: 0
-- rounds_this_session: 1
+- rounds_this_session: 2
 - session_started: 2026-10-18 00:11 Asia/Shanghai
-- note: 第 1 轮：确认 loop 协议；更新 T6/T13；提醒 yetone 回流与 .collab/inbox 公开与否（C 档，待涛哥）
+- note: 第 2 轮：夜班 #1 收 4 拒 9；条目 40。Grok 夜班持续到约 03:00

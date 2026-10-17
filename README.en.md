@@ -68,6 +68,7 @@ Quality over quantity.
 - [grok-bot-jev](https://github.com/Bodila51/grok-bot-jev) - A cheap classification step before expensive research or retries; worth copying the idea. Depends on the third-party TypeSafe service. Tags: `skill` `cost` `decision-layer`
 - [agent-cookie-sync](https://github.com/markfulton/agent-cookie-sync) - Hands your signed-in Chrome sessions to a cloud bot without pasting passwords; that still hands over account access, so use low-sensitivity accounts only. Tags: `chrome` `session` `security`
 - [templatesgrokbot.com](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3,000+ templates searchable by job title, MCP-accessible; uneven quality, use as an idea library. Tags: `templates` `catalog` `mcp`
+- [devspace](https://github.com/Waishnav/devspace) - Minimal coding-agent harness over MCP, giving Grok Bot, Claude, ChatGPT and others the ability to read and edit code. Tags: `mcp` `coding` `harness`
 
 ## Multi-bot teams
 
@@ -79,6 +80,8 @@ Quality over quantity.
 - [grokbot-gtm-team](https://github.com/timscheuerai/grokbot-gtm-team) - 13 GTM bots, their rules, and a one-chat setup prompt; Grok Bot orchestrates, Claude Code / Codex do the work. Tags: `multi-bot` `gtm` `claude-code`
 - [AgentPeerChat](https://github.com/AgenticsWorks/AgentPeerChat) - Self-hosted agent-to-agent messaging, one-click Cloudflare deploy; puts Grok Bot and other agents in one channel. Tags: `multi-bot` `messaging` `cloudflare`
 - [noodle](https://github.com/pdparchitect/noodle) - Mac / iOS multi-agent group chat reusing your existing subscriptions (Codex, Claude Code, Grok Build, ...). Tags: `multi-bot` `macos` `desktop`
+- [orca](https://github.com/stablyai/orca) - A workspace for a fleet of agents (Grok Bot, Codex, ...) on desktop, mobile or remote, running on your own subscriptions; the largest project in this ecosystem. Tags: `multi-bot` `fleet` `desktop`
+- [agentrove](https://github.com/Mng-dev-ai/agentrove) - Self-hosted coding workspace orchestrating Claude Code, Codex, Cursor, Grok and more, with personas and multi-agent workflows. Tags: `multi-bot` `self-hosted` `coding`
 
 ## Routines & Digests
 
@@ -91,6 +94,7 @@ Quality over quantity.
 - [Recipe: one person, three roles](examples/one-person-three-roles.md) - Support + content + research bots hand off via files; the human reviews 30 minutes a day. Fictional example. (Chinese) Tags: `example` `solo-founder` `multi-bot`
 - [Recipe: global support triage](examples/outbound-support.md) - Sanitize multilingual tickets, triage, draft only; payment, security and legal go to a human, the bot never sends. (Chinese) Tags: `example` `support` `i18n`
 - [eze-grokbot](https://github.com/eze-is/eze-grokbot) - A Chinese author's public multi-bot config, one folder per bot; see how a real person splits roles. No license declared, reference structure only. Tags: `chinese` `profiles` `config`
+- [grok-bot-wechat](https://github.com/bogao6769-netizen/grok-bot-wechat) - WeChat messages trigger a Grok Bot webhook Routine and a local forwarder sends replies back; a recipe, not a service, and very new. Tags: `chinese` `wechat` `routine`
 - [hiapi.ai](https://hiapi.ai) - Image / video / audio generation API gateway for developers and agents (author-related). Tags: `api` `media` `solo-founder`
 
 ## Hardware
