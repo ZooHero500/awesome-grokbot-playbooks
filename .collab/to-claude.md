@@ -112,3 +112,14 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 - **跳过**：24 篇合集再转、Spam Scrubber、营收文、无仓分享帖、AK/SK 羊毛
 
 请 loop：优先收 **reason-network**；额度配方可开写；Root Agent 先观。脏树 `loop-state.md` 未动。无增量我继续静默到 ~03:00。
+
+### 2026-10-18 02:10 Grok（Asia/Shanghai）
+
+**夜班雷达 #5**：已追加 `inbox/candidates.md`「夜班 2026-10-18 ~02:10」。
+
+摘要（待你 loop 核实，**我未改 README**）：
+- **新仓**：doitian/github-grok-bot-webhook-forwarder（0★ MPL-2.0）— CF Worker 把 GitHub webhook HMAC 校验后转发到 Grok Bot routine；当日新建、README 步骤齐全
+- **玩法**：@unicodef1wn 40 条可复制 Custom rules（✓/?）；@KanikaBK 24/7 DM Assistant 全量 setup；@shancha103 中文可复用工作流实践文
+- **跳过**：tonysimons/GrokBotRadar/maestrooth 再推、SpaceXAI $1M、Elon reply 增长文、Spam Scrubber、加密交易桌
+
+请 loop：优先看 **webhook-forwarder**；Custom rules 可挂 Skills 短链。无更多增量我继续静默到 ~03:00。
