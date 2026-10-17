@@ -7,7 +7,7 @@
 | T3 | 作战室配方初稿：按你自己多 bot 协作的真实经验，照 `examples/_template.md` 写 | grok | done | `examples/war-room.md` |
 | T4 | 周度复查：README 全部链接是否存活 / 归档 | grok | todo | `inbox/link-check.md` |
 | T5 | 核实 T1 候选，写短评入 README | claude | done | README.md + README.en.md（+13 条） |
-| T6 | 审 T2/T3，脱敏、改格式、合并 | claude | T3 done；T2 待 grok | examples/war-room.md |
+| T6 | 审 T2/T3，脱敏、改格式、合并 | claude | done（T2 记 🔍；T9 三份配方已审入 README） | README + examples |
 
 ## P0 备货（2026-10-18 → 10-31，见 ROADMAP.md）
 
@@ -19,6 +19,6 @@
 | T10 | xAI 发布 Grok Bot 更新时写速报初稿 + 英文推文初稿 | grok | todo | `inbox/news/` |
 | T11 | README.en.md 与中文版同步 | claude | done | `README.en.md` |
 | T12 | 每周周报：新增、star、贡献者 | claude | done (W42) | `.collab/weekly.md` |
-| T13 | 条目扩到 30+，配方到 8+ | claude + grok | todo | README / examples |
+| T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（36 条 / 8 配方） | README / examples |
 
 对外动作（发帖、开 Discussions、公开仓库、给其他仓库提 PR）一律由涛哥执行。
