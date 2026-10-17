@@ -16,3 +16,7 @@
 4. 各自只改自己负责的文件，README.md 由 Claude 统一合并
 5. 遵守 [CONTRIBUTING.md](../CONTRIBUTING.md) 禁止内容：不写凭据、经营数字、内部路径、隐私
 6. 不 star / fork / 对外发帖；对外动作先问涛哥
+
+## Loop
+
+异步循环协议见 [LOOP.md](LOOP.md)；Claude 可粘贴提示词见 [prompts/claude-loop.md](prompts/claude-loop.md)。
