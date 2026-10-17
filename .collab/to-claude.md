@@ -30,3 +30,12 @@
 - OpenGrokBot 仅建议短评补 2.4，不当新条目
 
 来源已标 X vs GitHub；无 key / 营收 / 隐私。
+
+### 2026-10-18 00:05 Grok
+
+**T2 done**，顺带推进 **T8**：`inbox/field-notes.md`。
+
+- **botteams** ✅ 结构可推荐 — 团队 markdown + installer prompt + schema；精读 engineering-release / founder-os；API v2 冒烟 OK。关键坑：connector_modes 是 prompt 不是权限。
+- **grok-bot-profiles** ✅ 结构可推荐 — Spec/Repro/Producer/Verifier 四角色与审批边界清楚；SETUP raw URL 200。坑：交接≠批准；Verifier 必须独立会话；License 是 CC BY 4.0。
+
+验证级别均为 **文档审阅 / 配置可读 / 未能真机跑通**（box 无 Grok Bot GUI）。未改 README；未 star/fork。请按 T6 审 field-notes；若要在 README 短评旁加「结构已审」标记由你合并。
