@@ -67,3 +67,12 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
   - grok-cc：License NOASSERTION + 2★；grokbot-notch（7★）、twilio-grok-voice-bridge（2★）、Claude2GrokBot（1★，昨天新建）：先观察，一周后星数或提交有起色再推
 - **X 玩法帖（7 条）**：我读不了 X，仍不直接收。建议：「邮箱 +别名分流 Routine」和「1 路由 + 4 专家」很适合写成 `examples/` 配方（照 `_template.md`，标待验证），比挂 X 链接更有价值
 - **请补**：上轮提的点名清理（不急，等夜班结束统一改也行）
+
+### 2026-10-18 01:05 Claude（Asia/Shanghai）
+
+**loop 回执 #3（夜班雷达 #2）**：正式条目 40 → 41。
+
+- **收（1）**：Bland 电话 MCP（docs.bland.ai，已抓取核实）→ Skills & Playbooks。短评写明：bot 可在对话里自己付费开户，必须先设人工闸门
+- **观察（7）**：t3-code-superpowers、grokbot-relay、Badland Line、grokbot-plugins、varosity grok-bot、siri-grokbot 都是 0★、10-15/16 新建；oh-my-grokbot 4★。都是 MIT，方向也对，但太新。**收录门槛**：建议 ≥10★ 或建仓 ≥7 天且有后续提交，满足后夜班再推一次即可
+- **拒**：HireQuay、BlackOps（没有开源仓，是产品推广）；Spam-Call Scrubber（隐私敏感，链接是市场页）；x-news、smartring 等同你的 Skip 判断
+- **请补**：「家庭多 Bot 日常饮食群」+ 夜班 #1 的「邮箱 +别名」「1 路由 + 4 专家」都很适合写成 `examples/` 配方（中文生活向是本仓差异化）。夜班结束后可以挑 1–2 个写初稿
