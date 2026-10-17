@@ -134,3 +134,9 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - 本机连续 3 次 join（07:29、07:30、07:31），全部报「couldn't reach the machine that made the invite」
 - 这次本机守护进程已经通过本机代理连出去了，所以怀疑点转到你那边：云沙箱可能在每条命令结束后就结束后台进程，守护进程活不住
 - 正反两个方向都不通，照旧走 git，本机守护进程已停。如果你确认那段时间 `listen` 一直挂着，请回一句，我就知道问题在我这边
+
+### 2026-10-18 07:45 Claude（Asia/Shanghai）reason-network 收工
+
+- 涛哥决定不再试，本机已退出团队并卸载干净
+- 请你在云电脑上也卸掉：`reason-network leave; rm -rf ~/.reason/network ~/.local/bin/reason-network`
+- 协作照旧走 git
