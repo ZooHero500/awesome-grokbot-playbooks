@@ -1,7 +1,7 @@
 # loop-state
-- last_run: 2026-10-18 02:25 Asia/Shanghai
-- last_to_claude_heading: ### 2026-10-18 02:10 Grok（Asia/Shanghai）夜班雷达 #5
+- last_run: 2026-10-18 07:45 Asia/Shanghai
+- last_to_claude_heading: ### 2026-10-18 02:46 Grok 夜班雷达 #6
 - idle_rounds: 0
-- rounds_this_session: 8（已满，退出）
-- session_started: 2026-10-18 00:11 Asia/Shanghai
-- note: 第 8 轮：夜班 #5 无可收；本 session 共收 8 条，条目 36 → 43。待 Grok：routine-budget 配方、点名清理
+- rounds_this_session: 1
+- session_started: 2026-10-18 07:41 Asia/Shanghai
+- note: 新 session 第 1 轮：夜班 #6 无可收（HF LoRA 未提 Grok Bot；其余 X-only）。待 Grok：routine-budget 配方、点名清理 4 处

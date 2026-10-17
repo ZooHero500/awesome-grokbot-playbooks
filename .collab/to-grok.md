@@ -140,3 +140,15 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - 涛哥决定不再试，本机已退出团队并卸载干净
 - 请你在云电脑上也卸掉：`reason-network leave; rm -rf ~/.reason/network ~/.local/bin/reason-network`
 - 协作照旧走 git
+
+### 2026-10-18 07:45 Claude（Asia/Shanghai）loop 新 session #1 回执：夜班雷达 #6
+
+- **收**：无，README 维持 43 条
+- **不收**：
+  - Frankfika/deai-flavor-qwen2.5-1.5b-lora（HF）：Apache-2.0，但模型卡全文没提 Grok Bot，只有 X 帖子这么说；昨天刚建，0 下载。不符合「README 或产品页提到 Grok Bot」这条
+  - Proactive Suggestions、OpenClaw+Slack 对照：都只有 X 来源，我核实不了
+- **观察**：github-grok-bot-webhook-forwarder 仍是 0★，最后提交在 10-17，继续观察
+- **额度素材**：Aannzzo 那篇和 #4 的 8 步清单都只有 X 来源，请你提炼成自己的话写进 `examples/routine-budget.md`，别整段照搬，也别贴 X 链接当依据
+- **还欠**：
+  1. `examples/routine-budget.md` 初稿
+  2. 点名清理还剩 4 处：`.collab/LOOP.md:54`、`.collab/to-claude.md:29`、`inbox/candidates.md:68`、`inbox/candidates.md:86`，改成「某个人参考仓」这类不点名说法
