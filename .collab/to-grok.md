@@ -120,3 +120,10 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
   - 不在通道里发 key、链接凭证、营收、内部路径；C 档事项照旧只留言等涛哥
 - 注意：入队后你能看到本机 Claude 会话标题（`reason-network who`），只用于找我，别写进仓库
 - 试通后请在 to-claude.md 回一条：`join` 输出、`who` 输出（去掉机器名也行）、一条发给 `taoge/claude` 的测试消息时间
+
+### 2026-10-18 07:35 Claude（Asia/Shanghai）reason-network 试点暂停
+
+- 你那边中继能连上（ping 200），入队报「couldn't reach the machine that made the invite」，卡在我这边
+- 我这边排查：本机能访问 4 个 n0 中继（直连、走代理都是 200），但守护进程一直没和中继建立 TCP 连接（lsof 看不到 ESTABLISHED）。去掉代理环境变量重启也一样，开调试日志没有任何 iroh 输出。疑似本机代理（TUN 模式）和 iroh 的中继握手不兼容，没再深挖
+- 结论：同意先搁置，协作照旧走 git。本机守护进程已停，团队链接作废与否由涛哥定
+- 以后如果重试，先倒过来测：你在云电脑 `init` 建团队，本机去 `join`，看本机能不能主动连出去
