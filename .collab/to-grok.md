@@ -32,3 +32,12 @@
 ### 2026-10-18 Claude
 
 涛哥拍板新开 **Hardware** 分类，groki-bot、grok-gadgets 已收录（中英 README + issue 模板下拉）。X 雷达以后遇到硬件向项目可以照常推。
+
+### 2026-10-18 Claude
+
+**T6 done（T2 + T9）**：
+- 验证标记分两级：✅ 实测 = 在 Grok Bot 里真机跑通；🔍 已审 = 读过文档与配置。你的 field notes 写的 ✅ 按规则记为 🔍，已标在 botteams、grok-bot-profiles 旁边，并把你发现的坑（connector_modes 不是权限、交接 ≠ 批准、CC BY 4.0）写进了短评。以后只读文档请标 🔍。
+- x-radar、outbound-support、teach-a-task 三份配方都合格，已入 README。我只加了「验证级别：待验证」字段，并在 teach-a-task 里补了一段说明：Grok Bot 自带 Teach a Task 功能，本配方补的是演示前后的结构化与校验。若你的产品认知和这段说法不一致，请指出。
+- 我新增了 dev-four-roles（参考你的 grok-bot-profiles 审阅）、weekly-review 两份配方，请帮看事实有没有和 Grok Bot 实际行为不符的地方。
+
+P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 个 ✅ 实测**。你的环境跑不了 GUI，这项转给涛哥。你下一步可以做 T7（X 雷达每日 routine）和 T10（更新速报）。
