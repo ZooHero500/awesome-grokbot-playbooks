@@ -65,7 +65,7 @@
 | AgwaB/grok-bot-audit | https://github.com/AgwaB/grok-bot-audit | 当日新建 fleet audit plugin，可跟 | GitHub |
 | FreeToken-Bots 类 | X 文章 | 额度/免费模型接入，易踩 ToS；跳过 | **X** |
 | 营收/agency「$1M MRR」类长文 | 多 X article | 营销向，不符合本仓宁缺毋滥 | **X** |
-| yetone 相关 | — | 用户明确：仅自用参考，**不进 README / 不写本候选主表** | 约束 |
+| 个人参考 | — | 用户明确：仅自用参考，**不进 README / 不写本候选主表** | 约束 |
 
 ---
 
@@ -83,7 +83,7 @@
 1. 优先核实 **field-notes / lorca / xiryn / noodle / DeepSeekBot / agent-cookie-sync / grokbot-gtm-team / smfworks templates**。
 2. Learning 节可加一条「Claude Code ↔ Grok Bot」并链 1–2 篇高质量 X 帖（去营销话）。
 3. OpenGrokBot 只更新短评一句（2.4 触发），不要新开条目。
-4. 勿把 yetone、归档逆向仓、营收文写进 README。
+4. 勿把个人参考、归档逆向仓、营收文写进 README。
 
 ---
 
@@ -369,3 +369,54 @@
 3. **FrankFika**：HF LoRA 作「Grok Bot 跑通训练管线」中文案例短链即可，勿当 Skills 主条目。
 4. **kyle OpenClaw**：无仓则不上 README；可对照已收录 OpenGrokBot / lorca 写一句差异。
 5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## 白天 2026-10-18 ~07:45（Asia/Shanghai）
+
+- **窗口**：夜班 #6（~02:46）之后至周日上午；Reason Network 已搁置，**仅 git 协作**
+- **负责**：Grok 白天玩法雷达（即时一轮）
+- **方法**：X `search_posts_all`（近 48h）+ `gh api repos/...` 核实 + Web 检索；相对 README + `inbox/candidates.md` 全表去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **卫生**：本轮已将 Grok 侧文件（LOOP.md / to-claude.md / candidates.md）中的个人名点名改为「个人参考」（不改 Claude 留言）
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| grokbot-imessage-skill | https://github.com/jeffhuber/grokbot-imessage-skill | macOS 本地 launchd 桥：读/分拣/搜/发 iMessage，隐私优先、无云同步 | Skills & Playbooks | `imessage` `macos` `skill` | ~36 / MIT | **GitHub** + awesome 生态交叉 |
+| grokbot-sdk | https://github.com/adam91holt/grokbot-sdk | 运行中 Grok Bot host 的 TypeScript SDK（typed gateway + sand-data 读盘） | Official & SDK | `sdk` `typescript` | ~20 / MIT | **GitHub** |
+| grok-bot-skill | https://github.com/adamanz/grok-bot-skill | Cursor/Agent Skill：终端聊 teammates、创建新 Bot（用本地桌面会话，不拷 token） | Skills & Playbooks | `cli` `skill` `cursor` | ~11 / MIT | **GitHub** |
+| lauren-poteto-rules | https://github.com/unicodef1wn/lauren-poteto-rules | 可信 coding-agent 工作流工程规则（与 field-notes 同作者线，可作 AGENTS 配套） | Learning / Skills | `agents.md` `rules` | ~90 / MIT | **GitHub** |
+| grok-bot-delegation | https://github.com/agent-skills-lab/grok-bot-delegation | Claude Code skill：名册/简报格式/skills·routines/审批边界 + 双语模板；与本仓 Claude↔Grok 协作同构 | Skills & Playbooks | `claude-code` `delegation` `bilingual` | ~1 / 无 SPDX | **GitHub** + Web |
+
+### 玩法 / 产品信号（无强仓或仓弱，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 任务→Skill→再 Routine 阶梯 | https://x.com/joeapfelbaum/status/2111594967114113329 | 「先手工跑通再存 skill，最后才上 schedule」——与本仓 teach-a-task / 脱敏配方同向 | Skills / examples | **X** @joeapfelbaum |
+| 一职一 Bot + never-list + 周审 skill | https://x.com/grovr_au/status/2111594375260111249 | 每个 Bot 只一事；「从不做」清单指向其他 Bot；专 Bot 每周扫过期 skill | Multi-bot / Skills | **X** @grovr_au |
+| Import Bot（Hermes→Grok 迁移） | https://x.ai/bot/marketplace/bots/import-bot （帖 https://x.com/joshuaday/status/2111600012929192086 ） | 官方 marketplace Import Bot：把 Hermes 等 setup 迁入；装后核对 private skills 是否到齐 | Learning / Official | **X** @joshuaday + marketplace |
+| Claude Code→Grok Bot 四次 API（跳过 webhook） | https://x.com/mikan77_aoi/status/2111043148088816045 | webhook 400 时用 stdlib Python 四次调用交接；含陷阱与两条安全规则。可并 Learning「Claude↔Grok」 | Learning | **X** @mikan77_aoi |
+| Connect Claude Code to GrokBot 文 | https://x.com/luchoorocker/status/2111162182322843798 | 西语长文：Grok 选 provider、Claude Code harness 接长任务、省 Cursor Cloud 额度 | Learning | **X** @luchoorocker |
+| 周日备份「救生艇」系统 | https://x.com/EdisonTanEdtreo/status/2111563454528327750 | 怕失忆：周日例行备份规则/routine/细节；Routines 护栏素材 | Routines | **X** @EdisonTanEdtreo |
+| 额度止血：先暂停全部 Routine 再逐个开 | https://x.com/joshuaday/status/2111575371221250348 （背景 https://x.com/BrettDavies/status/2111564923566248313 ） | 2 天烧 80% 用量时从内无法定位 tokenmaxxer；先 pause 再逐开长聊 Bot。喂 `routine-budget` | Routines / examples | **X** @joshuaday / @BrettDavies |
+
+### Maybe / Skip（白天）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| tiagovilasboas/grok-bot-architecture | https://github.com/tiagovilasboas/grok-bot-architecture | 0★ MIT，MCP 多 agent + 人闸；方向贴但过新，先观察 |
+| Luca-Blight/thin-grok-bot-deep-work-on-cli | https://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli | 0★ MIT，薄 mesh + 深活交 CLI；与已有 Claude↔Grok 同向，星少先观 |
+| AgentMindCloud/grok-bot-super | — | 上游已归档/API 404；awesome 他仓仍列，本仓不新收 |
+| BotBagger 商店 Bot | https://x.com/Phil_Holland/status/2111589542805618795 | 电商/Printful 产品演示，非 playbook 配方 |
+| 3-Bot 交易桌（Chief/Researcher/Trader） | https://x.com/Number1AIFanboy/status/2111579924020740543 | 金融交易向；可学「一职一 Bot + MCP 隔离」，不当推荐主条 |
+| Av1dlive 全课 / LawrenceW_Zen / 0xboan | 多 | 夜班/T1 已列 |
+| 营收 agency / $1M 类 | 多 | 营销，跳过 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先收仓**：`grokbot-imessage-skill`（★最高、可复制）→ `grokbot-sdk` → `grok-bot-skill`；`lauren-poteto-rules` 作 field-notes 配套 Learning 一行即可。
+2. **delegation skill**：无 SPDX、星少，可先挂 Learning「Claude 怎么 brief Grok Bot」；核实 License 后再考虑 Skills 主条。
+3. **玩法合并**：joeapfelbaum 阶梯 + grovr 周审 → 可补 `examples/teach-a-task.md` / skills 卫生；额度 pause 逐开 → 继续喂 `examples/routine-budget.md`。
+4. **Import Bot**：Official / Learning 短链；提醒「装完核对 private skills」。
+5. Reason Network **继续搁置**；协作只走 git + `.collab`。Claude loop 已重开则收本段即可。
+6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/*`（Grok 侧）。

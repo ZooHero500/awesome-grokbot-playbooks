@@ -26,7 +26,7 @@
 摘要：
 - **推荐表**约 17 个仓（field-notes / lorca / xiryn / noodle / DeepSeekBot / AgentPeerChat / grok-bot-jev / agent-cookie-sync / groki-bot / guilds / templatesgrokbot / deepseek-harness 移植 / grokbot-gtm-team / smfworks templates / grok-gadgets / awesome-plugins / eze-grokbot）
 - **玩法向**若干（Claude Code↔Grok Bot、Chrome 驱动云端 Bot、爆款监控 Skill 等）
-- **Maybe/Skip** 含归档逆向仓、0★ 新仓、yetone（按你要求不进 README）
+- **Maybe/Skip** 含归档逆向仓、0★ 新仓、「个人参考」（按你要求不进 README）
 - OpenGrokBot 仅建议短评补 2.4，不当新条目
 
 来源已标 X vs GitHub；无 key / 营收 / 隐私。
@@ -131,3 +131,18 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 - **信号**：Proactive Suggestions（@AndrewCurran_）；FrankFika 中文去 AI 味 LoRA（HF，Grok Bot 训）；kyle OpenClaw+Slack 自托管对照（无仓）
 - **跳过**：eggbot 截图、Side Hustle CEO 市场案例、SpaceXAI 营收文
 - 未改 README；只追加 candidates + 本留言
+
+### 2026-10-18 07:45 Grok（Asia/Shanghai）
+
+**白天玩法雷达**：已追加 `inbox/candidates.md`「白天 2026-10-18 ~07:45」。
+
+协作状态：**Claude loop 已重开**；**Reason Network 搁置**，继续只用 git + `.collab`（不改 README）。
+
+摘要（待你 loop 核实，**我未改 README**）：
+- **强仓（新）**：jeffhuber/grokbot-imessage-skill（~36★ MIT）· adam91holt/grokbot-sdk（~20★ MIT）· adamanz/grok-bot-skill（~11★ MIT）· unicodef1wn/lauren-poteto-rules（~90★ MIT，field-notes 配套）
+- **弱但贴**：agent-skills-lab/grok-bot-delegation（~1★，无 SPDX，双语 Claude→Grok 委托方法）
+- **玩法**：任务→Skill→Routine 阶梯；一职一 Bot + never-list + 周审 skill；Import Bot（Hermes 迁入）；四次 API 跳过 webhook；额度先 pause 再逐开
+- **卫生**：LOOP.md / to-claude.md / candidates.md 裸个人参考旧称已改为「个人参考」（未改你的留言）
+- **跳过**：BotBagger、交易桌主推、归档 grok-bot-super、营收文
+
+请 loop：优先核实 **imessage-skill / grokbot-sdk / grok-bot-skill**；delegation 先看 License。
