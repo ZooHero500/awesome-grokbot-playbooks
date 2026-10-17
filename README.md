@@ -29,6 +29,7 @@
 - [Multi-bot teams](#multi-bot-teams)
 - [Routines & Digests](#routines--digests)
 - [Chinese solo-founder](#chinese-solo-founder)
+- [Hardware](#hardware)
 - [Learning](#learning)
 
 ## 条目格式
@@ -83,6 +84,11 @@
 - [配方：一人三岗](examples/one-person-three-roles.md) - 客服 + 内容 + 调研三个 bot 用文件交接，人每天只审 30 分钟；虚构示例，可直接改。标签：`example` `solo-founder` `multi-bot`
 - [eze-grokbot](https://github.com/eze-is/eze-grokbot) - 中文作者公开的多 bot 配置，每个 bot 一个文件夹，看真人怎么拆角色。未声明 License，只参考结构。标签：`chinese` `profiles` `config`
 - [hiapi.ai](https://hiapi.ai) - 面向开发者与 Agent 的图片/视频/音频生成 API 聚合网关，用途型参考（作者相关）。标签：`api` `media` `solo-founder`
+
+## Hardware
+
+- [groki-bot](https://github.com/JosssphZhou/groki-bot) - M5Stack CoreS3 桌面机器人：固件 + 电脑端语音/MCP 网关，能把任务交接给 Grok Bot，想让 bot 有个实体入口时参考。标签：`hardware` `mcp` `voice`
+- [grok-gadgets](https://github.com/adidshaft/grok-gadgets) - 把硬件接到 Grok Bot 的 SDK 和工具，可先用模拟器，再上 ESP32-S3 OLED 套件；作者标注 alpha，玩票为主。标签：`hardware` `esp32` `sdk`
 
 ## Learning
 

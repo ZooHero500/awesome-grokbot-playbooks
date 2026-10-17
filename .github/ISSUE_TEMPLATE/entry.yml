@@ -12,7 +12,7 @@ body:
     id: category
     attributes:
       label: 分类
-      options: [Official & SDK, Self-hosted bots, Skills & Playbooks, Multi-bot teams, Routines & Digests, Chinese solo-founder, Learning]
+      options: [Official & SDK, Self-hosted bots, Skills & Playbooks, Multi-bot teams, Routines & Digests, Chinese solo-founder, Hardware, Learning]
     validations:
       required: true
   - type: textarea

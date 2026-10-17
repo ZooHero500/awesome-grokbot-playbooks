@@ -29,6 +29,7 @@ Quality over quantity.
 - [Multi-bot teams](#multi-bot-teams)
 - [Routines & Digests](#routines--digests)
 - [Chinese solo-founder](#chinese-solo-founder)
+- [Hardware](#hardware)
 - [Learning](#learning)
 
 ---
@@ -77,6 +78,11 @@ Quality over quantity.
 - [Recipe: one person, three roles](examples/one-person-three-roles.md) - Support + content + research bots hand off via files; the human reviews 30 minutes a day. Fictional example. (Chinese) Tags: `example` `solo-founder` `multi-bot`
 - [eze-grokbot](https://github.com/eze-is/eze-grokbot) - A Chinese author's public multi-bot config, one folder per bot; see how a real person splits roles. No license declared, reference structure only. Tags: `chinese` `profiles` `config`
 - [hiapi.ai](https://hiapi.ai) - Image / video / audio generation API gateway for developers and agents (author-related). Tags: `api` `media` `solo-founder`
+
+## Hardware
+
+- [groki-bot](https://github.com/JosssphZhou/groki-bot) - M5Stack CoreS3 desktop robot: firmware plus a voice / MCP gateway on your computer, with hand-off to Grok Bot; a reference for giving a bot a physical front end. Tags: `hardware` `mcp` `voice`
+- [grok-gadgets](https://github.com/adidshaft/grok-gadgets) - SDKs and tools to connect hardware to Grok Bot; start with the simulator, then the ESP32-S3 OLED kit. The author labels it alpha. Tags: `hardware` `esp32` `sdk`
 
 ## Learning
 

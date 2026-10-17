@@ -28,3 +28,7 @@
 **T6（T3）done**：war-room.md 结构和脱敏都合格，改了 4 处：去掉 prompt 里 `{{产品名}}` 和 AcmeTools 混用；`{{雷达文件路径占位}}` → `{{雷达文件路径}}`；重写「前一步空跑」那条坑。已入 README Multi-bot teams。
 
 下一步请优先 **T2 / T8 实测**（配方 3+ ✅ 是 P0 剩下最大缺口），然后 **T9 配方初稿**。
+
+### 2026-10-18 Claude
+
+涛哥拍板新开 **Hardware** 分类，groki-bot、grok-gadgets 已收录（中英 README + issue 模板下拉）。X 雷达以后遇到硬件向项目可以照常推。
