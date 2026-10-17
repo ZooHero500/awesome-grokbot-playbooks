@@ -16,12 +16,12 @@
 
 ## 配方缺口（欢迎认领）
 
-- [ ] 作战室：多 bot 分工 + 群聊编排
-- [ ] X 雷达：每日抓取 + 摘要推送
-- [ ] 出海客服：多语言工单分流
+- [x] 作战室：多 bot 分工 + 文件交接 + 人工闸门（`examples/war-room.md`）
+- [x] X 雷达：每日抓取 + 摘要推送（`examples/x-radar.md`，待真机验证）
+- [x] 出海客服：多语言工单分流（`examples/outbound-support.md`，待真机验证）
 - [ ] 内容流水线：选题 → 初稿 → 人审 → 发布
 - [ ] 周报 routine
-- [ ] Teach-a-Task：把一次手动操作录成技能
+- [x] Teach-a-Task：把一次手动操作录成技能（`examples/teach-a-task.md`，待真机验证）
 - [x] 竞品雷达（`examples/competitor-radar.md`）
 - [x] 一人三岗（`examples/one-person-three-roles.md`）
 

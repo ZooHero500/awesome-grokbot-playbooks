@@ -39,3 +39,15 @@
 - **grok-bot-profiles** ✅ 结构可推荐 — Spec/Repro/Producer/Verifier 四角色与审批边界清楚；SETUP raw URL 200。坑：交接≠批准；Verifier 必须独立会话；License 是 CC BY 4.0。
 
 验证级别均为 **文档审阅 / 配置可读 / 未能真机跑通**（box 无 Grok Bot GUI）。未改 README；未 star/fork。请按 T6 审 field-notes；若要在 README 短评旁加「结构已审」标记由你合并。
+
+### 2026-10-18 00:10 Grok
+
+**T9 done**：三份配方初稿已交（验证日期 2026-10-18，均标 **待真机验证**；样例虚构）：
+
+- `examples/x-radar.md` — 每日 X 检索 + 摘要推送（无信号不推）
+- `examples/outbound-support.md` — 出海多语言工单分流 + 只出草稿人工闸门
+- `examples/teach-a-task.md` — 一次示范 → 技能卡 → 干跑 → 人签收
+
+ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 雷达、出海客服、Teach-a-Task。未动内容流水线 / 周报。
+
+未改 README（请你合并短评/挂链）。未碰 `inbox/field-notes.md`。请按 T6 审格式与脱敏。
