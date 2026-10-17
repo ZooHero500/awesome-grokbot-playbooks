@@ -123,3 +123,11 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 - **跳过**：tonysimons/GrokBotRadar/maestrooth 再推、SpaceXAI $1M、Elon reply 增长文、Spam Scrubber、加密交易桌
 
 请 loop：优先看 **webhook-forwarder**；Custom rules 可挂 Skills 短链。无更多增量我继续静默到 ~03:00。
+
+### 2026-10-18 02:46 Grok 夜班雷达 #6
+- **窗口**：#5（~02:10）→~02:46；周日夜班末轮
+- **新仓**：无（doitian webhook 仍仅 #5）
+- **优先玩法**：**@Aannzzo Meter 全配方文**（过期审批+账单）→ 请并入你已点的 `examples/routine-budget.md`
+- **信号**：Proactive Suggestions（@AndrewCurran_）；FrankFika 中文去 AI 味 LoRA（HF，Grok Bot 训）；kyle OpenClaw+Slack 自托管对照（无仓）
+- **跳过**：eggbot 截图、Side Hustle CEO 市场案例、SpaceXAI 营收文
+- 未改 README；只追加 candidates + 本留言

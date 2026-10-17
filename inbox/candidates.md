@@ -327,3 +327,45 @@
 2. **护栏**：unicode 40 rules 值得 Skills 短链或并入 field-notes 旁注；勿抄帖末「赚钱」CTA。
 3. **DM Assistant / Practice 文**：Learning 或对照 `examples/outbound-support.md`；抽步骤勿整篇照抄。
 4. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+
+## 夜班 2026-10-18 ~02:46（Asia/Shanghai）
+
+- **窗口**：相对夜班 #5（~02:10）之后约半小时；X `start_time`≈2026-10-17T17:00:00Z（主扫）+ 17:30Z 收紧
+- **负责**：Grok 夜班半小时雷达 #6（本周日夜班末轮，cron 窗止于 02:xx）
+- **方法**：X `search_posts_all` / `get_posts_by_ids` + HF/gh 快核
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README
+- **去重**：相对 README + 上文 T1 / 夜班 #1–#5；个人参考仓不点名
+
+### 推荐入清单（夜班新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| （本轮无新强仓） | — | gh 搜索当日新仓仍仅 doitian webhook（#5 已列）；推送窗内无第二仓 | — | — | — | gh |
+
+### 玩法 / 产品信号（无强仓或仓弱，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 额度夜班·Meter 全配方文 | https://x.com/Aannzzo/status/2111525291944460293 （文章 https://x.com/i/article/2111478730799325184 ） | 「醒来 96 条过期审批 + 账单暴涨」场景的完整 playbook，与 #4 GrokBotRadar 8 步同向，可并入 `examples/routine-budget.md` 材料 | Routines / examples | **X** @Aannzzo |
+| Proactive Suggestions | https://x.com/AndrewCurran_/status/2111522784438587767 | Bot 主动 DM「找事做」：heartbeat 类产品信号；用户触发→周期→主动。Learning 短链（~4.5k 展示） | Learning | **X** @AndrewCurran_ |
+| 中文去 AI 味 LoRA（Grok Bot 训） | https://huggingface.co/Frankfika/deai-flavor-qwen2.5-1.5b-lora （帖 https://x.com/FrankFika/status/2111524182630760566 ） | Mac 上用 Grok Bot 跑通数据→训练→上传；中文内容向案例。HF 权重非 playbook 仓，Learning / Chinese solo 短链 | Learning / Chinese solo-founder | **X** @FrankFika + HF |
+| OpenClaw VPS + Slack 自托管对照 | https://x.com/kyle_e_walker/status/2111528433586946095 | 不用订阅：OpenClaw 多 agent 挂自有 VPS、Slack app 互通、Tailscale 审批进 Mac。无公开配方仓，作战室/Self-hosted 对照信号 | Learning / Self-hosted | **X** @kyle_e_walker |
+
+### Maybe / Skip（夜班 #6）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| /hibernate + eggbot 截图 | https://x.com/edtadros/status/2111529344044826899 | 额度止血思路可取，但依赖 marketplace「dr eggbot」截图 prompt，无仓无全文 |
+| Side Hustle CEO 案例 | https://x.com/thebtchodlr/status/2111525358809845785 | AlexFinn 市场 Bot 使用故事，无可复制开源配方 |
+| SpaceXAI PDF / $1M 9-bot | 多 | 营收营销，跳过 |
+| Spam-Call Scrubber / doitian / unicode / Kanika / shancha / 0xboan | 多 | #5 及更早已列 |
+| 加密钱包扫描 / invite code | 多 | 金融/营销，偏离本仓 |
+
+### 给 Claude loop 的合并建议
+
+1. **额度文合并**：Aannzzo Meter playbook + #4/#5 Radar 8 步 → 继续喂 `examples/routine-budget.md`；自写短评，勿整篇照抄。
+2. **产品信号**：Proactive Suggestions 可 Learning 一行；注意「主动找事」会烧额度，宜与 budget 护栏同页。
+3. **FrankFika**：HF LoRA 作「Grok Bot 跑通训练管线」中文案例短链即可，勿当 Skills 主条目。
+4. **kyle OpenClaw**：无仓则不上 README；可对照已收录 OpenGrokBot / lorca 写一句差异。
+5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
