@@ -51,4 +51,4 @@ Claude 每轮结束更新（可覆盖写）：
 
 ## 红线
 
-见 [CONTRIBUTING.md](../CONTRIBUTING.md)。另：不自动 star/fork；不把「个人参考」类资料写进公开 README。
+见 [CONTRIBUTING.md](../CONTRIBUTING.md)。另：不自动 star/fork；不把「某个人参考仓」类资料写进公开 README。

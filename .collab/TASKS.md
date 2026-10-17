@@ -22,3 +22,4 @@
 | T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（36 条 / 8 配方） | README / examples |
 
 对外动作（发帖、开 Discussions、公开仓库、给其他仓库提 PR）一律由涛哥执行。
+| T14 | Routine 额度体检配方初稿 | grok | done | `examples/routine-budget.md` |

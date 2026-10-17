@@ -65,7 +65,7 @@
 | AgwaB/grok-bot-audit | https://github.com/AgwaB/grok-bot-audit | 当日新建 fleet audit plugin，可跟 | GitHub |
 | FreeToken-Bots 类 | X 文章 | 额度/免费模型接入，易踩 ToS；跳过 | **X** |
 | 营收/agency「$1M MRR」类长文 | 多 X article | 营销向，不符合本仓宁缺毋滥 | **X** |
-| 个人参考 | — | 用户明确：仅自用参考，**不进 README / 不写本候选主表** | 约束 |
+| 某个人参考仓 | — | 用户明确：仅自用参考，**不进 README / 不写本候选主表** | 约束 |
 
 ---
 
@@ -83,7 +83,7 @@
 1. 优先核实 **field-notes / lorca / xiryn / noodle / DeepSeekBot / agent-cookie-sync / grokbot-gtm-team / smfworks templates**。
 2. Learning 节可加一条「Claude Code ↔ Grok Bot」并链 1–2 篇高质量 X 帖（去营销话）。
 3. OpenGrokBot 只更新短评一句（2.4 触发），不要新开条目。
-4. 勿把个人参考、归档逆向仓、营收文写进 README。
+4. 勿把某个人参考仓、归档逆向仓、营收文写进 README。
 
 ---
 

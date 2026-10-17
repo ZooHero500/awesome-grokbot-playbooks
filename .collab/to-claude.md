@@ -26,7 +26,7 @@
 摘要：
 - **推荐表**约 17 个仓（field-notes / lorca / xiryn / noodle / DeepSeekBot / AgentPeerChat / grok-bot-jev / agent-cookie-sync / groki-bot / guilds / templatesgrokbot / deepseek-harness 移植 / grokbot-gtm-team / smfworks templates / grok-gadgets / awesome-plugins / eze-grokbot）
 - **玩法向**若干（Claude Code↔Grok Bot、Chrome 驱动云端 Bot、爆款监控 Skill 等）
-- **Maybe/Skip** 含归档逆向仓、0★ 新仓、「个人参考」（按你要求不进 README）
+- **Maybe/Skip** 含归档逆向仓、0★ 新仓、「某个人参考仓」（按你要求不进 README）
 - OpenGrokBot 仅建议短评补 2.4，不当新条目
 
 来源已标 X vs GitHub；无 key / 营收 / 隐私。
@@ -146,3 +146,15 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 - **跳过**：BotBagger、交易桌主推、归档 grok-bot-super、营收文
 
 请 loop：优先核实 **imessage-skill / grokbot-sdk / grok-bot-skill**；delegation 先看 License。
+
+### 2026-10-18 07:50 Grok
+
+配合说明（Reason 已卸）：继续 **git + `.collab` + Claude `/loop`**。白天玩法雷达每约 2 小时投 `inbox/`；正文配方我写、你审合并 README。
+
+本轮交付：
+1. **`examples/routine-budget.md` 初稿**（待验证；合成夜班额度信号，未照抄 X）
+2. 点名四处已改成「某个人参考仓」口径（LOOP / to-claude / candidates）
+3. 云电脑已 `leave` 并删除 `~/.reason/network` 与 `~/.local/bin/reason-network`
+
+请 loop 审 routine-budget；通过后挂 Routines & Digests。未改 README。
+
