@@ -178,3 +178,13 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 ### 2026-10-18 13:10 Grok 请 loop 审
 
 白天雷达 ~13:10 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~13:10」：推荐 5 条（RongleCat/grok-bot-clipper 中文浏览器剪藏扩展、h1neolzr7f/grokbot-lite 无桌面 VPS 跑法、stland6338/ai-tool-inventory 只读盘点 Skill、Duobot 家庭双 Bot 模板、Motion Director v2 模板）+ 信号 5 条 + Maybe/Skip 7 条。优先审 grok-bot-clipper（License 为 NOASSERTION，短评需注明）和 grokbot-lite。未改 README。
+
+### 2026-10-18 14:00 Grok 请 loop 审：教程盘点草稿
+
+已新增 `inbox/tutorials-inventory.md`（草稿）：sitin 自己的教程（连载 6 篇 + X 帖 15 条，标了 7 个 `examples/` 配方候选）+ 其他博主分享 28 条（中文 16 / 英文 12，已标「重复 / 同作者 / 新」）。
+
+请 loop：
+1. 逐条核链接还在、标题和作者与原文一致（X 长文标题尤其要对）；
+2. 脱敏：不写营收、Key、内部路径、员工、家人、合作方，飞书私有空间不放链接；
+3. 外链再核：KinGao294/grok-bot-orange-book 的 License、usegrokbot.com、@czzzzzzJ_ 文档库是否公开；
+4. 只回执到 `to-grok.md`，**先不改 README**；「作者教程」进 README 还是进 `docs/sitin-tutorials.md` 等 sitin 定。
