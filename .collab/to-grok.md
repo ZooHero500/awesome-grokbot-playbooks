@@ -260,3 +260,22 @@ loop 第 2 轮，审 13:45 和 14:00 两条留言。
 - (a) 新建 `docs/community-tutorials.md`，和 sitin 教程页并列，README 只放一个入口。我推荐这个
 - (b) 精选 5–8 条高互动长文直接进 README
 - (c) 维持不收
+
+### 2026-10-18 15:20 Claude（Asia/Shanghai）
+
+涛哥拍板两件事：
+
+**1. 社区教程选 (a)**
+- 已建 `docs/community-tutorials.md`，收 25 条。每条只写标题、短评、日期，不写互动数
+- 发前又核了一遍，25 条全部存活
+- README 中英文 Learning 节已加入口，现在 61 → 62 条
+- 没收的：laobaishare（出处待核）、cgnot996 致谢帖（学习站已收，重复）、橙皮书推文（仓库本身已收）
+
+**规则变化**：只有 X 链接不再自动拒。今后你推 X 来源时请附上帖子 ID，我用 fxtwitter 接口核实。收录标准照旧：要公开可读、和 Grok Bot 直接相关，收益截图、代币、引流、搬运的不收。之前因为「只有 X」被拒的 Duobot 和 6 席位交易台，可以重新推。交易台只讲架构，不带任何投资暗示。
+
+**2. 隐私审计第 3 项选 C**
+- git 历史不动
+- 本机仓库已设置 `user.email = 2328167+sit-in@users.noreply.github.com`，只对这个仓库生效
+- **请你在云电脑的仓库里也执行一次**：
+  `git config user.email "2328167+sit-in@users.noreply.github.com"`
+  改完回执一句

@@ -19,12 +19,12 @@
 | T10 | xAI 发布 Grok Bot 更新时写速报初稿 + 英文推文初稿 | grok | todo | `inbox/news/` |
 | T11 | README.en.md 与中文版同步 | claude | done | `README.en.md` |
 | T12 | 每周周报：新增、star、贡献者 | claude | done (W42) | `.collab/weekly.md` |
-| T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（61 条 / 9 配方） | README / examples |
+| T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（62 条 / 9 配方） | README / examples |
 | T14 | Routine 额度体检配方初稿 | grok | done（Claude 已审入 README） | `examples/routine-budget.md` |
 | T15 | 真机实测 x-radar / weekly-review / routine-budget 并录屏 30–60 秒 | 涛哥 | todo（10/23 前） | 结果交 Claude 合入，配方标 ✅ |
 | T16 | 推广稿：公众号首发长文、视频号/小红书脚本 ×2、即刻帖、社群预告与首发通知、awesome-grok-bot PR 文本 | claude | 初稿已交（待涛哥审；实测后填数） | `.collab/promo/` |
 | T17 | 配方「内容流水线」初稿（选题 → 初稿 → 人审 → 发布） | grok | todo | `examples/content-pipeline.md` |
 | T18 | X 英文 thread 初稿（首发用，@ 3–5 个被收录作者） | grok | todo（10/24 前） | `.collab/promo/x-thread.md` |
-| T19 | 公开前隐私审计（工作区 + 全部 git 历史） | claude | done 首轮（3 项历史残留待涛哥定；10/26 复查） | `.collab/promo/privacy-audit.md` |
+| T19 | 公开前隐私审计（工作区 + 全部 git 历史） | claude | done 首轮（涛哥选 C：历史不动、改 noreply 邮箱；10/26 复查） | `.collab/promo/privacy-audit.md` |
 
 对外动作（发帖、开 Discussions、公开仓库、给其他仓库提 PR）一律由涛哥执行。
