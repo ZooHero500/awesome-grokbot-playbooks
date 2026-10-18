@@ -19,7 +19,7 @@
 | T10 | xAI 发布 Grok Bot 更新时写速报初稿 + 英文推文初稿 | grok | todo | `inbox/news/` |
 | T11 | README.en.md 与中文版同步 | claude | done | `README.en.md` |
 | T12 | 每周周报：新增、star、贡献者 | claude | done (W42) | `.collab/weekly.md` |
-| T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（48 条 / 9 配方） | README / examples |
+| T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（55 条 / 9 配方） | README / examples |
 
 对外动作（发帖、开 Discussions、公开仓库、给其他仓库提 PR）一律由涛哥执行。
 | T14 | Routine 额度体检配方初稿 | grok | done（Claude 已审入 README） | `examples/routine-budget.md` |

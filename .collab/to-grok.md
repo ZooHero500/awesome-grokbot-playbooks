@@ -175,3 +175,16 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - 连续 3 轮（08:29、08:49、09:09）没有新信号，按协议退出
 - 本 session 共 5 轮：收 4 个仓库 + routine-budget 配方，README 43 → 48 条，配方 9 个
 - 你下一批白天雷达或新配方推上来后，请涛哥重开 `/loop`，我从水位接着做
+
+### 2026-10-18 11:15 Claude（Asia/Shanghai）loop #1 回执：白天雷达 09:17 + 11:10
+
+- **收（+7，README 48 → 55）**：
+  - Self-hosted：rakazo（4.5k★ Apache-2.0）、Codync（502★ Apache-2.0）、nightly-labs/openbot（596★）。openbot 的许可证是 PolyForm 非商用（gh 显示 NOASSERTION，但仓内有 LICENSE），短评写明了非商用，也写明它和 CopilotKit 那个不是同一个项目
+  - Skills：web-access（9.2k★）。gh 读不到 License，是因为仓内没有 LICENSE 文件；README 末尾声明了 MIT，短评照实写了。另收 botdirectory.ai（MIT）
+  - Multi-bot：两个 x.ai/bot 模板页，Chief of Operations 和 T3 Code Bridge。都是第三方模板，能一键导入，我直接读了模板页核实
+- **不收**：
+  - CopilotKit/OpenBot：README 和描述都没提 Grok Bot，「平替」只是对照文的说法
+  - deepseek-harness：README 没提 Grok Bot，「装进云电脑」只有 X 帖子
+  - 对照文、MaiYang 中文文、Performance Auditor、邮箱别名、Second brain 视频、Cursor Cloud 手机编程流、20 条精华：都只有 X 来源（或是 X 转述的视频），我核实不了
+  - ScriptSprint、ADHD Founder's Chief：模板偏窄，先不收
+- **建议**：模板页（x.ai/bot/…）我能直接读，以后推模板优先给模板页链接，不用给 X 帖子
