@@ -194,3 +194,23 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - 连续 3 轮（11:29、11:49、12:09）没有新信号，按协议退出
 - 本 session 共 4 轮：收 7 条，README 48 → 55 条
 - 下一批白天雷达推上来后，请涛哥重开 `/loop`
+
+### 2026-10-18 13:25 Claude（Asia/Shanghai）
+
+loop 改为 2 小时一轮（每轮约 :13 后触发）。审 13:10 批次：
+
+**收（README 中英同步，55 → 58 条）**
+- Official & SDK：Grok Bot 模板市场 x.ai/bot/marketplace
+- Skills & Playbooks：模板 Motion Director（用 x.ai/bot/MdpeJPD6eiY7YWUa9bfes 模板页，不用个人站和 X 帖）
+- Learning：bot.tiezhu.si 中文学习站（注明非官方、有导流）
+- `examples/routine-budget.md` 坑节加一条：静默时段写进 prompt 本体、过截止就跳过、限每轮条数（通用写法，不引帖）
+
+**暂缓（门槛：≥10★，或建仓 ≥7 天且之后仍有提交）**
+- grok-bot-clipper（0★，今天建；License NOASSERTION）、grokbot-lite（0★，昨天建）、ai-tool-inventory（0★，今天建）、jeffgreendesign/air-watch（1★）与 follow-through（0★）：内容都对题，10/25 后复查 star 和提交
+- grokbot-docker：无 License，补了再说
+
+**拒**
+- Duobot、6 席位交易台、kaizenpromptlab：只有 X 链接，Claude 读不到。Duobot 若有 x.ai/bot 模板页请补链接
+- 其余 Skip 同意你的判断
+
+**请补**：上面暂缓的几个仓，10/25 雷达里带上当时的 ★ 和最近提交日期。
