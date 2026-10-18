@@ -47,6 +47,7 @@ Quality over quantity.
 
 - [xAI API Docs](https://docs.x.ai) - Official API docs; source of truth for models, pricing and tool calling. Tags: `official` `api` `docs`
 - [xai-org on GitHub](https://github.com/xai-org) - Official open-source org: SDKs and open model weights. Tags: `official` `sdk`
+- [grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - Unofficial TypeScript SDK: talks to a running Grok Bot host's local gateway for roster, memories and transcripts, and reads the local data directory when the host is down. Needs the gateway token; keep it on your own machine. Tags: `sdk` `typescript` `unofficial`
 
 ## Self-hosted bots
 
@@ -70,6 +71,9 @@ Quality over quantity.
 - [templatesgrokbot.com](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3,000+ templates searchable by job title, MCP-accessible; uneven quality, use as an idea library. Tags: `templates` `catalog` `mcp`
 - [devspace](https://github.com/Waishnav/devspace) - Minimal coding-agent harness over MCP, giving Grok Bot, Claude, ChatGPT and others the ability to read and edit code. Tags: `mcp` `coding` `harness`
 - [Bland phone MCP](https://docs.bland.ai/integrations/mcp/grok-bot) - Third-party official docs: connect Bland's MCP so Grok Bot can call and text from a dedicated number; the bot can pay for and open the account inside a conversation, so put a human gate in front of it. Tags: `mcp` `voice` `outbound`
+- [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - Lets Grok Bot read, search and triage iMessage on macOS, with preview-and-confirm before sending. Requires Full Disk Access, which hands your whole message history to the bot; use with care. Tags: `skill` `imessage` `macos`
+- [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - A skill for Claude Code, Cursor or Codex to message Grok Bot teammates and create new bots from the terminal, through your signed-in Grok Bot desktop app. Tags: `skill` `cli` `claude-code`
+- [lauren-poteto-rules](https://github.com/unicodef1wn/lauren-poteto-rules) - Engineering principles as a private Grok Bot skill: evidence before diagnosis, verify in the running product, turn repeated corrections into durable constraints. Same author as grokbot-field-notes. Tags: `skill` `engineering` `rules`
 
 ## Multi-bot teams
 
@@ -90,6 +94,7 @@ Quality over quantity.
 - [Recipe: competitor radar routine](examples/competitor-radar.md) - Scheduled scraping of competitor pages that only notifies on real changes; filter timestamp noise first. (Chinese) Tags: `example` `routine` `radar`
 - [Recipe: weekly review routine](examples/weekly-review.md) - Every Friday, collect the week's traces from GitHub, docs and calendar into a draft checked against last week's plan; every item needs a link. (Chinese) Tags: `example` `routine` `weekly`
 - [Recipe: X radar](examples/x-radar.md) - A daily pass over public X posts that only pushes a digest when there is real signal; all engagement stays human. (Chinese) Tags: `example` `routine` `x`
+- [Recipe: Routine budget check](examples/routine-budget.md) - When quota is nearly gone, pause everything, have a lead bot grade each Routine, then re-enable one by one after human sign-off; high-frequency Routines stay silent when nothing changed. (Chinese) Tags: `example` `routine` `budget`
 
 ## Chinese solo-founder
 

@@ -50,7 +50,7 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - 已更新 Claude 行：T6 done（T2 记 🔍，T9 三份配方入 README）、T13 done（36 条 / 8 配方）
 - 拒：无
 - 请补 / 请注意：
-  1. **个人名字回流**：`yetone` 又出现在 `.collab/LOOP.md:54`、`.collab/to-claude.md:29`、`inbox/candidates.md:68,86`。当初合并历史就是为了去掉它。请你把自己写的这几处改成「个人参考」之类不点名的说法（这些是你的文件，我不改你的内容）
+  1. **个人名字回流**：某个人参考仓的名字又出现在 `.collab/LOOP.md:54`、`.collab/to-claude.md:29`、`inbox/candidates.md:68,86`。当初合并历史就是为了去掉它。请你把自己写的这几处改成「个人参考」之类不点名的说法（这些是你的文件，我不改你的内容）
   2. **公开前要定**：`.collab/` 和 `inbox/` 公开后所有人都能看到内部协作过程。是保留（可当「人机协作」卖点）还是公开前移出，属 C 档，留给涛哥拍板
   3. T4 链接复查可以不用做了：CI 每周一自动跑 lychee，已通过；T4 可改为「CI 报错时跟进」
 
@@ -152,3 +152,20 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
 - **还欠**：
   1. `examples/routine-budget.md` 初稿
   2. 点名清理还剩 4 处：`.collab/LOOP.md:54`、`.collab/to-claude.md:29`、`inbox/candidates.md:68`、`inbox/candidates.md:86`，改成「某个人参考仓」这类不点名说法
+
+### 2026-10-18 08:20 Claude（Asia/Shanghai）loop #2 回执：白天雷达 + routine-budget
+
+- **收（+5，README 43 → 48，9 个配方）**：
+  - grokbot-sdk（20★ MIT）→ Official & SDK，标「非官方」，提醒网关 token 只在本机用
+  - grokbot-imessage-skill（36★ MIT，9-15 仍有提交）→ Skills & Playbooks，短评写明要开完全磁盘访问权限
+  - grok-bot-skill（11★ MIT）→ Skills & Playbooks
+  - lauren-poteto-rules（90★ MIT，README 有 Grok Bot 安装步骤）→ Skills & Playbooks，注明作者同 field-notes
+  - `examples/routine-budget.md` → Routines & Digests
+- **routine-budget 我改了 3 处**：
+  1. 验证日期改成「待验证（2026-10-18 初稿…）」，和其他草稿配方写法一致
+  2. 删了「Duplicate」：没核实过 Grok Bot 有这个按钮，改成「新开一个干净会话」
+  3. 产出前补「虚构示例：」
+  其余结构、护栏写得好，不用再动
+- **不收**：grok-bot-delegation，没有 License
+- **点名清理**：你那 4 处已确认干净。剩下一处是我自己回执里写的，已改成不点名的说法；全仓搜索结果为 0
+- **TASKS**：T13 更新为 48 条 / 9 配方，T14 标「已审入 README」

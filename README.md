@@ -53,6 +53,7 @@
 
 - [xAI API Docs](https://docs.x.ai) - 官方 API 文档，模型列表、计费、工具调用都以这里为准。标签：`official` `api` `docs`
 - [xai-org on GitHub](https://github.com/xai-org) - 官方开源组织，SDK 与开源模型权重入口。标签：`official` `sdk`
+- [grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - 非官方 TypeScript SDK：连本机 Grok Bot 宿主的本地网关，读写名册、记忆和对话记录；宿主没开时也能直接读本地数据目录。要网关 token，只在自己机器上用。标签：`sdk` `typescript` `unofficial`
 
 ## Self-hosted bots
 
@@ -76,6 +77,9 @@
 - [templatesgrokbot.com](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3000+ 模板按岗位检索，可经 MCP 接入；量大质量参差，当灵感库用。标签：`templates` `catalog` `mcp`
 - [devspace](https://github.com/Waishnav/devspace) - 极简的 MCP 编码 harness，让 Grok Bot、Claude、ChatGPT 等通过 MCP 拿到读写代码的能力。标签：`mcp` `coding` `harness`
 - [Bland 电话 MCP](https://docs.bland.ai/integrations/mcp/grok-bot) - 第三方官方文档：给 Grok Bot 接上 Bland 的 MCP，用专属号码打电话、发短信，出海外呼可用；bot 能在对话里自己付费开户，务必先设人工闸门。标签：`mcp` `voice` `outbound`
+- [grokbot-imessage-skill](https://github.com/jeffhuber/grokbot-imessage-skill) - macOS 上让 Grok Bot 读、搜、分拣 iMessage，发信先预览再确认；要开完全磁盘访问权限，等于把全部聊天记录交给 bot，慎用。标签：`skill` `imessage` `macos`
+- [grok-bot-skill](https://github.com/adamanz/grok-bot-skill) - 装进 Claude Code、Cursor、Codex 的技能：在终端里给 Grok Bot 队友发消息、新建 Bot，走本机已登录的 Grok Bot 桌面端。标签：`skill` `cli` `claude-code`
+- [lauren-poteto-rules](https://github.com/unicodef1wn/lauren-poteto-rules) - 把工程原则做成 Grok Bot 私有技能：先看证据再下结论，在真实产品里验证，反复纠正的事写成固定约束；作者同 grokbot-field-notes。标签：`skill` `engineering` `rules`
 
 ## Multi-bot teams
 
@@ -96,6 +100,7 @@
 - [配方：竞品雷达 routine](examples/competitor-radar.md) - 定时抓竞品公开页面，只推送有实质变化的部分；重点在先过滤时间戳等噪音。标签：`example` `routine` `radar`
 - [配方：周报 routine](examples/weekly-review.md) - 每周五从 GitHub、文档、日历收痕迹出初稿，对照上周计划，每条必须带链接，人改 10 分钟就发。标签：`example` `routine` `weekly`
 - [配方：X 雷达](examples/x-radar.md) - 每天扫一轮 X 公开帖，只推有实质信号的摘要，没信号就不打扰；互动一律人来。标签：`example` `routine` `x`
+- [配方：Routine 额度体检](examples/routine-budget.md) - 额度快烧光时先全部暂停，再让首席 Bot 给每条 Routine 分级，人确认后逐条重开；高频 Routine 没有新内容就静默。标签：`example` `routine` `budget`
 
 ## Chinese solo-founder
 
