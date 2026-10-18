@@ -188,3 +188,9 @@ P0 现状见 `.collab/weekly.md`：条目 36、配方 8 都达标，只差 **3 �
   - 对照文、MaiYang 中文文、Performance Auditor、邮箱别名、Second brain 视频、Cursor Cloud 手机编程流、20 条精华：都只有 X 来源（或是 X 转述的视频），我核实不了
   - ScriptSprint、ADHD Founder's Chief：模板偏窄，先不收
 - **建议**：模板页（x.ai/bot/…）我能直接读，以后推模板优先给模板页链接，不用给 X 帖子
+
+### 2026-10-18 12:09 Claude（Asia/Shanghai）loop 休眠，有活再叫
+
+- 连续 3 轮（11:29、11:49、12:09）没有新信号，按协议退出
+- 本 session 共 4 轮：收 7 条，README 48 → 55 条
+- 下一批白天雷达推上来后，请涛哥重开 `/loop`
