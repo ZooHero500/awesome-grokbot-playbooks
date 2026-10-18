@@ -609,3 +609,50 @@
 3. **中文**：SIAxiom X 十步 + swordBluesy 4 Bot 营销要点；发帖类一律强调人工闸门。
 4. **Routines**：FanShifu marketplace 体检 prompt + 到家邮箱触发变通 → 喂 routine-budget / field-notes。
 5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## 白天 2026-10-18 ~17:17（Asia/Shanghai）
+
+- **窗口**：白天 ~15:12 → ~17:17（约 2h）；周日
+- **负责**：Grok 白天玩法雷达（routine awesome-3；本轮 executor 耗尽后主会话直跑）
+- **方法**：X `search_posts_all`（中英，start_time≥2026-10-18T07:00Z）+ `gh search` / Web 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：coolxeo / Mr_Buzzoni / SIAxiom / swordBluesy 4 Bot / AI_Acq / huagechen（~15:12 已列）、adamanz/grok-bot-skill（已在 README）、Side Hustle CEO 营收故事（已 Skip）不重复列
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| robbin/grokbot-local-agent | https://github.com/robbin/grokbot-local-agent | 今日新仓：Grok Bot 派重活给同机本地 Pi Agent；`pi-task` 落盘状态 + Webhook 唤醒 Routine 核查汇报；含 `skills/pi-agent`、`routines/pi-task-notify.md`、setup 教程。额度省着用的可复制交接层 | Multi-bot / Skills & Playbooks / Routines | `local-agent` `webhook` `routine` `pi` `mit` | 1 / MIT | **X** @fankaishuoai + gh（今日推） |
+| codejunkie99/rosterroom | https://github.com/codejunkie99/rosterroom | 82 套可粘贴作战室名册（32 rebuilt + 50 new）：Full setup / First job / Manual fallback；统一人工审批闸门。多 Bot 模板库，README 缺口 | Multi-bot teams | `roster` `war-room` `prompts` `approval` | 16 / NOASSERTION | **GitHub** + Web |
+| glaucia86/grok-bots-handoff-lab | https://github.com/glaucia86/grok-bots-handoff-lab | 「Memory Outside the Chat」：短交接条 + 带来源 ID 的 registry，聊天当可丢缓存；离线可复现教程与脚本（MIT）。作战室长会话交接可抄模式 | Skills & Playbooks / Learning | `handoff` `memory` `tutorial` `mit` | 4 / MIT | **GitHub**（近窗更新） |
+| Blotato-Inc/blotato-skills | https://github.com/Blotato-Inc/blotato-skills | 7 个免费 Claude 营销 Skill（coach/writer/grader/scheduler/…）；实测可迁到 Grok Bot 4 Bot 营销作战室（删 Claude 专用字段）。无 SPDX，短评需注明 | Skills & Playbooks / Chinese | `skills` `marketing` `portable` `claude→grok` | 191 / none | **X** swordBluesy 帖内链 + gh |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 桌面安全默认：关「在这台电脑上执行」+「经此电脑转发流量」 | https://x.com/fankaishuoai/status/2111740064409756037 | 安装即设：云端 Bot 不碰本机文件、不经本机转发流量；与 Chrome 隔离协作同向，宜进 field-notes / Learning 安全一句 | Learning / field-notes | **X** @fankaishuoai |
+| X Bookmarks → Notion 主动提取 | https://x.com/Orderly_Milan/status/2111740484875960729 （源玩法 @jestonlu） | 每 6h 抓收藏进 Notion；每 24h 邮件做 Connection / Use Today / Worth Remembering。Passive→active retrieval 例程样板 | Routines / Learning | **X** @Orderly_Milan |
+| 一 Bot 一事 + 按项目建群 | https://x.com/terranc/status/2111740611690954837 | 开发/PM/调研/知识库/云电脑管家分岗；每项目一群、群上下文与单聊隔离。中文多 Bot 作战室体感短链 | Multi-bot / Chinese | **X** @terranc |
+| Routine 上线前先 Test run | https://x.com/robotshelp/status/2111721679923626110 | 官方建议：新建/改例程后 Test run，核对今日数据、输出格式、审批停点；提醒真实动作要用安全样本 | Routines | **X** @robotshelp |
+| /grill-me 动手前拷问（喂 Grok Bot） | https://github.com/mattpocock/skills （帖 https://x.com/limuvibecoding/status/2111742238908731817 ） | Matt Pocock 通用 skill：动手前反过来问清需求；可丢给 Grok Bot 存 Notion。非 Grok 专属，作 Skills 旁链即可 | Skills / Learning | **X** @limuvibecoding + gh |
+| Notion 3.8 Context for agents | https://www.notion.com/releases/2026-10-13 | 工作区作共享 Agent 记忆，MCP 后 Claude/Muse/GrokBot 可换模型不丢上下文；产品信号，非玩法仓 | Learning | **X** @yoon_nnll |
+
+### Maybe / Skip（白天 ~17:17）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| swordBluesy 编译 AlexFinn「自动小公司」 | https://x.com/swordBluesy/status/2111739969077215680 | 营收故事向；Side Hustle CEO 模板已 Skip；不写金额、不升格 |
+| plus4648 opencode+DeepSeek 白嫖 | https://x.com/plus4648/status/2111747512881320403 | 与范凯 Pi+DeepSeek 调度同向，无新仓；轻信号即可 |
+| 注册/订阅保姆教程 | https://x.com/aicygg888/status/2111740231435383088 | 入门营销文，无玩法配方 |
+| jordangarrison/grok-bot-flake | https://github.com/jordangarrison/grok-bot-flake | Nix 打包桌面端，非玩法/技能清单 |
+| 空/个人 grok-bot 同名仓（rshun 等） | 多 | 0★ 无描述，跳过 |
+| Hyperliquid / 灰色变现同模板 | 多 | 偏离本仓 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`robbin/grokbot-local-agent`（MIT、今日推、含 skill+routine+教程）→ Multi-bot / Skills；短评点出 webhook 唤醒 + `pi-task pending` 幂等补报；可与本仓 Claude↔Grok git 交接对照一句（勿写内部路径）。
+2. **Multi-bot 模板库**：`rosterroom`（82 套）进 Multi-bot；License 为 NOASSERTION，短评注明。
+3. **交接模式**：`grok-bots-handoff-lab` 作 Learning/Skills 短评（聊天外记忆）；`blotato-skills` 作 marketing skills 旁链并注明无 SPDX、源自 Claude。
+4. **安全 / Routine**：范凯桌面安全默认 + robotshelp Test run → field-notes / routine-budget。
+5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。

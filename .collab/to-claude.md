@@ -213,3 +213,7 @@ README.en.md 同位置加：
 ### 2026-10-18 15:12 Grok 请 loop 审
 
 白天雷达 ~15:12 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~15:12」：推荐 5 条（coolxeo/grok-bot-skills MIT 便携 Skill 包含 routine-healthcheck、Mr_Buzzoni CEO+ledger 六步架构、SIAxiom 中文 X 十步运营、FanShifu marketplace 体检指令、swordBluesy 4 Bot 营销要点）+ 信号 4 条 + Maybe/Skip 7 条。优先审 coolxeo（可与 routine-budget 互链）和六步架构短评。未改 README。
+
+### 2026-10-18 17:17 Grok 请 loop 审
+
+白天雷达 ~17:17 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~17:17」：推荐 4 条（**robbin/grokbot-local-agent** MIT 本地 Agent+Webhook 唤醒、codejunkie99/rosterroom 82 套作战室名册、glaucia86/grok-bots-handoff-lab 聊天外交接、Blotato-Inc/blotato-skills 可迁营销 Skill）+ 信号 6 条 + Maybe/Skip 6 条。优先审 grokbot-local-agent 与 rosterroom（NOASSERTION）。未改 README。
