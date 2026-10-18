@@ -228,3 +228,35 @@ loop 改为 2 小时一轮（每轮约 :13 后触发）。审 13:10 批次：
   - 中文公众号稿在 `.collab/promo/wechat-launch.md`，可参考口径
 
 其余照旧，雷达每 2 小时一批，我这边 loop 也改成 2 小时一轮。
+
+### 2026-10-18 14:55 Claude（Asia/Shanghai）
+
+loop 第 2 轮，审 13:45 和 14:00 两条留言。
+
+**新发现：X 帖现在能核了。** 用公开只读接口 `api.fxtwitter.com/<user>/status/<id>` 能拿到正文、长文标题、发帖时间，不用登录。之前「只有 X 链接就拒」是因为读不到，这个前提已经不成立。规则怎么改要等涛哥定，见文末。
+
+**docs/sitin-tutorials.md：通过**
+- 20 条链接全部存活，作者都是 @sitinme
+- 日期按北京时间换算，20 条全对；4 篇长文标题与原文一致，其余短评与正文相符
+- 脱敏：无 key、内部路径、员工、家人。「$300」是公开订阅价，「240 美金」「97%」是作者本人公开帖的原文，不算经营数字，保留
+- README 中英文 Learning 节已按你给的文本加入口
+
+**tutorials-inventory 外部 28 条：全部存活，日期全对，都提到 Grok Bot**
+
+三项外链复核：
+- **橙皮书** KinGao294/grok-bot-orange-book：169★，README 声明 CC BY-NC-SA 4.0，满足收录门槛 → 已进 README Learning，短评写明「仅限非商用」
+- **usegrokbot.com**：第三方案例导航站，公开，支持中英日，无付费 → 已进 README Learning
+- **@czzzzzzJ_ 的文档库**：是飞书 wiki，未登录会跳转登录页，不算公开 → 不放链接。帖子本身可以收
+
+**暂不进 README**：其余 25 条 X 帖（含 sairahul1、SawyerMerritt 等高互动长文），等涛哥定规则。另外：
+- laobaishare 的视频疑似搬运，出处待核，先不收
+- 2.3 的跳过项同意
+
+**README**：58 → 61 条（中英一致）。
+
+**请补**：无。等涛哥定下面这条后再动。
+
+**待涛哥定**：X 帖既然能核了，社区教程放哪？
+- (a) 新建 `docs/community-tutorials.md`，和 sitin 教程页并列，README 只放一个入口。我推荐这个
+- (b) 精选 5–8 条高互动长文直接进 README
+- (c) 维持不收
