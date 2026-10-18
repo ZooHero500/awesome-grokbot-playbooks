@@ -468,3 +468,48 @@
 4. **Harness 焚决**：Chinese / Skills 一行，链官方 deepseek-harness；勿与 DeepSeekBot 条目混淆。
 5. **Performance Auditor + 邮箱别名**：继续喂 `examples/routine-budget.md` / Routines。
 6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## 白天 2026-10-18 ~11:10（Asia/Shanghai）
+
+- **窗口**：白天 ~09:17 → ~11:10（约 2h）；周日
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-18T01:10Z）+ `gh api` 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：stablyai/orca（README 已收）、Root Agent v0.3.0（已列，仅版本更新）不重复列
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| web-access | https://github.com/eze-is/web-access | 给本机 Agent（Claude Code / Grok Bot 等）装联网能力的 Skill：三层通道调度 + 浏览器 CDP + 并行分治、自动积累站点经验；解决云电脑机房 IP / 无本机登录态的采集场景。作者与已收 eze-grokbot 同源 | Skills & Playbooks | `skill` `browser` `cdp` `chinese` | ~9166 / 无 SPDX | **X** @eze_is_1 + gh |
+| T3 Code Bridge（模板） | https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH （帖 https://x.com/trevin/status/2111631433299374450 ） | 官方模板页：Bot 经 T3 Code MCP 开线程、盯状态、遇问题回问人；用其他订阅的模型分担额度。与已列 t3-code-superpowers（仓）/ T3 ask-back 互补，且是一键导入版 | Templates / Multi-bot | `template` `mcp` `t3-code` | 模板 / — | **X** @trevin（23 赞 16 收藏） |
+| 多 Bot 治理层（模板） | https://x.ai/bot/HQh9l4duDHNmhCuSW_pn- （帖 https://x.com/alanhoward/status/2111631067941925240 ） | 共享团队规则（不编造、默认只读、只起草）+ Bot/routine/续费登记表 + 每周安全审计快照 + 事故预案 +「必要而非好」精简过滤；10 问上手，变更需批。可配 `routine-budget` 与作战室模板 | Multi-bot teams / Routines | `template` `governance` `audit` | 模板 / — | **X** @alanhoward |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Second brain on Grok Bot（视频） | https://www.youtube.com/watch?v=V0IDoPLAtVI | 云电脑 + routine 爬网/摘要/自动 commit 到 GitHub 同步笔记库；角色 Bot 分工。与本仓「git 当协作通道」同构 | Learning / Routines | **X** @TamaminiGrok 转述 |
+| 中文：Grok Bot × Cursor Cloud × GitHub CI 手机编程流 | https://x.com/xiaomovps/status/2111641676523688023 | Bot 分派任务 → Cursor 云端写码测、回截图录屏验收 → GitHub CI 兜底；手机全程。中文可抄分工表 | Chinese solo-founder / Learning | **X** @xiaomovps |
+| 中文：官方指南 20 条精华 | https://x.com/Ljhzdqb/status/2111632720996487261 | 把热门英文「官方指南 20 条」翻成中文并点评；中文入门 Learning 候选（核实原帖出处后再挂） | Learning / Chinese | **X** @Ljhzdqb |
+| Routine 体检 prompt（keep / 放慢 / 改事件 / 退役） | https://x.com/grokbotusecases/status/2111633433017426117 | 一句可抄 prompt：按节省用量排序、批准前不改；继续喂 `examples/routine-budget.md` | Routines | **X** @grokbotusecases |
+| ScriptSprint（模板） | https://x.ai/bot/-j00v29rSvOvd-ht6q_vi | 转写稿/会议纪要 Bot：存原文 + 旁生 distill（发言人、决策、行动项）；Templates 一行即可 | Templates | **X** @the_simonjester |
+
+### Maybe / Skip（白天 ~11:10）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| ADHD Founder's Chief | https://x.ai/bot/7PyUClpHZH-lavGlXGRVg | 个人效率向、受众窄；Maybe 放 Templates 尾 |
+| 数据经纪商信息移除模板 | https://x.com/madmenai/status/2111644355136278809 | 涉个人隐私处理，未核实做法；暂跳过 |
+| TV De-Ad Bot | https://x.ai/bot/rIKTxh3Pwrmn7N02x6glX | 趣味向，偏离本仓 |
+| donvitocodes 模板合集 | https://www.donvitocodes.com/grok-bots | 个人模板目录，含 X Post Tracker 等；与 botdirectory.ai 重叠，Maybe |
+| Bot Packs Fleet Tune-Up | botpacks.dev | 付费 $29，跳过 |
+| OpenBMB/PilotDeck | https://github.com/OpenBMB/PilotDeck | ~4.6k★ AGPL，README 未提 Grok Bot；偏题 |
+| FilmLadd 渲染管理器 | — | 作者称下周上 GitHub，届时再看 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`eze-is/web-access`（★高、中文作者、与 eze-grokbot 同源）→ Skills 主条，注明无 SPDX。
+2. **模板两条**：T3 Code Bridge 挂到已有 T3 相关条目旁；多 Bot 治理层可进 Multi-bot teams，并在 `routine-budget` / 作战室模板里互链。
+3. **Learning**：Second brain 视频 + 中文 Cursor Cloud 编程流；20 条中文精华待核原帖后再挂。
+4. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。

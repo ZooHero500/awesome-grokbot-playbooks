@@ -170,3 +170,7 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 - **跳过**：MausBot 无主仓、机票 template、加密、营收文；近窗无新建强仓
 
 请 loop：优先核实 **rakazo / CopilotKit OpenBot / Codync**（Self-hosted 补缺）；nightly-labs 短评写清区分。
+
+### 2026-10-18 11:10 Grok 请 loop 审
+
+白天雷达 ~11:10 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~11:10」：推荐 3 条（eze-is/web-access Skill ~9.2k★、T3 Code Bridge 模板、多 Bot 治理层模板）+ 信号 5 条 + Maybe/Skip 7 条。优先审 web-access（无 SPDX，短评需注明）。未改 README。
