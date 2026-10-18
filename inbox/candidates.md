@@ -562,3 +562,50 @@
 4. **Multi-bot**：Duobot（家庭双 Bot）+ 6 席位交易台拆解（只讲架构）。
 5. **Official**：补 `x.ai/bot/marketplace` 一行。
 6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## 白天 2026-10-18 ~15:12（Asia/Shanghai）
+
+- **窗口**：白天 ~13:10 → ~15:12（约 2h）；周日
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-18T05:05Z，中英各一轮）+ `gh api` / Web 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：Motion Director / Duobot / marketplace / grok-bot-clipper（~13:10 已列）、apha404ai/grok-bot-skills（交易向已 Skip）不重复列；近 2 日无新 `grok-bot*` 公仓命中
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| coolxeo/grok-bot-skills | https://github.com/coolxeo/grok-bot-skills | 22 个可移植 `SKILL.md`（写作/设计/工程/SEO/Bot）：含 `routine-healthcheck`、`transcript-healthcheck`、`design-a-grok-bot`、`no-ai-slop`；支持 `npx skills add`。可直接喂 `examples/routine-budget.md` 与作战室卫生 | Skills & Playbooks / Routines | `skill` `routine-health` `portable` `mit` | 6 / MIT | **GitHub**（@DaniAcostaAI） |
+| CEO Bot 六步作战系统（SpaceXAI 工程师拆解） | https://x.com/Mr_Buzzoni/status/2111523960735105339 （今日转述 https://x.com/grokbotusecases/status/2111691958284681489 ） | 一人 CEO Bot 持组织图 + 持久 ledger（task/owner/state/artifact/deadline/retry）；技能挂 routine（幂等键、重试预算、kill switch）；未完成前必须有独立证据（diff/log/产物）。多 Bot 编排教科书级，无仓但可抄架构 | Multi-bot teams / Learning | `multi-bot` `ledger` `evidence` `architecture` | — / — | **X** @Mr_Buzzoni（137 赞 122 收藏） |
+| 中文：Grok Bot 运营 X 十步实操 | https://x.com/SIAxiom/status/2111689540792655982 （文章 https://x.com/i/article/2111683397542359040 ） | 安装→选题→原创→定时→复盘；附 9 组可复制指令 + 8 条防违规。中文一人公司 X 运营配方，适合挂 Chinese / Learning（发帖仍须人工闸门） | Chinese solo-founder / Learning | `chinese` `x-ops` `playbook` `routine` | — / — | **X** @SIAxiom（8 赞） |
+| Marketplace 对照体检指令 | https://x.com/FanShifu/status/2111686869494726793 | 主 Bot 扫 `x.ai/bot/marketplace` 类别与热门模板 → 体检现有 Bot（名/职责/Skill/Routine）→ 对照工作流补缺口清单。可复用的舰队审计 prompt，配治理层模板与 routine-budget | Multi-bot teams / Routines | `audit` `marketplace` `prompt` | — / — | **X** @FanShifu |
+| 中文：4 Bot 短视频营销作战室要点 | https://x.com/swordBluesy/status/2111717105926332691 | 把博主实测短视频流水线拆成 4 个专职 Bot、人只拍板；中文多 Bot 营销分工样板（视频长文）。无 GitHub，作 Multi-bot / Chinese 短链即可 | Multi-bot teams / Chinese | `chinese` `multi-bot` `marketing` `war-room` | — / — | **X** @swordBluesy |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 内置 X 读接口三用法 | https://x.com/huagechen/status/2111701081650806821 | 热点 / 盯大 V / 历史帖蒸馏成 Skill 二创；与本仓 X 雷达同构，可补 Learning 一句 | Routines / Learning | **X** @huagechen |
+| 到家提醒：Shortcuts → Bot 邮箱 → email routine | https://x.com/JeremieV98343/status/2111699724348858436 | 位置事件暂无原生触发时的变通：手机自动化发信到 Bot 自有 inbox，再用 email listener 唤醒 | Routines | **X** @JeremieV98343 |
+| 6 Agents 一人公司 playbook（英文长文） | https://x.com/AI_Acq/status/2111713733710073939 | 客户信号→调研线索→跟进草稿→内容→日决策队列；英文 one-founder 作战室，核实文章体后再挂 | Multi-bot / Learning | **X** @AI_Acq |
+| 生财 MCP 一提示词接入 | https://x.com/web30708/status/2111702016225669216 | 中文社区信号：用一条接入提示词挂生财 MCP，再让 Bot 自探玩法。Learning 备注即可，勿写内部库路径 | Chinese / Learning | **X** @web30708 |
+
+### Maybe / Skip（白天 ~15:12）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| zsredeemer「本周精选 5 个」 | https://x.com/zsredeemer/status/2111714533681058067 | 仅放出 ① 微信文章捕手（与已收 cgnot996 / Clipper 同作者线）；②–⑤ 未发完，等齐再审 |
+| swordBluesy 帖内视频长文 | 同上推荐行 | 已作短链；若后续补 GitHub/模板页再升格 |
+| Hyperliquid / 「$38→$8740」同模板帖 | 多 | 无法核对钱包/成交，JakeLin 已拆穿；跳过 |
+| 微软奖励签到赚闲鱼 | https://x.com/zo_qq17920/status/2111689682820207015 | 灰色变现，偏离本仓 |
+| Security Questionnaire Gumroad | 多 | 付费包，~13:10 已 Skip |
+| herdr + pi 本机操控 tip | https://x.com/wkruan94/status/2111716686990827860 | 个人经验、无公开配方 |
+| coolxeo 付费 Gumroad kits | README 内链 | 只收免费 SKILL.md；付费套件不进清单 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`coolxeo/grok-bot-skills`（MIT、可 `npx skills add`）→ Skills 主条；短评点名 `routine-healthcheck` / `transcript-healthcheck`，并与 `examples/routine-budget.md` 互链。
+2. **Multi-bot 架构**：Mr_Buzzoni 六步（CEO+ledger+证据）进 Learning 或 Multi-bot 短评；无仓不要紧，架构可抄。
+3. **中文**：SIAxiom X 十步 + swordBluesy 4 Bot 营销要点；发帖类一律强调人工闸门。
+4. **Routines**：FanShifu marketplace 体检 prompt + 到家邮箱触发变通 → 喂 routine-budget / field-notes。
+5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。

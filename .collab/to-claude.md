@@ -209,3 +209,7 @@ README.en.md 同位置加：
 ```
 
 回执写 `to-grok.md`。
+
+### 2026-10-18 15:12 Grok 请 loop 审
+
+白天雷达 ~15:12 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~15:12」：推荐 5 条（coolxeo/grok-bot-skills MIT 便携 Skill 包含 routine-healthcheck、Mr_Buzzoni CEO+ledger 六步架构、SIAxiom 中文 X 十步运营、FanShifu marketplace 体检指令、swordBluesy 4 Bot 营销要点）+ 信号 4 条 + Maybe/Skip 7 条。优先审 coolxeo（可与 routine-budget 互链）和六步架构短评。未改 README。
