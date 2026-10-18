@@ -420,3 +420,51 @@
 4. **Import Bot**：Official / Learning 短链；提醒「装完核对 private skills」。
 5. Reason Network **继续搁置**；协作只走 git + `.collab`。Claude loop 已重开则收本段即可。
 6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/*`（Grok 侧）。
+
+## 白天 2026-10-18 ~09:17（Asia/Shanghai）
+
+- **窗口**：白天 ~07:45 → ~09:17（约 2h）；周日
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-17T23:00Z）+ `gh api`/`gh search` 核实 + Web；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：本窗 gh 无「近几小时新建」强仓；增量来自对照文带出的**尚未进 README 的主流平替仓** + 中文 Learning 文
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| rakazo | https://github.com/elie222/rakazo | 开源 Grok Bot 平替：自选模型与沙盒；生态里星标体量最大的一类自托管。README 仅在 DeepSeekBot 短评点名，缺独立条目 | Self-hosted bots | `self-hosted` `byo-model` `open-source` | ~4469 / Apache-2.0 | **X** 对照文 @Ga_Vasques + gh |
+| Codync | https://github.com/leepokai/Codync | 本机开源平替：把 Claude Code / Codex / Cursor 等 40+ agent 当 bot 聊，Rust，跨 iPhone/Mac/Win/Linux | Self-hosted bots / Multi-bot | `self-hosted` `rust` `multi-agent` | ~498 / Apache-2.0 | **X** 对照文 + gh |
+| OpenBot (CopilotKit) | https://github.com/CopilotKit/OpenBot | 每 agent 一台电脑（浏览器/文件/工具），动作先决后录；AG-UI；体量最大开源 coworker 系 | Self-hosted bots | `self-hosted` `ag-ui` `coworker` | ~6599 / MIT | **X** 对照文 + gh |
+| openbot (nightly-labs) | https://github.com/nightly-labs/openbot | 本地优先桌面工作区：Codex/Claude/Grok 分工作区 + 任务队列 + agent 互通；与 CopilotKit/OpenBot **同名异仓**，短评须区分 | Self-hosted bots / Multi-bot | `self-hosted` `desktop` `local-first` | ~595 / 无 SPDX | **X** 对照文语境 + gh |
+| botdirectory.ai | https://github.com/elie222/botdirectory.ai | Grok Bot / Rakazo 等可用的开源 bot prompt 目录（botdirectory.ai） | Skills & Playbooks / Learning | `templates` `directory` `rakazo` | ~260 / MIT | gh（对照文生态） |
+
+### 玩法 / 产品信号（无强仓或仓弱，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 开源平替对照文（MausBot/Codync/Rakazo/OpenBot） | https://my-tierroom.party/blog/open-source-grok-bot-alternatives-mausbot-rakazo-codync-openbot （帖 https://x.com/Ga_Vasques/status/2111609699422388339 ） | Skills/MCP/记忆/语音/自动化 + VPS/Mac 部署对比与个人排名；Self-hosted 节选型 Learning | Learning / Self-hosted | **X** @Ga_Vasques |
+| 中文：Lauren Tan 如何放手给 agent | https://x.com/MaiYangAI/status/2111603532210299234 （文章 https://x.com/i/article/2111593631518015488 ） | 信任倒金字塔、验证 skill、pstack/Benny；中文可抄「普通人几步」；可链已收 lauren-poteto-rules / field-notes | Learning / Chinese solo-founder | **X** @MaiYangAI |
+| DeepSeek Harness 装进 Grok Bot 云电脑 | https://x.com/KinGao476942/status/2111622701089759654 （仓 https://github.com/deepseek-ai/deepseek-harness ） | 可复制焚决：新建 Bot → 云电脑按官方仓装 Harness、默认 DeepSeek V4.1；省额度编程向。与已收 DeepSeekBot 互补（官方 harness vs 平替产品） | Skills / Self-hosted / Chinese | **X** @KinGao476942 + gh |
+| Performance Auditor Bot | https://x.com/grok/status/2111624403981127985 | 专 Bot 审计其他 Bot：慢/快 routine、仅工作时段、routine 不绑长聊 Bot、静默 skill、去重等 8 条——可并 `routine-budget` / Multi-bot 卫生 | Routines / Multi-bot | **X** @grok（回复） |
+| Plus 邮箱别名触达 Routine | https://x.com/GrokInsider/status/2111612092683829398 | 产品：Plus 别名 → 仅该址邮件唤醒 routine；另 Tag Bot on X / 读 X Chat。邮箱触发配方信号 | Routines / Official | **X** @GrokInsider |
+
+### Maybe / Skip（白天 ~09:17）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| MausBot / OpenMausBot | 对照文提及 | 无清晰公开主仓（仅 app-review / 空 skills 仓）；先跟对照文，不单列仓 |
+| AgentMPG 机票降价 template | https://x.com/AgentMPG/status/2111619789588164619 | 营销向、展示极低、无 GitHub；跳过 |
+| CLAUDIA 等加密叙事 | https://x.com/Aspirin_2022/status/2111623279752663087 | 偏离本仓 |
+| niko 多 bot 信息系统草稿 | https://x.com/niko70129972/status/2111611178694906117 | 帖未完、无可复制配方 |
+| 营收/粉丝增长文 | 多 | 营销，跳过 |
+| doitian webhook / root-agent / imessage-sdk 等 | — | 夜班或 ~07:45 已列；README 已收部分 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先补 Self-hosted 缺口**：`rakazo`（★最大）→ `CopilotKit/OpenBot` → `Codync`；`nightly-labs/openbot` 须在短评写清「非 CopilotKit」。
+2. **botdirectory.ai**：Skills/Learning 短链即可，当灵感目录。
+3. **Learning**：Ga_Vasques 对照文 + MaiYang 中文 Lauren 文；后者可挂 Chinese solo-founder。
+4. **Harness 焚决**：Chinese / Skills 一行，链官方 deepseek-harness；勿与 DeepSeekBot 条目混淆。
+5. **Performance Auditor + 邮箱别名**：继续喂 `examples/routine-budget.md` / Routines。
+6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。

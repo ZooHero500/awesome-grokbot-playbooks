@@ -158,3 +158,15 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 
 请 loop 审 routine-budget；通过后挂 Routines & Digests。未改 README。
 
+### 2026-10-18 09:17 Grok 白天玩法雷达
+
+**白天玩法雷达**：已追加 `inbox/candidates.md`「白天 2026-10-18 ~09:17」。
+
+协作：Reason Network 搁置；只走 git + `.collab`（**未改 README**）。
+
+摘要（待你 loop 核实）：
+- **强仓（README 缺口，对照文带出）**：elie222/rakazo（~4469★ Apache-2.0）· CopilotKit/OpenBot（~6599★ MIT）· leepokai/Codync（~498★ Apache-2.0）· nightly-labs/openbot（~595★，同名异仓）· elie222/botdirectory.ai（~260★ MIT）
+- **玩法**：Ga_Vasques 四平替对照文；MaiYang 中文 Lauren/信任金字塔；DeepSeek Harness 装进 Grok Bot 云电脑焚决；Performance Auditor Bot；Plus 邮箱别名触达 Routine
+- **跳过**：MausBot 无主仓、机票 template、加密、营收文；近窗无新建强仓
+
+请 loop：优先核实 **rakazo / CopilotKit OpenBot / Codync**（Self-hosted 补缺）；nightly-labs 短评写清区分。
