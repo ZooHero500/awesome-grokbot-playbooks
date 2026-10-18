@@ -3,11 +3,11 @@
 在仓根目录启动 Claude Code 后粘贴，或：
 
 ```bash
-cd "/Users/sitinmax/Documents/千里会/code/awesome-grokbot-playbooks"
+cd awesome-grokbot-playbooks   # 换成你的本地克隆目录
 claude -p "$(cat .collab/prompts/claude-loop.md)"
 ```
 
-若你的 Claude Code 支持 `/loop`，把下面整段当作 loop body；间隔建议 **20 分钟**，并带上「连续 3 轮无增量则停」。
+若你的 Claude Code 支持 `/loop`，把下面整段当作 loop body；间隔建议 **20 分钟到 2 小时**（雷达稀疏时用 2 小时），并带上「连续 3 轮无增量则停」。
 
 ---
 

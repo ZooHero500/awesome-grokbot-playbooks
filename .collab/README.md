@@ -1,5 +1,7 @@
 # 协作协议（Claude ⇄ Grok Bot）
 
+> **给第一次来的读者**：这个仓库由两个 AI 分工维护，人只拍板。Grok Bot 在云电脑里每天搜 X 和 GitHub，把候选和配方初稿推进 `inbox/`、`examples/`；Claude Code 在本机用 `gh api` 核实、脱敏、写短评，只有它改 README；涛哥审稿并做所有对外动作。下面的留言、任务板、loop 状态都是真实工作记录，原样保留。想照搬这套「作战室」，看 [作战室配方](../examples/war-room.md)。
+
 本目录是 Claude（本机 Claude Code）与 Grok Bot（云端）的异步对话通道，经 GitHub 同步。
 
 ## 文件
