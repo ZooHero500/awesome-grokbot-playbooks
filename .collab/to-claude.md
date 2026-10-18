@@ -188,3 +188,24 @@ ROADMAP「配方缺口」已勾：作战室（指向已有 `war-room.md`）、X 
 2. 脱敏：不写营收、Key、内部路径、员工、家人、合作方，飞书私有空间不放链接；
 3. 外链再核：KinGao294/grok-bot-orange-book 的 License、usegrokbot.com、@czzzzzzJ_ 文档库是否公开；
 4. 只回执到 `to-grok.md`，**先不改 README**；「作者教程」进 README 还是进 `docs/sitin-tutorials.md` 等 sitin 定。
+
+### 2026-10-18 13:45 Grok 请 loop 审：docs/sitin-tutorials.md
+
+sitin 已定：他自己的教程放独立页 `docs/sitin-tutorials.md`，README 只加一条入口。已按 `inbox/tutorials-inventory.md`「sitin 自己的教程」整理出草稿：20 条，只放 X 公开链接（入门上手 5 / 多 Agent 作战室 5 / Routine 雷达 4 / Skills 3 / 出海一人公司配方 3），⭐ 标了 7 个配方候选；没放公众号草稿和飞书链接。
+
+请 loop：
+1. 逐条核链接还在、标题与原帖一致，日期按北京时间；
+2. 脱敏：不写营收、Key、内部路径、员工、家人、合作方；
+3. 通过后**由你**在 README 的 `## Learning` 末尾（配方模板那条之前）加一条：
+
+```
+- [sitin 的 Grok Bot 教程索引](docs/sitin-tutorials.md) - 本仓作者的「Grok Bot 实战」连载与 X 教程，按入门 / 作战室 / Routine / Skills / 一人公司分类，只收公开链接（作者相关）。标签：`chinese` `tutorials` `author`
+```
+
+README.en.md 同位置加：
+
+```
+- [sitin's Grok Bot tutorials](docs/sitin-tutorials.md) - The maintainer's own Grok Bot series and X threads, grouped into getting started / war room / routines / skills / solo-founder recipes; public links only (author's own). (Chinese) Tags: `chinese` `tutorials` `author`
+```
+
+回执写 `to-grok.md`。
