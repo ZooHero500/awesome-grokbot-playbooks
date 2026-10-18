@@ -709,3 +709,53 @@
 4. **可粘贴配方**：`grok-bot-cos`（CoS skills+routines）、`grokbot-delivery-team`（13 Bot 咨询队）、`grokbot-teamwork-UI`（可视化）。
 5. **升格**：clipper ★18 → 可出暂缓表；routine-budget 补「哈希跳过」一句。
 6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+## 白天 2026-10-18 ~21:16（Asia/Shanghai）
+
+- **窗口**：白天 ~19:15 → ~21:16（约 2h）；周日
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-18T11:10Z，中英）+ `gh api` / Web 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：openmeld / my-botstack / AgwaB / grok-bot-cos / teamwork-UI / zongzhu / delivery-team / Useful Bots / robbin/local-agent / rosterroom / handoff-lab / blotato / coolxeo / clipper（~13:10–19:15 已列）不重复列；clipper 现 ★22（早窗 0→18→22）
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| kydlikebtc/awesome-grokbot | https://github.com/kydlikebtc/awesome-grokbot （站 https://kydlikebtc.github.io/awesome-grokbot/ ） | ~361★ 双语 live-share 目录：链接日检、行级出处、JSON schema+CI；今日仍在推。与 ZeroPointRepo/awesome-grok-bot 互补（后者偏生态导航，本仓偏可 Add 分享索引）。License 为 NOASSERTION，短评需注明 | Learning | `awesome` `templates` `live-share` `chinese` `bilingual` | 361 / NOASSERTION | **GitHub**（今日 push） |
+| majiayu000/awesome-grok-bot | https://github.com/majiayu000/awesome-grok-bot （站 https://majiayu000.github.io/awesome-grok-bot/ ） | ~68★ CC0：~4800 条 live `x.ai/bot` 分享 + shelf 分层 + 双语 README；kydlikebtc 上游之一。README Learning 缺口大项，短评写「可 Add 分享索引，非提示词堆」并提醒社区分享不可信、需自检 | Learning | `awesome` `templates` `live-share` `chinese` `cc0` | 68 / CC0-1.0 | **GitHub** + web |
+| X Post Tracker（Karol 模板） | https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn （帖 https://x.com/blueemi99/status/2111804487157563516 ） | 只读追自己帖：日摘要、暴涨提醒、预估互动；不点赞/发帖/回复。与 donvitocodes「X Post Tracker」（Melvin）同名不同 share，可并列 Templates / Routines | Routines / Templates | `template` `x` `routine` `read-only` | 模板 / — | **X** @blueemi99 |
+| Research by Trond | https://x.ai/bot/v3WI0YuJAr1DLoYdYVXh8 （帖 https://x.com/xenappblog/status/2111797929518170506 ） | 入门向 Research Agent 模板：公开对话→带引用简报；可配 ScrapeCreators 拉 X/YT/TT/Reddit。适合 Learning / Templates 旁链，短评勿写成付费导流 | Learning / Templates | `template` `research` `scrape` | 模板 / — | **X** @xenappblog |
+| mergisi/awesome-grokbot | https://github.com/mergisi/awesome-grokbot | 18★ CC0：可粘贴 profiles / skills / team 模板（Sales/Eng/Success 起步队）。体量小于 majiayu/kydlike，作「小而可抄」旁链即可 | Skills & Playbooks / Learning | `awesome` `templates` `teams` `cc0` | 18 / CC0-1.0 | **GitHub** |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 发帖幂等：先搜再重试 | https://x.com/sisiliu517/status/2111804317329944920 | 无成功 toast 时盲重试会双发；先读 API 查近期帖→仅缺失才重试→发后核对恰一条。与同作者「静默时段」互补，可喂 `examples/routine-budget.md` | Routines | **X** @sisiliu517 |
+| 中文：活分两套不押一家 | https://x.com/Chengengye/status/2111798900017471983 | 编码押 Codex；交付分 Grok Bot + 飞书两套 bot，防单平台封号。中文一人公司韧性短链 | Chinese / Learning | **X** @Chengengye |
+| Secrets：共享电脑 + Routine 烧额度 | https://x.com/0xNotFounder/status/2111796748678988027 （转述 https://x.com/whaleyxbt/status/2111805314114703513 ） | 多 Bot 共用一台云电脑（文件/cookies/登录）；15min routine×96/日易烧额。可链 field-notes / routine-budget；文章链偶发 404，以帖内要点为准 | Learning / Routines | **X** |
+| 云电脑装 CLI 当总指挥 | https://x.com/punkcan/status/2111798438090428767 | Bot 电脑装 Grok builder / Claude Code / Codex CLI，大总管按项目延续 Session、优先 Skills。与已推 `AgwaB/grok-bot-agents` 同向，作体感短链即可 | Multi-bot / Skills | **X** @punkcan |
+| Bot+t3codes+pstack 交叉评审 | https://x.com/AojDevStudi0/status/2111793282124542427 | 在 T3 Code Bridge 上加 poteto-mode 规划、跨模型评审、CI 门禁，只上交真决策。pstack 早窗已列，作工程向信号 | Skills / Learning | **X** @AojDevStudi0 |
+| 中文：例程从 Grok 迁到本机 Claude | https://x.com/wangchuanqi_111/status/2111803490985271510 | 早报/实战日报/X 收藏→Obsidian 三例程搬家笔记；可作「可迁移例程」Learning 旁链（勿写内部路径） | Chinese / Routines | **X** @wangchuanqi_111 |
+| clipper ★ 再复查 | https://github.com/RongleCat/grok-bot-clipper | ★18→★22；继续优先合入 Skills/Chinese | Skills / Chinese | gh |
+
+### Maybe / Skip（白天 ~21:16）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| PC Mechanic 模板 | https://x.ai/bot/bB9_Y8I-zNk_9s3eIwmq- （帖 https://x.com/Austinsdomain/status/2111785703420092425 ） | 装/卸软件 + Windhawk 美化，玩法窄、偏桌面运维 |
+| ShuhangGe/grokbot-queue | https://github.com/ShuhangGe/grokbot-queue | MIT 并行派活 CLI，但 0★、靠 Electron UI 自动化，脆弱；Tools/Maybe |
+| heyrobinai「20 bots while i sleep」长贴 | https://x.com/heyrobinai/status/2111806812148437333 | 营销向全指南，无新仓；一人公司 6Bot 同构已 Skip |
+| JulianGoldieSEO AI SEO 流水线 | https://x.com/JulianGoldieSEO/status/2111799212505780327 | SEO 营销文，无配方仓 |
+| vankhucstudio Inbox Watch $99 | https://x.com/vankhucstudio/status/2111796943374479849 | 付费代建，偏离本仓 |
+| Hagglebot / 省钱审计长文 | https://x.com/vadimvchumak/status/2111806374686421342 | 金额故事向，跳过 |
+| bl888m「Full Course」文章 | https://x.com/bl888m_eth/status/2111807986813251951 | 文章链 404，无法核 |
+| 统一订阅额度抱怨 / 入门客服贴 | 多 | 产品吐槽与注册话术，无玩法 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`kydlikebtc/awesome-grokbot`（★高、今日仍推、双语 live-share）与 `majiayu000/awesome-grok-bot`（CC0 上游）进 Learning；短评区分 ZeroPointRepo（生态导航）vs 这两仓（可 Add 分享索引），并写清 NOASSERTION / 社区分享需自检。
+2. **模板**：Karol「X Post Tracker」与 Trond「Research」作 Templates/Routines 旁链；与 Melvin/donvitocodes 同名 Tracker 区分 share id。
+3. **routine-budget**：补「发帖幂等：先搜再重试」+ 共享电脑烧额提醒一句。
+4. **升格**：clipper ★22；中文韧性（Chengengye）可挂 Chinese solo-founder 短链。
+5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。

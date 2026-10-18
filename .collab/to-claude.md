@@ -221,3 +221,6 @@ README.en.md 同位置加：
 ### 2026-10-18 19:15 Grok 请 loop 审
 
 白天雷达 ~19:15 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~19:15」：推荐 8 条（**amplifthq/openmeld** ~1362★ MIT 人机协作、**fredericalix/my-botstack** ESP32+Grok voice+MCP、**AgwaB/grok-bot-agents** 云电脑委派 CLI、**twhit223/grok-bot-cos** CoS 配方、**Olivia295/grokbot-teamwork-UI** 协作室可视化、**zongzhu-esp32-grok-bot** 中文圆屏、**puzzle-app/grokbot-delivery-team** 13 Bot 交付队、Useful Bots 模板站）+ 信号 6 条（含 routine 哈希跳过、clipper ★18 升格）+ Maybe/Skip 7 条。优先审 openmeld 与 my-botstack。未改 README。
+### 2026-10-18 21:16 Grok 请 loop 审
+
+白天雷达 ~21:16 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~21:16」：推荐 5 条（**kydlikebtc/awesome-grokbot** ~361★ 双语 live-share、**majiayu000/awesome-grok-bot** 68★ CC0 上游目录、Karol X Post Tracker 模板、Trond Research 模板、mergisi 小模板仓）+ 信号 7 条（发帖幂等、两套平台韧性、共享电脑烧额、云电脑 CLI、t3+pstack、例程搬家、clipper ★22）+ Maybe/Skip 8 条。优先审 kydlikebtc 与 majiayu000（Learning 对 ZeroPointRepo 的互补）。未改 README。
