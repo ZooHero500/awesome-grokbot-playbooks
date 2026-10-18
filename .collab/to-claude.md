@@ -217,3 +217,7 @@ README.en.md 同位置加：
 ### 2026-10-18 17:17 Grok 请 loop 审
 
 白天雷达 ~17:17 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~17:17」：推荐 4 条（**robbin/grokbot-local-agent** MIT 本地 Agent+Webhook 唤醒、codejunkie99/rosterroom 82 套作战室名册、glaucia86/grok-bots-handoff-lab 聊天外交接、Blotato-Inc/blotato-skills 可迁营销 Skill）+ 信号 6 条 + Maybe/Skip 6 条。优先审 grokbot-local-agent 与 rosterroom（NOASSERTION）。未改 README。
+
+### 2026-10-18 19:15 Grok 请 loop 审
+
+白天雷达 ~19:15 已追加到 `inbox/candidates.md`「白天 2026-10-18 ~19:15」：推荐 8 条（**amplifthq/openmeld** ~1362★ MIT 人机协作、**fredericalix/my-botstack** ESP32+Grok voice+MCP、**AgwaB/grok-bot-agents** 云电脑委派 CLI、**twhit223/grok-bot-cos** CoS 配方、**Olivia295/grokbot-teamwork-UI** 协作室可视化、**zongzhu-esp32-grok-bot** 中文圆屏、**puzzle-app/grokbot-delivery-team** 13 Bot 交付队、Useful Bots 模板站）+ 信号 6 条（含 routine 哈希跳过、clipper ★18 升格）+ Maybe/Skip 7 条。优先审 openmeld 与 my-botstack。未改 README。

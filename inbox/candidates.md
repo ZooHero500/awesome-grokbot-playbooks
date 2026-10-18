@@ -656,3 +656,56 @@
 3. **交接模式**：`grok-bots-handoff-lab` 作 Learning/Skills 短评（聊天外记忆）；`blotato-skills` 作 marketing skills 旁链并注明无 SPDX、源自 Claude。
 4. **安全 / Routine**：范凯桌面安全默认 + robotshelp Test run → field-notes / routine-budget。
 5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## 白天 2026-10-18 ~19:15（Asia/Shanghai）
+
+- **窗口**：白天 ~17:17 → ~19:15（约 2h）；周日
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all` / `search_news`（start_time≥2026-10-18T09:00Z，中英）+ `gh search` / README 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：robbin/local-agent / rosterroom / handoff-lab / blotato / coolxeo / doitian / root-agent / AI_Acq / eze web-access / clipper（~13:10–17:17 已列）不重复列；clipper 现 ★18（早窗记 0，可升格门槛复查）
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| fredericalix/my-botstack | https://github.com/fredericalix/my-botstack （帖 https://x.com/fax_v2_0/status/2111747090195833285 ） | MIT 硬件全栈：StackChan / Waveshare ESP32 接 xAI realtime voice；做不了的事 webhook+MCP 交给 Grok Bot 再朗读。含 QUICKSTART、fleet MCP、签名 OTA、Docker Compose。Hardware 节可与 groki-bot 并列 | Hardware / Skills | `hardware` `esp32` `voice` `mcp` `webhook` `mit` | 0 / MIT | **X** @fax_v2_0 + gh（今日开源） |
+| AgwaB/grok-bot-agents | https://github.com/AgwaB/grok-bot-agents | 今日新插件：在 Bot 云电脑上装/导入/驱动 Claude Code、Codex、Pi、omp；`delegate-task` 按轻重路由，`agent-bridge-webhook` 跨机交接。可与 `robbin/grokbot-local-agent`、audit 同作者线互链 | Skills & Playbooks / Multi-bot | `skill` `delegation` `claude-code` `codex` `webhook` `mit` | 0 / MIT | **GitHub**（今日建） |
+| amplifthq/openmeld | https://github.com/amplifthq/openmeld | ~1362★ MIT：人与 Agent（含 Grok Bot / Codex / Claude Code / Cursor）共享上下文、并行协作的开源系统。README Self-hosted / Multi-bot 缺口大项，短评需写清与 orca/Codync 差异 | Multi-bot teams / Self-hosted | `multi-bot` `collaboration` `desktop` `mit` | 1362 / MIT | **GitHub**（近窗仍在推） |
+| twhit223/grok-bot-cos | https://github.com/twhit223/grok-bot-cos | MIT Chief of Staff 配方仓：skills/ + 四条 routines（日焦/收工/会前/周五收束）+ CONVENTIONS；已脱敏可粘贴。与 marketplace「Chief of Operations」模板互补 | Skills & Playbooks / Routines | `chief-of-staff` `skills` `routines` `mit` | 2 / MIT | **Web** + gh |
+| Olivia295/grokbot-teamwork-UI | https://github.com/Olivia295/grokbot-teamwork-UI | 中英「Bot协作室」：只读本机缓存，把多 Bot 交接演成会动的办公室（工作室/关系网/时间线）；零依赖 Python、不上传。多 Bot 可视化样板 | Multi-bot teams / Chinese | `multi-bot` `visualization` `local` `chinese` `mit` | 0 / MIT | **GitHub**（今日） |
+| Liu-zhongxian/zongzhu-esp32-grok-bot | https://github.com/Liu-zhongxian/zongzhu-esp32-grok-bot （帖 https://x.com/Liu_zhongxisn/status/2111771018360754509 ） | 中文圆屏 ESP32 语音终端：唤醒→Webhook→Bot→字幕+朗读；MIT。与 my-botstack / groki-bot 同属 Hardware，板子型号不同 | Hardware / Chinese | `hardware` `esp32` `voice` `chinese` `webhook` `mit` | 0 / MIT | **X** + gh |
+| puzzle-app/grokbot-delivery-team | https://github.com/puzzle-app/grokbot-delivery-team | 13 Bot 流程咨询交付队：CoS 路由、Delivery Lead 不执行、Claude Code 干活、客户 Puzzle 地图作共享记忆；MIT 脱敏配方。多 Bot 垂直场景样板 | Multi-bot teams | `multi-bot` `delivery` `claude-code` `mit` | 0 / MIT | **GitHub** |
+| Useful Bots（模板站） | https://usefulbots.pages.dev （帖 https://x.com/karatademada/status/2111776285626097864 ） | 免费创作者向 Grok Bot 模板目录（Video/Growth/Launch 等），可作 Learning / Templates 灵感库；非 GitHub，质量需抽检 | Learning / Templates | `templates` `directory` `creators` | 站 / — | **X** @karatademada |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Routine「先比哈希再跑」 | https://x.com/fleyta88/status/2111755167309681010 （同构 https://x.com/gippp69/status/2111776276025315594 · https://x.com/biektive/status/2111757125168886133 ） | 每 5 分钟空跑烧额度；先 hash/diff，无变化毫秒跳过，有变化才起草并等人点。直接喂 `examples/routine-budget.md` | Routines | **X** |
+| 一 Bot 一文件 + HANDOFF.md | https://x.com/orvexus/status/2111750828260216961 | 每 Bot 只写一个产物文件（trending/pain/SPEC），每轮打开 HANDOFF.md。作战室文件交接短链 | Multi-bot / Learning | **X** @orvexus |
+| 中文：16 篇实战合集打包 | https://x.com/web30708/status/2111776554078646520 | 「从 0 到能交活」合集帖；可挂 Learning，逐篇核存活后再精选进 community-tutorials | Chinese / Learning | **X** @web30708 |
+| RongleCat/grok-bot-learn | https://github.com/RongleCat/grok-bot-learn | 铁柱学习站（bot.tiezhu.si / bot.fmcat.top）源码仓；README Learning 已收站点，可补「源码在此」旁链。无 SPDX 文件需注明 | Learning / Chinese | **GitHub** |
+| uniplanck/multipane-browser | https://github.com/uniplanck/multipane-browser | 非官方 macOS 多窗格浏览器专盯多 Bot 聊天：未读高亮、广播发送、用量只读。MIT，0★，Tools/Maybe | Skills / Tools | **GitHub** |
+| clipper ★ 复查 | https://github.com/RongleCat/grok-bot-clipper | 早窗 ★0 → 现 ★18；过「≥10★」暂缓门槛，可优先合入 Skills/Chinese | Skills / Chinese | gh |
+
+### Maybe / Skip（白天 ~19:15）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| RoyeBot/barcode-scanner | https://github.com/RoyeBot/barcode-scanner | 窄场景 PWA 扫码查产地，玩法薄 |
+| jolynestarchaser/War-room-agent-skills | https://github.com/jolynestarchaser/War-room-agent-skills | 无描述、无 License、1★ |
+| RDV1113「16 templates / SEO prompts」长文 | https://x.com/RDV1113/status/2111768380218712324 | 聚合营销文、文章链 404，跳过 |
+| Kontentsukpi「Department of Efficiency」 | https://x.com/Kontentsukpi/status/2111775640856764478 | 带金额宣称的采购审计故事，偏离 |
+| 一人公司 6 Bot / 7-Day Setup 再发 | Skaly__Bull / 0xfuckpoverty 等 | 与 ~15:12 AI_Acq / Side Hustle 同构，不升格 |
+| 交易桌 / Hyperliquid 同模板 | 多 | 偏离本仓 |
+| 空/个人 grok-bot 同名仓 | 多 | 0★ 无配方 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`amplifthq/openmeld`（★高、MIT、README Multi-bot/Self-hosted 缺口）— 短评写清「人+多 Agent 协作系统，含 Grok Bot」，并与 orca / Codync 区分。
+2. **Hardware 双新**：`my-botstack`（英文全栈+MCP fleet）与 `zongzhu-esp32-grok-bot`（中文圆屏 Webhook）并列；可与既有 groki-bot 互链。
+3. **委派层**：`AgwaB/grok-bot-agents` 与已推 `robbin/grokbot-local-agent` 对照（云电脑 CLI 路由 vs 本机 Pi+Webhook）。
+4. **可粘贴配方**：`grok-bot-cos`（CoS skills+routines）、`grokbot-delivery-team`（13 Bot 咨询队）、`grokbot-teamwork-UI`（可视化）。
+5. **升格**：clipper ★18 → 可出暂缓表；routine-budget 补「哈希跳过」一句。
+6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
