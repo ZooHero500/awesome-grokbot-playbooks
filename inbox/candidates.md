@@ -513,3 +513,52 @@
 2. **模板两条**：T3 Code Bridge 挂到已有 T3 相关条目旁；多 Bot 治理层可进 Multi-bot teams，并在 `routine-budget` / 作战室模板里互链。
 3. **Learning**：Second brain 视频 + 中文 Cursor Cloud 编程流；20 条中文精华待核原帖后再挂。
 4. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## 白天 2026-10-18 ~13:10（Asia/Shanghai）
+
+- **窗口**：白天 ~11:10 → ~13:10（约 2h）；周日
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-18T03:05Z，中英各一轮）+ `gh api` 搜近 2 天新建仓并读 README；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：eze-is/web-access（~11:10 已列）、AgwaB/grok-bot-audit、Claude2GrokBot、grokbot-sdk（README 已收）不重复列
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| Grok Bot Clipper | https://github.com/RongleCat/grok-bot-clipper | 非官方浏览器扩展（Chrome/Edge/Firefox）：网页剪藏、截图/文件、社媒帖收集进「素材篮」后直接发给自己的 Bot；不走第三方中转、不碰桌面端凭证。作者铁柱AGI（@cgnot996）基于自研 SDK 做，中英双 README | Skills & Tools / Chinese | `browser-extension` `clipper` `chinese` | 0 / NOASSERTION（README 称核心 MIT、第三方例外） | **X** @cgnot996 + gh（2026-10-18 新建） |
+| grokbot-lite | https://github.com/h1neolzr7f/grokbot-lite | 让 Grok Bot 在无桌面 Linux 服务器上跑：专用用户 + systemd，后台约 190 MB，不要 Xvfb、不用 root；1–2 GB 小 VPS 可当 24h 远程机。中文 README，带 shellcheck/bats | Self-hosted / Chinese | `self-hosted` `linux` `vps` `chinese` | 0 / MIT | **GitHub**（2026-10-17） |
+| ai-tool-inventory | https://github.com/stland6338/ai-tool-inventory | Skill：每天只读盘点 Claude Code / Codex / Grok Bot 的 skills、plugins、MCP、全局包并和上次 diff，新增或变更项顺手查可疑模式。装插件多的人的安全体检 | Skills & Playbooks / Routines | `skill` `security` `audit` `read-only` | 0 / MIT | **GitHub**（日文 README，2026-10-18） |
+| Duobot（模板） | https://x.com/legallyrenee/status/2111659030745665566 | 双人家庭版多 Bot：两人各装一个 Duobot，两个 Bot 互相同步，共用一个日历 + 一个 Trello 板（采购、账单、约会、旅行）。少见的「Bot 对 Bot」家庭配方，已上 marketplace | Multi-bot teams / Templates | `template` `multi-bot` `household` `trello` | 模板 / — | **X** @legallyrenee |
+| Motion Director v2（模板） | https://bots.jonbailey.xyz/motion-director （帖 https://x.com/SuddenlyJon/status/2111685969850044864 ） | 免费模板：逐镜头动画、逐帧锁画风、按人声用代码画口型、本机 GPU 放大、分块防崩渲染；做 MV/短视频的完整流水线 | Templates / Creative | `template` `video` `creative` | 模板 / 免费 | **X** @SuddenlyJon |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 官方 Bot 模板市场 | https://x.ai/bot/marketplace | README 目前只链单个模板页，没有市场入口；Official 节补一行即可 | Official & SDK | **X** @EvanWritesX |
+| bot.tiezhu.si 学习站 + 三篇中文长文 | https://bot.tiezhu.si/ （帖 https://x.com/cgnot996/status/2111402146159861840 ） | 中文 Grok Bot 学习站；作者三篇：额度续航指南、Webhook + 快捷指令知识入库流水线、Agent 系统备份方案。可挂 Chinese / Learning，和 Clipper 同作者 | Chinese solo-founder / Learning | **X** @cgnot996 |
+| 6 席位模拟交易台拆解（中文长文） | https://x.com/i/article/2111680703171878912 （帖 https://x.com/neohob/status/2111682579892232439 ） | 多 Bot 作战室样板：一个模型出力、另一个只答带概率的窄问题、硬规则写进代码、下单前必弹审批卡、全链路排在闲时价时段。全程模拟；短评只讲架构，勿带投资暗示 | Multi-bot teams / Learning | **X** @neohob |
+| 静默时段写进 routine 本体 | https://x.com/sisiliu517/status/2111677231101620361 | 发帖前再查一次时钟，越过截止就自跳过；配「每轮最多 2 条回复」「先查自己公开帖防重发」硬规则。可喂 `examples/routine-budget.md` | Routines | **X** @sisiliu517 |
+| jeffgreendesign 模板仓 | https://github.com/jeffgreendesign/air-watch | 作者把模板做成 MIT 仓：air-watch（空气质量只读告警，超阈值才报）、follow-through（家务责任提醒）。「模板即仓」样例，Maybe 进 Templates 尾 | Templates | **GitHub** |
+
+### Maybe / Skip（白天 ~13:10）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| dluxhu/grokbot-docker | https://github.com/dluxhu/grokbot-docker | 群晖 NAS / Docker 里浏览器跑官方 Linux 客户端 + 编码 CLI 工具箱；思路好但无 License，补 License 后再收（可与 grokbot-lite 并列 Self-hosted） |
+| apha404ai/grok-bot-skills | https://github.com/apha404ai/grok-bot-skills | 10 个交易 skill，0★、偏交易，跳过 |
+| TappNetwork/babblehq-grok-plugin | https://github.com/TappNetwork/babblehq-grok-plugin | 单一厂商插件，偏推广 |
+| WeirdBrains/grokbot_api | https://github.com/WeirdBrains/grokbot_api | Rust SDK 封装，0★、刚建；观察 |
+| Security Questionnaire Bot / Grokbot Money Glitch | Gumroad / 付费链 | 付费包，跳过 |
+| kaizenpromptlab 两模板 | https://x.com/kaizenpromptlab/status/2111671093463236772 | 主帖无链接，线程待补 |
+| ECC 28 万星 | — | 非 Grok Bot 专属，偏题 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`grok-bot-clipper`（中文作者、和 Clipper 学习站一起挂 Chinese）→ License 写「核心 MIT，有第三方例外」。
+2. **Self-hosted 补缺**：`grokbot-lite`（MIT）进主条；`grokbot-docker` 等 License。
+3. **Skills/安全**：`ai-tool-inventory` 可与 Bot Audit / 治理层模板互链。
+4. **Multi-bot**：Duobot（家庭双 Bot）+ 6 席位交易台拆解（只讲架构）。
+5. **Official**：补 `x.ai/bot/marketplace` 一行。
+6. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
