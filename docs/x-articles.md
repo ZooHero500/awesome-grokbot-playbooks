@@ -26,6 +26,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 上手四步：先装上下文、接工具、一个主 bot 派活、画清不可逆线](https://x.com/wutujiang1999/status/2112034366998315408) — @wutujiang1999 · 2026-10-19 · X 长文：建议先派一周重复三遍以上的活（增量简报、内容复用、收件分拣、过夜清单），安全规则用白话写；结尾是账号人设故事，可跳过 · 中文
 - [免翻墙能用，但长期大陆 IP 交互会让 bot 电脑出口 IP 被标到中国](https://x.com/chenmo/status/2110380646824816682) — @chenmo · 2026-10-14 · 踩坑：作者发现 bot 电脑出口经 Cloudflare 被标成中国后不少服务受限，网站行为异常时先查出口 IP · 中文
 - [安装桌面端立刻关掉「在这台电脑上执行」和「经此电脑转发流量」](https://x.com/fankaishuoai/status/2111740064409756037) — @fankaishuoai · 2026-10-18 · 云端 Bot 不该碰本机文件和密钥；关转发也避免暴露地址、被 Cloudflare 标错地区 · 中文
+- [花两千踩坑四大 Personal Agent，我用 3 个提示语把 33% 成功率救活了](https://x.com/aiwarts/status/2111812368972022217) — @aiwarts · 2026-10-18 · X 长文：Grok Bot、Muse、Dots、Cue 横测 12 个自媒体平台，作者自述只委托成功三分之一；附多任务进度表、Computer Use 采集「六道门」校验和融合日报三段提示语，日报落飞书再发邮件通知。文中对 Grok Bot 本机操控的判断是作者当时的体验 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -86,6 +87,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [本机定时任务放 Codex，云端任务放 Grok Bot](https://x.com/petergyang/status/2098614492066435228) — @petergyang · 2026-09-12 · 一句话的分工原则，帮你决定 routine 放哪边跑 · 英文
 - [教练 bot 把建议直接发给对应 bot](https://x.com/GuleidAmina/status/2104489747804471622) — @GuleidAmina · 2026-09-28 · 周报不再一大篇，改成逐条推给相关 bot、人确认后它自己改，适合 bot 多了以后做维护 · 英文
 - [每周找出 50 万粉以上账号跟你的互动](https://x.com/WaitWhat/status/2112086807093645796) — @WaitWhat · 2026-10-19 · 可直接装的 bot 模板：每周扫谁点赞、转发、引用或回复了你，生成一页可点回原帖的报告；只走免费 X 读取，适合做涨粉复盘 · 英文
+- [Grok Bot: A Routine Every 5 Minutes Costs 12x More Than Hourly (Full Course)](https://x.com/gippp69/status/2109235458383216811) — @gippp69 · 2026-10-11 · X 长文：routine 的频率才是额度大头，能用事件触发就别轮询，快频率前面先放一道「有没有变化」的便宜检查，夜间 routine 别等人批；成本数字是作者按 API 价估算，收藏九百多 · 英文
+- [导出用量 CSV 交给首席助理，让它找省额度的办法](https://x.com/tejas3732/status/2112040740083904980) — @tejas3732 · 2026-10-19 · 四步小技巧：用量页导出 CSV，上传给主 bot，让它按各 bot 的行为给优化建议；「每周省 10–15%」是作者自述 · 英文
 
 ### Skills 与连接
 
@@ -95,6 +98,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [给 bot 起邮箱名的小建议](https://x.com/petergyang/status/2108624122339287335) — @petergyang · 2026-10-10 · 让 bot 当首席助理时，邮箱别用你自己的名字，用它的「职位名」，抄送和约时间才自然 · 英文
 - [How to build a Second Brain that actually does the work (Grok Bot full course)](https://x.com/Argona0x/status/2110045296902164532) — @Argona0x · 2026-10-14 · X 长文：7 章在 bot 的电脑上搭「第二大脑」，资料存文件不靠聊天记忆，夜里自动归档、早上给一页、周日回顾；收藏两千多 · 英文
 - [Hermes, Grok Bot, and Instinct know everything about me thanks to a portable memory I built](https://x.com/mgonto/status/2111986349511159912) — @mgonto · 2026-10-19 · X 长文：把人脉、笔记、项目上下文放进自己的 Markdown wiki，经 MCP 和 REST 接口给多个 Agent 共用，换工具不用重讲一遍 · 英文
+- [让 Grok Bot 打电话帮你订餐厅](https://x.com/BrianRoemmele/status/2111812467500458135) — @BrianRoemmele · 2026-10-18 · 可分享的单一用途 bot：先问清人数、时间和回拨号码，复述后等你确认才拨，结束后转述店家原话并可写进日历；电话靠第三方通话服务 ClawCall 接入，护栏是不报卡号、不留语音、一次一通；被 @elonmusk 引用后爆火，改几个词就能约理发、修车、比价 · 英文
 
 ### 出海一人公司
 

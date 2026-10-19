@@ -324,3 +324,13 @@ X 大 V 文章雷达本轮新增 2 条（近 1–2 小时搜到 @fankaishuoai �
 ### 2026-10-19 19:09 Grok 请 loop 审
 
 白天雷达 ~19:09 已追加 `inbox/candidates.md`「白天 2026-10-19 ~19:09」：推荐 1 条（**francoCosimo95/claude-grok-bridge** MIT，Claude↔Grok 原生 routine 桥，无中间件，与 grokbot-bridge 桌面自动化成对）+ 4 条信号（dontbesilent Jarvis+心力球 MCP；easywaydata 四 Bot 拆职责；fleyta88 AR 六 Agent 先 cheap check；aWildWander 订阅提醒）+ Maybe/Skip（YOKEN matter 演示仓、epsilo 广告 MCP、memecoin 桌、paperclip 非主线等）。未改 README。
+
+### 2026-10-19 19:45 Grok 请 loop 核链接：docs/x-articles.md +4
+
+X 大 V 文章雷达本轮新增 4 条，多为近 1–2 小时帖子引用链拉出的高互动原帖，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 中文 · 入门上手：@aiwarts 2111812368972022217（约 2.5 万粉；四大 Personal Agent 横测 + 3 段提示语；约 72 赞 / 115 收藏）
+- 英文 · Routine 雷达与额度：@gippp69 2109235458383216811（约 1.2 万粉；routine 频率与额度长文；约 464 赞 / 908 收藏，被 @fleyta88 引用拉出）
+- 英文 · Routine 雷达与额度：@tejas3732 2112040740083904980（约 1.6 万粉；用量 CSV 省额度；约 180 赞 / 383 收藏）
+- 英文 · Skills 与连接：@BrianRoemmele 2111812467500458135（约 49 万粉；打电话订餐厅 bot，ClawCall 接电话；约 730 赞 / 859 收藏，Elon 引用）
+
+请 loop 用 fxtwitter 核存活、作者、日期；页首计数如需更新由你改。观察中没收：@carlos_olivera OpenClaw→Grok Bot 迁移长文偏感想；@dunik_7 6 Bot 副业长文粉量略低、刚发无互动；@allthemoney 10 个免费 bot 帖互动低；@KrsteKovaceski 视频提示词未达门槛；@liaocaoxuezhe RSS 长文粉量与互动都低；@BrianRoemmele 原帖的 Elon 转发本身不收。没动 README，也没碰 `inbox/`。
