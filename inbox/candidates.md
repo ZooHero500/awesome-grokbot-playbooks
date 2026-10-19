@@ -759,3 +759,69 @@
 3. **routine-budget**：补「发帖幂等：先搜再重试」+ 共享电脑烧额提醒一句。
 4. **升格**：clipper ★22；中文韧性（Chengengye）可挂 Chinese solo-founder 短链。
 5. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## 白天 2026-10-19 ~09:13（Asia/Shanghai）
+
+- **窗口**：白天 ~21:16（10-18）→ ~09:13（10-19）（约 12h 过夜窗）；周一上午
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-18T13:10Z，中英；github.com / template / skill 过滤）+ `gh search` created≥2026-10-18 + README/License 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：openmeld / my-botstack / AgwaB / grok-bot-cos / teamwork-UI / zongzhu / delivery-team / rosterroom / handoff-lab / blotato / coolxeo / clipper / kydlikebtc / majiayu000 / mergisi / Karol Tracker / Trond Research / ai-tool-inventory / grokbot-docker（~13:10–21:16 已列）不重复列；clipper 现 ★36（早窗 0→18→22→36）
+
+### 推荐入清单（白天新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| doublesq97-ui/bot-team-playbook | https://github.com/doublesq97-ui/bot-team-playbook | MIT 中文「一人一支 Bot 队」：8 场景 ×（1 主管+3–4 专员）、35 份可粘贴人设、7 段 prompt 骨架、共享目录验收 + 可装 `skill/SKILL.md` 自建队。与 war-room / rosterroom 互补（本仓偏可抄中文配方） | Multi-bot teams / Chinese | `multi-bot` `playbook` `chinese` `supervisor` `mit` | 1 / MIT | **GitHub**（昨夜建） |
+| noisyloop/Fleet-51 | https://github.com/noisyloop/Fleet-51 | MIT 本机舰队：Mac App + Ollama，每 bot 独立文件夹沙箱；今日发 v0.2.0。开源「自有订阅跑多 Agent」平替入口，可与 orca / Codync / openmeld 并列 Self-hosted | Self-hosted bots / Multi-bot | `self-hosted` `fleet` `ollama` `desktop` `mit` | 0 / MIT | **GitHub**（今日 release） |
+| dim-pan/overtime | https://github.com/dim-pan/overtime | Apache-2.0 自托管指挥台：对标 OpenAI dots / Grok Bot，VM 模板上跑 Claude Code/Codex 舰队（目标百级）、Mac/iOS 原生看工。README Multi-bot/Self-hosted 缺口；短评写清「自有服务器上的 always-on 员工」 | Self-hosted bots / Multi-bot | `self-hosted` `fleet` `vm` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（昨夜） |
+| ehteshambuildagents/grokbot（LocalCrew） | https://github.com/ehteshambuildagents/grokbot | Apache-2.0 本地队友平台（仓名 grokbot、产品名 LocalCrew）：Ollama / OpenAI 兼容、技能/例程/团队、浏览器+受限终端；明确非 xAI 附属。可作 Self-hosted 旁链（诚实列出 Known issues） | Self-hosted bots | `self-hosted` `ollama` `local` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（今晨） |
+| vliuyt/grok-bot-esp32-bridge | https://github.com/vliuyt/grok-bot-esp32-bridge | Apache-2.0 微雪圆屏 ESP32 陪伴宠 + **Mac 原生语音桥**接已登录 Grok Bot（非另起 STT/TTS）。与 my-botstack / zongzhu 同属 Hardware，差异是桌面 App 契约桥接（需注明非公开稳定 API） | Hardware / Chinese | `hardware` `esp32` `voice` `macos` `chinese` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（昨夜） |
+| shagghiesuperstar/veilbreaker | https://github.com/shagghiesuperstar/veilbreaker （帖 https://x.com/PixelRainbowNFT/status/2111893498454741468 ） | MIT 零依赖插件：扫隐藏注入/外泄 TTP（`safe_fetch`/`scan`/`egress_check`），带诚实 scope 与 SSRF 护栏。可喂 field-notes / 安全体检；短评强调「检测≠拦截宿主工具」 | Skills & Playbooks | `security` `prompt-injection` `plugin` `mit` | 0 / MIT | **X** + gh |
+| cs68614-hash/awesome-grokbot-templates | https://github.com/cs68614-hash/awesome-grokbot-templates （站 https://grokbot-templates.com ） | CC0 多语种模板目录：只收官方 `x.ai/bot` 分享链（不重托管 prompt），站可搜可提交。与 kydlikebtc/majiayu（live-share 索引）互补：本仓偏分类浏览站 | Learning | `awesome` `templates` `directory` `cc0` | 3 / CC0-1.0 | **GitHub**（今日仍推） |
+| Fleet Lead（模板） | https://x.ai/bot/mOunuXA9lKjg8sWImIzgy （帖 https://x.com/CaliLumberJack/status/2111981547381211560 ） | 多 Bot 总指挥：浏览器轮流、只上报完工、对外动作等人点。可作 Multi-bot / Templates 旁链，与 supervisor 模式互证 | Multi-bot teams / Templates | `template` `multi-bot` `browser` `approval` | 模板 / — | **X** @CaliLumberJack |
+| NanNnnn0/codex-relay | https://github.com/NanNnnn0/codex-relay | MIT Windows-first MCP：Grok Bot 编码任务委派 Codex（worktree + session 队列）。与 AgwaB / robbin/local-agent 同向，短评点「Windows 命名管道」差异 | Skills & Playbooks | `skill` `codex` `mcp` `windows` `mit` | 0 / MIT | **GitHub** |
+| panpanpandas/ai-video-maker-plugin | https://github.com/panpanpandas/ai-video-maker-plugin | MIT-0 视频 Skill：先报价→批额度→幂等 task/resume；带 provenance 哈希。可作「花钱动作必须先批」样板，挂 Skills / routine-budget | Skills & Playbooks | `skill` `video` `budget` `mit-0` | 0 / MIT-0 | **GitHub**（今晨） |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Claude Code 手机派活模板 | https://x.ai/bot/aB0M7wQOAcFgd_G0rTEWF （帖 https://x.com/thecsguy/status/2111986186784743932 ） | Mac 上 Claude Code：短信派活→同 session 回执。与 AgwaB/robbin 同构，作 Templates 短链即可 | Templates / Skills | **X** @thecsguy |
+| 装模板前先读清单 | https://x.com/kaizenpromptlab/status/2111986652369256672 | 模板会原样复制 skills/memories/integrations，当软件安装审。可挂 Learning / field-notes | Learning | **X** |
+| Claude→GrokBot 权限对齐 | https://x.com/ChenAaron/status/2111987811872333904 | 让 Claude 据已有 rules/hooks 总结 ask-first / always，再写入 GrokBot 配置。护栏迁移短链 | Skills / Learning | **X** @ChenAaron |
+| EverOS 三层记忆（团队交接） | https://x.com/R7Ruk/status/2111984352754339878 | User / Agent Memory 分层 + Case→Skill；Grok Bot 可走 API/MCP。作 Multi-bot 记忆信号（勿升格付费站） | Multi-bot / Learning | **X** @R7Ruk |
+| 网页变更只叫醒 | https://x.ai/bot/CEK-EsCiOWcB8NBzSYnEx （帖 https://x.com/teeRex247/status/2111981455077466525 ） | 贴链+关注条件→快照，变了才 ping。喂 `examples/routine-budget.md`（与哈希跳过同向） | Routines | **X** @teeRex247 |
+| 中文：任务怎么说清楚 01/10 | https://x.com/santoslee_me/status/2111989490885841110 | 目标/输入/红线/产出/验收五件套；可挂 Learning / Chinese | Chinese / Learning | **X** @santoslee_me |
+| 中文：Grok Bot 连微信实操 | https://x.com/bilion1983/status/2111975514059702352 | 文章向实操手册；README 已有 grok-bot-wechat，作旁链核存活即可（勿写内部路径） | Chinese | **X** @bilion1983 |
+| 中文：一人内阁第 1 篇 | https://x.com/zsredeemer/status/2111827456739152348 | 「别再养全能 Agent」分角色内阁；与 bot-team-playbook 同向信号 | Chinese / Multi-bot | **X** @zsredeemer |
+| X 不可见字符注入提醒 | https://x.com/momiji_manjyuu/status/2111831951841911286 （多转） | 让 Bot 读 X 时可能踩隐藏 prompt injection；与 veilbreaker 互链 field-notes | Learning / Security | **X** |
+| clipper ★ 再复查 | https://github.com/RongleCat/grok-bot-clipper | ★22→★36；继续优先合入 Skills/Chinese | Skills / Chinese | gh |
+
+### Maybe / Skip（白天 ~09:13）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| Statusnone420/agent-skills | https://github.com/Statusnone420/agent-skills | README 已写 Cursor/Grok Bot host **retired**，主打 Codex/Claude | 
+| cahenesy/grokbot-messages | https://github.com/cahenesy/grokbot-messages | Apache-2.0 干净室 Messages MCP，但 Phase 1 **尚不可用**；观望 |
+| alinaqi/phrok-plugin | https://github.com/alinaqi/phrok-plugin | 真电话 MCP，但托管付费分钟包；作信号即可，不进主清单 |
+| lukewang4862/AI-Usage | https://github.com/lukewang4862/AI-Usage | macOS 用量浮窗，无 SPDX License |
+| lenML/gbot-ui | https://github.com/lenML/gbot-ui | React UI 复刻库，偏前端非玩法配方 |
+| Boom-Vitt creator-packs / bbnw | 两仓 | 泰语模板，无 License |
+| SOWashignton2026/price-check-extension | https://github.com/SOWashignton2026/price-check-extension | 窄场景比价扩展 |
+| promptmates/grokbots | https://github.com/promptmates/grokbots | 个人模板堆，薄 |
+| brain-xiang/grok-studio | https://github.com/brain-xiang/grok-studio | Roblox 一键，偏离本仓 |
+| PuroBots Ko-fi 付费包 | https://x.com/PuroBots/status/2111984435532857673 | 付费 PDF 包，偏离开源清单 |
+| 交易自动跟单 / Hyperliquid | 多 | 偏离本仓 |
+| 空/个人 grok-bot 同名仓 | 多 | 0★ 无配方 |
+| bl888m Full Course 再发 | 早窗已 Skip（链易 404） | 不升格 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`doublesq97-ui/bot-team-playbook`（中文可抄多 Bot 主管模式）进 Multi-bot / Chinese；短评点 8 场景 + 共享目录验收，可与 `examples/war-room.md` / rosterroom 互链一句。
+2. **Self-hosted 三新**：Fleet-51（本机 Ollama 舰队 App）、overtime（自有 VM 指挥台）、LocalCrew（本地队友）— 短评区分「桌面 App / 服务器舰队 / 本机 Ollama」，并与 orca·Codync·openmeld 对照。
+3. **Hardware**：`vliuyt/grok-bot-esp32-bridge` 与已推 my-botstack / zongzhu 并列，强调 Mac 原生语音桥 + 非公开 API 契约风险。
+4. **安全**：veilbreaker 进 Skills；routine-budget / field-notes 补「装模板先审」+「X 隐藏注入」+「网页变更才叫醒」。
+5. **Learning**：`awesome-grokbot-templates`（站）与 kydlikebtc/majiayu 三分法写清；Fleet Lead / Claude Code 派活作 Templates 旁链。
+6. **升格**：clipper ★36。
+7. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
