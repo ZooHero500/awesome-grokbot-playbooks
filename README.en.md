@@ -1,53 +1,71 @@
-# Awesome Grok Bot Playbooks
+<p align="center">
+  <img src="assets/social-preview.png" width="720" alt="Grok Bot playbooks">
+</p>
 
-[![Stars](https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat)](https://github.com/sit-in/awesome-grokbot-playbooks/stargazers)
-[![link-check](https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg)](https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<h1 align="center">Awesome Grok Bot Playbooks</h1>
 
-[中文](README.md) | **English** | [Roadmap](ROADMAP.md)
+<p align="center"><b>Copy-paste Grok Bot recipes + a verified ecosystem list, Chinese-first</b></p>
 
-> Curated Grok Bot / multi-agent playbooks. Each entry = short review + link + tags. Recipes are copy-paste ready.
+<p align="center">
+  <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
+  <img src="https://img.shields.io/badge/entries-73-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/recipes-9-blueviolet?style=flat-square" alt="Recipes">
+  <img src="https://img.shields.io/badge/last%20verified-2026--10--19-success?style=flat-square" alt="Last verified">
+  <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
+  <img src="https://img.shields.io/badge/unofficial-lightgrey?style=flat-square" alt="Unofficial">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT"></a>
+</p>
 
-**73 entries · 9 copy-paste recipes · 2 tutorial pages** ([maintainer's tutorials](docs/sitin-tutorials.md), [25 community tutorials](docs/community-tutorials.md), both in Chinese)
+<p align="center">
+  <a href="README.md">中文</a> · <b>English</b> · <a href="#-3-minute-start">3-minute start</a> · <a href="ROADMAP.md">Roadmap</a> · <a href="#-contributing">Contributing</a>
+</p>
 
-**Start with these 3**: [Routine budget check](examples/routine-budget.md) (stop the bleeding when usage runs low) · [War room](examples/war-room.md) (multi-bot roles + human gate) · [X radar](examples/x-radar.md) (daily fetch + digest). Recipes are in Chinese.
+## ⚡ Why this list
 
-**How this repo is maintained**: Grok Bot scouts X and GitHub every day, Claude Code verifies each candidate via API and writes the review, and a human only makes the calls. The full collaboration log is public in [`.collab/`](.collab/README.md).
+| | |
+|---:|---|
+| **73** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **9** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
+| **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
+| **25** | curated community tutorials plus the maintainer's own series, each checked for liveness and date |
+| **2 AIs** | maintain it: Grok Bot scouts daily, Claude Code verifies and writes reviews, a human makes the calls. The full log is public in [`.collab/`](.collab/README.md) |
 
-**Testers wanted**: most recipes have not yet been run end-to-end in Grok Bot. Claim a [testing issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test); once it runs, the recipe gets ✅ and your name.
+Compared with the English ecosystem index [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot), which is broad, this repo focuses on **solo founders, multi-bot war rooms, radar routines and copy-paste recipes**. Quality over quantity.
 
-**Verification marks**: ✅ tested = run end-to-end in Grok Bot　🔍 reviewed = docs and config read, not run　no mark = repo confirmed to exist and be maintained
+## 🤖 What is Grok Bot
 
-This repo is **not** a Grok Bot client and **not** affiliated with xAI. It only curates and reviews.
+Grok Bot is the AI-teammate product xAI and Cursor launched together on 2026-08-11 (beta). Each bot has a name and a role, and your bots share one always-on cloud computer with a browser, files and a terminal. You give them work, schedule **Routines**, teach them **Skills**, or import ready-made bots from the [marketplace](https://x.ai/bot/marketplace).
 
-## 3-minute start
+It is a different product from the Grok chat assistant and the Grok Build coding CLI.
+
+## 🚀 3-minute start
 
 1. **Learn first**: read `AGENTS.md` and the failure log in [grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes)
 2. **Want a ready-made team**: pick an `installable` team on [botteams](https://github.com/ellelion/botteams) and paste its installer prompt into Grok Bot
 3. **Want to orchestrate yourself**: follow the [war room recipe](examples/war-room.md): split roles, hand off via files, add a human gate before publishing
 4. **Don't want the cloud**: see [Self-hosted bots](#self-hosted-bots)
 
-## How it differs from awesome-grok-bot
+**Start with these 3 recipes** (written in Chinese)
 
-[ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) is a broad ecosystem index. This repo focuses on:
+| Recipe | What it solves | For |
+|---|---|---|
+| [Routine budget check](examples/routine-budget.md) | Usage running out: pause all, triage, re-enable one by one | People running many Routines |
+| [War room](examples/war-room.md) | 3–6 bots hand off via files only, human gate before publishing | Anyone splitting work across bots |
+| [X radar](examples/x-radar.md) | One daily pass over X, digest only real signals, silence otherwise | Content and go-global builders |
 
-- **Solo founders going global**: one person running research, content and support with bots
-- **War rooms**: orchestrating multiple bots that split work
-- **Radar routines**: scheduled fetch → summarize → notify pipelines
-- **Sanitized recipes**: prompts and configs you can copy, with keys and private data removed
+**Legend**: each entry = `[name](link) - review. Tags`; ✅ tested · 🔍 reviewed; "Recipe:" = written in this repo, "Template:" = one-click import into Grok Bot.
 
-Quality over quantity.
+## 📚 Contents
 
-## Contents
-
-- [Official & SDK](#official--sdk)
-- [Self-hosted bots](#self-hosted-bots)
-- [Skills & Playbooks](#skills--playbooks)
-- [Multi-bot teams](#multi-bot-teams)
-- [Routines & Digests](#routines--digests)
-- [Chinese solo-founder](#chinese-solo-founder)
-- [Hardware](#hardware)
-- [Learning](#learning)
+- [Official & SDK](#official--sdk) (4) - official docs, marketplace, SDKs
+- [Self-hosted bots](#self-hosted-bots) (10) - stay off the cloud, bring your own model
+- [Skills & Playbooks](#skills--playbooks) (20) - skills, MCP, templates, copy-paste profiles
+- [Multi-bot teams](#multi-bot-teams) (15) - war rooms, coordinators, multi-agent work
+- [Routines & Digests](#routines--digests) (5) - scheduled radars, weekly reviews, usage control
+- [Chinese solo-founder](#chinese-solo-founder) (5) - global support, WeChat, Chinese configs
+- [Hardware](#hardware) (2) - give your bot a physical front end
+- [Learning](#learning) (12) - tutorials, handbooks, template indexes
 
 ---
 
@@ -73,10 +91,10 @@ Quality over quantity.
 
 ## Skills & Playbooks
 
+- [Recipe: Teach-a-Task](examples/teach-a-task.md) - Pairs with Grok Bot's built-in Teach a Task: set boundaries before the demo, turn it into a reviewable skill card after, dry-run before letting go. (Chinese) Tags: `example` `skill` `teach-a-task`
 - [grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - Engineering kit for templates: spec, Bot Ready score, team / skill / routine catalog. Check its structure before writing your own. Tags: `templates` `spec` `routine`
 - [botskills](https://github.com/PramodDutta/botskills) - Paste-ready bot setups; each declares the one action it never takes without you. Good guardrail pattern. Tags: `skills` `guardrails`
 - [grokbot-for-gtm](https://github.com/bcharleson/grokbot-for-gtm) - Full outbound GTM motion from list building and enrichment to reply handling. Tags: `playbook` `gtm` `outbound`
-- [Recipe: Teach-a-Task](examples/teach-a-task.md) - Pairs with Grok Bot's built-in Teach a Task: set boundaries before the demo, turn it into a reviewable skill card after, dry-run before letting go. (Chinese) Tags: `example` `skill` `teach-a-task`
 - [grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) - Unofficial notes from the xAI team's 72-hour live build: rules, 69 roles, 9 role playbooks and 40 failures; `AGENTS.md` is drop-in. Tags: `playbook` `field-notes` `agents-md`
 - [grok-bot-jev](https://github.com/Bodila51/grok-bot-jev) - A cheap classification step before expensive research or retries; worth copying the idea. Depends on the third-party TypeSafe service. Tags: `skill` `cost` `decision-layer`
 - [agent-cookie-sync](https://github.com/markfulton/agent-cookie-sync) - Hands your signed-in Chrome sessions to a cloud bot without pasting passwords; that still hands over account access, so use low-sensitivity accounts only. Tags: `chrome` `session` `security`
@@ -96,11 +114,11 @@ Quality over quantity.
 
 ## Multi-bot teams
 
+- [Recipe: war room](examples/war-room.md) - 3–6 bots hand off via files only, with a human gate before publishing; this repo's own Claude ⇄ Grok workflow. (Chinese) Tags: `example` `multi-bot` `war-room`
+- [Recipe: four dev roles](examples/dev-four-roles.md) - Spec / repro / PR / verify split across four bots so producing and judging stay separate; the human only approves the spec and merges. (Chinese) Tags: `example` `dev` `guardrails`
 - [botteams](https://github.com/ellelion/botteams) 🔍 - A whole team (bots + group chat + routines) in one markdown file; a good war-room orchestration example. Note `connector_modes` is prompt wording, not a permission. Tags: `multi-bot` `team` `routine`
 - [grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) 🔍 - Spec / repro / PR / verify as four separate bots; hand-off is not approval, and the verifier must run in its own conversation. CC BY 4.0, attribute when adapting. Tags: `multi-bot` `dev` `guardrails`
 - [overnight](https://github.com/Archive228/overnight) - Six-bot short-video crew with sourced material and a mandatory human review before publishing. Tags: `multi-bot` `content` `human-in-loop`
-- [Recipe: war room](examples/war-room.md) - 3–6 bots hand off via files only, with a human gate before publishing; this repo's own Claude ⇄ Grok workflow. (Chinese) Tags: `example` `multi-bot` `war-room`
-- [Recipe: four dev roles](examples/dev-four-roles.md) - Spec / repro / PR / verify split across four bots so producing and judging stay separate; the human only approves the spec and merges. (Chinese) Tags: `example` `dev` `guardrails`
 - [grokbot-gtm-team](https://github.com/timscheuerai/grokbot-gtm-team) - 13 GTM bots, their rules, and a one-chat setup prompt; Grok Bot orchestrates, Claude Code / Codex do the work. Tags: `multi-bot` `gtm` `claude-code`
 - [AgentPeerChat](https://github.com/AgenticsWorks/AgentPeerChat) - Self-hosted agent-to-agent messaging, one-click Cloudflare deploy; puts Grok Bot and other agents in one channel. Tags: `multi-bot` `messaging` `cloudflare`
 - [noodle](https://github.com/pdparchitect/noodle) - Mac / iOS multi-agent group chat reusing your existing subscriptions (Codex, Claude Code, Grok Build, ...). Tags: `multi-bot` `macos` `desktop`
@@ -147,13 +165,34 @@ Quality over quantity.
 - [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - Community template directory that lists only official x.ai/bot share links, never rehosted prompts, in several languages; the companion site grokbot-templates.com returned an error on 10/19, so use the repo. CC0. Tags: `awesome` `templates` `directory`
 - [Useful Bots](https://usefulbots.pages.dev/) - Free Grok Bot templates for creators, grouped by video, growth, launch and more; a personal site we have not spot-checked one by one, so browse for ideas. Tags: `templates` `creators` `directory`
 - [Recipe template](examples/_template.md) - Format to follow before submitting a recipe: scenario / input / steps / prompt / output / pitfalls. (Chinese) Tags: `template` `learning`
-
 ---
 
-## Contributing
+## ⚠️ Security notice
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) (Chinese). English issues and PRs are welcome.
+- Importing a template, installing a skill or connecting an MCP server all **hand permissions to a bot**. When a template page says it "may act on your behalf", check which accounts it can touch first
+- Entries involving cookie sync, full disk access, SSH or tunnels flag the risk in their review; use low-sensitivity accounts and switch them off afterwards
+- Never paste keys, tokens or billing screenshots into prompts or public repos
+- Community templates and prompts vary in quality. This list verifies existence, license and relevance, **not security**
+
+## 🤝 Contributing
+
+- **Suggest an entry**: open a [suggestion issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues/new/choose) with the link and one line on why
+- **Submit a recipe**: follow the [recipe template](examples/_template.md) and open a PR; sanitization rules are in [CONTRIBUTING.md](CONTRIBUTING.md) (Chinese)
+- **Claim a test run**: most recipes have not been run end-to-end yet. Claim a [testing issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test); once it runs in your Grok Bot, the recipe gets ✅ and your name
+- **Report a dead link**: open a "broken" issue
+
+English issues and PRs are welcome.
+
+## 📈 Star history
+
+<a href="https://star-history.com/#sit-in/awesome-grokbot-playbooks&Date">
+  <img src="https://api.star-history.com/svg?repos=sit-in/awesome-grokbot-playbooks&type=Date" alt="Star History" width="600">
+</a>
+
+## Disclaimer
+
+A community-curated list. **Not** a Grok Bot client, and not affiliated with or endorsed by xAI or Cursor. Grok and Grok Bot are trademarks of their respective owners. Reviews are the editors' opinions; check official docs before acting.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) © sitin

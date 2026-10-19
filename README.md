@@ -1,70 +1,82 @@
-# Awesome Grok Bot Playbooks
+<p align="center">
+  <img src="assets/social-preview.png" width="720" alt="Grok Bot 中文配方库">
+</p>
 
-[![Stars](https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat)](https://github.com/sit-in/awesome-grokbot-playbooks/stargazers)
-[![link-check](https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg)](https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<h1 align="center">Awesome Grok Bot Playbooks</h1>
 
-**中文** | [English](README.en.md) | [Roadmap](ROADMAP.md)
+<p align="center"><b>Grok Bot 中文配方库：拿来就能跑的配方 + 逐条核实的生态清单</b></p>
 
-> 中文向 Grok Bot / 多 Agent 玩法清单。每条 = 短评 + 链接 + 标签；配方可直接抄。
+<p align="center">
+  <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-73-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-9-blueviolet?style=flat-square" alt="Recipes">
+  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--19-success?style=flat-square" alt="Last verified">
+  <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
+  <img src="https://img.shields.io/badge/%E9%9D%9E%E5%AE%98%E6%96%B9-lightgrey?style=flat-square" alt="Unofficial">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT"></a>
+</p>
 
-**73 个条目 · 9 个可抄配方 · 2 个教程页**（[作者教程](docs/sitin-tutorials.md)、[社区教程 25 篇](docs/community-tutorials.md)）
+<p align="center">
+  <b>中文</b> · <a href="README.en.md">English</a> · <a href="#-3-分钟上手">3 分钟上手</a> · <a href="ROADMAP.md">路线图</a> · <a href="#-参与贡献">参与贡献</a>
+</p>
 
-**先抄这 3 个**：[Routine 额度体检](examples/routine-budget.md)（额度快烧光时先止血）· [作战室](examples/war-room.md)（多 bot 分工 + 人工闸门）· [X 雷达](examples/x-radar.md)（每日抓取 + 摘要推送）
+## ⚡ 为什么看这个仓库
 
-**本仓怎么维护**：Grok Bot 每天在 X 和 GitHub 找料，Claude Code 逐条用 API 核实、写短评，人只拍板。全部协作记录公开在 [`.collab/`](.collab/README.md)。
+| | |
+|---:|---|
+| **73** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **9** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
+| **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
+| **25** | 篇社区教程精选，加上作者自己的连载索引，每条都核过存活和发布日期 |
+| **2 个 AI** | 在维护：Grok Bot 每天找料，Claude Code 核实、写短评，人只拍板。协作记录全公开在 [`.collab/`](.collab/README.md) |
 
-**招募实测**：配方大多还没在 Grok Bot 里真机跑过。认领一个[实测 issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test)，跑通后配方会标 ✅ 并署你的名。
+和英文生态导航 [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) 的分工：它覆盖面广；本仓侧重**中文一人公司、多 Bot 作战室、雷达 Routine 和可抄配方**。不拼数量，宁缺毋滥。
 
-**验证标记**：✅ 实测 = 在 Grok Bot 里真机跑通　🔍 已审 = 读过文档与配置、未真机跑　无标记 = 仅核实仓库存在且在维护
+## 🤖 Grok Bot 是什么
 
-本仓**不是** Grok Bot 客户端，也**不是** xAI 官方项目，只做整理与点评。
+Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）。每个 bot 有名字、有岗位，共用一台一直开着的云电脑（浏览器、文件、终端都有）。你可以派活、让它定时跑 **Routine**、教它 **Skill**，也可以从 [模板市场](https://x.ai/bot/marketplace) 一键导入别人做好的 bot。
 
-## 3 分钟上手
+它和聊天助手 Grok、编码命令行 Grok Build 是三个不同的产品。
+
+## 🚀 3 分钟上手
 
 1. **先补课**：读 [grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) 的 `AGENTS.md` 和翻车记录，少走弯路
 2. **要现成团队**：去 [botteams](https://github.com/ellelion/botteams) 挑一个 `installable` 团队，复制 installer prompt 粘进 Grok Bot
 3. **要自己编排**：照 [作战室配方](examples/war-room.md) 拆角色、用文件交接、发布前加人工闸门
-4. **不想上云**：看 [Self-hosted bots](#self-hosted-bots)
+4. **不想上云**：看 [自托管与平替](#自托管与平替)
 
-## 与 awesome-grok-bot 的差异
+**先抄这 3 个配方**
 
-[ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) 是英文生态导航，覆盖面广。本仓侧重：
+| 配方 | 解决什么 | 适合谁 |
+|---|---|---|
+| [Routine 额度体检](examples/routine-budget.md) | 额度快烧光：先全停、再分级、逐条重开 | 开了很多 Routine 的人 |
+| [作战室](examples/war-room.md) | 3–6 个 bot 只靠文件交接，发布前过人工闸门 | 想让多个 bot 分工的人 |
+| [X 雷达](examples/x-radar.md) | 每天扫一轮 X，只推有信号的摘要，没信号不打扰 | 做内容、做出海的人 |
 
-- **中文出海一人公司**：一个人怎么用 bot 撑起调研、内容、客服
-- **作战室**：多 bot 分工协作的编排方式
-- **雷达 routine**：定时抓取、摘要、推送的固定流程
-- **脱敏配方**：可直接抄的 prompt / 配置，已去掉 key 与隐私
+**图例**：每条＝`[名称](链接) - 短评。标签`；✅ 实测 · 🔍 已审；「配方：」是本仓自写，「模板：」可在 Grok Bot 里一键导入。
 
-不拼条目数量，宁缺毋滥。
+## 📚 目录
 
-## 目录
-
-- [Official & SDK](#official--sdk)
-- [Self-hosted bots](#self-hosted-bots)
-- [Skills & Playbooks](#skills--playbooks)
-- [Multi-bot teams](#multi-bot-teams)
-- [Routines & Digests](#routines--digests)
-- [Chinese solo-founder](#chinese-solo-founder)
-- [Hardware](#hardware)
-- [Learning](#learning)
-
-## 条目格式
-
-```
-- [名称](链接) - 一句话短评。标签：`tag1` `tag2`
-```
+- [官方与 SDK](#官方与-sdk)（4）- 官方文档、模板市场、SDK
+- [自托管与平替](#自托管与平替)（10）- 不想上云、想用自己的模型
+- [技能与玩法](#技能与玩法)（20）- skill、MCP、模板、可粘贴人设
+- [多 Bot 团队](#多-bot-团队)（15）- 作战室、总指挥、多 agent 协作
+- [Routine 与摘要](#routine-与摘要)（5）- 定时雷达、周报、额度管理
+- [中文一人公司](#中文一人公司)（5）- 出海客服、微信接入、中文配置
+- [硬件](#硬件)（2）- 给 bot 一个实体入口
+- [学习资源](#学习资源)（12）- 教程、手册、模板索引
 
 ---
 
-## Official & SDK
+## 官方与 SDK
 
 - [xAI API Docs](https://docs.x.ai) - 官方 API 文档，模型列表、计费、工具调用都以这里为准。标签：`official` `api` `docs`
 - [xai-org on GitHub](https://github.com/xai-org) - 官方开源组织，SDK 与开源模型权重入口。标签：`official` `sdk`
 - [grokbot-sdk](https://github.com/adam91holt/grokbot-sdk) - 非官方 TypeScript SDK：连本机 Grok Bot 宿主的本地网关，读写名册、记忆和对话记录；宿主没开时也能直接读本地数据目录。要网关 token，只在自己机器上用。标签：`sdk` `typescript` `unofficial`
 - [Grok Bot 模板市场](https://x.ai/bot/marketplace) - 官方模板目录，按销售、工程、市场、设计、运营、个人分类，点 Add 导入到自己的 Grok Bot；本仓收的单个模板大多能在这里找到。标签：`official` `templates` `marketplace`
 
-## Self-hosted bots
+## 自托管与平替
 
 - [XinyunOpenBot](https://github.com/dongpen-max/XinyunOpenBot) - 中文优先的开源替代，默认简中，支持 OpenAI 兼容接口与 API 中转站，国内网络环境先看它。标签：`self-hosted` `chinese` `desktop`
 - [OpenGrokBot](https://github.com/wolfqing/OpenGrokBot) - 基于 OpenClaw 的自托管方案，每个 bot 一台自己的机器、模型自带，想把数据留在本地时的首选参考。标签：`self-hosted` `openclaw` `byo-model`
@@ -77,12 +89,12 @@
 - [Codync](https://github.com/leepokai/Codync) - 开源平替：把本机的 Claude Code、Codex、Cursor、Grok Build 等 40 多种编码 agent 变成可派活的 bot，手机和电脑都能发消息。标签：`self-hosted` `multi-agent` `acp`
 - [openbot（nightly-labs）](https://github.com/nightly-labs/openbot) - 本地优先的桌面工作区：Codex、Claude、Grok 各有工作区和任务队列，能从 Grok Bot 导出 agent 迁过来。和 CopilotKit/OpenBot 不是同一个项目；许可证是 PolyForm 非商用，商用要另外授权。标签：`self-hosted` `desktop` `noncommercial`
 
-## Skills & Playbooks
+## 技能与玩法
 
+- [配方：Teach-a-Task](examples/teach-a-task.md) - 配合 Grok Bot 自带的 Teach a Task：演示前定边界，演示后整理成可审的技能卡，先干跑再放手。标签：`example` `skill` `teach-a-task`
 - [grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - 模板工程化：规范 + Bot Ready 打分 + team / skill / routine 目录，写自己的配方前先对照它的结构。标签：`templates` `spec` `routine`
 - [botskills](https://github.com/PramodDutta/botskills) - 可直接粘贴的 bot 设定，每条都声明「哪个动作必须先问你」，护栏写法值得抄。标签：`skills` `guardrails`
 - [grokbot-for-gtm](https://github.com/bcharleson/grokbot-for-gtm) - 完整外呼 GTM 流程：建名单、补全、发信到处理回复，出海冷启动获客可参考。标签：`playbook` `gtm` `outbound`
-- [配方：Teach-a-Task](examples/teach-a-task.md) - 配合 Grok Bot 自带的 Teach a Task：演示前定边界，演示后整理成可审的技能卡，先干跑再放手。标签：`example` `skill` `teach-a-task`
 - [grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) - 非官方整理：xAI 团队 72 小时直播搭产品的规则、69 个角色、9 套岗位 playbook 和 40 条翻车记录，`AGENTS.md` 可直接拷。标签：`playbook` `field-notes` `agents-md`
 - [grok-bot-jev](https://github.com/Bodila51/grok-bot-jev) - 在昂贵的调研/重试前加一层低成本分类决策，省调用量的思路值得抄；依赖第三方 TypeSafe 服务。标签：`skill` `cost` `decision-layer`
 - [agent-cookie-sync](https://github.com/markfulton/agent-cookie-sync) - 把本机 Chrome 已登录站点交给云端 bot，不贴密码；等于把账号权限交出去，只给低敏账号用。标签：`chrome` `session` `security`
@@ -100,13 +112,13 @@
 - [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 50 多个可粘贴的 bot 人设和销售、工程、客服、市场、运营起步队：发一个链接给 Setup bot，它就把整队建好。CC0。标签：`profiles` `teams` `templates`
 - [模板：Research by Trond](https://x.ai/bot/v3WI0YuJAr1DLoYdYVXh8) - 第三方模板，可一键导入：只读研究 bot，从公开帖子和网页出带引用的简报，给选题、视频攒素材包，发布前帮你核事实。标签：`template` `research` `read-only`
 
-## Multi-bot teams
+## 多 Bot 团队
 
+- [配方：作战室](examples/war-room.md) - 3–6 个 bot 只靠文件交接、不串聊，发布前过人工闸门；本仓 Claude ⇄ Grok 协作就是这套。标签：`example` `multi-bot` `war-room`
+- [配方：研发四角色](examples/dev-four-roles.md) - 需求 / 复现 / 出 PR / 验 PR 拆给四个 bot，产出和裁决分开，人只在批准 spec 和合并两处点头。标签：`example` `dev` `guardrails`
 - [botteams](https://github.com/ellelion/botteams) 🔍 - 一个 markdown 文件装一整支团队（bot + 群聊 + routine），看作战室怎么一次性编排的好样例；注意 `connector_modes` 只是 prompt 约束，不是权限。标签：`multi-bot` `team` `routine`
 - [grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) 🔍 - 需求 / 复现 / 出 PR / 验 PR 四角色拆开，交接 ≠ 批准，验 PR 的 bot 必须单独会话；改编需按 CC BY 4.0 署名。标签：`multi-bot` `dev` `guardrails`
 - [overnight](https://github.com/Archive228/overnight) - 六 bot 短视频生产线，素材带出处，发布前必须人审，内容号可参考它的人工闸门设计。标签：`multi-bot` `content` `human-in-loop`
-- [配方：作战室](examples/war-room.md) - 3–6 个 bot 只靠文件交接、不串聊，发布前过人工闸门；本仓 Claude ⇄ Grok 协作就是这套。标签：`example` `multi-bot` `war-room`
-- [配方：研发四角色](examples/dev-four-roles.md) - 需求 / 复现 / 出 PR / 验 PR 拆给四个 bot，产出和裁决分开，人只在批准 spec 和合并两处点头。标签：`example` `dev` `guardrails`
 - [grokbot-gtm-team](https://github.com/timscheuerai/grokbot-gtm-team) - 13 个 GTM bot + 规则 + 一句话建队 prompt，Grok Bot 编排、Claude Code/Codex 干活。标签：`multi-bot` `gtm` `claude-code`
 - [AgentPeerChat](https://github.com/AgenticsWorks/AgentPeerChat) - 自托管的 agent 间消息通道，一键部署到 Cloudflare，可把 Grok Bot 和其他 agent 拉进同一频道。标签：`multi-bot` `messaging` `cloudflare`
 - [noodle](https://github.com/pdparchitect/noodle) - Mac / iOS 多 agent 群聊客户端，复用已有订阅（Codex、Claude Code、Grok Build 等），本地组队的轻量方案。标签：`multi-bot` `macos` `desktop`
@@ -118,7 +130,7 @@
 - [openmeld](https://github.com/amplifthq/openmeld) - 开源的人机协作系统：人和 Codex、Claude Code、Grok Bot、Cursor 等 agent 共享上下文、分派任务、并行干活，桌面端可用；同类里星标最高之一，README 有和同类产品的许可对比。标签：`multi-agent` `collaboration` `desktop`
 - [模板：Fleet Lead](https://x.ai/bot/mOunuXA9lKjg8sWImIzgy) - 第三方模板，可一键导入：当总指挥盯着其他 bot，只上报做完的活，对外动作一律等你批准，还带共享浏览器的排队锁和产出清理。标签：`template` `multi-bot` `approval`
 
-## Routines & Digests
+## Routine 与摘要
 
 - [配方：竞品雷达 routine](examples/competitor-radar.md) - 定时抓竞品公开页面，只推送有实质变化的部分；重点在先过滤时间戳等噪音。标签：`example` `routine` `radar`
 - [配方：周报 routine](examples/weekly-review.md) - 每周五从 GitHub、文档、日历收痕迹出初稿，对照上周计划，每条必须带链接，人改 10 分钟就发。标签：`example` `routine` `weekly`
@@ -126,7 +138,7 @@
 - [配方：Routine 额度体检](examples/routine-budget.md) - 额度快烧光时先全部暂停，再让首席 Bot 给每条 Routine 分级，人确认后逐条重开；高频 Routine 没有新内容就静默。标签：`example` `routine` `budget`
 - [模板：X Post Tracker（Karol）](https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn) - 第三方模板，可一键导入：盯自己 X 帖子的浏览和互动，暴涨或到里程碑时提醒，每天一份摘要加下一步建议；说明里写明不代你发帖，导入前仍看一眼权限。标签：`template` `x` `digest`
 
-## Chinese solo-founder
+## 中文一人公司
 
 - [配方：一人三岗](examples/one-person-three-roles.md) - 客服 + 内容 + 调研三个 bot 用文件交接，人每天只审 30 分钟；虚构示例，可直接改。标签：`example` `solo-founder` `multi-bot`
 - [配方：出海客服](examples/outbound-support.md) - 多语言工单先脱敏、再分流、只出草稿；付款、安全、法律类一律转人工，bot 不直接发信。标签：`example` `support` `i18n`
@@ -134,12 +146,12 @@
 - [grok-bot-wechat](https://github.com/bogao6769-netizen/grok-bot-wechat) - 微信消息触发 Grok Bot 的 webhook Routine，本地转发器把回复送回微信；只是配方不含服务，项目很新，想让国内用户在微信里找 bot 的可参考。标签：`chinese` `wechat` `routine`
 - [hiapi.ai](https://hiapi.ai) - 面向开发者与 Agent 的图片/视频/音频生成 API 聚合网关，用途型参考（作者相关）。标签：`api` `media` `solo-founder`
 
-## Hardware
+## 硬件
 
 - [groki-bot](https://github.com/JosssphZhou/groki-bot) - M5Stack CoreS3 桌面机器人：固件 + 电脑端语音/MCP 网关，能把任务交接给 Grok Bot，想让 bot 有个实体入口时参考。标签：`hardware` `mcp` `voice`
 - [grok-gadgets](https://github.com/adidshaft/grok-gadgets) - 把硬件接到 Grok Bot 的 SDK 和工具，可先用模拟器，再上 ESP32-S3 OLED 套件；作者标注 alpha，玩票为主。标签：`hardware` `esp32` `sdk`
 
-## Learning
+## 学习资源
 
 - [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) - 英文生态导航，找现成 skill 和工具先翻这里，别自己造轮子。标签：`awesome` `learning`
 - [CNR Grok Bot 指南](https://cnrcode.com/guides/) - 英文入门四篇：功能与套餐、Routine 和 Skill 设置、额度怎么省、5 套免费模板；咨询公司官网，带营销成分。标签：`guide` `routine` `usage`
@@ -153,13 +165,32 @@
 - [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - 社区模板目录，只收官方 x.ai/bot 分享链接，不转存 prompt，多语种；配套站点 grokbot-templates.com 10/19 访问报错，先看仓库。CC0。标签：`awesome` `templates` `directory`
 - [Useful Bots](https://usefulbots.pages.dev/) - 面向创作者的免费 Grok Bot 模板目录，按视频、增长、发布等分类；个人站，质量没逐个抽检，当灵感翻。标签：`templates` `creators` `directory`
 - [配方模板](examples/_template.md) - 投稿配方前先照这个格式写：场景 / 输入 / 步骤 / prompt / 产出 / 坑。标签：`template` `learning`
-
 ---
 
-## 贡献
+## ⚠️ 安全提醒
 
-见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+- 导入模板、装 skill、接 MCP，都等于**把权限交给 bot**。模板页写着「可能代你行动」时，先看清它能碰哪些账号
+- 涉及 Cookie 同步、完全磁盘访问、SSH、隧道的条目，短评里都标了风险；只给低敏账号用，用完关掉
+- 别把 key、token、账单截图贴进 prompt 或公开仓库
+- 社区分享的模板和 prompt 质量参差，本仓只核实存在、许可和相关性，**不代表安全审计**
+
+## 🤝 参与贡献
+
+- **推荐条目**：开一个[推荐条目 issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues/new/choose)，附链接和一句理由
+- **投稿配方**：照 [配方模板](examples/_template.md) 写，提 PR；脱敏规则见 [CONTRIBUTING.md](CONTRIBUTING.md)
+- **认领实测**：配方大多还没真机跑过。认领一个[实测 issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test)，在你的 Grok Bot 里跑通，配方标 ✅ 并署你的名
+- **报告失效**：链接挂了或项目归档了，开「报告失效」issue
+
+## 📈 Star 趋势
+
+<a href="https://star-history.com/#sit-in/awesome-grokbot-playbooks&Date">
+  <img src="https://api.star-history.com/svg?repos=sit-in/awesome-grokbot-playbooks&type=Date" alt="Star History" width="600">
+</a>
+
+## 声明
+
+本仓是社区整理，**不是** Grok Bot 客户端，与 xAI、Cursor 没有任何关联，也未获其认可。Grok、Grok Bot 等名称归各自所有者。条目短评是编者观点，用之前请以官方说明为准。
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) © sitin
