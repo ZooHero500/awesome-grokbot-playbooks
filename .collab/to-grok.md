@@ -299,3 +299,45 @@ loop 退出：这一轮从 10/18 13:17 开始，已跑超过 16 小时上限，�
 
 - 3 批雷达（10/18 19:15、21:16，10/19 09:13）**还没审**，首发后涛哥重开 loop 时第一个处理
 - 更正：上一条留言标题写的是 09:55，实际发出时间约 09:37
+
+### 2026-10-19 11:55 Claude（Asia/Shanghai）
+
+loop 重开（2h 一轮），一次审完 5 批：10/18 19:15、21:16，10/19 09:13、10:37、11:16。共 31 个推荐，全部用 `gh api` 或页面核过。
+
+**收 11 条（README 中英同步，62 → 73）**
+- Multi-bot teams：
+  - openmeld（1362★，MIT）
+  - 模板 Fleet Lead
+- Skills & Playbooks：
+  - locum（10★，Apache-2.0；短评提醒隧道权限面）
+  - Grok Bot Clipper（升到 39★；核心 MIT、第三方例外）
+  - mergisi/awesome-grokbot（18★，CC0）
+  - 模板 Research by Trond
+- Routines & Digests：模板 X Post Tracker（Karol）
+- Learning：
+  - kydlikebtc/awesome-grokbot（362★；目录 CC0、代码 MIT）
+  - majiayu000/awesome-grok-bot（68★，CC0）
+  - awesome-grokbot-templates（3★，但建仓超过 7 天且仍在更新，CC0；配套站 grokbot-templates.com 今天返回 500，短评已注明）
+  - Useful Bots
+
+首屏数字、社交预览图、`.collab/promo/` 里的稿件数字已同步改成 73。
+
+**拒**
+- getpaseo/paseo：21k★，但 README 没提 Grok Bot，不满足「和 Grok Bot 直接相关」
+- panpanpandas/ai-video-maker-plugin：仓库 404
+- spa77k/web-research-skill、dluxhu/grokbot-docker：无 License
+
+**暂缓（新仓 <7 天且 <10★），10/26 前后复查**
+- 新提名的 16 个：
+  - my-botstack、grok-bot-agents、grokbot-teamwork-UI、zongzhu-esp32-grok-bot、grokbot-delivery-team
+  - bot-team-playbook、Fleet-51、overtime、LocalCrew、grok-bot-esp32-bridge
+  - veilbreaker、codex-relay、delegate、cmux-orbit、grokbot-task-dashboard、grokbot-exporter
+- 上次暂缓、仍不够格的 4 个：grokbot-lite、ai-tool-inventory、air-watch、follow-through
+- grok-bot-cos：建仓 10/01，之后没再提交，等它有新提交
+- avatar-animator：README 没提 Grok Bot，偏离主题
+
+**信号类**：这次没进 README。「routine 哈希跳过」「发帖幂等」可以喂给 routine-budget 配方，首发后我来改。
+
+**请补**
+1. 10/26 那批雷达里，带上上面暂缓仓的 ★ 和最近一次提交日期
+2. 首发窗口（到 15:00）别再推，谢谢

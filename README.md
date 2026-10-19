@@ -8,7 +8,7 @@
 
 > 中文向 Grok Bot / 多 Agent 玩法清单。每条 = 短评 + 链接 + 标签；配方可直接抄。
 
-**62 个条目 · 9 个可抄配方 · 2 个教程页**（[作者教程](docs/sitin-tutorials.md)、[社区教程 25 篇](docs/community-tutorials.md)）
+**73 个条目 · 9 个可抄配方 · 2 个教程页**（[作者教程](docs/sitin-tutorials.md)、[社区教程 25 篇](docs/community-tutorials.md)）
 
 **先抄这 3 个**：[Routine 额度体检](examples/routine-budget.md)（额度快烧光时先止血）· [作战室](examples/war-room.md)（多 bot 分工 + 人工闸门）· [X 雷达](examples/x-radar.md)（每日抓取 + 摘要推送）
 
@@ -95,6 +95,10 @@
 - [web-access](https://github.com/eze-is/web-access) - 给本机 agent（Claude Code、Grok Bot 等）装联网能力：三层通道调度、浏览器 CDP、并行抓取，自动积累站点经验；作者同 eze-grokbot。README 声明 MIT，仓内没有 LICENSE 文件。标签：`skill` `browser` `cdp`
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 开源 bot prompt 目录，Grok Bot、Rakazo 都能用，当灵感库翻。标签：`templates` `directory` `prompts`
 - [模板：Motion Director](https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes) - 第三方模板，可一键导入：一句话（产品链接、主题或一首歌）出成片，逐镜头动画、按人声做口型、本机 GPU 放大，附分镜表和质检结果。页面没标价，导入即同意 bot 分享条款。标签：`template` `video` `creative`
+- [locum](https://github.com/HarjjotSinghh/locum) - 自定义 MCP 连接器加隧道，让 Grok Bot 把编码活交给你本机已登录的 Claude Code / Codex，只调用官方命令行，不碰凭证。等于把云端 bot 和本机订阅接起来；隧道开着期间注意权限面。标签：`mcp` `delegate` `claude-code`
+- [Grok Bot Clipper](https://github.com/RongleCat/grok-bot-clipper) - 非官方浏览器扩展（Chrome / Edge / Firefox）：剪藏网页、截图、文件和社媒帖，攒进素材篮后直接发给自己的 bot，不走第三方中转。作者同铁柱学习站；目前只发源码，要自己构建。核心代码 MIT，第三方部分另有许可。标签：`browser-extension` `clipper` `chinese`
+- [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 50 多个可粘贴的 bot 人设和销售、工程、客服、市场、运营起步队：发一个链接给 Setup bot，它就把整队建好。CC0。标签：`profiles` `teams` `templates`
+- [模板：Research by Trond](https://x.ai/bot/v3WI0YuJAr1DLoYdYVXh8) - 第三方模板，可一键导入：只读研究 bot，从公开帖子和网页出带引用的简报，给选题、视频攒素材包，发布前帮你核事实。标签：`template` `research` `read-only`
 
 ## Multi-bot teams
 
@@ -111,6 +115,8 @@
 - [reason-network](https://github.com/reason-machines/reason-network) - 每台电脑一个小守护进程，点对点互联，直连不通时走加密中继，让 Claude Code、Codex、Cursor 等编码 agent 互相发消息派活。Grok Bot 不在自动接入列表里，要在云电脑里装命令行，用 `listen` / `send` 收发；同名的 Reason 插件是把任务交给 Reason 云端 agent，和这个网络是两回事。本仓 2026-10-18 试连 Grok Bot 云电脑和本机，没打通，原因未定。引擎 MIT 或 Apache-2.0 双许可，Reason CLI 不开源。标签：`multi-bot` `p2p` `claude-code`
 - [模板：Chief of Operations](https://x.ai/bot/HQh9l4duDHNmhCuSW_pn-) - 第三方模板，可一键导入：管团队共享规则，登记所有 bot 和 routine，定期做安全审计，备好事故预案，改动都要人批。和[额度体检配方](examples/routine-budget.md)配着用。标签：`template` `governance` `audit`
 - [模板：T3 Code Bridge](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) - 第三方模板，可一键导入：让 Grok Bot 开启、指挥并盯着 T3 Code 的编码线程，完成、失败或需要输入时通知你。标签：`template` `coding` `t3-code`
+- [openmeld](https://github.com/amplifthq/openmeld) - 开源的人机协作系统：人和 Codex、Claude Code、Grok Bot、Cursor 等 agent 共享上下文、分派任务、并行干活，桌面端可用；同类里星标最高之一，README 有和同类产品的许可对比。标签：`multi-agent` `collaboration` `desktop`
+- [模板：Fleet Lead](https://x.ai/bot/mOunuXA9lKjg8sWImIzgy) - 第三方模板，可一键导入：当总指挥盯着其他 bot，只上报做完的活，对外动作一律等你批准，还带共享浏览器的排队锁和产出清理。标签：`template` `multi-bot` `approval`
 
 ## Routines & Digests
 
@@ -118,6 +124,7 @@
 - [配方：周报 routine](examples/weekly-review.md) - 每周五从 GitHub、文档、日历收痕迹出初稿，对照上周计划，每条必须带链接，人改 10 分钟就发。标签：`example` `routine` `weekly`
 - [配方：X 雷达](examples/x-radar.md) - 每天扫一轮 X 公开帖，只推有实质信号的摘要，没信号就不打扰；互动一律人来。标签：`example` `routine` `x`
 - [配方：Routine 额度体检](examples/routine-budget.md) - 额度快烧光时先全部暂停，再让首席 Bot 给每条 Routine 分级，人确认后逐条重开；高频 Routine 没有新内容就静默。标签：`example` `routine` `budget`
+- [模板：X Post Tracker（Karol）](https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn) - 第三方模板，可一键导入：盯自己 X 帖子的浏览和互动，暴涨或到里程碑时提醒，每天一份摘要加下一步建议；说明里写明不代你发帖，导入前仍看一眼权限。标签：`template` `x` `digest`
 
 ## Chinese solo-founder
 
@@ -141,6 +148,10 @@
 - [UseGrokBot](https://usegrokbot.com/) - 第三方案例导航站：按身份分类的模板、真实用例、Bot 团队搭法和热门文章排行，支持中英日。找灵感先翻这里。标签：`directory` `use-cases` `templates`
 - [sitin 的 Grok Bot 教程索引](docs/sitin-tutorials.md) - 本仓作者的「Grok Bot 实战」连载与 X 教程，按入门 / 作战室 / Routine / Skills / 一人公司分类，只收公开链接（作者相关）。标签：`chinese` `tutorials` `author`
 - [社区 Grok Bot 教程精选](docs/community-tutorials.md) - 25 篇其他博主的 X 教程和长文，按入门、作战室、Routine 与额度、Skills、一人公司、合集分类；每条都核过存活和日期。标签：`chinese` `tutorials` `community`
+- [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) - 4600 多个 x.ai/bot 公开分享链接的索引，每天查链接是否存活，每行标注出处，有可搜索网页版和中文 README。目录 CC0、代码 MIT。社区分享质量参差，导入前自己看。标签：`awesome` `templates` `directory`
+- [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - 约 4800 个 x.ai/bot 分享链接，按质量分层上架，有可搜索网页版和双语 README；作者强调「不是提示词堆」。CC0。标签：`awesome` `templates` `directory`
+- [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - 社区模板目录，只收官方 x.ai/bot 分享链接，不转存 prompt，多语种；配套站点 grokbot-templates.com 10/19 访问报错，先看仓库。CC0。标签：`awesome` `templates` `directory`
+- [Useful Bots](https://usefulbots.pages.dev/) - 面向创作者的免费 Grok Bot 模板目录，按视频、增长、发布等分类；个人站，质量没逐个抽检，当灵感翻。标签：`templates` `creators` `directory`
 - [配方模板](examples/_template.md) - 投稿配方前先照这个格式写：场景 / 输入 / 步骤 / prompt / 产出 / 坑。标签：`template` `learning`
 
 ---

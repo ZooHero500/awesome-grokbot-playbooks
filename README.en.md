@@ -8,7 +8,7 @@
 
 > Curated Grok Bot / multi-agent playbooks. Each entry = short review + link + tags. Recipes are copy-paste ready.
 
-**62 entries · 9 copy-paste recipes · 2 tutorial pages** ([maintainer's tutorials](docs/sitin-tutorials.md), [25 community tutorials](docs/community-tutorials.md), both in Chinese)
+**73 entries · 9 copy-paste recipes · 2 tutorial pages** ([maintainer's tutorials](docs/sitin-tutorials.md), [25 community tutorials](docs/community-tutorials.md), both in Chinese)
 
 **Start with these 3**: [Routine budget check](examples/routine-budget.md) (stop the bleeding when usage runs low) · [War room](examples/war-room.md) (multi-bot roles + human gate) · [X radar](examples/x-radar.md) (daily fetch + digest). Recipes are in Chinese.
 
@@ -89,6 +89,10 @@ Quality over quantity.
 - [web-access](https://github.com/eze-is/web-access) - Gives local agents (Claude Code, Grok Bot and others) full web access: three-tier channel routing, browser CDP, parallel fetching, and per-site experience that builds up over time. Same author as eze-grokbot. README declares MIT but the repo has no LICENSE file. (Chinese) Tags: `skill` `browser` `cdp`
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Open-source directory of bot prompts usable in Grok Bot, Rakazo and others; browse it for ideas. Tags: `templates` `directory` `prompts`
 - [Template: Motion Director](https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes) - Third-party template, one-click import: one line (a product URL, topic or song) becomes a finished film with shot-by-shot animation, lip sync from the vocals and local GPU upscaling, plus a contact sheet and quality-check results. No price listed; importing accepts the bot-sharing terms. Tags: `template` `video` `creative`
+- [locum](https://github.com/HarjjotSinghh/locum) - A custom MCP connector plus tunnel so Grok Bot can hand coding work to the Claude Code / Codex CLIs signed in on your own machine; it only spawns the official CLIs and never touches credentials. Mind the exposure while the tunnel is open. Tags: `mcp` `delegate` `claude-code`
+- [Grok Bot Clipper](https://github.com/RongleCat/grok-bot-clipper) - Unofficial browser extension (Chrome / Edge / Firefox): clip pages, screenshots, files and social posts into a basket, then send them straight to your own bot with no third-party relay. Same author as the Tiezhu learning site; source only for now, so you build it yourself. Core code MIT, third-party parts excepted. Tags: `browser-extension` `clipper` `chinese`
+- [mergisi/awesome-grokbot](https://github.com/mergisi/awesome-grokbot) - 50+ copy-paste bot profiles and starter teams for sales, engineering, success, marketing and ops: send one link to a Setup bot and it builds the team. CC0. Tags: `profiles` `teams` `templates`
+- [Template: Research by Trond](https://x.ai/bot/v3WI0YuJAr1DLoYdYVXh8) - Third-party template, one-click import: a read-only research bot that turns public posts and web pages into cited briefs, builds source packs for stories and videos, and fact-checks before you publish. Tags: `template` `research` `read-only`
 
 ## Multi-bot teams
 
@@ -105,6 +109,8 @@ Quality over quantity.
 - [reason-network](https://github.com/reason-machines/reason-network) - One small daemon per computer, peer to peer, so coding agents (Claude Code, Codex, Cursor, ...) can message and hand work to each other, falling back to an encrypted relay when a direct link fails. Grok Bot is not wired in automatically: install the CLI on its cloud computer and use `listen` / `send`. The Reason plugin of the same name hands tasks to Reason's cloud agents, which is a separate thing from this network. Our 2026-10-18 attempt to link a Grok Bot cloud computer with a local Mac did not connect; cause unknown. Engine is dual-licensed MIT or Apache-2.0; the Reason CLI is not open source. Tags: `multi-bot` `p2p` `claude-code`
 - [Template: Chief of Operations](https://x.ai/bot/HQh9l4duDHNmhCuSW_pn-) - Third-party, one-click import: keeps shared team rules, a register of every bot and routine, regular security audits and an incident plan; you approve every change. Pairs with the [Routine budget check recipe](examples/routine-budget.md). Tags: `template` `governance` `audit`
 - [Template: T3 Code Bridge](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) - Third-party, one-click import: Grok Bot launches, directs and monitors T3 Code coding threads, and pings you when one finishes, fails or needs input. Tags: `template` `coding` `t3-code`
+- [openmeld](https://github.com/amplifthq/openmeld) - Open-source collaboration system for people and agents: share context, assign tasks and work in parallel with Codex, Claude Code, Grok Bot, Cursor and more, with a desktop app; one of the most-starred in its class, and the README compares licenses with alternatives. Tags: `multi-agent` `collaboration` `desktop`
+- [Template: Fleet Lead](https://x.ai/bot/mOunuXA9lKjg8sWImIzgy) - Third-party template, one-click import: a coordinator that oversees your other bots, reports only finished work, waits for your approval before any outbound action, and adds a shared-browser lock and output cleanup. Tags: `template` `multi-bot` `approval`
 
 ## Routines & Digests
 
@@ -112,6 +118,7 @@ Quality over quantity.
 - [Recipe: weekly review routine](examples/weekly-review.md) - Every Friday, collect the week's traces from GitHub, docs and calendar into a draft checked against last week's plan; every item needs a link. (Chinese) Tags: `example` `routine` `weekly`
 - [Recipe: X radar](examples/x-radar.md) - A daily pass over public X posts that only pushes a digest when there is real signal; all engagement stays human. (Chinese) Tags: `example` `routine` `x`
 - [Recipe: Routine budget check](examples/routine-budget.md) - When quota is nearly gone, pause everything, have a lead bot grade each Routine, then re-enable one by one after human sign-off; high-frequency Routines stay silent when nothing changed. (Chinese) Tags: `example` `routine` `budget`
+- [Template: X Post Tracker (Karol)](https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn) - Third-party template, one-click import: tracks views and engagement on your own X posts, alerts on spikes and milestones, and sends a daily digest with suggestions; it says it never posts for you, but check permissions before adding. Tags: `template` `x` `digest`
 
 ## Chinese solo-founder
 
@@ -135,6 +142,10 @@ Quality over quantity.
 - [UseGrokBot](https://usegrokbot.com/) - Third-party discovery site: templates grouped by role, real use cases, bot-team setups and ranked articles, in English, Chinese and Japanese. Browse it for ideas. Tags: `directory` `use-cases` `templates`
 - [sitin's Grok Bot tutorials](docs/sitin-tutorials.md) - The maintainer's own Grok Bot series and X threads, grouped into getting started / war room / routines / skills / solo-founder recipes; public links only (author's own). (Chinese) Tags: `chinese` `tutorials` `author`
 - [Community Grok Bot tutorials](docs/community-tutorials.md) - 25 X threads and articles by other creators, Chinese and English, grouped into getting started, war room, routines and usage, skills, solo-founder and indexes; each checked for liveness and date. (Chinese) Tags: `chinese` `tutorials` `community`
+- [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) - Index of 4,600+ public x.ai/bot shares, link-checked daily with per-row attribution, plus a searchable site and a Chinese README. Catalog CC0, code MIT. Community shares vary in quality; review before importing. Tags: `awesome` `templates` `directory`
+- [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - About 4,800 x.ai/bot shares sorted into quality tiers, with a searchable site and bilingual README; "not a prompt dump". CC0. Tags: `awesome` `templates` `directory`
+- [awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) - Community template directory that lists only official x.ai/bot share links, never rehosted prompts, in several languages; the companion site grokbot-templates.com returned an error on 10/19, so use the repo. CC0. Tags: `awesome` `templates` `directory`
+- [Useful Bots](https://usefulbots.pages.dev/) - Free Grok Bot templates for creators, grouped by video, growth, launch and more; a personal site we have not spot-checked one by one, so browse for ideas. Tags: `templates` `creators` `directory`
 - [Recipe template](examples/_template.md) - Format to follow before submitting a recipe: scenario / input / steps / prompt / output / pitfalls. (Chinese) Tags: `template` `learning`
 
 ---
