@@ -58,6 +58,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Hire Grok Bot: Your First AI Employee](https://x.com/maestrooth/status/2107490775537741850) — @maestrooth · 2026-10-06 · X 长文：先写岗位说明再建 bot，连接器、日程、边界一次配好 · 英文
 - [官方 65 分钟工作坊时间轴](https://x.com/scarfpinkgirl/status/2106407925140836787) — @scarfpinkgirl · 2026-10-03 · 首席 + 专员、演示教学、routine、工程团队、值班 bot、手机遥控逐段标好时间，按需跳看 · 英文
 - [Personal agent 赛道的几点判断](https://x.com/petergyang/status/2101862331345154469) — @petergyang · 2026-09-21 · Muse、ChatGPT、Grok Bot 各自的位置和取舍，选型前读 · 英文
+- [GrokBot Templates: best SpaceXAI blueprints that will automate your entire life in 13 steps](https://x.com/0xRafy/status/2106098144320582134) — @0xRafy · 2026-10-03 · X 长文：从模板市场导入现成 bot，先读每个模板的记忆、技能、routine、连接四栏，再三步改成自己的；同作者的 10 步入门长文已收 · 英文
 
 ### 多 Agent 作战室
 
@@ -68,6 +69,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [会设计 bot、会审 bot 的 7 个 bot](https://x.com/maestrooth/status/2108204174403944745) — @maestrooth · 2026-10-08 · 团队负责人、bot 架构师、入口路由、安全审查、工作区审计等 7 个模板，一条规则：没有 bot 能审自己 · 英文
 - [我现在的多工具工作流](https://x.com/minchoi/status/2101873007673086304) — @minchoi · 2026-09-21 · 实时调研 → Grok Bot 规划编排 → 日常编码 → 写测试 → 复杂调试 → 前端，各段交给哪个工具一行写清 · 英文
 - [所有 bot 进一个频道，只让首席说话](https://x.com/ColinGardiner/status/2098505378246074517) — @ColinGardiner · 2026-09-12 · 小技巧：其他 bot 静默，首席派活并转交结果，语音丢任务即可 · 英文
+- [I run 30 AI agents as one team. Copy the routing table that splits the work](https://x.com/DYoung_AI/status/2111999034441515271) — @DYoung_AI · 2026-10-19 · X 长文：约 30 个 bot 各管一摊，一张分工路由表加 6 条规则，调度 bot 不干重活、写和审用不同模型，附交接消息模板 · 英文
+- [How I'm wiring Grok Bot to manage my Hermes Agent and OpenClaw instances](https://x.com/MichaelGannotti/status/2111991267844362447) — @MichaelGannotti · 2026-10-19 · X 长文：首席 bot 经桌面端连接、只走命令行去管本机另外两套 Agent，每条命令要本人批准；作者说明这是搭建记录，还没有跑出结果 · 英文
 
 ### Routine 雷达与额度
 
@@ -82,6 +85,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Content OS：把 Grok Bot 做成内容编辑台](https://x.com/minchoi/status/2100249139422330922) — @minchoi · 2026-09-16 · 公开模板：先学你的语气和交付偏好，再侦察、调研、写作、监控，产出可直接粘贴的稿件包 · 英文
 - [How to Build from your Tesla, with Grok Bot as the Front Door](https://x.com/mikepat711/status/2104380789517344994) — @mikepat711 · 2026-09-28 · X 长文：在车里用语音让 Grok Bot 当入口，转给 Mac mini 上的其他模型干活，附模板；作者另一条 routine 已收 · 英文
 - [给 bot 起邮箱名的小建议](https://x.com/petergyang/status/2108624122339287335) — @petergyang · 2026-10-10 · 让 bot 当首席助理时，邮箱别用你自己的名字，用它的「职位名」，抄送和约时间才自然 · 英文
+- [How to build a Second Brain that actually does the work (Grok Bot full course)](https://x.com/Argona0x/status/2110045296902164532) — @Argona0x · 2026-10-14 · X 长文：7 章在 bot 的电脑上搭「第二大脑」，资料存文件不靠聊天记忆，夜里自动归档、早上给一页、周日回顾；收藏两千多 · 英文
+- [Hermes, Grok Bot, and Instinct know everything about me thanks to a portable memory I built](https://x.com/mgonto/status/2111986349511159912) — @mgonto · 2026-10-19 · X 长文：把人脉、笔记、项目上下文放进自己的 Markdown wiki，经 MCP 和 REST 接口给多个 Agent 共用，换工具不用重讲一遍 · 英文
 
 ### 出海一人公司
 
@@ -92,6 +97,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 Grok Bot 盯竞品广告，再做 SEO / 投放](https://x.com/jasonzhou1993/status/2108702893033566276) — @jasonzhou1993 · 2026-10-10 · 出海获客思路；帖中流量倍数为作者自述 · 英文
 - [播客音频剪辑：发链接，收成品 MP3](https://x.com/DanaBrunetti/status/2108095971385307240) — @DanaBrunetti · 2026-10-08 · 视频和指南都由 bot 自己生成，作者也提醒了可能有错，内容号可参考 · 英文
 - [我在公司里怎么同时用 Grok Bot、dots 和 Muse](https://x.com/ericosiu/status/2109435217152991240) — @ericosiu · 2026-10-12 · 长文 + 视频：团队里谁负责哪些 bot、三款产品各用在哪 · 英文
+- [How to Run a One Person Company on Grok Bot for $30 a Month (full Course)](https://x.com/cyrilXBT/status/2112006867022958931) — @cyrilXBT · 2026-10-19 · X 长文：公司手册、首席 bot、6 个专员 bot、审批规则和日 / 周节奏一套给全，附提示词；「每月 30 美元」和省下的人力成本是作者自述 · 英文
+- [一期播客拆成一周内容](https://x.com/ericosiu/status/2112015924479860963) — @ericosiu · 2026-10-19 · 从转录稿拆短视频、帖子、长文和 SEO 页面，每个渠道一人拍板，周五看点击和预约再定下期选题 · 英文
 
 ---
 
