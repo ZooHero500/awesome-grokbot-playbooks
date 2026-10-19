@@ -1016,3 +1016,39 @@
 | KellehEyad 第一条 Routine 五步 | https://x.com/KellehEyad/status/2112091156163035579 | 入门口号，过薄 |
 | Sukiea1008 8 身份手册 | https://x.com/Sukiea1008/status/2112084040362897441 | 已交 15:48 x-articles 雷达，不重复 |
 | grok-bot-cli / OpenMausBot / hatchfield / local-agent / AgwaB / task-dashboard / bridge 等 | （见上轮） | 上轮 ~15:16 已列，本窗不重复 |
+
+## 白天 2026-10-19 ~19:09（Asia/Shanghai）
+
+- **窗口**：~17:16 → ~19:09（约 2 小时）
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-19 09:00 UTC，中英多查询）+ `gh search repos` created≥2026-10-19 + README/License 抽查；相对 README + `inbox/candidates.md` + `.collab/to-claude.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| francoCosimo95/claude-grok-bridge | https://github.com/francoCosimo95/claude-grok-bridge | Claude Code ↔ Grok Bot **原生 routine 互通**：双方走各自 vendor 的 inbox/webhook，无中间件、0 依赖；一句 BOOTSTRAP 装桥，`ask`/`tell`/`note` 协议；答案≠批准。与已收 TheSethRose/grokbot-bridge（桌面自动化驱动 App）成对：一条协议层、一条 UI 自动化层 | Multi-bot / Skills | `bridge` `claude-code` `routine` `protocol` `mit` | 0 / MIT | **GitHub**（今日 18:04 建，仍在推） |
+
+### 玩法 / 信号（无强仓，field-notes / Routines / Learning / Hardware 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Jarvis skill + Oppo 心力球 / Garmin MCP | https://x.com/dontbesilent/status/2112119323011784875 | 约 9.3 万粉作者：把 Jarvis skill 挂 Grok Bot，接 Oppo 心力球与佳明手环 MCP，做全天上下文摘要（不依赖 APP 打开）。无公开仓，配方靠截图；可作 Hardware / Chinese 观察 | Hardware / Chinese / Learning | **X** @dontbesilent |
+| 按职责拆 4 Bot 省 token | https://x.com/easywaydata/status/2112137844265521303 | SEO / 新增课程 / 加载优化 / 上线发布各一 Bot，避免单 Bot 一次加载太多。薄但可并入 Multi-bot「拆职责」一句 | Multi-bot / Chinese | **X** @easywaydata（约 2.6k 粉） |
+| AR 六 Agent 控制室（先 cheap check） | https://x.com/fleyta88/status/2112114774632788357 | 概念演示：6 routine 分监控，有变化才唤醒全量 Agent + 夜间只起草；强化已收「先 hash/diff 再跑」。AR 界面非官方能力 | Routines / Learning | **X** @fleyta88 |
+| 订阅/0 元周期登录提醒 | https://x.com/aWildWander/status/2112122567926657222 | 用 Bot 盯「0 元也要定期登录」类订阅，补专门 App 填不了 0 价的坑。帖未给可粘贴 prompt，先作 Routines 信号 | Routines / Chinese | **X** @aWildWander |
+
+### Maybe / Skip（~19:09）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| YOKEN21/grok-bot-cursor | https://github.com/YOKEN21/grok-bot-cursor | 「matter」平台变更合成仓：Grok Bot 房口头 `APPROVED` 审批，非可复用 Grok Bot 配方 |
+| epsilo-ai/cursor-plugin | https://github.com/epsilo-ai/cursor-plugin | 零售广告只读 MCP（Epsilo One），垂类产品连接器，非通用玩法 |
+| golddexzy-create/grok-memecoin-desk | https://github.com/golddexzy-create/grok-memecoin-desk | Solana memecoin 交易桌，偏离本仓 |
+| paperclipai/paperclip | https://github.com/paperclipai/paperclip | ★10 万+ 通用 Agent 上班看板，README 未点名 Grok Bot；与 orca 相邻但非本仓主线 |
+| Latand/delegatus | https://github.com/Latand/delegatus | 本机编排 Claude/Codex/Copilot，非 Grok Bot 配方 |
+| iamrexei 五仓省 token | https://x.com/iamrexei/status/2112135088615862633 | 通用 MCP/Langfuse/Trigger.dev；作者自承改不了 Grok Bot 额度 |
+| EbookPlan 电子书 | https://x.com/EbookPlan/status/2112124760012542101 | 软广，x-articles 雷达已跳过同类 |
+| stablyai/orca 再推 | （多帖） | README 已收，仅热度 |
+| ChamathRosh / grokbot-bridge / exporter / mcq / genealogy 等 | （见上轮） | 上轮已列，本窗不重复 |

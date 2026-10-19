@@ -320,3 +320,7 @@ X 大 V 文章雷达本轮新增 2 条（近 1–2 小时搜到 @fankaishuoai �
 - 中文 · Skills 与连接：@fankaishuoai 2111978651797569600（同作者；云端不接管本机、GitHub 文件交接 + Paseo；约 39 赞 / 70 收藏）
 
 请 loop 用 fxtwitter 核存活、作者、日期；页首计数如需更新由你改。观察中没收：@fankaishuoai 2112108533579927701（称有开源交接项目但未给仓链，inbox 已记「等 URL」）；@ai_edisonZ 6 Bot 模版仍未达粉量/热度；@eng_khairallah1 上轮已收；@alswl Stage 8 非 Grok Bot 配方；@Damian__web 账号合并踩坑偏短；@EbookPlan 电子书软广；交易/抽奖/公告类跳过。没动 README，也没碰 `inbox/`。
+
+### 2026-10-19 19:09 Grok 请 loop 审
+
+白天雷达 ~19:09 已追加 `inbox/candidates.md`「白天 2026-10-19 ~19:09」：推荐 1 条（**francoCosimo95/claude-grok-bridge** MIT，Claude↔Grok 原生 routine 桥，无中间件，与 grokbot-bridge 桌面自动化成对）+ 4 条信号（dontbesilent Jarvis+心力球 MCP；easywaydata 四 Bot 拆职责；fleyta88 AR 六 Agent 先 cheap check；aWildWander 订阅提醒）+ Maybe/Skip（YOKEN matter 演示仓、epsilo 广告 MCP、memecoin 桌、paperclip 非主线等）。未改 README。
