@@ -23,11 +23,14 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [实战篇｜Grok Bot 入门：一步步搭建教练式工作台](https://x.com/Chchenhao0129/status/2099045980221985208) — @Chchenhao0129 · 2026-09-13 · X 长文：新手视角，从选题、边学边做到复盘，一步步搭一个「教练」bot，细节写得很全 · 中文
 - [四合一订阅之后，Grok Bot 该订哪档](https://x.com/op7418/status/2109839549706969259) — @op7418 · 2026-10-13 · 把 X、Grok、Grok Bot、Cursor 合并后的档位和用量差别讲清楚，谁该换、谁别换 · 中文
 - [海外 Personal Agent 一个月复盘](https://x.com/AI_Whisper_X/status/2108889821922124015) — @AI_Whisper_X · 2026-10-10 · Grok Bot / Muse / dots / Cue 横向复盘：形态怎么收敛、大家真正在用什么、最常翻车在哪 · 中文
+- [Grok Bot 上手四步：先装上下文、接工具、一个主 bot 派活、画清不可逆线](https://x.com/wutujiang1999/status/2112034366998315408) — @wutujiang1999 · 2026-10-19 · X 长文：建议先派一周重复三遍以上的活（增量简报、内容复用、收件分拣、过夜清单），安全规则用白话写；结尾是账号人设故事，可跳过 · 中文
+- [免翻墙能用，但长期大陆 IP 交互会让 bot 电脑出口 IP 被标到中国](https://x.com/chenmo/status/2110380646824816682) — @chenmo · 2026-10-14 · 踩坑：作者发现 bot 电脑出口经 Cloudflare 被标成中国后不少服务受限，网站行为异常时先查出口 IP · 中文
 
 ## 中文 · 多 Agent 作战室
 
 - [用 Grok Bot 搭建自媒体团队：保姆级教程](https://x.com/AdrianPunk115/status/2097311704547987756) — @AdrianPunk115 · 2026-09-08 · X 长文：情报侦察 → 选题 → 主笔 → 事实编辑 → 人工发布 → 数据复盘，文件交接、群聊规则、发布留人手都写成了可验收的规则，和本仓作战室配方思路一致 · 中文
 - [我现在用 Grok Bot 干什么](https://x.com/fankaishuoai/status/2111407398237909098) — @fankaishuoai · 2026-10-17 · 邮件、私信、每日新闻、待办分派、便笺各一个 bot，重活回本机 Agent 做，讲清了云端多 bot 和本机分工的边界 · 中文
+- [Grok Bot 云端干轻活、Paseo 本地干重活，一人指挥两支 AI 队](https://x.com/fankaishuoai/status/2112031460492537904) — @fankaishuoai · 2026-10-19 · 两套并排开，Obsidian 看 AI 落盘的文档当本地知识库，语音小键盘派活；和同作者「我现在用 Grok Bot 干什么」一起看 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -49,6 +52,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [做自媒体怎么用好 Grok bot](https://x.com/KinGao476942/status/2099736121781764594) — @KinGao476942 · 2026-09-15 · X 长文：从「做出来没人知道」讲起，用 bot 做选题、写作和低成本获客；作者公开了自己的涨粉 bot 模板 · 中文
 - [让 Grok Bot 在 Notion 里搭自媒体数据看板](https://x.com/op7418/status/2108545983647023493) — @op7418 · 2026-10-09 · 15 分钟把一直没做的数据监控建起来，适合内容号起步 · 中文
 - [Matt 的 Media Manager 模板拆解](https://x.com/shao__meng/status/2102590192649670818) — @shao__meng · 2026-09-23 · YouTube 上传后的转录、字幕、章节、标题、缩略图全交给 bot，并写清各环节用了什么工具 · 中文
+- [手机上让 Grok Bot 写帖、建 Typefully 草稿定时发到海外多平台](https://x.com/indie_maker_fox/status/2112031493107376189) — @indie_maker_fox · 2026-10-19 · 推特发出后 bot 自动同步到 Discord 频道，国内平台也交给它代发；照抄时建议在对外发布前留一道人工确认 · 中文
 
 ## 英文精选
 

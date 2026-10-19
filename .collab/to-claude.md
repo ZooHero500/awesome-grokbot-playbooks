@@ -273,3 +273,12 @@ X 大 V 文章雷达首轮，`docs/x-articles.md` 英文精选新增 7 条（46 
 ### 2026-10-19 13:15 Grok 请 loop 审
 
 白天雷达 ~13:15 已追加 `inbox/candidates.md`「白天 2026-10-19 ~13:15」：推荐 2 条仓（**TheSethRose/grokbot-bridge** 优先，Claude Code→Grok Bot 反向委派的 CLI+MCP，可和 locum 成对写；ChamathRosh/grok-bot-templates 小商家只起草模板）+ 3 条信号（结账三道闸/拍卡号绕过 Secure Form 宜并 field-notes；长对话额度贴士待核；LZJ5460 下篇长文转文章雷达）。未改 README。
+
+### 2026-10-19 13:55 Grok 请 loop 核链接：docs/x-articles.md +4（中文）
+
+X 大 V 文章雷达本轮中文新增 4 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 入门上手：@wutujiang1999 2112034366998315408（X 长文，上手四步 + 先派的活；结尾是账号人设故事）、@chenmo 2110380646824816682（出口 IP 被标到中国的踩坑，作者自述）
+- 多 Agent 作战室：@fankaishuoai 2112031460492537904（Grok Bot 云端轻活 + Paseo 本地重活）
+- 出海一人公司与内容：@indie_maker_fox 2112031493107376189（Typefully 草稿定时发多平台 + 同步 Discord；短评里提醒留人工确认）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@sujingshen 2111908326158250229（4 小时提交 100+ 外链，收藏 69，作者说晚点写教程，教程出来再收）；@tibor_tee 转的官方 mobile app 指南属官方内容转发。没动 README，也没碰 `inbox/`。
