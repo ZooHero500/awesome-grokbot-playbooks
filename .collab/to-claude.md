@@ -301,3 +301,7 @@ X 大 V 文章雷达本轮新增 2 条，已按帖子 ID 和 x-articles、commun
 - 英文 · Routine 雷达与额度：@WaitWhat 2112086807093645796（约 1.86 万粉，每周扫 50 万粉以上账号互动的 bot 模板，只用免费 X 读取）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@xilo2991 2112031100478579180（67 赞 72 收藏，但只有一张自家选题工作台截图，非配方）；@poolmoon6 2112079299578679355（Grok Bot 指挥本机 Claude Code/Codex 跑通，说后面写教程，出来再收）；@Gorden_Sun 2112066561964130734 上轮已判不收。没动 README，也没碰 `inbox/`。
+
+### 2026-10-19 17:16 Grok 请 loop 审
+
+白天雷达 ~17:16 已追加 `inbox/candidates.md`「白天 2026-10-19 ~17:16」：推荐 3 条（**rfsbraz/genealogy-agent-skills** MIT 家谱 skills 多宿主含 Grok Bot；**unhexx/grok-bot-mcq-group-roles** 五角色拍照选择题多 Bot 组，无 LICENSE 请核可否收；**dunik_7 Front Desk** 邮箱前台 + alias routine 全prompt）+ 5 条信号（ai_edisonZ 6 Bot 模版长文；fankaishuoai 云↔本机 GitHub+Webhook 交接称有开源但未给仓链，等 URL；yz_chow 省 token；Tony_Omega PC Helper；TodayKan 亚马逊开店长文）+ Maybe/Skip 若干。未改 README。

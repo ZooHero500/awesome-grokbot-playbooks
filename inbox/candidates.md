@@ -976,3 +976,43 @@
 | vitalydolgov/grokbot-tunnel | https://github.com/vitalydolgov/grokbot-tunnel | 仍无 README；维持上轮 Maybe |
 | Taki1979/x-post-images | https://github.com/Taki1979/x-post-images | 仅「x posts from grok bot」素材堆，无配方 |
 | EverOS Cloud 共享记忆推广 | https://x.com/crossbite65/status/2112067995757421022 | 产品推广，非开源配方 |
+
+## 白天 2026-10-19 ~17:16（Asia/Shanghai）
+
+- **窗口**：~15:16 → ~17:16（约 2 小时）
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-19 07:00 UTC，中英多查询）+ `gh search repos` created/updated≥2026-10-18–19 + README/License 抽查；相对 README + `inbox/candidates.md` + `.collab/to-claude.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| rfsbraz/genealogy-agent-skills | https://github.com/rfsbraz/genealogy-agent-skills | 家谱研究 Agent Skills 包（约 26 个 skill）：mode/interview/narrative 入口 + 证据交接信封；MIT，装法覆盖 Claude Code / Codex / Gemini / Cursor / Grok Bot（Connect apps 搜 Genealogy）。领域专但配方完整可复用 | Skills & Playbooks | `skills` `genealogy` `multi-host` `mit` | 0 / MIT | **GitHub**（10-18 建，今日仍推） |
+| unhexx/grok-bot-mcq-group-roles | https://github.com/unhexx/grok-bot-mcq-group-roles | 拍照选择题多 Bot 组：VisionExtractor / SolverAlpha / SolverBeta / EvidenceCritic / FinalAnswer，五个 `.md` 直接贴进 Bot 人设；并行求解 + 证据对齐 + 只回字母。经典多 Bot 作战室小模板 | Multi-bot / Templates | `multi-bot` `group` `paste` `mcq` | 0 / 无 LICENSE | **GitHub**（今日新建） |
+| 前台收件 Front Desk prompt | https://x.com/dunik_7/status/2112093261183483995 | 完整可粘贴：Bot 自有邮箱当前台；+leads / +invoices / +book 三套 alias routine；只起草不外发，超 $500 发票标红；先展示计划与样稿再执行。审批闸门清楚 | Routines / Templates | `routine` `email` `approval-gate` `prompt` | — | **X** @dunik_7（约 4.5k 粉） |
+
+### 玩法 / 信号（无强仓，field-notes / Routines / Learning 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 6 Bot 协同小队（附模版） | https://x.com/ai_edisonZ/status/2112100886629544109 | 中文 X 长文「两周实测：把 6 个 Bot 拉进群搭协同小队（附模版）」；粉量与互动偏低，交 docs/x-articles 或 Learning 核后再收 | Multi-bot / Chinese / x-articles | **X** @ai_edisonZ |
+| 云↔本机安全接力（待公开仓） | https://x.com/fankaishuoai/status/2112108533579927701 | 44k 粉作者主张 GitHub 管交接状态 + Webhook 唤醒 Bot，本地 Agent 自调度；称已写开源项目但推文未给公开仓链。与已收 robbin/local-agent（同机 Pi）叙事互补，**等公开 URL 再升格** | Multi-bot / Learning / Chinese | **X** @fankaishuoai |
+| 省 token 攻略长文 | https://x.com/yz_chow/status/2112097880534380716 | X 长文「Grok Bot 终极省token攻略」；刚发互动极低，可作 Learning 观察 | Learning / Chinese | **X** @yz_chow |
+| PC Helper 永不下线 | https://x.com/Tony_Omega/status/2112085478925107227 | X 长文：给 20+ 朋友当 IT，用 Bot 做永不下线的 PC Helper；偏个人案例，核干货后再定 | Learning | **X** @Tony_Omega |
+| 亚马逊开店云电脑流 | https://x.com/TodayKan/status/2112099697318121895 | X 长文：用 Grok Bot 云电脑开亚马逊店从零上架；与已收 OCR 下午 routine 同作者，电商向 | Routines / Chinese | **X** @TodayKan |
+
+### Maybe / Skip（~17:16）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| Conviviera/conviviera-cursor-plugin | https://github.com/Conviviera/conviviera-cursor-plugin | 论坛 OAuth/MCP 连接器，非可复用玩法配方 |
+| jinkkkang/grokbot | https://github.com/jinkkkang/grokbot | 沙箱学习摘录含 Cursor sand 专有脚本，「不构成再分发许可」——跳过 |
+| Lyric-Song/DevBrain | https://github.com/Lyric-Song/DevBrain | 「Created via Grok Bot」演示仓，无配方 |
+| SpaceDataRig/space-data-rig | https://github.com/SpaceDataRig/space-data-rig | 科学多 Agent 控制台，Grok 只占 critic 席，非 Grok Bot 配方主线 |
+| xuejoker168 六人营销队转述 | https://x.com/xuejoker168/status/2112107232540397837 | 转述官方营销指南，非原配方仓 |
+| CyberAlice3269 自媒体小队 | https://x.com/CyberAlice3269/status/2112098767151468645 | 粉量极低、无仓、口号式 |
+| VORLEN_X Android TV | https://x.com/VORLEN_X/status/2112107551177203957 | 单机刷机向，偏离本仓 |
+| KellehEyad 第一条 Routine 五步 | https://x.com/KellehEyad/status/2112091156163035579 | 入门口号，过薄 |
+| Sukiea1008 8 身份手册 | https://x.com/Sukiea1008/status/2112084040362897441 | 已交 15:48 x-articles 雷达，不重复 |
+| grok-bot-cli / OpenMausBot / hatchfield / local-agent / AgwaB / task-dashboard / bridge 等 | （见上轮） | 上轮 ~15:16 已列，本窗不重复 |
