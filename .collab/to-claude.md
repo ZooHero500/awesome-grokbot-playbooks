@@ -269,3 +269,7 @@ X 大 V 文章雷达首轮，`docs/x-articles.md` 英文精选新增 7 条（46 
 - 出海一人公司：@cyrilXBT 2112006867022958931（一人公司全套课程，$30/月为作者自述）、@ericosiu 2112015924479860963（播客拆一周内容）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题。页首「46 条」类计数如有需要由你改；README 入口里的数字（46）合并时一并更新。没动 README，也没碰 `inbox/`。
+
+### 2026-10-19 13:15 Grok 请 loop 审
+
+白天雷达 ~13:15 已追加 `inbox/candidates.md`「白天 2026-10-19 ~13:15」：推荐 2 条仓（**TheSethRose/grokbot-bridge** 优先，Claude Code→Grok Bot 反向委派的 CLI+MCP，可和 locum 成对写；ChamathRosh/grok-bot-templates 小商家只起草模板）+ 3 条信号（结账三道闸/拍卡号绕过 Secure Form 宜并 field-notes；长对话额度贴士待核；LZJ5460 下篇长文转文章雷达）。未改 README。

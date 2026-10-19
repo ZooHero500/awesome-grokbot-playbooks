@@ -908,3 +908,35 @@
 | RyanZhu1024/grok-desk-bot | https://github.com/RyanZhu1024/grok-desk-bot | 无描述 |
 | 「80% 任务由 Claude & GrokBot 完成」名人引语帖 | https://x.com/Carthusdjdk/status/2112008717994520777 | 引语未核实，不收 |
 | orca 日推帖 | https://x.com/aoi_ai_hack/status/2112016854416027853 | orca 已列，仅热度信号 |
+
+## 白天 2026-10-19 ~13:15（Asia/Shanghai）
+
+- **窗口**：~11:16 → ~13:15（约 2 小时）
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-19 03:10 UTC）+ `gh search repos` created≥2026-10-18 + README/License 核实；相对 README + `inbox/candidates.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| TheSethRose/grokbot-bridge | https://github.com/TheSethRose/grokbot-bridge | 非官方 CLI + MCP server：在本机驱动 Grok Bot 桌面端，让 Claude Code / Cursor / Codex / 脚本给指定 Bot 派活、等回复、拿 Markdown/JSON 结果，还能停 Bot、查额度、增删改 Bot。正好补「Claude→Grok 反向委派」，与已收 locum（Grok→本机 Agent）成对。短评须写：非官方、靠自动化桌面 App，macOS 已测、Win/Linux 未测 | Multi-bot / Self-hosted & Tools | `cli` `mcp` `claude-code` `delegation` `unofficial` `mit` | 0 / MIT | **GitHub**（今日建） |
+| ChamathRosh/grok-bot-templates | https://github.com/ChamathRosh/grok-bot-templates | 小商家「一 Bot 一职」模板 6 个（报价催办、未接来电回访、差评回复、催款、晨报等），统一只起草、发送/付款全部本人点头、缺信息留 `[FILL IN]` 不编数。审批闸写法可直接当模板范例；目前仅 1 个有安装链，其余 coming soon，README 末尾有作者导流站 | Templates | `small-business` `drafts-only` `approval` `mit` | 0 / MIT | **GitHub**（今日建） |
+
+### 玩法 / 信号（无强仓，field-notes / Learning 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 结账三道闸 + 拍卡号绕过 Secure Form | https://x.com/__jingling/status/2112043625626448251 | 中文梳理：卡号走 Secure Form、金额卡片一笔一批、密码/验证码/付款确认由人接手；提醒「把信用卡拍照丢进聊天」会让卡号绕过 Secure Form 进入聊天记录。可并进 field-notes 安全默认一句 | Learning / field-notes / Chinese | **X** @__jingling |
+| 长对话吃额度：开新会话 + 先存要点 | https://x.com/XStrangeHistory/status/2112029976581087535 | 用量小贴士：每次回复都会重读整段历史，长聊更耗额度，建议存要点后开新会话。机制说法未经官方核实，只宜作旁链/待核 | Learning（待核） | **X** @XStrangeHistory |
+| （转 X 大 V 文章雷达）Grok Bot 保姆级新手指南·下篇 | https://x.com/LZJ5460/status/2112039869514150322 | 中文 X 长文，「带 AI 员工干活，附 27 段提示词」；属 docs/x-articles.md 范畴，交给文章雷达核实后再收 | x-articles | **X** @LZJ5460 |
+
+### Maybe / Skip（~13:15）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| vitalydolgov/grokbot-tunnel | https://github.com/vitalydolgov/grokbot-tunnel | 无描述无 README；下轮复查 |
+| mynamezxc/Codex-Claude-Bot | https://github.com/mynamezxc/Codex-Claude-Bot | 「借鉴 Grok Bot 思路做 Win 版 Codex/Claude」，非 Grok Bot 配方，暂旁观 |
+| ryofssmax-a11y/grokbot-puzzle | https://github.com/ryofssmax-a11y/grokbot-puzzle | Bot 做的小游戏成品，非可复用玩法 |
+| TermiX Skills 链上接单 | https://x.com/MasterX093/status/2112037124736438693 | 链上市场/结算，偏推广，偏离本仓 |
+| Hermes Adversary / VeilBreaker 长文 | https://x.com/PixelRainbowNFT/status/2112037561556152828 | 同作者线已在候选，仅热度 |
