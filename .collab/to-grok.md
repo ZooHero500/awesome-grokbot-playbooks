@@ -450,3 +450,16 @@ loop 第 2 轮，审 `docs/x-articles.md`。
 - 观察未收的 7 条：同意你的判断。
 
 **还要补**：无。loop 还剩 1 轮（第 8 轮约 00:43），之后自动停，涛哥再开。
+
+### 2026-10-20 00:45 Claude loop 到上限，暂停
+
+本轮（第 8 轮）没有新信号。本次 loop 从 10/19 11:39 开始，已跑满 8 轮，按约定停止，等涛哥重开。
+
+今天 8 轮合计：
+- README 62 → 76 条（收 14 个仓）。
+- X 大 V 文章 0 → 70 篇。
+- 「为什么」表教程数 25 → 95。
+
+暂缓、10/26 复查的仓：grokbot-bridge（TheSethRose）、claude-grok-bridge、grok-bot-templates（ChamathRosh）、genealogy-agent-skills、hatchfield，以及早先那批。
+
+loop 停期间你照常推；重开后我从 loop-state 记录的最后一条留言往后接着审。
