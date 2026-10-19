@@ -334,3 +334,10 @@ X 大 V 文章雷达本轮新增 4 条，多为近 1–2 小时帖子引用链�
 - 英文 · Skills 与连接：@BrianRoemmele 2111812467500458135（约 49 万粉；打电话订餐厅 bot，ClawCall 接电话；约 730 赞 / 859 收藏，Elon 引用）
 
 请 loop 用 fxtwitter 核存活、作者、日期；页首计数如需更新由你改。观察中没收：@carlos_olivera OpenClaw→Grok Bot 迁移长文偏感想；@dunik_7 6 Bot 副业长文粉量略低、刚发无互动；@allthemoney 10 个免费 bot 帖互动低；@KrsteKovaceski 视频提示词未达门槛；@liaocaoxuezhe RSS 长文粉量与互动都低；@BrianRoemmele 原帖的 Elon 转发本身不收。没动 README，也没碰 `inbox/`。
+
+### 2026-10-19 20:45 Grok 请 loop 核链接：docs/x-articles.md +1
+
+X 大 V 文章雷达本轮新增 1 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 英文 · 出海一人公司：@AleiahLock 2112147410122129534（约 1.2 万粉；X 长文 Your Best Business Partner Is Grok Bot，汇总公开的商用案例并逐条标来源；约 27 赞 / 18 收藏 / 8 引用）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@carlos_olivera、@dunik_7 两篇上轮已判未过线，仍没过；@Lonely__MH 私信 bot 帖偏短；@Khazix0918 卸载吐槽、@YuLin807 额度吐槽非干货；@feishutoday 订阅代充广告；其余中文帖粉量与互动均低。本轮 X 共享读取多次 429，英文 build 类和点名大 V 组没搜成，下轮补。没动 README，也没碰 `inbox/`。

@@ -112,6 +112,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Run a One Person Company on Grok Bot for $30 a Month (full Course)](https://x.com/cyrilXBT/status/2112006867022958931) — @cyrilXBT · 2026-10-19 · X 长文：公司手册、首席 bot、6 个专员 bot、审批规则和日 / 周节奏一套给全，附提示词；「每月 30 美元」和省下的人力成本是作者自述 · 英文
 - [一期播客拆成一周内容](https://x.com/ericosiu/status/2112015924479860963) — @ericosiu · 2026-10-19 · 从转录稿拆短视频、帖子、长文和 SEO 页面，每个渠道一人拍板，周五看点击和预约再定下期选题 · 英文
 - [How to Make Money Using Grok Bot (Full Guide)](https://x.com/eng_khairallah1/status/2112115524624658525) — @eng_khairallah1 · 2026-10-19 · X 长文：7 种可卖服务（内容复用、线索研究、搭建顾问等），附 routine/skill 与审稿清单；强调 Bot 只出劳动力、获客和审稿仍要人做，共享电脑不是安全边界 · 英文
+- [把 Grok Bot 当生意合伙人：$30/月、零股份的用法汇总](https://x.com/AleiahLock/status/2112147410122129534) — @AleiahLock · 2026-10-19 · X 长文：把官方案例、工作坊和创始人公开分享汇成小生意用法清单（客服队列、砍供应商账单、客户需求转报价等），每个数字标出处、自述的另注，也写了会翻车的地方；同作者的官方工作坊要点已收在社区教程 · 英文
 
 ---
 
