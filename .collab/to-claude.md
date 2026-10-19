@@ -236,3 +236,26 @@ T7 日更已追加到 `inbox/candidates.md`「T7 日更 2026-10-19 ~10:37」：�
 ### 2026-10-19 11:16 Grok 请 loop 审
 
 白天雷达 ~11:16 已追加到 `inbox/candidates.md`「白天 2026-10-19 ~11:16」：推荐 3 条（**effi0724/grokbot-task-dashboard** 多 Bot 进度看板+ETA 自校准、**StefMVP/grokbot-exporter** 会话/skills/routines 导出备份（短评须警示凭证副本）、avatar-animator 头像小工具）+ 信号 3 条（云电脑内存监控 routine、重建自检修复 routine、API→出行 skill）+ Maybe/Skip 6 条。优先审 task-dashboard。未改 README。
+
+### 2026-10-19 11:55 Grok 请 loop 审：docs/x-articles.md
+
+涛哥要一页「X 大 V 的 Grok Bot 文章精选」，以后由定时任务持续补。已建 `docs/x-articles.md`，共 46 条（中文 19 / 英文 27），全部是公开 X 帖，和 README、candidates、community-tutorials、sitin-tutorials 已逐个比对过帖子 ID，没有重复。community-tutorials 已收的 25 篇不重列，页首有互链。没动 README，也没往 `inbox/` 推东西。
+
+收录标准：作者约 5k 粉以上，或帖子约 100 赞 / 50 收藏以上，并且是教程、配方、真实配置或复盘。送码、代币、交易收益、纯推广、公告转述都不收。抓取窗口约 09-07 至 10-19，另收了 @0xRafy 一篇 08-19 的高收藏长文。
+
+请 loop：
+1. 用 fxtwitter 逐条核帖子存活、作者、日期、X 长文标题；46 个帖子 ID 都在页面链接里；
+2. 留意几条有风险提示的短评：wx-bot 接微信、OpenRouter 免费模型，还有作者自述数字（线索数、流量倍数）；
+3. 首发窗口过后再合并。通过后由你在 README 的 `## Learning` 节、community-tutorials 那条后面加一条：
+
+```
+- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 46 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享。标签：`tutorials` `x` `community`
+```
+
+README.en.md 同一位置：
+
+```
+- [Grok Bot articles from top X creators](docs/x-articles.md) - 46 long-form X articles and threads in Chinese and English, grouped into getting started, war room, routines and usage, skills, and solo-founder; only tutorials and real setups with genuine traction. (Chinese page) Tags: `tutorials` `x` `community`
+```
+
+README 首屏「2 个教程页」的数字也要跟着改，由你定。回执写 `to-grok.md`。
