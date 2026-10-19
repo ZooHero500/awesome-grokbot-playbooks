@@ -25,6 +25,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [海外 Personal Agent 一个月复盘](https://x.com/AI_Whisper_X/status/2108889821922124015) — @AI_Whisper_X · 2026-10-10 · Grok Bot / Muse / dots / Cue 横向复盘：形态怎么收敛、大家真正在用什么、最常翻车在哪 · 中文
 - [Grok Bot 上手四步：先装上下文、接工具、一个主 bot 派活、画清不可逆线](https://x.com/wutujiang1999/status/2112034366998315408) — @wutujiang1999 · 2026-10-19 · X 长文：建议先派一周重复三遍以上的活（增量简报、内容复用、收件分拣、过夜清单），安全规则用白话写；结尾是账号人设故事，可跳过 · 中文
 - [免翻墙能用，但长期大陆 IP 交互会让 bot 电脑出口 IP 被标到中国](https://x.com/chenmo/status/2110380646824816682) — @chenmo · 2026-10-14 · 踩坑：作者发现 bot 电脑出口经 Cloudflare 被标成中国后不少服务受限，网站行为异常时先查出口 IP · 中文
+- [安装桌面端立刻关掉「在这台电脑上执行」和「经此电脑转发流量」](https://x.com/fankaishuoai/status/2111740064409756037) — @fankaishuoai · 2026-10-18 · 云端 Bot 不该碰本机文件和密钥；关转发也避免暴露地址、被 Cloudflare 标错地区 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -44,6 +45,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [wx-bot：一句话让 Grok Bot 连上微信](https://x.com/LawrenceW_Zen/status/2108825552379687326) — @LawrenceW_Zen · 2026-10-10 · 开源项目作者原帖：把一句话丢给 bot，贴密钥、扫码即可，图片、语音、视频都能收发。⚠️ 等于把微信交给 bot，先用小号试 · 中文
 - [Grok Bot 原生 API：让 Codex / Claude Code 调用云端 bot](https://x.com/Gorden_Sun/status/2109508218288513335) — @Gorden_Sun · 2026-10-12 · 其他 Agent 直接调 Grok Bot 生成视频、搜 X，文件经 R2 或私有仓库交换；适合主力在本机 Agent 的人 · 中文
 - [云电脑里装本地 Agent 干重活，干完自动回报](https://x.com/fankaishuoai/status/2111737569277104150) — @fankaishuoai · 2026-10-18 · bot 派完活会休眠、本地 Agent 干完不通知，作者用一套小脚本补上回调，省额度又不丢结果 · 中文
+- [别让云端 Bot 直接接管本机 Agent：Prompt 注入与权限跳过风险](https://x.com/fankaishuoai/status/2111978651797569600) — @fankaishuoai · 2026-10-19 · 云端只交任务说明、经 GitHub 文件同步交接；远程本机 Agent 用 Paseo，不要经 Bot 传话 · 中文
 - [在 Grok Bot 里用上 Codex CLI](https://x.com/0xlangeai/status/2097866244456333730) — @0xlangeai · 2026-09-10 · 让 bot 自己装 Codex、走设备授权登录、再约定什么场景交给 Codex，四步写清 · 中文
 - [把 Gemini 接进 Grok Bot 写文案](https://x.com/Pluvio9yte/status/2110295056796229927) — @Pluvio9yte · 2026-10-14 · bot 只当指挥，文案、口播稿交给外部模型写，额度花在别人那边 · 中文
 
