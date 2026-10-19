@@ -8,6 +8,14 @@
 
 > 中文向 Grok Bot / 多 Agent 玩法清单。每条 = 短评 + 链接 + 标签；配方可直接抄。
 
+**62 个条目 · 9 个可抄配方 · 2 个教程页**（[作者教程](docs/sitin-tutorials.md)、[社区教程 25 篇](docs/community-tutorials.md)）
+
+**先抄这 3 个**：[Routine 额度体检](examples/routine-budget.md)（额度快烧光时先止血）· [作战室](examples/war-room.md)（多 bot 分工 + 人工闸门）· [X 雷达](examples/x-radar.md)（每日抓取 + 摘要推送）
+
+**本仓怎么维护**：Grok Bot 每天在 X 和 GitHub 找料，Claude Code 逐条用 API 核实、写短评，人只拍板。全部协作记录公开在 [`.collab/`](.collab/README.md)。
+
+**招募实测**：配方大多还没在 Grok Bot 里真机跑过。认领一个[实测 issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test)，跑通后配方会标 ✅ 并署你的名。
+
 **验证标记**：✅ 实测 = 在 Grok Bot 里真机跑通　🔍 已审 = 读过文档与配置、未真机跑　无标记 = 仅核实仓库存在且在维护
 
 本仓**不是** Grok Bot 客户端，也**不是** xAI 官方项目，只做整理与点评。

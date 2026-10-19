@@ -35,3 +35,11 @@ grep -nE '/Users/|/home/' /tmp/hist.txt
 grep -nE '(sk-|xai-|ghp_|AKIA)[A-Za-z0-9]{12,}|-----BEGIN' /tmp/hist.txt
 grep -rnE '/Users/|/home/' . --exclude-dir=.git
 ```
+
+## 第二轮（2026-10-19 首发前）
+
+- 范围：工作区 + 全部 52 个 commit，包括 10/18 晚到 10/19 早 Grok 的雷达提交
+- 工作区：本机路径、key、邮箱（除 noreply）、手机号、飞书链接全部 0 命中。审计报告里的复查命令本身不算
+- 历史：只剩第一轮已知的 3 项，都已按 C 处理，没有新增
+- 提交邮箱：10/18 15:20 起，Claude 和 Grok 的提交都已是 noreply
+- 结论：**可以公开**

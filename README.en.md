@@ -8,6 +8,14 @@
 
 > Curated Grok Bot / multi-agent playbooks. Each entry = short review + link + tags. Recipes are copy-paste ready.
 
+**62 entries · 9 copy-paste recipes · 2 tutorial pages** ([maintainer's tutorials](docs/sitin-tutorials.md), [25 community tutorials](docs/community-tutorials.md), both in Chinese)
+
+**Start with these 3**: [Routine budget check](examples/routine-budget.md) (stop the bleeding when usage runs low) · [War room](examples/war-room.md) (multi-bot roles + human gate) · [X radar](examples/x-radar.md) (daily fetch + digest). Recipes are in Chinese.
+
+**How this repo is maintained**: Grok Bot scouts X and GitHub every day, Claude Code verifies each candidate via API and writes the review, and a human only makes the calls. The full collaboration log is public in [`.collab/`](.collab/README.md).
+
+**Testers wanted**: most recipes have not yet been run end-to-end in Grok Bot. Claim a [testing issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test); once it runs, the recipe gets ✅ and your name.
+
 **Verification marks**: ✅ tested = run end-to-end in Grok Bot　🔍 reviewed = docs and config read, not run　no mark = repo confirmed to exist and be maintained
 
 This repo is **not** a Grok Bot client and **not** affiliated with xAI. It only curates and reviews.

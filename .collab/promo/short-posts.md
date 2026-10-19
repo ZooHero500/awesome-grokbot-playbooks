@@ -1,6 +1,6 @@
 # 短内容合集（草稿 v1，待涛哥审）
 
-`{{…}}` 等实测后填。所有对外发布由涛哥执行。
+10/19 首发日版本。所有对外发布由涛哥执行。顺序：13:30 社群预告 → 14:00 公开 → 14:10 社群 → 即刻 → X thread（`x-thread.md`）→ 20:00 公众号 + 视频号/小红书。
 
 ---
 
@@ -36,7 +36,7 @@
 
 > 一人公司用 Grok Bot，最怕两件事：额度烧光，bot 越开越乱。
 >
-> 我们做了个中文配方库 awesome-grokbot-playbooks，58 个条目，9 个能直接抄的配方：作战室、X 雷达、出海客服、额度体检……每个都标了跑没跑过，✅ 是真机跑通的。
+> 我们做了个中文配方库 awesome-grokbot-playbooks，62 个条目，9 个能直接抄的配方：作战室、X 雷达、出海客服、额度体检……还有 25 篇社区教程精选。每条都标了跑没跑过，✅ 只给真机跑通的。
 >
 > 仓库本身由 Grok Bot 找料、Claude 核实，我只拍板，协作记录全公开。
 >
@@ -44,13 +44,13 @@
 
 ## 4. 千里会社群
 
-**10/25 预告**
+**13:30 预告**
 
-> 周二发一个开源项目：Grok Bot 中文配方库。
+> 今天 14:00 发一个开源项目：Grok Bot 中文配方库。
 > 想提前看的、手上有 Grok Bot 愿意帮忙实测配方的，回复「实测」，我拉你进首批。
 > 跑通的配方会署你的名。
 
-**10/27 首发通知**
+**14:10 首发通知**
 
 > 上线了：github.com/sit-in/awesome-grokbot-playbooks
 > 1. 觉得有用就点个 star，帮它上 GitHub Trending
@@ -58,7 +58,7 @@
 > 3. 有自己的玩法，按 `examples/_template.md` 投稿
 > 今晚我在群里答疑。
 
-## 5. 给 ZeroPointRepo/awesome-grok-bot 的 PR（首发一周后，涛哥提）
+## 5. 给 ZeroPointRepo/awesome-grok-bot 的 PR（10/26 前后，涛哥提）
 
 **标题**：Add Chinese playbook collection: awesome-grokbot-playbooks
 

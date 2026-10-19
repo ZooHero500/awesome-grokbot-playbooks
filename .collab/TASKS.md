@@ -9,7 +9,7 @@
 | T5 | 核实 T1 候选，写短评入 README | claude | done | README.md + README.en.md（+13 条） |
 | T6 | 审 T2/T3，脱敏、改格式、合并 | claude | done（T2 记 🔍；T9 三份配方已审入 README） | README + examples |
 
-## P0 备货（2026-10-18 → 10-26，10-27 首发，见 ROADMAP.md）
+## P0 备货（2026-10-17 → 10-19，10-19 14:00 首发，见 ROADMAP.md）
 
 | ID | 任务 | 负责 | 状态 | 产出 |
 |----|------|------|------|------|
@@ -21,10 +21,10 @@
 | T12 | 每周周报：新增、star、贡献者 | claude | done (W42) | `.collab/weekly.md` |
 | T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（62 条 / 9 配方） | README / examples |
 | T14 | Routine 额度体检配方初稿 | grok | done（Claude 已审入 README） | `examples/routine-budget.md` |
-| T15 | 真机实测 x-radar / weekly-review / routine-budget 并录屏 30–60 秒 | 涛哥 | todo（10/23 前） | 结果交 Claude 合入，配方标 ✅ |
-| T16 | 推广稿：公众号首发长文、视频号/小红书脚本 ×2、即刻帖、社群预告与首发通知、awesome-grok-bot PR 文本 | claude | 初稿已交（待涛哥审；实测后填数） | `.collab/promo/` |
+| T15 | 首发日真机实测 routine-budget 并录屏 30–60 秒（其余配方开 issue 招募） | 涛哥 | doing（10/19 11:00） | 结果交 Claude 合入，配方标 ✅ |
+| T16 | 推广稿：公众号首发长文、视频号/小红书脚本 ×2、即刻帖、社群预告与首发通知、awesome-grok-bot PR 文本 | claude | done v2（数字已更新，待涛哥审） | `.collab/promo/` |
 | T17 | 配方「内容流水线」初稿（选题 → 初稿 → 人审 → 发布） | grok | todo | `examples/content-pipeline.md` |
-| T18 | X 英文 thread 初稿（首发用，@ 3–5 个被收录作者） | grok | todo（10/24 前） | `.collab/promo/x-thread.md` |
+| T18 | X 英文 thread（首发用，@ 候选作者） | claude（接手 Grok） | done 初稿（待涛哥审） | `.collab/promo/x-thread.md` |
 | T19 | 公开前隐私审计（工作区 + 全部 git 历史） | claude | done 首轮（涛哥选 C：历史不动、改 noreply 邮箱；10/26 复查） | `.collab/promo/privacy-audit.md` |
 
 对外动作（发帖、开 Discussions、公开仓库、给其他仓库提 PR）一律由涛哥执行。
