@@ -825,3 +825,52 @@
 5. **Learning**：`awesome-grokbot-templates`（站）与 kydlikebtc/majiayu 三分法写清；Fleet Lead / Claude Code 派活作 Templates 旁链。
 6. **升格**：clipper ★36。
 7. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md`。
+
+## T7 日更 2026-10-19 ~10:37（Asia/Shanghai）
+
+- **窗口**：白天 ~09:13 → ~10:37（约 1.5h）+ 近 24h 补漏；周一 T7
+- **负责**：Grok Awesome T7 日更雷达（routine awesome-t7）
+- **方法**：X `search_posts_all`（start_time≥2026-10-18，中英 + github/paseo/locum）+ `gh search` created≥2026-10-18 + README/License 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+- **注**：bot-team-playbook / Fleet-51 / overtime / LocalCrew / esp32-bridge / veilbreaker / awesome-grokbot-templates / Fleet Lead / codex-relay / ai-video-maker / rosterroom / root-agent / orca / field-notes / robbin/local-agent / clipper（白天已列）不重复列；clipper 现 ★39（早窗→36→39）
+
+### 推荐入清单（T7 新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| getpaseo/paseo | https://github.com/getpaseo/paseo （站 https://paseo.sh ） | 本地优先多 Agent 编排：Claude Code/Codex/OpenCode/Pi 等并行 + worktree 隔离，桌面/手机均可控。中文圈今日热议作「别让云端 Grok Bot 直接碰本机」的平替入口；可与 orca / Fleet-51 / overtime 并列 Self-hosted。License API 为 NOASSERTION，短评需注明 | Self-hosted bots / Multi-bot | `self-hosted` `fleet` `desktop` `mobile` `paseo` | 21327 / NOASSERTION | **X** 讨论 + gh |
+| HarjjotSinghh/locum | https://github.com/HarjjotSinghh/locum | Apache-2.0：Grok Bot 经自定义 MCP + 隧道把编码活委派给本机已登录 Claude Code/Codex；不碰凭证、只 spawn 官方 CLI。与 AgwaB / robbin/local-agent / codex-relay 同向，差异是「云端 Bot → 本机订阅」委派层 | Skills & Playbooks / Multi-bot | `mcp` `delegate` `claude-code` `codex` `apache-2.0` | 10 / Apache-2.0 | **GitHub**（今日仍推） |
+| mikecann/delegate | https://github.com/mikecann/delegate | MIT 今日新仓：主 Claude Code 会话把手活/评审/研究派给 Codex、Grok、Muse 或其他 Claude 账号；含多厂共识与额度钩子。偏本机 CLI 编排，可作 Skills 旁链（★0，短评写清「个人工具可 fork」） | Skills & Playbooks | `delegate` `multi-cli` `consensus` `mit` | 0 / MIT | **GitHub**（今日建） |
+| FelixIsaac/cmux-orbit | https://github.com/FelixIsaac/cmux-orbit | MIT：手机端 Mission Control，经 Tailscale 原生跑 Claude Code / Grok CLI / Codex / Pi 等。与 Paseo 手机控本机同向，可挂 Self-hosted / Hardware 旁链 | Self-hosted bots | `mobile` `tailscale` `cmux` `mit` | 0 / MIT | **GitHub**（昨夜） |
+| spa77k/web-research-skill | https://github.com/spa77k/web-research-skill | Grok Bot/Cursor 式 SKILL：强制上网核实、优先官方源、结论先行 + 出处链接。可作 Skills 小样（无 SPDX License，短评提醒） | Skills & Playbooks | `skill` `research` `japanese` | 0 / none | **GitHub**（今日建） |
+
+### 玩法 / 产品信号（无强仓，Learning / Routines 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 手机派活→本机 Agent 的安全风险 | https://x.com/fankaishuoai/status/2111978651797569600 | 云端 Bot 读外部内容后再控本机 Agent 有注入面；主张关本机执行、改用 Paseo 类本地编排。与已收「桌面安全默认」同向，宜并进 field-notes | Learning / field-notes | **X** @fankaishuoai |
+| NextToken：Grok Bot / Muse 体感圆桌 | https://x.com/vista8/status/2111980748135903566 （小宇宙 https://www.xiaoyuzhoufm.com/episode/6ad50a05641ef406308d957a ） | 中文播客聊 Personal Agent 实操与「干活还是过家家」；可挂 Chinese / Learning 旁链（勿写内部路径） | Chinese / Learning | **X** @vista8 |
+| Grok Bot 总管 Hermes + OpenClaw | https://x.com/MichaelGannotti/status/2112005427797938371 | 上层审批门：不合并/部署/发帖/花钱除非人点 yes。与 Fleet Lead / supervisor 模式互证 | Multi-bot / Templates | **X** @MichaelGannotti |
+| 多玩家：Grok↔Claude 交接 | https://x.com/BenENewton/status/2112005826994979196 | 单玩家 Agent 互不知情；用共享层让两边看到彼此产出。可作 Multi-bot 记忆/交接信号 | Multi-bot / Learning | **X** @BenENewton |
+| Personal Agent = 岗位不是聊天框 | https://x.com/zengge1984/status/2112000541576569075 | 知识库+方法论+每日交付才分水岭。中文一人公司心智短链 | Chinese / Learning | **X** @zengge1984 |
+| 模板发现：描述工作→链 Bot 模板 | https://x.ai/bot/changelog （帖 https://x.com/OptimusG2026/status/2112001434774556908 ） | 产品内「说清岗位→推荐模板」；可挂 Learning 产品提示 | Learning | **X** + changelog |
+| clipper ★ 再复查 | https://github.com/RongleCat/grok-bot-clipper | ★36→★39；继续优先合入 Skills/Chinese | Skills / Chinese | gh |
+
+### Maybe / Skip（T7 ~10:37）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| Root Agent v0.3.2 版本贴 | https://x.com/mrbeko_/status/2111950616708690103 | 仓已列；仅 skills 刷新，不重复 |
+| Tongyi OpenGCUA | https://github.com/Tongyi-MAI/OpenGCUA | 通用 CUA 技术栈，非 Grok Bot 配方 |
+| Clean Room / Hermes Adversary 模板 | https://x.ai/bot/X0H6z06mMxX2873lc5sCa 等 | 与已收 veilbreaker 同作者线；无独立可核仓则暂旁观 |
+| zambo.dev 收据 MCP | https://zambo.dev | 付费/产品向，偏离本仓薄目录 |
+| Thulr/galaxy-bot | https://github.com/Thulr/galaxy-bot | ★0 桌面 Tauri 驱动 CLI，与 orca/Paseo 重叠且尚早 |
+| goal-flight / harness-subagent | https://github.com/simonrowland/goal-flight · https://github.com/realspqrk/harness-subagent | 相关但近 24h 无新信号；待周更再扫 |
+| 农场 Field Notes 模板 / 客服吐槽帖 | 多 | 垂直 niche 或投诉，无配方 |
+
+### 给 Claude loop 的合并建议
+
+1. **优先**：`getpaseo/paseo`（体量最大、今日中文安全讨论锚点）与 `HarjjotSinghh/locum`（云端 Bot→本机 Claude/Codex 委派，贴合本仓协作叙事）进 Self-hosted / Skills。
+2. **旁链**：mikecann/delegate、cmux-orbit；field-notes 补「手机派活本机的注入面」一句（链范凯帖 + Paseo 平替）。
+3. **升格**：clipper ★39；NextToken 播客可挂 Chinese Learning。
+4. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md` + TASKS 备注。

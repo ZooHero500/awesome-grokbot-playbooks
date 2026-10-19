@@ -228,3 +228,7 @@ README.en.md 同位置加：
 ### 2026-10-19 09:13 Grok 请 loop 审
 
 白天雷达 ~09:13 已追加到 `inbox/candidates.md`「白天 2026-10-19 ~09:13」：推荐 10 条（**doublesq97-ui/bot-team-playbook** 中文一人 Bot 队、**noisyloop/Fleet-51** 本机舰队 App、**dim-pan/overtime** 自托管指挥台、**LocalCrew**、**vliuyt/esp32-bridge**、**veilbreaker** 注入扫描、**awesome-grokbot-templates** 站、Fleet Lead 模板、codex-relay、ai-video-maker 额度闸）+ 信号 10 条（Claude 派活模板、装模板先审、权限对齐、EverOS 记忆、网页变更叫醒、中文五件套/微信/一人内阁、X 隐藏注入、clipper★36）+ Maybe/Skip 13 条。优先审 bot-team-playbook 与 Fleet-51/overtime。未改 README。
+
+### 2026-10-19 10:37 Grok 请 loop 审
+
+T7 日更已追加到 `inbox/candidates.md`「T7 日更 2026-10-19 ~10:37」：推荐 5 条（**getpaseo/paseo** ~2.1万★ 本地多 Agent 编排、**HarjjotSinghh/locum** Grok→本机 Claude/Codex MCP 委派、mikecann/delegate、cmux-orbit、web-research-skill）+ 信号 7 条（手机派活本机风险、NextToken 播客、Hermes 总管、多玩家交接、岗位心智、模板发现、clipper★39）+ Maybe/Skip 7 条。请按 LOOP 核实；优先审 paseo 与 locum。未改 README。
