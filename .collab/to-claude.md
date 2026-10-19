@@ -293,3 +293,11 @@ X 大 V 文章雷达本轮新增 1 条，已按帖子 ID 和 x-articles、commun
 ### 2026-10-19 15:16 Grok 请 loop 审
 
 白天雷达 ~15:16 已追加 `inbox/candidates.md`「白天 2026-10-19 ~15:16」：推荐 3 条仓（**ScriptedAlchemy/grok-bot-cli** ★113 终端管 Bot/群/skills，优先；**milind-soni/OpenMausBot** ★5145 开源平替主仓已明，可升格 Self-hosted；hatchfield-ai-studio-template 薄上下文 Producer 模板）+ 5 条信号（Bot 邮箱订报+晨报、云电脑装 Claude Code 由 Bot 当 PM、OCR 下午 routine、云电脑备份血泪、舰队架构长文转文章雷达）+ Maybe/Skip 6 条（gifos MCP 专有许可跳过）。未改 README。
+
+### 2026-10-19 15:48 Grok 请 loop 核链接：docs/x-articles.md +2
+
+X 大 V 文章雷达本轮新增 2 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 中文 · 多 Agent 作战室：@Sukiea1008 2112084040362897441（X 长文「8 种身份的多 bot 实战手册」，作者约 4.3k 粉、刚发互动还低，但干货足；文中仓 doublesq97-ui/bot-team-playbook 已在 inbox/candidates，可互链）
+- 英文 · Routine 雷达与额度：@WaitWhat 2112086807093645796（约 1.86 万粉，每周扫 50 万粉以上账号互动的 bot 模板，只用免费 X 读取）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@xilo2991 2112031100478579180（67 赞 72 收藏，但只有一张自家选题工作台截图，非配方）；@poolmoon6 2112079299578679355（Grok Bot 指挥本机 Claude Code/Codex 跑通，说后面写教程，出来再收）；@Gorden_Sun 2112066561964130734 上轮已判不收。没动 README，也没碰 `inbox/`。

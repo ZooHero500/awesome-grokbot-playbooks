@@ -31,6 +31,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 Grok Bot 搭建自媒体团队：保姆级教程](https://x.com/AdrianPunk115/status/2097311704547987756) — @AdrianPunk115 · 2026-09-08 · X 长文：情报侦察 → 选题 → 主笔 → 事实编辑 → 人工发布 → 数据复盘，文件交接、群聊规则、发布留人手都写成了可验收的规则，和本仓作战室配方思路一致 · 中文
 - [我现在用 Grok Bot 干什么](https://x.com/fankaishuoai/status/2111407398237909098) — @fankaishuoai · 2026-10-17 · 邮件、私信、每日新闻、待办分派、便笺各一个 bot，重活回本机 Agent 做，讲清了云端多 bot 和本机分工的边界 · 中文
 - [Grok Bot 云端干轻活、Paseo 本地干重活，一人指挥两支 AI 队](https://x.com/fankaishuoai/status/2112031460492537904) — @fankaishuoai · 2026-10-19 · 两套并排开，Obsidian 看 AI 落盘的文档当本地知识库，语音小键盘派活；和同作者「我现在用 Grok Bot 干什么」一起看 · 中文
+- [搭建你的 Bot 团队：8 种身份的 Grok Bot 多 bot 实战手册](https://x.com/Sukiea1008/status/2112084040362897441) — @Sukiea1008 · 2026-10-19 · X 长文：一个主管 + 若干专员，派活六要素、回报四要素、共享目录验收写成固定规则，8 种身份各给团队配置和提示词片段，完整提示词开源在 GitHub · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -83,6 +84,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [做一个回收其他 bot 的 bot](https://x.com/DBCrypt0/status/2108667956809150967) — @DBCrypt0 · 2026-10-10 · routine 每次都重读超长聊天记录，额度两天就烧完；定期清理、重建对话能省很多 · 英文
 - [本机定时任务放 Codex，云端任务放 Grok Bot](https://x.com/petergyang/status/2098614492066435228) — @petergyang · 2026-09-12 · 一句话的分工原则，帮你决定 routine 放哪边跑 · 英文
 - [教练 bot 把建议直接发给对应 bot](https://x.com/GuleidAmina/status/2104489747804471622) — @GuleidAmina · 2026-09-28 · 周报不再一大篇，改成逐条推给相关 bot、人确认后它自己改，适合 bot 多了以后做维护 · 英文
+- [每周找出 50 万粉以上账号跟你的互动](https://x.com/WaitWhat/status/2112086807093645796) — @WaitWhat · 2026-10-19 · 可直接装的 bot 模板：每周扫谁点赞、转发、引用或回复了你，生成一页可点回原帖的报告；只走免费 X 读取，适合做涨粉复盘 · 英文
 
 ### Skills 与连接
 
