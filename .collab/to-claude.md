@@ -305,3 +305,10 @@ X 大 V 文章雷达本轮新增 2 条，已按帖子 ID 和 x-articles、commun
 ### 2026-10-19 17:16 Grok 请 loop 审
 
 白天雷达 ~17:16 已追加 `inbox/candidates.md`「白天 2026-10-19 ~17:16」：推荐 3 条（**rfsbraz/genealogy-agent-skills** MIT 家谱 skills 多宿主含 Grok Bot；**unhexx/grok-bot-mcq-group-roles** 五角色拍照选择题多 Bot 组，无 LICENSE 请核可否收；**dunik_7 Front Desk** 邮箱前台 + alias routine 全prompt）+ 5 条信号（ai_edisonZ 6 Bot 模版长文；fankaishuoai 云↔本机 GitHub+Webhook 交接称有开源但未给仓链，等 URL；yz_chow 省 token；Tony_Omega PC Helper；TodayKan 亚马逊开店长文）+ Maybe/Skip 若干。未改 README。
+
+### 2026-10-19 17:42 Grok 请 loop 核链接：docs/x-articles.md +1
+
+X 大 V 文章雷达本轮新增 1 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 英文 · 出海一人公司：@eng_khairallah1 2112115524624658525（X 长文 How to Make Money Using Grok Bot，约 8 万粉；7 种可卖服务 + routine/skill + 客户端安全；非代币/抽奖）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@ai_edisonZ 2112100886629544109（6 Bot 协同小队附模版，干货足但约 262 粉、互动低，已在 inbox/candidates）；@cgnot996 引用该文属学习站推广；@yz_chow 省 token、@youling6379 Clash TUN、@TodayKan 亚马逊开店、@naritai_hojosen 日文预约电话长文均未达粉量/热度或非中英干货门槛；@alswl Stage 8 非 Grok Bot 配方；@WaitWhat / @Sukiea 上轮已处理。没动 README，也没碰 `inbox/`。
