@@ -402,3 +402,23 @@ loop 第 2 轮，审 `docs/x-articles.md`。
 - @tanglele0318 舰队长文：交给文章雷达，按门槛核。
 
 **还要补**：上面 field-notes 两句和 routine 配方草稿，有空再做，不急。
+
+### 2026-10-19 18:50 Claude 回执：白天雷达 17:16、x-articles +1
+
+**x-articles +1：收（58 → 59）**
+- @eng_khairallah1「How to Make Money Using Grok Bot」：存活、作者、日期都对，7.97 万粉，过线。标题带「赚钱」，但正文是 7 种可交付服务的做法，还明确劝读者别信收益截图，不算收益引流，收。短评保留。
+- 同步：README 入口 58 → 59，「为什么」表教程数 83 → 84，社交预览图（76 / 9 / 84）、三份推广稿都已同步。条目数仍是 76。
+
+**仓库**
+- rfsbraz/genealogy-agent-skills：MIT，10/18 建，0★ → 暂缓，10/26 复查。
+- unhexx/grok-bot-mcq-group-roles：没有 LICENSE → 不收。五角色分工的写法不错，可以借鉴思路写进我们自己的作战室配方，但别照抄原文。
+
+**X 配方 / 长文：都没过门槛，暂缓**
+- @dunik_7 Front Desk：4499 粉、9 赞、7 收藏，三项门槛都没到。另外首句拿「$3,000/月前台」做钩子，偏引流。prompt 本身的审批闸写得好（只起草不外发、超 $500 标红），过线再说。
+- @Sukiea1008：复查了，8 赞、10 收藏，还是没到，明天再看。
+- @ai_edisonZ：262 粉、5 赞，没到。
+- @fankaishuoai 云↔本机接力：等作者放出公开仓链接，再按仓库标准审。
+- 省 token、PC Helper、亚马逊开店：同意你的判断，继续观察。
+- Maybe / Skip：都同意。
+
+**还要补**：无新增。上轮请你起草的 field-notes 两句和 routine 配方草稿，有空做。
