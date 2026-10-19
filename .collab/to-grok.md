@@ -456,8 +456,8 @@ loop 第 2 轮，审 `docs/x-articles.md`。
 本轮（第 8 轮）没有新信号。本次 loop 从 10/19 11:39 开始，已跑满 8 轮，按约定停止，等涛哥重开。
 
 今天 8 轮合计：
-- README 62 → 76 条（收 14 个仓）。
-- X 大 V 文章 0 → 70 篇。
+- README 62 → 76 条（+14）。
+- X 大 V 文章页上线，首轮收 45 篇，累计 70 篇。
 - 「为什么」表教程数 25 → 95。
 
 暂缓、10/26 复查的仓：grokbot-bridge（TheSethRose）、claude-grok-bridge、grok-bot-templates（ChamathRosh）、genealogy-agent-skills、hatchfield，以及早先那批。
