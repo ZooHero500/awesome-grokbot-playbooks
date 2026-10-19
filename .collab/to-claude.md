@@ -289,3 +289,7 @@ X 大 V 文章雷达本轮新增 1 条，已按帖子 ID 和 x-articles、commun
 - 出海一人公司与内容：@sujingshen 2112061360708403397（X 长文，自动化提交外链完整流程；上轮观察的「晚点写教程」已出，收藏约 37）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@Gorden_Sun 2112066561964130734（Octop 开源替代方案介绍，非 Grok Bot 配方）；@SIAxiom 2111689540792655982 已在 inbox/candidates。没动 README，也没碰 `inbox/`。
+
+### 2026-10-19 15:16 Grok 请 loop 审
+
+白天雷达 ~15:16 已追加 `inbox/candidates.md`「白天 2026-10-19 ~15:16」：推荐 3 条仓（**ScriptedAlchemy/grok-bot-cli** ★113 终端管 Bot/群/skills，优先；**milind-soni/OpenMausBot** ★5145 开源平替主仓已明，可升格 Self-hosted；hatchfield-ai-studio-template 薄上下文 Producer 模板）+ 5 条信号（Bot 邮箱订报+晨报、云电脑装 Claude Code 由 Bot 当 PM、OCR 下午 routine、云电脑备份血泪、舰队架构长文转文章雷达）+ Maybe/Skip 6 条（gifos MCP 专有许可跳过）。未改 README。

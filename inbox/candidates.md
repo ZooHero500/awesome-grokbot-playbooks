@@ -940,3 +940,39 @@
 | ryofssmax-a11y/grokbot-puzzle | https://github.com/ryofssmax-a11y/grokbot-puzzle | Bot 做的小游戏成品，非可复用玩法 |
 | TermiX Skills 链上接单 | https://x.com/MasterX093/status/2112037124736438693 | 链上市场/结算，偏推广，偏离本仓 |
 | Hermes Adversary / VeilBreaker 长文 | https://x.com/PixelRainbowNFT/status/2112037561556152828 | 同作者线已在候选，仅热度 |
+
+## 白天 2026-10-19 ~15:16（Asia/Shanghai）
+
+- **窗口**：~13:15 → ~15:16（约 2 小时）
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-19 05:00 UTC）+ `gh api search/repositories` created≥2026-10-18 + README/License 核实；相对 README + `inbox/candidates.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| ScriptedAlchemy/grok-bot-cli | https://github.com/ScriptedAlchemy/grok-bot-cli | 终端管 Grok Bot：建/改/删 Bot 与群、发消息、拉 thread、装/卸 skills；走桌面端已登录会话，不必手拷 token。今日仍有 push。可与已收 grokbot-bridge（反向委派）并列 Tools | Tools / Multi-bot | `cli` `npm` `skills` `groups` `mit` | 113 / MIT | **GitHub**（今日仍推） |
+| milind-soni/OpenMausBot | https://github.com/milind-soni/OpenMausBot | 开源 Grok Bot 平替：聊天式多 Bot、本地优先，底层跑本机 Claude / Codex / Grok CLI；有 Mac/Win/Ubuntu 安装包。早窗曾记「无清晰主仓」，现主仓与下载页齐全，宜升格 Self-hosted | Self-hosted | `alternative` `local-first` `apache-2.0` | 5145 / Apache-2.0 | **GitHub**（对照文升级） |
+| treverhatch-glitch/hatchfield-ai-studio-template | https://github.com/treverhatch-glitch/hatchfield-ai-studio-template | 薄上下文 Producer 模板：状态落在 `NEXT.md` / `CURRENT_TASK.md` / skills，Grok Bot 当 Producer 派工写回；含 token 节流与被动 Workflow HUB。偏游戏制作，但「薄聊天、厚文件」可复用 | Templates / Multi-bot | `thin-context` `producer` `template` `mit` | 0 / MIT | **GitHub**（今日新建） |
+
+### 玩法 / 信号（无强仓，field-notes / Routines / Learning 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Bot 自有邮箱订 newsletter + 晨报汇总 | https://x.com/CalvinHollywood/status/2112073281000055180 | 用 Bot 邮箱订阅，晨间 routine 只回一条短摘要，个人收件箱保持干净。7k 粉作者，配方清晰 | Routines / Learning | **X** @CalvinHollywood |
+| 云电脑直接装 Claude Code，Bot 当 PM | https://x.com/0x3Matt/status/2112064390937690314 | 在 Grok Bot 电脑登录 Claude Code，让项目经理 Bot 直接带 Claude，省掉「本机↔云」两步跳。与 locum / grokbot-bridge 叙事互补 | Multi-bot / Self-hosted | **X** @0x3Matt |
+| Original Content Rewards 下午四点 routine | https://x.com/TodayKan/status/2112077346190852413 | 固定四步：扫 24–48h 热帖 → ≥5 条原创主帖 → ≥10 条有信息互动 → 把选材理由回本聊天。可作 Routines 示例 | Routines / Chinese | **X** @TodayKan |
+| 云电脑重置血泪：务必备份 | https://x.com/tspy/status/2112056388474351906 | OG 提醒：业务材料/技能/规范全在同一台云电脑，曾两次重置清空。可与已收 grokbot-exporter 并成「韧性」一句 | Learning / field-notes / Chinese | **X** @tspy |
+| （转文章雷达）舰队架构全拆解 | https://x.com/tanglele0318/status/2112069782170173797 | 中文 X 长文「从单兵作战到舰队协同」；粉量与收藏偏低，交 docs/x-articles.md 雷达按门槛核后再收 | x-articles | **X** @tanglele0318 |
+
+### Maybe / Skip（~15:16）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| nwcnwc/gifos-broadcast-mcp | https://github.com/nwcnwc/gifos-broadcast-mcp | 有 `.grok-plugin` + skill，但 LICENSE 为 All rights reserved 专有许可，不适合 Awesome 默认收录 |
+| Anil-matcha/open-dots | https://github.com/Anil-matcha/open-dots | ★高的通用 Agent 工作台，无 LICENSE 文件；同作者 open-grok-bot 已在 README |
+| renyadav96/noodle | https://github.com/renyadav96/noodle | 今日新建，README/下载链指向已列的 pdparchitect/noodle，疑似镜像 |
+| vitalydolgov/grokbot-tunnel | https://github.com/vitalydolgov/grokbot-tunnel | 仍无 README；维持上轮 Maybe |
+| Taki1979/x-post-images | https://github.com/Taki1979/x-post-images | 仅「x posts from grok bot」素材堆，无配方 |
+| EverOS Cloud 共享记忆推广 | https://x.com/crossbite65/status/2112067995757421022 | 产品推广，非开源配方 |
