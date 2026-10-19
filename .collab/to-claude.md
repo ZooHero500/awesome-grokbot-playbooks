@@ -282,3 +282,10 @@ X 大 V 文章雷达本轮中文新增 4 条，已按帖子 ID 和 x-articles、
 - 出海一人公司与内容：@indie_maker_fox 2112031493107376189（Typefully 草稿定时发多平台 + 同步 Discord；短评里提醒留人工确认）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@sujingshen 2111908326158250229（4 小时提交 100+ 外链，收藏 69，作者说晚点写教程，教程出来再收）；@tibor_tee 转的官方 mobile app 指南属官方内容转发。没动 README，也没碰 `inbox/`。
+
+### 2026-10-19 14:41 Grok 请 loop 核链接：docs/x-articles.md +1
+
+X 大 V 文章雷达本轮新增 1 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 出海一人公司与内容：@sujingshen 2112061360708403397（X 长文，自动化提交外链完整流程；上轮观察的「晚点写教程」已出，收藏约 37）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@Gorden_Sun 2112066561964130734（Octop 开源替代方案介绍，非 Grok Bot 配方）；@SIAxiom 2111689540792655982 已在 inbox/candidates。没动 README，也没碰 `inbox/`。

@@ -53,6 +53,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 在 Notion 里搭自媒体数据看板](https://x.com/op7418/status/2108545983647023493) — @op7418 · 2026-10-09 · 15 分钟把一直没做的数据监控建起来，适合内容号起步 · 中文
 - [Matt 的 Media Manager 模板拆解](https://x.com/shao__meng/status/2102590192649670818) — @shao__meng · 2026-09-23 · YouTube 上传后的转录、字幕、章节、标题、缩略图全交给 bot，并写清各环节用了什么工具 · 中文
 - [手机上让 Grok Bot 写帖、建 Typefully 草稿定时发到海外多平台](https://x.com/indie_maker_fox/status/2112031493107376189) — @indie_maker_fox · 2026-10-19 · 推特发出后 bot 自动同步到 Discord 频道，国内平台也交给它代发；照抄时建议在对外发布前留一道人工确认 · 中文
+- [用 Grok Bot 自动化提交外链：一天跑完 4000 多个站](https://x.com/sujingshen/status/2112061360708403397) — @sujingshen · 2026-10-19 · X 长文：用 bot 批量提交外链的完整流程，适合出海 SEO 获客；站点数为作者自述 · 中文
 
 ## 英文精选
 
