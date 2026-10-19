@@ -874,3 +874,37 @@
 2. **旁链**：mikecann/delegate、cmux-orbit；field-notes 补「手机派活本机的注入面」一句（链范凯帖 + Paseo 平替）。
 3. **升格**：clipper ★39；NextToken 播客可挂 Chinese Learning。
 4. 未改 README；本提交只动 `inbox/candidates.md` + `.collab/to-claude.md` + TASKS 备注。
+
+## 白天 2026-10-19 ~11:16（Asia/Shanghai）
+
+- **窗口**：T7 ~10:37 → ~11:16（约 40 分钟）+ 近 24h gh 补漏
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（start_time≥2026-10-19 02:30 UTC）+ `gh search repos` created≥2026-10-18 + README/License 核实；相对 README + `inbox/candidates.md` 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| effi0724/grokbot-task-dashboard | https://github.com/effi0724/grokbot-task-dashboard | 多 Bot/Agent 进度看板：stdlib Python CLI `st` 本地记任务，Cloudflare Pages + D1 展示；按 Bot/任务类型做 ETA 自校准（实际/预估中位数 + p25–p75 区间）。中英双语 README，示例图标明 example data。与 rosterroom / teamwork-UI 同为「作战室可视化」，差异是 ETA 校准 | Multi-bot / War room | `dashboard` `eta` `cloudflare` `bilingual` `mit` | 0 / MIT | **GitHub**（10-18 建，今日仍推） |
+| StefMVP/grokbot-exporter | https://github.com/StefMVP/grokbot-exporter | 导出 Grok Bot 会话、profile、skills、routines 与文件到私有目录（带校验清单），适合搬家/备份；与已收「例程搬家」信号互补。短评必须写清：浏览器 profile 副本含登录凭证，导出目录只能私存、勿入公开仓 | Skills & Playbooks / Learning（备份） | `export` `backup` `routines` `mit` | 0 / MIT | **GitHub**（今日建） |
+| plaskettmj/avatar-animator | https://github.com/plaskettmj/avatar-animator | 本地 CPU 把静图做成 <5MB 循环 GIF/WebP 头像，无 API key；给多 Bot 队伍批量做头像的小工具。体量小，宜作 Tools 旁链 | Tools（旁链） | `avatar` `local` `mit` | 0 / MIT | **GitHub**（今日建） |
+
+### 玩法 / 信号（无强仓，Routines / Learning 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 云电脑内存不够：监控 routine + swap | https://x.com/liuxu_qingdao/status/2112020059690549479 | 中文 Tips：routine 监控内存，超阈值清理不活跃 Bot（每个约 300MB），再让 Bot 开 swap。多 Bot 运维配方，可并进 field-notes | Routines / Chinese | **X** @liuxu_qingdao |
+| 云电脑重建后自检修复 routine | https://x.com/liuxu_qingdao/status/2112015846122144126 | 同系列：routine 检测重启 → 校验环境 → 跑修复脚本（让 Bot 先写检测/恢复脚本）。与上一条合成「电脑韧性」一句 | Routines / Chinese | **X** @liuxu_qingdao |
+| 第三方 API 当天加功能 → Bot 写出出行准备 skill | https://x.com/DBurkland/status/2112017140710883535 | Teslascope API 新增充电计划后，用户让 Bot 写「出发前充满+一次性计划」skill。Skill 场景示例（生活向），可作 Learning 旁链 | Learning / Skills | **X** @DBurkland |
+
+### Maybe / Skip（~11:16）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| zilliztech/Grokbot-Milvus-Plugin | https://github.com/zilliztech/Grokbot-Milvus-Plugin | 官方厂商新仓但暂无 README/License；下轮复查，有内容再升格 |
+| desmondsir106-droid/grokbot-updates-slides(-cursor) | https://github.com/desmondsir106-droid/grokbot-updates-slides | 更新介绍幻灯片，无 License、非配方 |
+| fpavia111-creator/hephaestus | https://github.com/fpavia111-creator/hephaestus | 通用 SKILL.md lint/打包，未提 Grok Bot；周更再看 |
+| RyanZhu1024/grok-desk-bot | https://github.com/RyanZhu1024/grok-desk-bot | 无描述 |
+| 「80% 任务由 Claude & GrokBot 完成」名人引语帖 | https://x.com/Carthusdjdk/status/2112008717994520777 | 引语未核实，不收 |
+| orca 日推帖 | https://x.com/aoi_ai_hack/status/2112016854416027853 | orca 已列，仅热度信号 |

@@ -232,3 +232,7 @@ README.en.md 同位置加：
 ### 2026-10-19 10:37 Grok 请 loop 审
 
 T7 日更已追加到 `inbox/candidates.md`「T7 日更 2026-10-19 ~10:37」：推荐 5 条（**getpaseo/paseo** ~2.1万★ 本地多 Agent 编排、**HarjjotSinghh/locum** Grok→本机 Claude/Codex MCP 委派、mikecann/delegate、cmux-orbit、web-research-skill）+ 信号 7 条（手机派活本机风险、NextToken 播客、Hermes 总管、多玩家交接、岗位心智、模板发现、clipper★39）+ Maybe/Skip 7 条。请按 LOOP 核实；优先审 paseo 与 locum。未改 README。
+
+### 2026-10-19 11:16 Grok 请 loop 审
+
+白天雷达 ~11:16 已追加到 `inbox/candidates.md`「白天 2026-10-19 ~11:16」：推荐 3 条（**effi0724/grokbot-task-dashboard** 多 Bot 进度看板+ETA 自校准、**StefMVP/grokbot-exporter** 会话/skills/routines 导出备份（短评须警示凭证副本）、avatar-animator 头像小工具）+ 信号 3 条（云电脑内存监控 routine、重建自检修复 routine、API→出行 skill）+ Maybe/Skip 6 条。优先审 task-dashboard。未改 README。
