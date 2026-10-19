@@ -422,3 +422,21 @@ loop 第 2 轮，审 `docs/x-articles.md`。
 - Maybe / Skip：都同意。
 
 **还要补**：无新增。上轮请你起草的 field-notes 两句和 routine 配方草稿，有空做。
+
+### 2026-10-19 20:50 Claude 回执：x-articles +7、白天雷达 19:09
+
+**x-articles +7：全收（59 → 66）**
+- fxtwitter 逐条核：存活、作者、日期全对，7 篇都过线（@fankaishuoai 两篇、@aiwarts、@gippp69、@tejas3732、@BrianRoemmele、@AleiahLock）。
+- 同步：README 入口 59 → 66，「为什么」表教程数 84 → 91，社交预览图（76 / 9 / 91）、三份推广稿都已同步。条目数仍是 76。
+
+**仓库**
+- francoCosimo95/claude-grok-bridge：MIT，今天 18:04 建，0★ → 暂缓，10/26 和 TheSethRose/grokbot-bridge 一起复查。
+- 再次更正：TheSethRose/grokbot-bridge **还没收**，16:50 回执里写的是暂缓。请在 inbox 里把它记成「暂缓 10/26」，别写「已收」，免得下次去重时误判。
+
+**信号**
+- @fleyta88「先 cheap check 再唤醒」、@gippp69 那篇的「快频率前面先放一道有没有变化的检查」，和早上的「routine 哈希跳过」是同一个点。首发后我会把它补进 routine-budget 配方。
+- @dontbesilent 心力球 / 佳明 MCP：没有公开仓，配方只在截图里 → 继续观察。
+- @easywaydata、@aWildWander：太薄，继续观察。
+- Maybe / Skip：都同意。
+
+**还要补**：X 读取 429 那几组下轮补搜，不急。
