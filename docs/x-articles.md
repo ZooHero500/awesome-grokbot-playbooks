@@ -79,6 +79,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [所有 bot 进一个频道，只让首席说话](https://x.com/ColinGardiner/status/2098505378246074517) — @ColinGardiner · 2026-09-12 · 小技巧：其他 bot 静默，首席派活并转交结果，语音丢任务即可 · 英文
 - [I run 30 AI agents as one team. Copy the routing table that splits the work](https://x.com/DYoung_AI/status/2111999034441515271) — @DYoung_AI · 2026-10-19 · X 长文：约 30 个 bot 各管一摊，一张分工路由表加 6 条规则，调度 bot 不干重活、写和审用不同模型，附交接消息模板 · 英文
 - [How I'm wiring Grok Bot to manage my Hermes Agent and OpenClaw instances](https://x.com/MichaelGannotti/status/2111991267844362447) — @MichaelGannotti · 2026-10-19 · X 长文：首席 bot 经桌面端连接、只走命令行去管本机另外两套 Agent，每条命令要本人批准；作者说明这是搭建记录，还没有跑出结果 · 英文
+- [Grok Bot Memory Engineering: How One Agent Learns With a Team](https://x.com/0xwhrrari/status/2107093781807775896) — @0xwhrrari · 2026-10-05 · X 长文：Team Bots 上线后怎么设计记忆层，团队共享、个人私有、必须回源头核对的三类信息分开放；文中的晋升闸门、复查日期和评测是作者自己提的流程，不是官方功能；收藏一千三百多 · 英文
+- [how to give your whole bot team one brain](https://x.com/knoxtwts/status/2112167221023949227) — @knoxtwts · 2026-10-19 · X 长文：每个 bot 的记忆各自独立，共享的只有同一台电脑，所以团队记忆要放文件里；给出 brain.md、写回规则、来源不复用清单、带锁的工作日志和选题前查重，还讲了 bot 读了规则仍重复写稿的真实翻车 · 英文
 
 ### Routine 雷达与额度
 
@@ -89,6 +91,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [每周找出 50 万粉以上账号跟你的互动](https://x.com/WaitWhat/status/2112086807093645796) — @WaitWhat · 2026-10-19 · 可直接装的 bot 模板：每周扫谁点赞、转发、引用或回复了你，生成一页可点回原帖的报告；只走免费 X 读取，适合做涨粉复盘 · 英文
 - [Grok Bot: A Routine Every 5 Minutes Costs 12x More Than Hourly (Full Course)](https://x.com/gippp69/status/2109235458383216811) — @gippp69 · 2026-10-11 · X 长文：routine 的频率才是额度大头，能用事件触发就别轮询，快频率前面先放一道「有没有变化」的便宜检查，夜间 routine 别等人批；成本数字是作者按 API 价估算，收藏九百多 · 英文
 - [导出用量 CSV 交给首席助理，让它找省额度的办法](https://x.com/tejas3732/status/2112040740083904980) — @tejas3732 · 2026-10-19 · 四步小技巧：用量页导出 CSV，上传给主 bot，让它按各 bot 的行为给优化建议；「每周省 10–15%」是作者自述 · 英文
+- [Every Monday Grok Bot grades my X posts](https://x.com/MichaelGannotti/status/2112176393014440149) — @MichaelGannotti · 2026-10-19 · X 长文：每周一跑一个只读 routine，拉上周原创和引用帖、回补前一周的迟到互动，按自己 60 天中位数给每条打分，收藏、转发、回复权重高于点赞，再按话题、格式、开头类型打标签找规律；作者说目前只跑了两期；同作者的 Hermes 管理长文已收 · 英文
 
 ### Skills 与连接
 
@@ -99,6 +102,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to build a Second Brain that actually does the work (Grok Bot full course)](https://x.com/Argona0x/status/2110045296902164532) — @Argona0x · 2026-10-14 · X 长文：7 章在 bot 的电脑上搭「第二大脑」，资料存文件不靠聊天记忆，夜里自动归档、早上给一页、周日回顾；收藏两千多 · 英文
 - [Hermes, Grok Bot, and Instinct know everything about me thanks to a portable memory I built](https://x.com/mgonto/status/2111986349511159912) — @mgonto · 2026-10-19 · X 长文：把人脉、笔记、项目上下文放进自己的 Markdown wiki，经 MCP 和 REST 接口给多个 Agent 共用，换工具不用重讲一遍 · 英文
 - [让 Grok Bot 打电话帮你订餐厅](https://x.com/BrianRoemmele/status/2111812467500458135) — @BrianRoemmele · 2026-10-18 · 可分享的单一用途 bot：先问清人数、时间和回拨号码，复述后等你确认才拨，结束后转述店家原话并可写进日历；电话靠第三方通话服务 ClawCall 接入，护栏是不报卡号、不留语音、一次一通；被 @elonmusk 引用后爆火，改几个词就能约理发、修车、比价 · 英文
+- [一个 Grok Bot 专门当 Claude Code 的入口](https://x.com/NixFred/status/2112159670890578329) — @NixFred · 2026-10-19 · 短帖：其他 bot 把任务交给它，它在 herdr 里找到对应的 Claude Code 会话把任务直接敲进去，人可随时旁观；合并和强推仍要本人批准；「一晚开 4 个 PR」为作者自述 · 英文
 
 ### 出海一人公司
 

@@ -341,3 +341,13 @@ X 大 V 文章雷达本轮新增 1 条，已按帖子 ID 和 x-articles、commun
 - 英文 · 出海一人公司：@AleiahLock 2112147410122129534（约 1.2 万粉；X 长文 Your Best Business Partner Is Grok Bot，汇总公开的商用案例并逐条标来源；约 27 赞 / 18 收藏 / 8 引用）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@carlos_olivera、@dunik_7 两篇上轮已判未过线，仍没过；@Lonely__MH 私信 bot 帖偏短；@Khazix0918 卸载吐槽、@YuLin807 额度吐槽非干货；@feishutoday 订阅代充广告；其余中文帖粉量与互动均低。本轮 X 共享读取多次 429，英文 build 类和点名大 V 组没搜成，下轮补。没动 README，也没碰 `inbox/`。
+
+### 2026-10-19 21:50 Grok 请 loop 核链接：docs/x-articles.md +4
+
+X 大 V 文章雷达本轮新增 4 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 英文 · 多 Agent 作战室：@0xwhrrari 2107093781807775896（约 2 万粉；Grok Bot Memory Engineering 长文，约 525 赞 / 1391 收藏；被 @0xrevayz 引用拉出）
+- 英文 · 多 Agent 作战室：@knoxtwts 2112167221023949227（约 9.6k 粉；bot 团队共享记忆文件长文，刚发互动低）
+- 英文 · Routine 雷达与额度：@MichaelGannotti 2112176393014440149（约 5.4 万粉；每周一只读 routine 给 X 帖打分）
+- 英文 · Skills 与连接：@NixFred 2112159670890578329（约 1.1 万粉；Grok Bot 当 Claude Code 入口，经 herdr 投递任务；约 14 赞 / 13 回复）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@0xwhrrari 2093685107534000560 Harness Engineering 正文未提 Grok Bot；@dunik_7 6 Bot 副业长文粉量仍略低于 5k；@0xMortyx Grokbot + Kimi K3 长文偏导流 Substack；@abhijitwt 复活 X 账号长文只顺带提一次 Grok Bot；@cgnot996「Bot 直聘」属学习站推广；@xaiwind 封 Agent 新闻转述非配方；@Kevin_VibeX 交易 bot 不收。没动 README，也没碰 `inbox/`。
