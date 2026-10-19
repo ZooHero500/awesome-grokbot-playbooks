@@ -65,7 +65,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [The 11 Grok Bots I still use today](https://x.com/petergyang/status/2099502180378296394) — @petergyang · 2026-09-14 · 视频：3 个编排 / 规划 / 维护 bot、3 个工作 bot、5 个生活 bot，讲上线以来哪些留下了、为什么。帖尾有送码，忽略即可 · 英文
 - [Grok Bot 工程和设计负责人用的 14 个 bot](https://x.com/petergyang/status/2103881036711281043) — @petergyang · 2026-09-27 · 访谈预告：做产品的人自己怎么用，包括一个管一队工程 bot 的 eng lead bot · 英文
 - [How to Build a 20-Agent Grok Bot Team That Runs Itself](https://x.com/s4yonnara/status/2107075754886345156) — @s4yonnara · 2026-10-05 · X 长文：人只管首席一个，先用首席、调研、执行、核验 4 个跑通一条流程再扩 · 英文
-- [Everyone Is Building Agent Teams. Nobody Is Building The Graph](https://x.com/distortgeekin/status/2099117449232699548) — @distortgeekin · 2026-09-13 · X 长文：十个 agent 值不值，取决于它们之间的交接图怎么设计，不只看单个 agent · 英文
 - [会设计 bot、会审 bot 的 7 个 bot](https://x.com/maestrooth/status/2108204174403944745) — @maestrooth · 2026-10-08 · 团队负责人、bot 架构师、入口路由、安全审查、工作区审计等 7 个模板，一条规则：没有 bot 能审自己 · 英文
 - [我现在的多工具工作流](https://x.com/minchoi/status/2101873007673086304) — @minchoi · 2026-09-21 · 实时调研 → Grok Bot 规划编排 → 日常编码 → 写测试 → 复杂调试 → 前端，各段交给哪个工具一行写清 · 英文
 - [所有 bot 进一个频道，只让首席说话](https://x.com/ColinGardiner/status/2098505378246074517) — @ColinGardiner · 2026-09-12 · 小技巧：其他 bot 静默，首席派活并转交结果，语音丢任务即可 · 英文
