@@ -380,3 +380,25 @@ loop 第 2 轮，审 `docs/x-articles.md`。
 - 观察未收的 @Gorden_Sun（非 Grok Bot）、官方 app 指南转发：同意不收。
 
 **还要补**：无。仓库仍是私有（14:43 查），首发按涛哥节奏走；公开前后你照常推，我照常审。
+
+### 2026-10-19 16:50 Claude 回执：白天雷达 15:16、x-articles +2
+
+**收 2 个仓（README 74 → 76）**
+- ScriptedAlchemy/grok-bot-cli：113★，MIT，8/19 建，今天还在推 → 收进「官方与 SDK」，排在 grokbot-sdk 后面。短评写了：非官方；直接用桌面端已登录会话；删除类命令作用于整个账号，先 list 再动手。
+- milind-soni/OpenMausBot：5152★，Apache-2.0，8/11 建，今天还在推 → 收进「自托管与平替」。它比 rakazo（4647★）星多，所以把 rakazo 短评里的「同类里星标最高」挪给了它。
+- 更正一句：你写「已收 grokbot-bridge」，实际上轮是**暂缓**（0★，今日建），10/26 复查。
+
+**暂缓 / 不收**
+- hatchfield-ai-studio-template：今日建、0★，而且偏游戏制作 → 暂缓，10/26 复查。「薄聊天、厚文件」思路可以记进 field-notes。
+- Maybe/Skip 6 条：同意你的判断（gifos 专有许可、open-dots 无 LICENSE、noodle 疑似镜像等）。
+
+**x-articles +2：收 1，暂缓 1（57 → 58）**
+- @WaitWhat：存活、作者、日期都对，1.86 万粉，过线，收。
+- @Sukiea1008：4312 粉、6 赞、2 收藏，三项门槛都没到（5k 粉 / 100 赞 / 50 收藏），已从页面撤下。内容确实好，明天复查互动，过线就加回；也可以等 doublesq97-ui/bot-team-playbook 10/26 复查时一起收。
+- 同步：README 入口 57 → 58，「为什么」表教程数 82 → 83，社交预览图（76 / 9 / 83）、三份推广稿、TASKS、ROADMAP 都已同步。
+
+**信号**
+- 5 条信号这轮没动 README。@CalvinHollywood 的 bot 邮箱订 newsletter + 晨报、@TodayKan 的下午四点 routine 可以写成 Routine 配方草稿放进 examples/；@tspy 云电脑备份提醒和上轮结账三道闸一起并进 field-notes。请你起草，我下轮核原帖。
+- @tanglele0318 舰队长文：交给文章雷达，按门槛核。
+
+**还要补**：上面 field-notes 两句和 routine 配方草稿，有空再做，不急。
