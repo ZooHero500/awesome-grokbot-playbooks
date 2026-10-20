@@ -1136,3 +1136,44 @@
 | DavidSlayback/portal-autopilot | （见上轮） | 仍无 LICENSE |
 | groknet / phone-caller / rocket-template / browserfarm / imessage-relay / galatiqon / brand-accelerator 等 | （见白天 ~09:18） | 上轮已列，本窗不重复 |
 | rosterroom / root-agent / francoCosimo95 bridge 等 | （见更早） | 已收候选表 |
+
+## 白天 2026-10-20 ~17:07（Asia/Shanghai）
+
+- **窗口**：~15:17 → ~17:07；~15:17 那轮因本机执行被拒没投进来，本轮一并补投（4 条已复核仍在更新）
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：公开 X `search_posts_all`（中英，since 14:30 UTC+8）+ `gh search repos` updated≥2026-10-20 + README/License 抽查；相对 README + `inbox/candidates.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| devicki/herdr-away-signal | https://github.com/devicki/herdr-away-signal | **离开键盘信号**：Herdr 插件一键 away；away 期间 Agent 完成/卡住经 webhook POST 给 Grok Bot/dots，免轮询 SSH。最值得看（~15:17 补投） | Skills / Routines | `herdr` `webhook` `away` `orchestration` `mit` | 0 / MIT | **GitHub**（10-20 建） |
+| Qervas/remote-grok-build | https://github.com/Qervas/remote-grok-build | Grok Bot ↔ Windows 本机 Grok Build：skills-only 插件经 computer link 桥接，mission control + 流式回合 + 日更 routine 自刷新 cheat sheet；无公网隧道（~15:17 补投） | Skills / Multi-bot | `grok-build` `plugin` `bridge` `windows` `mit` | 0 / MIT | **GitHub** |
+| lingverse-ai/lingverse | https://github.com/lingverse-ai/lingverse | 中文「墨灵」长文写手 Bot 系列：九技能流水线（口吻学习→去 AI 味→六平台改写→发布自检），只交文本不代发。License 徽章 CC BY 4.0 + MIT，API 显示 other，请核（~15:17 补投） | Chinese / Templates | `chinese` `writing` `wechat` `xhs` `template` | 0 / other | **GitHub**（10-20 建） |
+| JeffShanCha/grokbotguide | https://github.com/JeffShanCha/grokbotguide （站 https://grokbotguide.ai/zh/ ） | 中文社区实战手册：学习路线、角色卡、案例站内搜；代码 MIT、内容 CC BY-SA。偏教程站，与本仓薄目录互补（~15:17 补投） | Learning / Chinese | `chinese` `guide` `mit` | 0 / MIT | **GitHub** |
+| ZeroPointRepo/GrokBotDev | https://github.com/ZeroPointRepo/GrokBotDev （站 https://grokbot.dev ） | **Bot 自己运营的玩法目录**：Scouts 盯 X、Curator 定收录、Builder 维护站，改动全走 PR；插件/用例/组合五条线，JSON API + RSS + MCP 给你的 Bot 订阅。和本仓「Grok + Claude 协作维护」思路同构，可作对照 | Learning / Directories | `directory` `mcp` `rss` `agent-run` `mit` | 43 / MIT（内容 CC BY 4.0） | **GitHub**（今日仍推） |
+| V-harshith/grokbothq | https://github.com/V-harshith/grokbothq （站 https://grokbothq.xyz ） | 人工抽测的 Bot 目录：4,200+ Bot 分类、组合包、指南与对比；Issue 模板提交 → Action 校验 → 自动 PR。与 majiayu000/awesome-grok-bot 同类，可并一行 | Learning / Directories | `directory` `combos` `static-site` `mit` | 4 / MIT（内容 CC BY 4.0） | **GitHub**（今日仍推） |
+| william1010121/ClaudeCodeBot | https://github.com/william1010121/ClaudeCodeBot | **把 Grok Bot 的组织方式搬到本机 Claude Code**：主 Bot 做前台、每项目一个经理、临时小队；闲置写 memory.md 后休眠，`routines.cron` 定时，群聊 @ 点名，需要你拍板时弹按钮。macOS，有 CI 与 release | Alternatives / Multi-bot | `claude-code` `macos` `multi-bot` `routines` `mit` | 0 / MIT | **GitHub**（10-19 建） |
+| Anonyfox/lfm | https://github.com/Anonyfox/lfm | 「先卖再做」落地页 skill + CLI：Agent 先找真实买家原话→写设计概念→出单页，lfm 编译并拦截慢/不可访问/AI 味设计。Grok Bot 有现成分享 Bot（https://x.ai/bot/HgpgiMSirsCBrsQpdLeDf）。贴出海一人公司 | Skills / 出海一人公司 | `landing-page` `skill` `validation` `mit` | 1 / MIT | **GitHub** |
+
+### 玩法 / 信号（无强仓或待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 演示一次→存成 routine | https://x.com/cyrilXBT/status/2112465125722751457 | 约 19.7 万粉：给 Bot 演示一次流程，它拆成步骤、追问判断点、发信步骤先问，再存成可口令触发的 routine。可作 Learning 一句话配方 | Learning / Routines | **X** @cyrilXBT（51 赞） |
+| 繁中新手攻略长帖 | https://x.com/zohanlin/status/2112467214045765659 | 约 1.26 万粉：一 Bot 一事、按天上手顺序；交 x-articles 雷达核互动后再定 | Learning / Chinese | **X** @zohanlin |
+| tyhanson24/stormdesk-ghl | https://github.com/tyhanson24/stormdesk-ghl | 上门服务公司用的 HighLevel 插件 + 9 个 skill（风暴季接单、路线、估价、保险、早 6 点简报）；行业垂直配方完整，但无 LICENSE | Skills / Maybe | **GitHub** |
+| ChrisTu117/grokbot-flow-skills | https://github.com/ChrisTu117/grokbot-flow-skills | 中文「参谋长流程」五个 skill（上手/创世/固定设定/治理/通用流程）+ 哈希校验脚本；无 LICENSE、无说明正文 | Skills / Chinese / Maybe | **GitHub** |
+| superwangxxxl/grok-bot-guide | https://github.com/superwangxxxl/grok-bot-guide | 中文新手教程站（VitePress，站 imsuper.vip）；代码 MIT 但正文版权保留，今日新建，与 grokbotguide 同类 | Learning / Chinese / Maybe | **GitHub** |
+
+### Maybe / Skip（~17:07）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| verdikthq/plugins | https://github.com/verdikthq/plugins | x402 付费 API 裁决/退款插件，偏 Web3 支付，离主线远 |
+| pacifico-1106/grokbot-control-plane | https://github.com/pacifico-1106/grokbot-control-plane | 日本中小企业「AI 社员证」SaaS 控制面，产品仓非配方，无 LICENSE |
+| CashflowEngine/cashflow-engine-plugin | https://github.com/CashflowEngine/cashflow-engine-plugin | 交易分析插件，偏离本仓 |
+| ProphetEngine/AIResearch | https://github.com/ProphetEngine/AIResearch | Bot 维护的 AI 研究知识库，内容仓非玩法，无 LICENSE |
+| skysay 电话号模板回复群 | https://x.com/skyzer4ever/status/2112438274639966711 | ~15:17 已列，本窗只是同作者多次回帖推广 |
+| noodle 镜像群 / 空仓 | （多） | 同前，镜像或无 README |
