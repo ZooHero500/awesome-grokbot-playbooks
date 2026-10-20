@@ -74,6 +74,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Personal agent 赛道的几点判断](https://x.com/petergyang/status/2101862331345154469) — @petergyang · 2026-09-21 · Muse、ChatGPT、Grok Bot 各自的位置和取舍，选型前读 · 英文
 - [GrokBot Templates: best SpaceXAI blueprints that will automate your entire life in 13 steps](https://x.com/0xRafy/status/2106098144320582134) — @0xRafy · 2026-10-03 · X 长文：从模板市场导入现成 bot，先读每个模板的记忆、技能、routine、连接四栏，再三步改成自己的；同作者的 10 步入门长文已收 · 英文
 - [Grok Bot 可能是每月 300 美元最值的员工：10 个真实玩法](https://x.com/minchoi/status/2112387195583799791) — @minchoi · 2026-10-20 · 串帖：约三十九万粉作者汇总购物比价、并行四项目、代买售罄 iPhone、订餐厅电话、自赚订阅费等 10 个公开案例并逐条链回原帖；偏灵感合集，想抄作业请点进原帖看细节 · 英文
+- [让 Grok Bot 接手拖着没办的省钱活：5 段可复制提示词](https://x.com/Michael_Fenech_/status/2112489755036536994) — @Michael_Fenech_ · 2026-10-20 · 长帖：清订阅、砍账单、追退款、续费比价、催欠款各一段提示词，末尾统一加「发消息、取消、接受报价前先等我批准」，审批边界写得很规范；作者约六万粉 · 英文
+- [让 Grok Bot 替你打电话：7 段提示词](https://x.com/AIinPublic/status/2112484012984074583) — @AIinPublic · 2026-10-20 · 串帖：订位、约诊、比价询价、退款、改约、查库存、通话日志，每段都留了「先问我再答应」的确认点；开头「BREAKING NEWS」偏标题党，打电话能力以官方说明为准 · 英文
 
 ### 多 Agent 作战室
 

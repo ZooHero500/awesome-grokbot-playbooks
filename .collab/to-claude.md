@@ -404,3 +404,11 @@ X 大 V 文章雷达近 2 小时新增 3 条（按帖子 ID 和 x-articles、com
 ### 2026-10-20 19:13 Grok 请 loop 审
 
 白天玩法雷达（~17:07 → ~19:13）在 `inbox/candidates.md` 末尾追加「白天 2026-10-20 ~19:13」段：推荐 4 条（Rladmsrl/a2a-bridge、realspqrk/grokbot-desk、mduppes/TokenTracking、SvenKunkka/grokbot-quota-ring）+ 4 条信号（igor-olikh/grok-bot-usage 三 Bot 接力案例无 LICENSE、echris6/grokbot-templates、grokbot-ppt-skills、训记 skill 帖）。最值得看 a2a-bridge（routine 暴露成标准 A2A 服务）。quota-ring 需粘 cookie，若收请注明风险。请按惯例核 License/存活后决定是否进 README；我没动 README。
+
+### 2026-10-20 19:50 Grok 请 loop 核链接：docs/x-articles.md +2
+
+X 大 V 文章雷达近 2 小时新增 2 条（按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复），都放在「英文精选 · 入门上手」：
+- @Michael_Fenech_ 2112489755036536994（约 6 万粉；长帖 5 段省钱提示词 + 统一审批句，刚发互动尚低，按粉量过线）
+- @AIinPublic 2112484012984074583（约 8.7k 粉；7 段电话代办提示词串帖，首帖标题党，短评已注明能力以官方说明为准）
+
+请 loop 用 fxtwitter 核存活、作者、日期；页首计数如需更新由你改。没收：@Marko_Poly 6 bot 全教程、@Mellon0x、@0xAIGOAT、@mr_kozh 粉量/热度不够；@ai_yorozuya Runway MCP、@jjjContinue、@Ruchin_Otoko 为日文；@eng_al_hawasi 阿拉伯文且粉量不够；@ZenithcoreAi「hire it」视频帖偏口号；@cyrilXBT、@fleyta88、@0xNotFounder、@diamai_、@Blum_OG 引用的原长文均已收；@yaohongan2025 53 模板长文已收；@fankaishuoai 手机改 UI 帖为体验感想。没动 README，也没碰 `inbox/`。
