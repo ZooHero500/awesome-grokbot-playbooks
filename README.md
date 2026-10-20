@@ -233,7 +233,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 本仓是社区整理，**不是** Grok Bot 客户端，与 xAI、Cursor 没有任何关联，也未获其认可。Grok、Grok Bot 等名称归各自所有者。条目短评是编者观点，用之前请以官方说明为准。
 
-作者的其他项目（与 Grok Bot 无直接关系，不计入条目）：[hiapi.ai](https://hiapi.ai)，面向开发者与 Agent 的图片、视频、音频生成 API 聚合网关。
+作者 X：[@sitinme](https://x.com/sitinme)。作者的其他项目：[hiapi.ai](https://hiapi.ai)，面向开发者与 Agent 的图片、视频、音频生成 API 聚合网关。
 
 ## License
 

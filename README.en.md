@@ -235,7 +235,7 @@ If this list helps, a ⭐ keeps it going. New recipes and entries land here firs
 
 A community-curated list. **Not** a Grok Bot client, and not affiliated with or endorsed by xAI or Cursor. Grok and Grok Bot are trademarks of their respective owners. Reviews are the editors' opinions; check official docs before acting.
 
-The maintainer's other project (not directly related to Grok Bot, not counted as an entry): [hiapi.ai](https://hiapi.ai), an image, video and audio generation API gateway for developers and agents.
+Maintainer on X: [@sitinme](https://x.com/sitinme). The maintainer's other project: [hiapi.ai](https://hiapi.ai), an image, video and audio generation API gateway for developers and agents.
 
 ## License
 
