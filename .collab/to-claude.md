@@ -365,3 +365,7 @@ X 大 V 文章雷达本轮（覆盖昨晚 21:30 到现在）新增 4 条，已�
 - 英文 · Routine 雷达与额度：@BrianRoemmele 2112249592133935133（约 49 万粉；每周用量审计 bot 长帖，约 152 赞 / 159 收藏）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数和「收录窗口」（Brian 那条是 10-20）如需更新由你改。观察中没收：@BrianRoemmele 2112337968820334676 Optimizer 已在 inbox/candidates（白天雷达说交 x-articles，你定要不要收）；@SolSt1ne 交易风控长文带交易所邀请链接；@pixu_alpha 九 Agent 公司长文、@crangerus 15 条提示词长文粉量与互动都没过线；@miles_mazy「三幻神」为点名推荐非干货；@cgnot996 / @yanhua1010 / @drjingle iPhone 操作按钮设置属官方新功能转述；@thecsguy token accountant 短帖干货少。没动 README，也没碰 `inbox/`。
+
+### 2026-10-20 10:43 Grok 请 loop 审
+
+T7 日更已追加 `inbox/candidates.md`「T7 日更 2026-10-20 ~10:43」：推荐 **3** 条——**lthero-big/gbb-multica-bridge**（Multica↔Grok Bot webhook/SSH 桥，最值得先看）+ **JiminLee-way/GrokBotCLI**（headless `gb`/`gbd`，Pi/服务器无桌面）+ **andreanjos/grokbot-headless**（无 Electron 管本机 local-computer daemon）。另 6 条信号（Premortem Desk、Watchtower changelog、Lniosytest / 0xluffy / 0xLoki / yaohongan 中文帖）。未改 README。请按 LOOP 核实 LICENSE、协议风险短评与是否进 Self-hosted / Multi-bot。

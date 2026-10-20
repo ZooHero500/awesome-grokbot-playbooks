@@ -1098,3 +1098,41 @@
 | RetroLancers/ShortsStudio | https://github.com/RetroLancers/ShortsStudio | 创作者审片 MCP，**无 LICENSE** |
 | Polymarket 交易收益转述多帖 | （Ygnn43 / Xpss66 / qs1591 等） | 交易/收益号，偏离本仓 |
 | francoCosimo95 / genealogy / mcq / OpenMausBot / grok-bot-cli 等 | （见上轮） | 已列，本窗不重复 |
+
+## T7 日更 2026-10-20 ~10:43（Asia/Shanghai）
+
+- **窗口**：~09:18 → ~10:43（约 1.5 小时；相对昨夜/早间白天雷达补扫近 24h）
+- **负责**：Grok T7 日更雷达（routine awesome-t7）
+- **方法**：X `search_posts_all`（中英 + github.com）+ Mac `gh search repos` updated≥2026-10-18 + README/License 抽查；相对 README + `inbox/candidates.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| lthero-big/gbb-multica-bridge | https://github.com/lthero-big/gbb-multica-bridge | **Multica ↔ Grok Bot 桥**：install.sh 配 webhook routine + 本机/SSH 回填；随仓 gbb 0.2.0，提示词模板可粘贴。填「本机 Multica Agent 队交给云 Bot」缺口；与 claude-grok-bridge / TheSethRose bridge 成互补（协议/运行时/UI 三层） | Multi-bot / Skills | `bridge` `multica` `webhook` `ssh` `mit` | 0 / MIT | **GitHub**（10-19 建，今日仍推） |
+| JiminLee-way/GrokBotCLI | https://github.com/JiminLee-way/GrokBotCLI | **无桌面端的 headless 客户端**：静态 `gb` + `gbd` daemon（HTTP/SSE/webhook），Linux arm64 可上 Pi；Discord 桥仍未实测。非官方、走内部协议，更新可能断。galatiqon 等硬件项目依赖它 | Self-hosted / Hardware | `cli` `headless` `daemon` `pi` `mit` | 1 / MIT | **GitHub**（10-14；本窗经 galatiqon README 拉出，仓内未收） |
+| andreanjos/grokbot-headless | https://github.com/andreanjos/grokbot-headless | 管官方 Linux 包里的 **local-computer daemon**：无 Electron/X11，让 Bot 在本机跑命令。非官方、内部协议风险同上；与 GrokBotCLI 成对（一个管聊天面、一个管本机执行面） | Self-hosted | `headless` `local-computer` `daemon` `mit` | 8 / MIT | **GitHub**（9 月起；本窗经 galatiqon 研究表拉出） |
+
+### 玩法 / 信号（无强仓，field-notes / Routines / Templates / Learning / Chinese 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Premortem Desk 模板 | https://x.ai/bot/RMTU2Vv4BHQtoJwGFhYCm （帖 https://x.com/teeRex247/status/2112344665756447175） | 贴已定计划 → 失败模式排序 + 预警信号 + kill trigger。与同作者「网页变更只叫醒」互补，可作 Templates | Templates / Learning | **X** @teeRex247（约 2.4k 粉） |
+| Watchtower changelog Bot | https://x.ai/bot/0Amg3917cH06sUZ3awwRu （帖 https://x.com/jessenowlin/status/2112352377802313997） | 盯官方 changelog（可加其他源），有更新才 ping。可粘贴进 Routines「发布雷达」 | Routines | **X** @jessenowlin（约 3k 粉，GDE） |
+| 多 bot 团队怎么搭（组长+专职+审核） | https://x.com/Lniosytest/status/2112363028062552066 | X Article：自称 X 号由一队 AI 员工在跑。交 Learning / Chinese 或 x-articles 核互动后再收 | Multi-bot / Chinese | **X** @Lniosytest（约 5.9k 粉） |
+| 9 段神级提示词保姆教程 | https://x.com/0xluffy_eth/status/2112360364662988956 | 约 15.6 万粉作者 X Article；偏入门提示词合集，交 **x-articles** 雷达核存活与互动 | Learning / Chinese / x-articles | **X** @0xluffy_eth |
+| Bot=项目经理、别堆团队 | https://x.com/0xLoki_Zeng/status/2112338759249285242 | 约 2.1 万粉：反对一上来堆多 Bot，主张有项目才有 Bot。可并 Learning / Chinese 一句 | Learning / Chinese | **X** @0xLoki_Zeng |
+| 53 模板按场景七类 | https://x.com/yaohongan2025/status/2112348685778489753 | 点选复制模板目录长文；质量未抽检，当灵感库 | Templates / Chinese | **X** @yaohongan2025（约 0.7k 粉） |
+
+### Maybe / Skip（~10:43）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| kev-inc/grok-bot-cloud | https://github.com/kev-inc/grok-bot-cloud | Dockerized 仓，无 README |
+| owenservera/grokbot-telemetry | https://github.com/owenservera/grokbot-telemetry | 个人共享 box 遥测镜像，无 SPDX，偏运维自用 |
+| Mike-Three/grokbot-screensaver | https://github.com/Mike-Three/grokbot-screensaver | 屏保玩笑，偏离本仓 |
+| JPEGWhisperer 24/7 团队长文 | https://x.com/JPEGWhisperer/status/2112354237875208201 | 约 2 粉，未达收录门槛 |
+| DavidSlayback/portal-autopilot | （见上轮） | 仍无 LICENSE |
+| groknet / phone-caller / rocket-template / browserfarm / imessage-relay / galatiqon / brand-accelerator 等 | （见白天 ~09:18） | 上轮已列，本窗不重复 |
+| rosterroom / root-agent / francoCosimo95 bridge 等 | （见更早） | 已收候选表 |
