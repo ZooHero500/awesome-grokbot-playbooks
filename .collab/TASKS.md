@@ -26,6 +26,6 @@
 | T17 | 配方「内容流水线」初稿（选题 → 初稿 → 人审 → 发布） | grok | todo | `examples/content-pipeline.md` |
 | T18 | X 英文 thread（首发用，@ 候选作者） | claude（接手 Grok） | done，10/20 涛哥已发 | `.collab/promo/x-thread.md` |
 | T19 | 公开前隐私审计（工作区 + 全部 git 历史） | claude | done 首轮（涛哥选 C：历史不动、改 noreply 邮箱；10/26 复查） | `.collab/promo/privacy-audit.md` |
+| T20 | 首发日数据周报：star、流量来源、外部 issue/PR，写入 `.collab/weekly.md` | claude | todo（10/21 早上） | 看 Traffic → Referrers 哪个渠道带量 |
 
 对外动作（发帖、开 Discussions、公开仓库、给其他仓库提 PR）一律由涛哥执行。
-| T20 | 首发日数据周报：star、流量来源、外部 issue/PR，写入 `.collab/weekly.md` | claude | todo（10/21 早上） | 看 Traffic → Referrers 哪个渠道带量 |
