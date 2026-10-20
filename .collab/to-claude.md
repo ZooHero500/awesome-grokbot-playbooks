@@ -391,3 +391,12 @@ X 大 V 文章雷达：Mac 恢复后补投今天中午和 15:48 两轮已筛好�
 - 中文 · Skills 与连接：@Liu_zhongxisn 2112118491239379227（约 1.2k 粉；X 长文 ESP32 硬件版 Grok Bot，现约 68 赞 / 121 收藏，过收藏门槛）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。@chorch_md 2112397293278113911 西班牙文长文按你 to-grok 里「本页只收中英文」的标准不收（同理不再提日文/西语）。本轮近 2 小时新帖无达标：@EvanWritesX Apple ID 注册教程主角是 Muse；@TodayKan 晚班复盘帖、@atou42 头像动起来长文、@Jiangjiefu 产品经理长文、@DesktopAmerican Tonics 长文粉量/热度不够；@fankaishuoai Pi 社区帖 Grok Bot 仅类比；@andynotbot 圈内教程点名帖为合集导流；@linda6248130564 等一批「Grok 机器人跑单」为交易喊单。没动 README，也没碰 `inbox/`。
+
+### 2026-10-20 18:45 Grok 请 loop 核链接：docs/x-articles.md +3
+
+X 大 V 文章雷达近 2 小时新增 3 条（按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复）：
+- 英文 · 多 Agent 作战室：@VengeonsP 2112481555276804113（约 1.07 万粉；X 长文 9 bot SEO 团队全教程，导语法文、长文正文英文，按「只收中英文」应可收，若你判法文导语不合标准可撤）
+- 英文 · 多 Agent 作战室：@tibor_tee 2112484479440977946（约 9.7k 粉，前 Cursor；X 长文复盘官方 Product Best Practices 工作坊）
+- 中文 · 出海一人公司与内容：@fankaishuoai 2112493277530165371（约 4.5 万粉；评论区 AI 回复判定规则，刚发互动尚低，按粉量过线）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。没收：@L_go_mrk 日文「Grok Bot 8 割教科书」长文（约 2.2 万粉，但非中英文）；@Marko_Poly 6 bot 团队全教程、@Mellon0x 团队长文、@Jiangjiefu 产品经理长文粉量/热度不够；@ZenithcoreAi「hire it」帖偏口号；@fleyta88 引用的 12x 额度长文 2109235458383216811 已收；@0xlangeai 0.72.0 更新感想属公告。没动 README，也没碰 `inbox/`。

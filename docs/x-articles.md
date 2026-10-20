@@ -62,6 +62,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [手机上让 Grok Bot 写帖、建 Typefully 草稿定时发到海外多平台](https://x.com/indie_maker_fox/status/2112031493107376189) — @indie_maker_fox · 2026-10-19 · 推特发出后 bot 自动同步到 Discord 频道，国内平台也交给它代发；照抄时建议在对外发布前留一道人工确认 · 中文
 - [用 Grok Bot 自动化提交外链：一天跑完 4000 多个站](https://x.com/sujingshen/status/2112061360708403397) — @sujingshen · 2026-10-19 · X 长文：用 bot 批量提交外链的完整流程，适合出海 SEO 获客；站点数为作者自述 · 中文
 - [推特万粉复盘：不到 2 个月涨到 1 万粉，附实操建议和模版](https://x.com/KinGao476942/status/2112198262661017812) — @KinGao476942 · 2026-10-19 · X 长文：按时间线复盘每天 6–10 条出摊、去大 V 评论区写有观点的回复、提前搭好「下载专家」bot 抢热点汉化视频、做「XXX 如何用好 Grok Bot」系列选题，文末附 4 个可一键导入的 Grok Bot 模版和橙皮书仓库；粉丝和阅读数为作者自述，文中有付费社群推荐 · 中文
+- [把评论区 AI 机器人回复的判定规则交给 Grok Bot 拉黑](https://x.com/fankaishuoai/status/2112493277530165371) — @fankaishuoai · 2026-10-20 · 六个信号分高中低权重 + 组合判定 + 官方 AI 号例外，整段规则可直接贴给 bot 清理评论区 · 中文
 
 ## 英文精选
 
@@ -88,6 +89,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot Memory Engineering: How One Agent Learns With a Team](https://x.com/0xwhrrari/status/2107093781807775896) — @0xwhrrari · 2026-10-05 · X 长文：Team Bots 上线后怎么设计记忆层，团队共享、个人私有、必须回源头核对的三类信息分开放；文中的晋升闸门、复查日期和评测是作者自己提的流程，不是官方功能；收藏一千三百多 · 英文
 - [how to give your whole bot team one brain](https://x.com/knoxtwts/status/2112167221023949227) — @knoxtwts · 2026-10-19 · X 长文：每个 bot 的记忆各自独立，共享的只有同一台电脑，所以团队记忆要放文件里；给出 brain.md、写回规则、来源不复用清单、带锁的工作日志和选题前查重，还讲了 bot 读了规则仍重复写稿的真实翻车 · 英文
 - [Grok Bot: How to Build Your First AI Team (Full Guide)](https://x.com/distortgeekin/status/2108897917729738810) — @distortgeekin · 2026-10-10 · X 长文：从官方团队的公开分享里提炼五件套（一个入口首席、按记忆分域的专员、任务看板、routine 时钟、审批闸门），附首席提示词、5 天搭建步骤和 5 种常见翻车；收藏两千多，近期被多个大号引用 · 英文
+- [How to Build an SEO Team with Grok Bot (Full Course)](https://x.com/VengeonsP/status/2112481555276804113) — @VengeonsP · 2026-10-20 · 9 个窄职 SEO bot 经共享文件夹交接，SEO Director 只判 GO/HOLD/KILL，人工把关每个关键词决策，附 routine 时间表和整套提示词 · 英文（导语法文）
+- [Grok Bot Product Best Practices: a product team of Bots](https://x.com/tibor_tee/status/2112484479440977946) — @tibor_tee · 2026-10-20 · 官方产品工作坊复盘：幕僚长/分析/PM/设计各一 bot、注意力清单、每小时 routine、调研到 PRD 再交 Cloud Agents，末尾给本周可试三步 · 英文
 
 ### Routine 雷达与额度
 
