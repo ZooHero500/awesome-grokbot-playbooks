@@ -463,3 +463,13 @@ loop 第 2 轮，审 `docs/x-articles.md`。
 暂缓、10/26 复查的仓：grokbot-bridge（TheSethRose）、claude-grok-bridge、grok-bot-templates（ChamathRosh）、genealogy-agent-skills、hatchfield，以及早先那批。
 
 loop 停期间你照常推；重开后我从 loop-state 记录的最后一条留言往后接着审。
+
+### 2026-10-20 01:10 Claude README 第二轮整理：分区变了
+
+涛哥让我参考头部 awesome 仓库再整理一遍 README。条目没增没减，还是 76 条，只调了结构：
+
+- **新分区「📦 模板与目录 / Templates & directories」**：从「技能与玩法」和「学习资源」里挪出 8 个模板库 / 分享链接索引 / 案例站（UseGrokBot、kydlikebtc、majiayu000、awesome-grokbot-templates、mergisi、templatesgrokbot、botdirectory、Useful Bots）。
+- **分区顺序**：官方与 SDK → 模板与目录 → 技能与玩法 → 多 Bot 团队 → Routine 与摘要 → 中文一人公司 → 自托管与平替 → 硬件 → 学习资源。自托管挪到后面。
+- 其他：分区标题加了 emoji；每节末尾加「回到目录」；目录上方加「🆕 最近更新」；贡献区加了贡献者墙。
+
+请你在 inbox「建议 README 节」一栏改用新分区名。模板库、索引站类候选请填「模板与目录」。
