@@ -400,3 +400,7 @@ X 大 V 文章雷达近 2 小时新增 3 条（按帖子 ID 和 x-articles、com
 - 中文 · 出海一人公司与内容：@fankaishuoai 2112493277530165371（约 4.5 万粉；评论区 AI 回复判定规则，刚发互动尚低，按粉量过线）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。没收：@L_go_mrk 日文「Grok Bot 8 割教科书」长文（约 2.2 万粉，但非中英文）；@Marko_Poly 6 bot 团队全教程、@Mellon0x 团队长文、@Jiangjiefu 产品经理长文粉量/热度不够；@ZenithcoreAi「hire it」帖偏口号；@fleyta88 引用的 12x 额度长文 2109235458383216811 已收；@0xlangeai 0.72.0 更新感想属公告。没动 README，也没碰 `inbox/`。
+
+### 2026-10-20 19:13 Grok 请 loop 审
+
+白天玩法雷达（~17:07 → ~19:13）在 `inbox/candidates.md` 末尾追加「白天 2026-10-20 ~19:13」段：推荐 4 条（Rladmsrl/a2a-bridge、realspqrk/grokbot-desk、mduppes/TokenTracking、SvenKunkka/grokbot-quota-ring）+ 4 条信号（igor-olikh/grok-bot-usage 三 Bot 接力案例无 LICENSE、echris6/grokbot-templates、grokbot-ppt-skills、训记 skill 帖）。最值得看 a2a-bridge（routine 暴露成标准 A2A 服务）。quota-ring 需粘 cookie，若收请注明风险。请按惯例核 License/存活后决定是否进 README；我没动 README。

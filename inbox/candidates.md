@@ -1177,3 +1177,38 @@
 | ProphetEngine/AIResearch | https://github.com/ProphetEngine/AIResearch | Bot 维护的 AI 研究知识库，内容仓非玩法，无 LICENSE |
 | skysay 电话号模板回复群 | https://x.com/skyzer4ever/status/2112438274639966711 | ~15:17 已列，本窗只是同作者多次回帖推广 |
 | noodle 镜像群 / 空仓 | （多） | 同前，镜像或无 README |
+
+## 白天 2026-10-20 ~19:13（Asia/Shanghai）
+
+- **窗口**：~17:07 → ~19:13
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：公开 X `search_posts_all`（since 17:00 UTC+8）+ `gh search repos` updated≥2026-10-20（grok bot / grokbot / x.ai/bot / multi-bot 等）+ README/License 抽查；相对 README + `inbox/candidates.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| Rladmsrl/a2a-bridge | https://github.com/Rladmsrl/a2a-bridge | **把 Grok Bot routine 变成标准 A2A 服务**：外部 Agent 走 A2A JSON-RPC/SSE 发任务 → bridge 转成 webhook 叫醒 routine → Bot 回调 POST 回结果；支持 v0.3 + v1.0、Agent Card、多轮与 input-required，SQLite 存任务状态。让别人的 Agent 能正规地「给你的 Bot 派活」。最值得看 | Multi-bot / Routines | `a2a` `webhook` `routine` `interop` `mit` | 5 / MIT | **GitHub**（10-13 建，今日仍推） |
+| realspqrk/grokbot-desk | https://github.com/realspqrk/grokbot-desk | **Bot 的老板桌**：Bot 跑一条 `show` 命令丢 JSON（表格/图表/待决策/社媒帖），本机弹一个窗口让你批准/驳回/选项，结果 JSON 回给 Bot；多份报告排成收件箱。把「对外动作先问人」做成了可视化审批台。Windows/macOS，界面默认德语（`RS_LANG=en` 切英文） | Skills / 作战室 | `approval` `dashboard` `human-in-the-loop` `mit` | 1 / MIT | **GitHub**（beta.6，今日仍推） |
+| mduppes/TokenTracking | https://github.com/mduppes/TokenTracking | macOS 菜单栏统一看 Claude / Cursor（含 Grok Bot 周额度）/ ChatGPT / Gemini 等用量与配速；本机 headless Chrome 独立配置读取，无 API key、无遥测。可并「额度体检」 | Learning / 额度体检 | `quota` `macos` `menubar` `local-first` `mit` | 0 / MIT | **GitHub** |
+| SvenKunkka/grokbot-quota-ring | https://github.com/SvenKunkka/grokbot-quota-ring | 更轻的单项版：SwiftBar 插件，菜单栏一个绿→黄→红饼图显示 Grok Bot 周额度剩余。⚠️ 授权要粘贴 cursor.com 会话 cookie（存 Keychain），收录时须写明风险 | 额度体检 / Maybe | `quota` `swiftbar` `macos` `mit` | 0 / MIT | **GitHub** |
+
+### 玩法 / 信号（无强仓或待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| igor-olikh/grok-bot-usage | https://github.com/igor-olikh/grok-bot-usage | **一句话 → 三 Bot 接力出站**：参谋长 Bot 写 brief → 建站 Bot 提交私有仓 → Cloudflare Bot 部署到 Access 后，约 25 分钟上线、每早自刷新的「Bot 舰队仪表盘」；仓里只放故事、brief 与护栏，代码另存私仓。很适合作多 bot 接力案例，但无 LICENSE | Multi-bot / Learning | **GitHub**（今日新建） |
+| echris6/grokbot-templates | https://github.com/echris6/grokbot-templates | 「一 Bot 一门小生意」模板套件（AI 网红 / 动效视频工作室 / three.js 空间站），每个模板带 setup skill，对外发帖/定价/交付都留给人；经 Whop 售卖。贴出海一人公司，但无 LICENSE、偏推广 | 出海一人公司 / Maybe | **GitHub**（今日新建） |
+| SvenKunkka/grokbot-ppt-skills | https://github.com/SvenKunkka/grokbot-ppt-skills | Markdown 大纲 → 可编辑 PPTX 的薄 skill（python-pptx），复杂 deck 指向上游 agent-slides；MIT 但很薄 | Skills / Maybe | **GitHub** |
+| 训记 skill × Grok Bot 饮食记录 | https://x.com/corvuschen1211/status/2112497476242756095 | 约 4.5 万粉：健身 App「训记」开放 skill，接上 Grok Bot 查便利店营养值并录入，生活类 skill 打通实例 | Skills / Chinese | **X** @corvuschen1211 |
+
+### Maybe / Skip（~19:13）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| devrecated/grok-bot-linux / timoteuszelle/x.ai-grok-bot | https://github.com/devrecated/grok-bot-linux | 非官方 Linux 移植 / Nix 打包，安装渠道类，非玩法；同类 grok-bot-flake 已在表 |
+| shoodoow/kuru / 5dive-ai/5dive / amajorai/ryu / chinghauchu/snorlax-bot | https://github.com/shoodoow/kuru | 自托管「类 Grok Bot」替代品，Alternatives 已够多，暂不加 |
+| ArvinYin1/grokbot-animation-anatomy | https://github.com/ArvinYin1/grokbot-animation-anatomy | 头像动画逆向解剖，好玩但偏离玩法主线，且无 LICENSE |
+| @Marko_Poly / @Mellon0x / @Jiangjiefu X 长文 | （见 to-claude x-articles 段） | 归 X 大 V 雷达，已判粉量/热度不够 |
+| noodle 镜像群 / 空仓 / 个人日志仓 | （多） | 同前，镜像或无 README |
