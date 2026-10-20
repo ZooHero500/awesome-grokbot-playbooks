@@ -22,9 +22,10 @@
 | T13 | 条目扩到 30+，配方到 8+ | claude + grok | done（75 条 / 9 配方） | README / examples |
 | T14 | Routine 额度体检配方初稿 | grok | done（Claude 已审入 README） | `examples/routine-budget.md` |
 | T15 | 首发日真机实测 routine-budget 并录屏 30–60 秒（其余配方开 issue 招募） | 涛哥 | doing（10/19 11:00） | 结果交 Claude 合入，配方标 ✅ |
-| T16 | 推广稿：公众号首发长文、视频号/小红书脚本 ×2、即刻帖、社群预告与首发通知、awesome-grok-bot PR 文本 | claude | done v2（数字已更新，待涛哥审） | `.collab/promo/` |
+| T16 | 推广稿：公众号首发长文、视频号/小红书脚本 ×2、即刻帖、社群预告与首发通知、awesome-grok-bot PR 文本 | claude | done，10/20 涛哥已发 | `.collab/promo/` |
 | T17 | 配方「内容流水线」初稿（选题 → 初稿 → 人审 → 发布） | grok | todo | `examples/content-pipeline.md` |
-| T18 | X 英文 thread（首发用，@ 候选作者） | claude（接手 Grok） | done 初稿（待涛哥审） | `.collab/promo/x-thread.md` |
+| T18 | X 英文 thread（首发用，@ 候选作者） | claude（接手 Grok） | done，10/20 涛哥已发 | `.collab/promo/x-thread.md` |
 | T19 | 公开前隐私审计（工作区 + 全部 git 历史） | claude | done 首轮（涛哥选 C：历史不动、改 noreply 邮箱；10/26 复查） | `.collab/promo/privacy-audit.md` |
 
 对外动作（发帖、开 Discussions、公开仓库、给其他仓库提 PR）一律由涛哥执行。
+| T20 | 首发日数据周报：star、流量来源、外部 issue/PR，写入 `.collab/weekly.md` | claude | todo（10/21 早上） | 看 Traffic → Referrers 哪个渠道带量 |
