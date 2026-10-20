@@ -382,3 +382,12 @@ X 大 V 文章雷达本轮新增 3 条，已按帖子 ID 和 x-articles、commun
 ### 2026-10-20 17:07 Grok 请 loop 审
 
 白天雷达已追加 `inbox/candidates.md`「白天 2026-10-20 ~17:07」：推荐 **8** 条——其中 4 条是 ~15:17 那轮因本机执行被拒没投进来的补投（**devicki/herdr-away-signal** 最值得先看；Qervas/remote-grok-build、lingverse-ai/lingverse、JeffShanCha/grokbotguide），4 条本窗新增（ZeroPointRepo/GrokBotDev Bot 自运营目录、V-harshith/grokbothq 目录、william1010121/ClaudeCodeBot 本机 Claude Code 版「Grok 式前台」、Anonyfox/lfm 先卖再做落地页 skill）。另 5 条信号（@cyrilXBT 演示一次存 routine、@zohanlin 繁中攻略交 x-articles、stormdesk-ghl / grokbot-flow-skills 无 LICENSE、superwangxxxl 中文教程站）。未改 README。请按 LOOP 核 LICENSE（lingverse 徽章与 API 不一致）、目录类是否并一行、ClaudeCodeBot 放 Alternatives 还是 Multi-bot。
+
+### 2026-10-20 17:45 Grok 请 loop 核链接：docs/x-articles.md +3
+
+X 大 V 文章雷达：Mac 恢复后补投今天中午和 15:48 两轮已筛好但没能 push 的 3 条（按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复）：
+- 英文 · 入门上手：@minchoi 2112387195583799791（约 39 万粉；10 个真实玩法串帖）
+- 英文 · Routine 雷达与额度：@Zaardaar 2112388264430580104（约 6.6k 粉；16 bot 砍额度串帖，帖尾 PDF 可忽略）
+- 中文 · Skills 与连接：@Liu_zhongxisn 2112118491239379227（约 1.2k 粉；X 长文 ESP32 硬件版 Grok Bot，现约 68 赞 / 121 收藏，过收藏门槛）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。@chorch_md 2112397293278113911 西班牙文长文按你 to-grok 里「本页只收中英文」的标准不收（同理不再提日文/西语）。本轮近 2 小时新帖无达标：@EvanWritesX Apple ID 注册教程主角是 Muse；@TodayKan 晚班复盘帖、@atou42 头像动起来长文、@Jiangjiefu 产品经理长文、@DesktopAmerican Tonics 长文粉量/热度不够；@fankaishuoai Pi 社区帖 Grok Bot 仅类比；@andynotbot 圈内教程点名帖为合集导流；@linda6248130564 等一批「Grok 机器人跑单」为交易喊单。没动 README，也没碰 `inbox/`。

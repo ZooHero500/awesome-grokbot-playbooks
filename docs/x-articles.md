@@ -52,6 +52,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [别让云端 Bot 直接接管本机 Agent：Prompt 注入与权限跳过风险](https://x.com/fankaishuoai/status/2111978651797569600) — @fankaishuoai · 2026-10-19 · 云端只交任务说明、经 GitHub 文件同步交接；远程本机 Agent 用 Paseo，不要经 Bot 传话 · 中文
 - [在 Grok Bot 里用上 Codex CLI](https://x.com/0xlangeai/status/2097866244456333730) — @0xlangeai · 2026-09-10 · 让 bot 自己装 Codex、走设备授权登录、再约定什么场景交给 Codex，四步写清 · 中文
 - [把 Gemini 接进 Grok Bot 写文案](https://x.com/Pluvio9yte/status/2110295056796229927) — @Pluvio9yte · 2026-10-14 · bot 只当指挥，文案、口播稿交给外部模型写，额度花在别人那边 · 中文
+- [全网首发：把 Grok Bot 装进 ESP32](https://x.com/Liu_zhongxisn/status/2112118491239379227) — @Liu_zhongxisn · 2026-10-19 · X 长文：圆屏 ESP32 语音唤醒→Webhook→Bot 回字幕朗读的保姆级烧录与配网；作者约 1.2k 粉但收藏过百，硬件玩法入口 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -71,6 +72,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [官方 65 分钟工作坊时间轴](https://x.com/scarfpinkgirl/status/2106407925140836787) — @scarfpinkgirl · 2026-10-03 · 首席 + 专员、演示教学、routine、工程团队、值班 bot、手机遥控逐段标好时间，按需跳看 · 英文
 - [Personal agent 赛道的几点判断](https://x.com/petergyang/status/2101862331345154469) — @petergyang · 2026-09-21 · Muse、ChatGPT、Grok Bot 各自的位置和取舍，选型前读 · 英文
 - [GrokBot Templates: best SpaceXAI blueprints that will automate your entire life in 13 steps](https://x.com/0xRafy/status/2106098144320582134) — @0xRafy · 2026-10-03 · X 长文：从模板市场导入现成 bot，先读每个模板的记忆、技能、routine、连接四栏，再三步改成自己的；同作者的 10 步入门长文已收 · 英文
+- [Grok Bot 可能是每月 300 美元最值的员工：10 个真实玩法](https://x.com/minchoi/status/2112387195583799791) — @minchoi · 2026-10-20 · 串帖：约三十九万粉作者汇总购物比价、并行四项目、代买售罄 iPhone、订餐厅电话、自赚订阅费等 10 个公开案例并逐条链回原帖；偏灵感合集，想抄作业请点进原帖看细节 · 英文
 
 ### 多 Agent 作战室
 
@@ -98,6 +100,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [导出用量 CSV 交给首席助理，让它找省额度的办法](https://x.com/tejas3732/status/2112040740083904980) — @tejas3732 · 2026-10-19 · 四步小技巧：用量页导出 CSV，上传给主 bot，让它按各 bot 的行为给优化建议；「每周省 10–15%」是作者自述 · 英文
 - [Every Monday Grok Bot grades my X posts](https://x.com/MichaelGannotti/status/2112176393014440149) — @MichaelGannotti · 2026-10-19 · X 长文：每周一跑一个只读 routine，拉上周原创和引用帖、回补前一周的迟到互动，按自己 60 天中位数给每条打分，收藏、转发、回复权重高于点赞，再按话题、格式、开头类型打标签找规律；作者说目前只跑了两期；同作者的 Hermes 管理长文已收 · 英文
 - [The Grok Bot That Has Self Improvement](https://x.com/BrianRoemmele/status/2112249592133935133) — @BrianRoemmele · 2026-10-20 · 长帖：每周把用量导出交给审计 bot，找出最费 token 的 run、重复空转和只复述旧信息的 routine，逐条给修法（限来源、跳过「无变化」小结、轮询改按变化触发、合并重叠 routine），报告再喂回首席 bot；附可复制的 bot 模板，和上面的用量 CSV 小技巧一起看；同作者订餐厅 bot 已收 · 英文
+- [跑 16 个 bot 一天烧掉 75% 额度后，我怎么把用量砍下来](https://x.com/Zaardaar/status/2112388264430580104) — @Zaardaar · 2026-10-20 · 串帖：一岗一 bot、闲置几乎不费额度、routine 降频、批量提问、通用 bot 当老板同步规则、重活（浏览器/视频/长调研）只在划算时开；帖尾有付费 PDF 链接可忽略 · 英文
 
 ### Skills 与连接
 
