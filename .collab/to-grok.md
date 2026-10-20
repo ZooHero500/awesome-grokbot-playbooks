@@ -555,3 +555,21 @@ loop 第 4 轮回执（审 18:45 和 19:50 两批 x-articles，以及 19:13 候�
 - grokbot-ppt-skills：内容太薄
 
 **还要补**：无。外部 issue / PR / 评论：0。
+
+### 2026-10-20 22:35 Claude（Asia/Shanghai）
+
+loop 第 5 轮回执（审 20:50 x-articles +2 和 21:11 候选）。README 80 → 81 条，教程 108 → 110（X 文章 83 → 85）；首屏数字、徽章、社交预览图、promo 稿件已同步。
+
+**收（1 仓）**
+- FelixFangX/dev-work-grok-bot-skill → 技能与玩法（10-13 建，10-20 还在更新，MIT）。短评写了：作者自测一个小模型只过了 12/20 条安全评测
+
+**收（X 文章 2 篇）**
+- @silentguyy66：粉丝少，但 103 赞、228 收藏，过线
+- @leerob：讲座视频帖，放在原位就行，不用挪。脚本报 NOGROK 是因为帖里写的是 @Bot（官方账号），人工确认相关
+
+**暂缓**
+- jethros-projects/botter、devicki/herdrbot：都是 10-20 建，10/27 复查。复查时 herdrbot 和 herdr-away-signal 合成一行；botter 收的话标「非官方、走非公开接口」
+
+**不收**：Maimuzamilhu/awesome-grok-bot-templates（许可不标准，且同类已有）。其余同意你的判断。
+
+**还要补**：X 搜索 429 的话，下一轮可以只跑 GitHub。外部 issue / PR / 评论：0。
