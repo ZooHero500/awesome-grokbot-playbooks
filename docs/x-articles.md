@@ -33,6 +33,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 Grok Bot 搭建自媒体团队：保姆级教程](https://x.com/AdrianPunk115/status/2097311704547987756) — @AdrianPunk115 · 2026-09-08 · X 长文：情报侦察 → 选题 → 主笔 → 事实编辑 → 人工发布 → 数据复盘，文件交接、群聊规则、发布留人手都写成了可验收的规则，和本仓作战室配方思路一致 · 中文
 - [我现在用 Grok Bot 干什么](https://x.com/fankaishuoai/status/2111407398237909098) — @fankaishuoai · 2026-10-17 · 邮件、私信、每日新闻、待办分派、便笺各一个 bot，重活回本机 Agent 做，讲清了云端多 bot 和本机分工的边界 · 中文
 - [Grok Bot 云端干轻活、Paseo 本地干重活，一人指挥两支 AI 队](https://x.com/fankaishuoai/status/2112031460492537904) — @fankaishuoai · 2026-10-19 · 两套并排开，Obsidian 看 AI 落盘的文档当本地知识库，语音小键盘派活；和同作者「我现在用 Grok Bot 干什么」一起看 · 中文
+- [DIY 云+端一体化 Agent 工作流：Grok Bot 定计划，本机 Agent 写代码再回审](https://x.com/fankaishuoai/status/2112211923626500585) — @fankaishuoai · 2026-10-19 · 云端 Engineer bot 和人定好计划，交给云电脑上的 Pi Agent + DeepSeek 写代码和测试，本机 Mac 上的模型再审一遍、把意见回传；复杂需求先在 bot 里出 PRD 再交本机实现、回 bot 验收，作者说能省不少套餐额度；同作者 Paseo 分工帖已收 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -57,6 +58,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Matt 的 Media Manager 模板拆解](https://x.com/shao__meng/status/2102590192649670818) — @shao__meng · 2026-09-23 · YouTube 上传后的转录、字幕、章节、标题、缩略图全交给 bot，并写清各环节用了什么工具 · 中文
 - [手机上让 Grok Bot 写帖、建 Typefully 草稿定时发到海外多平台](https://x.com/indie_maker_fox/status/2112031493107376189) — @indie_maker_fox · 2026-10-19 · 推特发出后 bot 自动同步到 Discord 频道，国内平台也交给它代发；照抄时建议在对外发布前留一道人工确认 · 中文
 - [用 Grok Bot 自动化提交外链：一天跑完 4000 多个站](https://x.com/sujingshen/status/2112061360708403397) — @sujingshen · 2026-10-19 · X 长文：用 bot 批量提交外链的完整流程，适合出海 SEO 获客；站点数为作者自述 · 中文
+- [推特万粉复盘：不到 2 个月涨到 1 万粉，附实操建议和模版](https://x.com/KinGao476942/status/2112198262661017812) — @KinGao476942 · 2026-10-19 · X 长文：按时间线复盘每天 6–10 条出摊、去大 V 评论区写有观点的回复、提前搭好「下载专家」bot 抢热点汉化视频、做「XXX 如何用好 Grok Bot」系列选题，文末附 4 个可一键导入的 Grok Bot 模版和橙皮书仓库；粉丝和阅读数为作者自述，文中有付费社群推荐 · 中文
 
 ## 英文精选
 
@@ -81,6 +83,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How I'm wiring Grok Bot to manage my Hermes Agent and OpenClaw instances](https://x.com/MichaelGannotti/status/2111991267844362447) — @MichaelGannotti · 2026-10-19 · X 长文：首席 bot 经桌面端连接、只走命令行去管本机另外两套 Agent，每条命令要本人批准；作者说明这是搭建记录，还没有跑出结果 · 英文
 - [Grok Bot Memory Engineering: How One Agent Learns With a Team](https://x.com/0xwhrrari/status/2107093781807775896) — @0xwhrrari · 2026-10-05 · X 长文：Team Bots 上线后怎么设计记忆层，团队共享、个人私有、必须回源头核对的三类信息分开放；文中的晋升闸门、复查日期和评测是作者自己提的流程，不是官方功能；收藏一千三百多 · 英文
 - [how to give your whole bot team one brain](https://x.com/knoxtwts/status/2112167221023949227) — @knoxtwts · 2026-10-19 · X 长文：每个 bot 的记忆各自独立，共享的只有同一台电脑，所以团队记忆要放文件里；给出 brain.md、写回规则、来源不复用清单、带锁的工作日志和选题前查重，还讲了 bot 读了规则仍重复写稿的真实翻车 · 英文
+- [Grok Bot: How to Build Your First AI Team (Full Guide)](https://x.com/distortgeekin/status/2108897917729738810) — @distortgeekin · 2026-10-10 · X 长文：从官方团队的公开分享里提炼五件套（一个入口首席、按记忆分域的专员、任务看板、routine 时钟、审批闸门），附首席提示词、5 天搭建步骤和 5 种常见翻车；收藏两千多，近期被多个大号引用 · 英文
 
 ### Routine 雷达与额度
 
@@ -92,6 +95,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot: A Routine Every 5 Minutes Costs 12x More Than Hourly (Full Course)](https://x.com/gippp69/status/2109235458383216811) — @gippp69 · 2026-10-11 · X 长文：routine 的频率才是额度大头，能用事件触发就别轮询，快频率前面先放一道「有没有变化」的便宜检查，夜间 routine 别等人批；成本数字是作者按 API 价估算，收藏九百多 · 英文
 - [导出用量 CSV 交给首席助理，让它找省额度的办法](https://x.com/tejas3732/status/2112040740083904980) — @tejas3732 · 2026-10-19 · 四步小技巧：用量页导出 CSV，上传给主 bot，让它按各 bot 的行为给优化建议；「每周省 10–15%」是作者自述 · 英文
 - [Every Monday Grok Bot grades my X posts](https://x.com/MichaelGannotti/status/2112176393014440149) — @MichaelGannotti · 2026-10-19 · X 长文：每周一跑一个只读 routine，拉上周原创和引用帖、回补前一周的迟到互动，按自己 60 天中位数给每条打分，收藏、转发、回复权重高于点赞，再按话题、格式、开头类型打标签找规律；作者说目前只跑了两期；同作者的 Hermes 管理长文已收 · 英文
+- [The Grok Bot That Has Self Improvement](https://x.com/BrianRoemmele/status/2112249592133935133) — @BrianRoemmele · 2026-10-20 · 长帖：每周把用量导出交给审计 bot，找出最费 token 的 run、重复空转和只复述旧信息的 routine，逐条给修法（限来源、跳过「无变化」小结、轮询改按变化触发、合并重叠 routine），报告再喂回首席 bot；附可复制的 bot 模板，和上面的用量 CSV 小技巧一起看；同作者订餐厅 bot 已收 · 英文
 
 ### Skills 与连接
 

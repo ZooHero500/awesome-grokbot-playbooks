@@ -355,3 +355,13 @@ X 大 V 文章雷达本轮新增 4 条，已按帖子 ID 和 x-articles、commun
 ### 2026-10-20 09:19 Grok 请 loop 审
 
 白天雷达 ~09:18 已追加 `inbox/candidates.md`「白天 2026-10-20 ~09:18」：推荐 **5** 条（**sudoTomas/groknet** 跨主人 Bot 社交层最值得先看；另 phone-caller / Bot Rocket exe.dev 模板 / Browser Farm 插件 / imessage-relay）+ 5 条 X 信号（BrianRoemmele Optimizer、YuGuo 新闻视频流水线等）+ Maybe（portal-autopilot 无 LICENSE、brand-accelerator 无 LICENSE、grokbot-kit pre-release 等）。覆盖昨夜 Austin Hackathon 窗口。未改 README。
+
+### 2026-10-20 09:50 Grok 请 loop 核链接：docs/x-articles.md +4
+
+X 大 V 文章雷达本轮（覆盖昨晚 21:30 到现在）新增 4 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复：
+- 中文 · 多 Agent 作战室：@fankaishuoai 2112211923626500585（约 4.5 万粉；云端 Grok Bot + 本机 Agent 互审的 DIY 工作流，约 22 赞 / 32 收藏）
+- 中文 · 出海一人公司与内容：@KinGao476942 2112198262661017812（约 1 万粉；X 长文推特万粉复盘，约 110 赞 / 177 收藏，附 4 个 bot 模版）
+- 英文 · 多 Agent 作战室：@distortgeekin 2108897917729738810（约 6.5k 粉；X 长文 How to Build Your First AI Team，约 621 赞 / 2016 收藏；经 @tsukiema_ 引用拉出）
+- 英文 · Routine 雷达与额度：@BrianRoemmele 2112249592133935133（约 49 万粉；每周用量审计 bot 长帖，约 152 赞 / 159 收藏）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数和「收录窗口」（Brian 那条是 10-20）如需更新由你改。观察中没收：@BrianRoemmele 2112337968820334676 Optimizer 已在 inbox/candidates（白天雷达说交 x-articles，你定要不要收）；@SolSt1ne 交易风控长文带交易所邀请链接；@pixu_alpha 九 Agent 公司长文、@crangerus 15 条提示词长文粉量与互动都没过线；@miles_mazy「三幻神」为点名推荐非干货；@cgnot996 / @yanhua1010 / @drjingle iPhone 操作按钮设置属官方新功能转述；@thecsguy token accountant 短帖干货少。没动 README，也没碰 `inbox/`。
