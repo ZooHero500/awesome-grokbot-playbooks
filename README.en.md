@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-75-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-78-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-9-blueviolet?style=flat-square" alt="Recipes">
-  <img src="https://img.shields.io/badge/last%20verified-2026--10--19-success?style=flat-square" alt="Last verified">
+  <img src="https://img.shields.io/badge/last%20verified-2026--10--20-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <img src="https://img.shields.io/badge/unofficial-lightgrey?style=flat-square" alt="Unofficial">
@@ -25,10 +25,10 @@
 
 | | |
 |---:|---|
-| **75** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **78** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **9** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
-| **101** | curated community tutorials and X articles ([25 tutorials](docs/community-tutorials.md) + [76 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
+| **104** | curated community tutorials and X articles ([25 tutorials](docs/community-tutorials.md) + [79 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
 | **2 AIs** | maintain it: Grok Bot scouts daily, Claude Code verifies and writes reviews, a human makes the calls. The full log is public in [`.collab/`](.collab/README.md) |
 
 Compared with the English ecosystem index [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot), which is broad, this repo focuses on **solo founders, multi-bot war rooms, radar routines and copy-paste recipes**. Quality over quantity.
@@ -59,17 +59,17 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
-- **10-20** Repo is public, [v0.1.0](https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.1.0) released; X creators articles grew to 76. [Test runs](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test) welcome
+- **10-20** Added two directories, [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) and [GrokBot HQ](https://github.com/V-harshith/grokbothq), plus [remote-grok-build](https://github.com/Qervas/remote-grok-build), which drives Grok Build on your PC from chat; X creators articles grew to 79
+- **10-20** Repo is public, [v0.1.0](https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.1.0) released. [Test runs](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test) welcome
 - **10-19** Added [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli) (manage bots, groups and skills from the terminal) and [OpenMausBot](https://github.com/milind-soni/OpenMausBot) (5k★ open-source alternative)
-- **10-19** Launched [Grok Bot articles from top X creators](docs/x-articles.md): 70 long-form articles and threads with real traction
 
 Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md).
 
 ## 📚 Contents
 
 - [Official & SDK](#-official--sdk) (5) - official docs, marketplace, SDKs and CLIs
-- [Templates & directories](#-templates--directories) (8) - template libraries, bot-share indexes and use-case sites; check here first
-- [Skills & Playbooks](#-skills--playbooks) (17) - skills, MCP, single templates, copy-paste profiles
+- [Templates & directories](#-templates--directories) (10) - template libraries, bot-share indexes and use-case sites; check here first
+- [Skills & Playbooks](#-skills--playbooks) (18) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (15) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (5) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (4) - global support, WeChat, Chinese configs
@@ -99,6 +99,8 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [templatesgrokbot.com](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3,000+ templates searchable by job title, MCP-accessible; uneven quality, use as an idea library. Tags: `templates` `catalog` `mcp`
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - Open-source directory of bot prompts usable in Grok Bot, Rakazo and others; browse it for ideas. Tags: `templates` `directory` `prompts`
 - [Useful Bots](https://usefulbots.pages.dev/) - Free Grok Bot templates for creators, grouped by video, growth, launch and more; a personal site we have not spot-checked one by one, so browse for ideas. Tags: `templates` `creators` `directory`
+- [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - Source of grokbot.dev, a directory run by its own bots: Scouts watch X for real setups, a Curator decides what gets in, a Builder maintains the site, and every change lands as a PR. Plugins, use cases and combos each get a page, plus a JSON API, RSS and MCP so your bot can subscribe on a schedule. Close in spirit to this repo's "AI scouts, a human decides" setup. Code MIT, content CC BY 4.0. Tags: `directory` `agent-run` `mcp`
+- [GrokBot HQ](https://github.com/V-harshith/grokbothq) - Source of grokbothq.xyz: 4,200+ Grok bots by category, plus combos, guides and comparisons with Custom GPTs and others. The author says every listing is opened and tested by a human before publishing; we have not re-checked them. Code MIT, content CC BY 4.0. Tags: `directory` `combos` `guides`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
@@ -121,6 +123,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [locum](https://github.com/HarjjotSinghh/locum) - A custom MCP connector plus tunnel so Grok Bot can hand coding work to the Claude Code / Codex CLIs signed in on your own machine; it only spawns the official CLIs and never touches credentials. Mind the exposure while the tunnel is open. Tags: `mcp` `delegate` `claude-code`
 - [Grok Bot Clipper](https://github.com/RongleCat/grok-bot-clipper) - Unofficial browser extension (Chrome / Edge / Firefox): clip pages, screenshots, files and social posts into a basket, then send them straight to your own bot with no third-party relay. Same author as the Tiezhu learning site; source only for now, so you build it yourself. Core code MIT, third-party parts excepted. Tags: `browser-extension` `clipper` `chinese`
 - [Template: Research by Trond](https://x.ai/bot/v3WI0YuJAr1DLoYdYVXh8) - Third-party template, one-click import: a read-only research bot that turns public posts and web pages into cited briefs, builds source packs for stories and videos, and fact-checks before you publish. Tags: `template` `research` `read-only`
+- [remote-grok-build](https://github.com/Qervas/remote-grok-build) - Skills-only Grok Bot plugin that drives Grok Build on a linked Windows PC over the Grok Bot computer link: session status at a glance, streamed turns, an interrupt that stops only the headless turn, and after-turn summaries and images. A daily routine rewrites the CLI cheat sheet when Grok Build ships a new release. No public tunnels; Windows (PowerShell) only. The author notes v9 is not published yet and the x.ai share link still serves an older version. MIT. Tags: `plugin` `grok-build` `bridge`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
@@ -194,7 +197,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Grok Bot Orange Book](https://github.com/KinGao294/grok-bot-orange-book) - A ~16k-character beginner-to-advanced handbook: multi-bot teamwork, Routines, saving usage and automation, in PDF and Markdown; the author suggests feeding the whole book to your bot as context. Written in the first two weeks after launch, so check official docs before acting. README declares CC BY-NC-SA 4.0 (non-commercial). (Chinese) Tags: `chinese` `guide` `book`
 - [sitin's Grok Bot tutorials](docs/sitin-tutorials.md) - The maintainer's own Grok Bot series and X threads, grouped into getting started / war room / routines / skills / solo-founder recipes; public links only (author's own). (Chinese) Tags: `chinese` `tutorials` `author`
 - [Community Grok Bot tutorials](docs/community-tutorials.md) - 25 X threads and articles by other creators, Chinese and English, grouped into getting started, war room, routines and usage, skills, solo-founder and indexes; each checked for liveness and date. (Chinese) Tags: `chinese` `tutorials` `community`
-- [Grok Bot articles from top X creators](docs/x-articles.md) - 76 long-form X articles and threads in Chinese and English, grouped into getting started, war room, routines and usage, skills, and solo-founder; only tutorials and real setups with genuine traction, and any numbers are the authors' own claims. (Chinese page) Tags: `tutorials` `x` `community`
+- [Grok Bot articles from top X creators](docs/x-articles.md) - 79 long-form X articles and threads in Chinese and English, grouped into getting started, war room, routines and usage, skills, and solo-founder; only tutorials and real setups with genuine traction, and any numbers are the authors' own claims. (Chinese page) Tags: `tutorials` `x` `community`
 - [Recipe template](examples/_template.md) - Format to follow before submitting a recipe: scenario / input / steps / prompt / output / pitfalls. (Chinese) Tags: `template` `learning`
 
 <sub>[⬆ Back to contents](#-contents)</sub>

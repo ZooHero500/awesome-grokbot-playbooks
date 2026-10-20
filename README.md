@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-75-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-78-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-9-blueviolet?style=flat-square" alt="Recipes">
-  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--19-success?style=flat-square" alt="Last verified">
+  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--20-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <img src="https://img.shields.io/badge/%E9%9D%9E%E5%AE%98%E6%96%B9-lightgrey?style=flat-square" alt="Unofficial">
@@ -25,10 +25,10 @@
 
 | | |
 |---:|---|
-| **75** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **78** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **9** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
-| **101** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 25 + [X 大 V 文章](docs/x-articles.md) 76），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
+| **104** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 25 + [X 大 V 文章](docs/x-articles.md) 79），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
 | **2 个 AI** | 在维护：Grok Bot 每天找料，Claude Code 核实、写短评，人只拍板。协作记录全公开在 [`.collab/`](.collab/README.md) |
 
 和英文生态导航 [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) 的分工：它覆盖面广；本仓侧重**中文一人公司、多 Bot 作战室、雷达 Routine 和可抄配方**。不拼数量，宁缺毋滥。
@@ -59,17 +59,17 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
-- **10-20** 仓库公开，发布 [v0.1.0](https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.1.0)；X 大 V 文章精选增至 76 篇，欢迎认领[实测](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test)
+- **10-20** 新增 [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev)、[GrokBot HQ](https://github.com/V-harshith/grokbothq) 两个目录站，和在聊天里驱动本机 Grok Build 的 [remote-grok-build](https://github.com/Qervas/remote-grok-build)；X 大 V 文章增至 79 篇
+- **10-20** 仓库公开，发布 [v0.1.0](https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.1.0)，欢迎认领[实测](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test)
 - **10-19** 新增 [grok-bot-cli](https://github.com/ScriptedAlchemy/grok-bot-cli)（在终端管理 bot、群和 skill）和 [OpenMausBot](https://github.com/milind-soni/OpenMausBot)（5k★ 开源平替）
-- **10-19** [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) 上线，收 70 篇有真实互动的长文和串帖
 
 完整记录见 [README 提交历史](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md)。
 
 ## 📚 目录
 
 - [官方与 SDK](#-官方与-sdk)（5）- 官方文档、模板市场、SDK 和命令行
-- [模板与目录](#-模板与目录)（8）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
-- [技能与玩法](#-技能与玩法)（17）- skill、MCP、单个模板、可粘贴人设
+- [模板与目录](#-模板与目录)（10）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
+- [技能与玩法](#-技能与玩法)（18）- skill、MCP、单个模板、可粘贴人设
 - [多 Bot 团队](#-多-bot-团队)（15）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（5）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（4）- 出海客服、微信接入、中文配置
@@ -99,6 +99,8 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [templatesgrokbot.com](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3000+ 模板按岗位检索，可经 MCP 接入；量大质量参差，当灵感库用。标签：`templates` `catalog` `mcp`
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 开源 bot prompt 目录，Grok Bot、Rakazo 都能用，当灵感库翻。标签：`templates` `directory` `prompts`
 - [Useful Bots](https://usefulbots.pages.dev/) - 面向创作者的免费 Grok Bot 模板目录，按视频、增长、发布等分类；个人站，质量没逐个抽检，当灵感翻。标签：`templates` `creators` `directory`
+- [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - grokbot.dev 的源码仓：由一组 bot 自己运营的玩法目录，Scouts 盯 X 找真实配置，Curator 决定收录，Builder 维护网站，每次改动都走 PR。插件、用例、组合包各有页面，另有 JSON API、RSS 和 MCP，可以让你的 bot 定时订阅。和本仓「AI 找料、人拍板」的思路相近，可以对照着看。代码 MIT、内容 CC BY 4.0。标签：`directory` `agent-run` `mcp`
+- [GrokBot HQ](https://github.com/V-harshith/grokbothq) - grokbothq.xyz 的源码仓：4200 多个 Grok Bot 按分类列出，另有组合包、指南，以及和 Custom GPTs 等的对比。作者称每条上架前都人工打开测过，本仓没有逐条复核。代码 MIT、内容 CC BY 4.0。标签：`directory` `combos` `guides`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
@@ -121,6 +123,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [locum](https://github.com/HarjjotSinghh/locum) - 自定义 MCP 连接器加隧道，让 Grok Bot 把编码活交给你本机已登录的 Claude Code / Codex，只调用官方命令行，不碰凭证。等于把云端 bot 和本机订阅接起来；隧道开着期间注意权限面。标签：`mcp` `delegate` `claude-code`
 - [Grok Bot Clipper](https://github.com/RongleCat/grok-bot-clipper) - 非官方浏览器扩展（Chrome / Edge / Firefox）：剪藏网页、截图、文件和社媒帖，攒进素材篮后直接发给自己的 bot，不走第三方中转。作者同铁柱学习站；目前只发源码，要自己构建。核心代码 MIT，第三方部分另有许可。标签：`browser-extension` `clipper` `chinese`
 - [模板：Research by Trond](https://x.ai/bot/v3WI0YuJAr1DLoYdYVXh8) - 第三方模板，可一键导入：只读研究 bot，从公开帖子和网页出带引用的简报，给选题、视频攒素材包，发布前帮你核事实。标签：`template` `research` `read-only`
+- [remote-grok-build](https://github.com/Qervas/remote-grok-build) - Grok Bot 插件（只含 skill）：经 Grok Bot 的电脑连接，在聊天里驱动已关联 Windows 电脑上的 Grok Build。能看会话状态、流式回传每轮输出、只打断无头会话、回传改动摘要和图片；带一个每日 routine，Grok Build 发新版时自动重写命令速查。不开公网隧道，只支持 Windows（PowerShell）。作者写明 v9 还没公开上架，x.ai 分享链接目前仍是旧版。MIT。标签：`plugin` `grok-build` `bridge`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
@@ -194,7 +197,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) - 中文入门到进阶手册，约 1.6 万字：多 Bot 协作、Routine、省额度和自动化，有 PDF 和 Markdown 两版，作者建议整本喂给 bot 当上下文。写于上线头两周，细节动手前对照官方。README 声明 CC BY-NC-SA 4.0，仅限非商用。标签：`chinese` `guide` `book`
 - [sitin 的 Grok Bot 教程索引](docs/sitin-tutorials.md) - 本仓作者的「Grok Bot 实战」连载与 X 教程，按入门 / 作战室 / Routine / Skills / 一人公司分类，只收公开链接（作者相关）。标签：`chinese` `tutorials` `author`
 - [社区 Grok Bot 教程精选](docs/community-tutorials.md) - 25 篇其他博主的 X 教程和长文，按入门、作战室、Routine 与额度、Skills、一人公司、合集分类；每条都核过存活和日期。标签：`chinese` `tutorials` `community`
-- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 76 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
+- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 79 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
 - [配方模板](examples/_template.md) - 投稿配方前先照这个格式写：场景 / 输入 / 步骤 / prompt / 产出 / 坑。标签：`template` `learning`
 
 <sub>[⬆ 回到目录](#-目录)</sub>

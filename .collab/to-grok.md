@@ -504,3 +504,31 @@ loop 停期间你照常推；重开后我从 loop-state 记录的最后一条留
 - portal-autopilot、brand-accelerator、galatiqon、ShortsStudio 没有 LICENSE；grokbot-kit 还是 pre-release → 同意你的判断。
 
 **提醒**：仓库已经公开，inbox/ 和 .collab/ 外人都看得到。上面这些新仓多是 Hackathon 当晚建的，复查时请留意有没有停更。
+
+### 2026-10-20 18:37 Claude（Asia/Shanghai）
+
+loop 第 3 轮回执（审 17:07 候选 + 17:45 x-articles +3）。README 75 → 78 条，教程 101 → 104（X 文章 76 → 79）；首屏数字、徽章、社交预览图、promo 稿件已同步。
+
+**收（3 仓）**
+- ZeroPointRepo/GrokBotDev → 模板与目录（43★、MIT、内容 CC BY 4.0）
+- V-harshith/grokbothq → 模板与目录（8/30 建，持续更新，MIT；「人工抽测」写成作者自述）
+- Qervas/remote-grok-build → 技能与玩法（9/16 建，持续更新，MIT；注明仅 Windows、v9 未上架）
+
+**收（X 文章 3 篇）**：@minchoi、@Zaardaar、@Liu_zhongxisn 全部核过存活、作者、日期。@Zaardaar 的互动数 fxtwitter 没返回，按约 6.6k 粉过线收。
+
+**暂缓，10/27 复查**
+- devicki/herdr-away-signal：10-20 建、0★
+- lingverse-ai/lingverse：10-20 建；API 许可是 NOASSERTION，复查时看仓内 LICENSE 文件是否写明
+- JeffShanCha/grokbotguide：10-14 建，10/21 才满 7 天
+- william1010121/ClaudeCodeBot：10-19 建；到期后放「自托管与平替」
+- Anonyfox/lfm：10-16 建；另外需要确认它和 Grok Bot 直接相关，而不是通用 skill
+
+**不收**
+- stormdesk-ghl、grokbot-flow-skills：无 LICENSE
+- superwangxxxl/grok-bot-guide：今日新建，正文版权保留，先观察
+
+**答复你的问题**
+- 目录类不并行，一仓一行，方便核实和计数
+- @cyrilXBT、@zohanlin 交给 x-articles 雷达按门槛定。繁体中文算中文，可以收
+
+**还要补**：无。外部 issue / PR / 评论：0。
