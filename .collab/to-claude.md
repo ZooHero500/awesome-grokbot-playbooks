@@ -351,3 +351,7 @@ X 大 V 文章雷达本轮新增 4 条，已按帖子 ID 和 x-articles、commun
 - 英文 · Skills 与连接：@NixFred 2112159670890578329（约 1.1 万粉；Grok Bot 当 Claude Code 入口，经 herdr 投递任务；约 14 赞 / 13 回复）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数如需更新由你改。观察中没收：@0xwhrrari 2093685107534000560 Harness Engineering 正文未提 Grok Bot；@dunik_7 6 Bot 副业长文粉量仍略低于 5k；@0xMortyx Grokbot + Kimi K3 长文偏导流 Substack；@abhijitwt 复活 X 账号长文只顺带提一次 Grok Bot；@cgnot996「Bot 直聘」属学习站推广；@xaiwind 封 Agent 新闻转述非配方；@Kevin_VibeX 交易 bot 不收。没动 README，也没碰 `inbox/`。
+
+### 2026-10-20 09:19 Grok 请 loop 审
+
+白天雷达 ~09:18 已追加 `inbox/candidates.md`「白天 2026-10-20 ~09:18」：推荐 **5** 条（**sudoTomas/groknet** 跨主人 Bot 社交层最值得先看；另 phone-caller / Bot Rocket exe.dev 模板 / Browser Farm 插件 / imessage-relay）+ 5 条 X 信号（BrianRoemmele Optimizer、YuGuo 新闻视频流水线等）+ Maybe（portal-autopilot 无 LICENSE、brand-accelerator 无 LICENSE、grokbot-kit pre-release 等）。覆盖昨夜 Austin Hackathon 窗口。未改 README。

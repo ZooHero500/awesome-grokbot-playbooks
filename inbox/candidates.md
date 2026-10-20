@@ -1052,3 +1052,49 @@
 | EbookPlan 电子书 | https://x.com/EbookPlan/status/2112124760012542101 | 软广，x-articles 雷达已跳过同类 |
 | stablyai/orca 再推 | （多帖） | README 已收，仅热度 |
 | ChamathRosh / grokbot-bridge / exporter / mcq / genealogy 等 | （见上轮） | 上轮已列，本窗不重复 |
+
+## 白天 2026-10-20 ~09:18（Asia/Shanghai）
+
+- **窗口**：~19:09（10-19）→ ~09:18（10-20）；上轮 21:22 白天雷达失败，本窗覆盖过夜 + 早间（Austin Hackathon 当晚大量新仓）
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：X `search_posts_all`（近夜中英）+ Mac `gh search repos` created≥2026-10-18 + README/License 抽查；相对 README + `inbox/candidates.md` + docs 去重
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| sudoTomas/groknet | https://github.com/sudoTomas/groknet | **跨主人 Bot 社交层**：发现 → 人批好友 → webhook 中继；Teams 里 @ 谁谁接。模板 Bot + MCP，live dashboard。填「多 Bot 只能同账号群聊」空白 | Multi-bot | `multi-bot` `webhook` `mcp` `social` `mit` | 0 / MIT | **GitHub**（Hackathon 夜新建，仍推） |
+| adamsonwalter/grokbot-phone-caller | https://github.com/adamsonwalter/grokbot-phone-caller | **可自托管打电话模板**：Telnyx + xAI realtime + 临时 Cloudflare tunnel；密钥走 masked env，`dial.sh` 通完即停。与已收 ClawCall 叙事互补（自备 key、无第三方 skill 税） | Skills / Hardware | `phone` `telnyx` `realtime` `template` `mit` | 0 / MIT | **GitHub**（今日新建） |
+| Gitmaxd/grok-bot-rocket-template | https://github.com/Gitmaxd/grok-bot-rocket-template | **给 Bot 产物搬家**：模板把 App/服务放到自己的 exe.dev VM（持久盘 + HTTPS），共享云电脑只作编排；危险操作再问一次。直击「云电脑重置丢状态」痛点 | Templates / Self-hosted | `template` `exe-dev` `persistence` `marketplace` `mit` | 0 / MIT | **GitHub**（昨夜新建，有 Add 链） |
+| sumanthneerumalla/thebrowserfarm-plugin | https://github.com/sumanthneerumalla/thebrowserfarm-plugin | Cursor/Grok Bot 插件：一站一浏览器、多浏览器并行；MCP + skill 教 browse loop。需 Browser Farm API key（托管 MCP），适合竞品扫价/批量抽页 | Skills & Playbooks | `plugin` `mcp` `browser` `parallel` `mit` | 0 / MIT | **GitHub**（今日新建） |
+| PhillipHolland/imessage-relay | https://github.com/PhillipHolland/imessage-relay | **iMessage ↔ X Chat 中继**：本机 Mac 安装器（sha256 核验），opt-in 联系人、正文不落 Bot 盘、附件加密一次取。与已收 `jeffhuber/grokbot-imessage-skill`（本机分拣）成对：一条本地 skill、一条进 X Chat | Skills & Playbooks | `imessage` `x-chat` `macos` `privacy` `mit` | 0 / MIT | **GitHub**（10-19 建，仍推） |
+
+### 玩法 / 信号（无强仓，field-notes / Routines / Learning / Hardware 短链）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Grok Bot Optimizer（瘦身教练 Bot） | https://x.com/BrianRoemmele/status/2112337968820334676 | 约 49 万粉：用 trainer Bot 审计「臃肿」个人 Bot 的指令/技能再裁。无公开仓，交 x-articles 或 Learning 观察 | Learning / Multi-bot | **X** @BrianRoemmele（~74 赞 / 55 收藏） |
+| AI 新闻 → 中文简报视频流水线 | https://x.com/YuGuo936066/status/2112351377024225439 | 约 6k 粉：24h AI 新闻去重 → 5–7 条中文简报去 AI 腔 → 配音视频 + 文稿 → 发帖。可作 Routines / Chinese 配方雏形 | Routines / Chinese | **X** @YuGuo936066 |
+| 整理 X 追蹤名單（退追死号） | https://x.com/MaxCryptoSpace/status/2112341253593391176 | 抓全部 following → 看最后发文/领域 → 批量退追闲置号。薄但可粘贴进 Routines | Routines / Chinese | **X** @MaxCryptoSpace（约 3.3k 粉） |
+| 多 Bot 组队不打架（官方摘 4 条） | https://x.com/Ljhzdqb/status/2112350215214633382 | 建群 2–6、@ 点名派活、少 @everyone。入门向，可并 Learning / Chinese 一句 | Multi-bot / Chinese / Learning | **X** @Ljhzdqb |
+| 晨间 5 件事 brief 一句话 routine | https://x.com/grokbotusecases/status/2112325137282322830 | 可粘贴：「每天 8 点读过去 24h timeline，回 5 件要紧的 + 一个写作点子」。薄模板 | Routines | **X** @grokbotusecases |
+
+### Maybe / Skip（~09:18）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| DavidSlayback/portal-autopilot | https://github.com/DavidSlayback/portal-autopilot | 登录门户自动取件 + 账单对账，审批闸门清楚；**无 SPDX/LICENSE**，等补许可再升格 |
+| SamGu-NRX/brand-accelerator | https://github.com/SamGu-NRX/brand-accelerator | Austin Hackathon 个人品牌多 Bot 队（X harness + 短视频）；**无 LICENSE**，体量大可观察 |
+| ionpetro/galatiqon | https://github.com/ionpetro/galatiqon | Pi 按键对讲桌面硬件桥自有 Bot；**无 LICENSE**，偏团队定制 |
+| rodrigo-pasini/grokbot-kit | https://github.com/rodrigo-pasini/grokbot-kit | MIT 且叙事对（委派 headless agent → webhook 唤醒委派 Bot）；README 自标 **pre-release、命令尚未可用** |
+| jeffgreendesign/follow-through | https://github.com/jeffgreendesign/follow-through | 家务责任模板更完整（v0.2）；上轮已 Maybe「模板即仓」，本窗不重复升格 |
+| Statusnone420/agent-skills | https://github.com/Statusnone420/agent-skills | 上轮已 Skip（曾写 host retired）；虽 README 又写 Grok Bot，仍观察不重复 |
+| herzenco/GrokBot-Agent-Dashboard | https://github.com/herzenco/GrokBot-Agent-Dashboard | 个人 8 agent 看板 + Supabase，偏演示仪表盘 |
+| adamtpang/grokbothackathon | https://github.com/adamtpang/grokbothackathon | 活动「扫码加人」dex 演示，非通用配方 |
+| King-Simmons/grok-bot-hackathon | https://github.com/King-Simmons/grok-bot-hackathon | URL→lofi 控制台演示 |
+| MihirSahu/grok-zoom-bot | https://github.com/MihirSahu/grok-zoom-bot | Zoom RTMS 现场 coding 桥，场景过窄 |
+| Menziess/bot-widget | https://github.com/Menziess/bot-widget | 桌面悬浮脸主要对接 OpenBot，非 Grok Bot 配方主线 |
+| RetroLancers/ShortsStudio | https://github.com/RetroLancers/ShortsStudio | 创作者审片 MCP，**无 LICENSE** |
+| Polymarket 交易收益转述多帖 | （Ygnn43 / Xpss66 / qs1591 等） | 交易/收益号，偏离本仓 |
+| francoCosimo95 / genealogy / mcq / OpenMausBot / grok-bot-cli 等 | （见上轮） | 已列，本窗不重复 |
