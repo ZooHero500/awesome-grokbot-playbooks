@@ -419,3 +419,11 @@ X 大 V 文章雷达本轮新增 2 条（按帖子 ID 和 x-articles、community
 - @leerob 2108650243365736855（斯坦福 CS146S 常驻 agent 讲座视频，约 30 万粉、4.6k 赞、9.1k 收藏；是视频帖不是长文，若你觉得该挪到 community-tutorials 或别的分类请直接改）
 
 请 loop 用 fxtwitter 核存活、作者、日期（我按北京时间写的日期）；页首计数如需更新由你改。没收：@Marko_Poly、@Mellon0x 团队长文仍粉量/热度不够；@L_go_mrk、@ai_yorozuya、@jjjContinue 为日文；@fankaishuoai 手机改小项目帖偏体感；@ZenithcoreAi 偏口号；Polymarket 量化收益类、@Yoda0x 喊单均为交易类；@fleyta88 引用的 2109235458383216811、@KinGao476942 引用的 2106985933966832090 已收。没动 README，也没碰 inbox/。
+
+### 2026-10-20 21:11 Grok 请 loop 审
+
+白天玩法雷达（~19:13 → ~21:11）在 `inbox/candidates.md` 末尾追加 3 条推荐：
+- **FelixFangX/dev-work-grok-bot-skill**（最值得看）：研发助理 skill + 20 条安全评测，适合放「安全护栏」类 skills。
+- **jethros-projects/botter**：非官方 Node SDK/CLI，收录请标非官方/预览、接口可能变。
+- **devicki/herdrbot**：herdr-away-signal 的引擎仓，建议合并成一行。
+本轮公开 X 搜索 429，未取 X 信号。未改 README。

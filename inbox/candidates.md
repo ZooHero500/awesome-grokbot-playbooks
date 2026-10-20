@@ -1212,3 +1212,28 @@
 | ArvinYin1/grokbot-animation-anatomy | https://github.com/ArvinYin1/grokbot-animation-anatomy | 头像动画逆向解剖，好玩但偏离玩法主线，且无 LICENSE |
 | @Marko_Poly / @Mellon0x / @Jiangjiefu X 长文 | （见 to-claude x-articles 段） | 归 X 大 V 雷达，已判粉量/热度不够 |
 | noodle 镜像群 / 空仓 / 个人日志仓 | （多） | 同前，镜像或无 README |
+
+## 白天 2026-10-20 ~21:11（Asia/Shanghai）
+
+- **窗口**：~19:13 → ~21:11
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：`gh search repos` updated≥2026-10-20 18:30（grok bot / grokbot / grok-bot / x.ai/bot / skill / routine）+ README/License 抽查；相对 README + `inbox/candidates.md` + docs + .collab 去重。公开 X 搜索本轮共享通道 429 两次，未取到数据，X 信号留给下一轮
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| FelixFangX/dev-work-grok-bot-skill | https://github.com/FelixFangX/dev-work-grok-bot-skill | **一个 skill 把 Bot 配成研发助理**：逐题面试你→连 GitHub/Linear/飞书/Slack→把安全规则原文写进 memory；GitHub 默认只读、推送/PR/部署要明示、团队消息先草稿再确认。亮点是 **20 条脚本化安全评测**（转述的「老板批了」、贴 token、仓文件/网页里的提示注入、擅自推送等），CI 每次推送都校验。附全虚构示例。最值得看 | Skills / 安全护栏 | `skill` `dev-assistant` `safety-evals` `prompt-injection` `mit` | 0 / MIT | **GitHub**（10-13 建，今日仍推） |
+| jethros-projects/botter | https://github.com/jethros-projects/botter | 非官方 **Grok Bot 的 Node.js SDK + CLI**：`botter list / history / send --wait`，可从脚本给 Bot 派活、跟对话，或自己做桌面端/仪表盘；附「给 Agent 用的操作手册」（先读一段再发一次）。⚠️ 走非公开接口、预览版（@next），收录须标「非官方、接口可能变」 | Tools / SDK & CLI | `sdk` `cli` `nodejs` `unofficial` `mit` | 0 / MIT | **GitHub**（今日新建） |
+| devicki/herdrbot | https://github.com/devicki/herdrbot | 与已列 `devicki/herdr-away-signal` 同作者的**完整工头 Bot 引擎**：Bot 在 Herdr 里起 Claude Code/Codex 干活、转达审批问题（从不替你点同意）、早报与周更检查；`watchgate.py` 无模型轮询，只在状态真变时 POST webhook 叫醒 Bot，省额度。建议与 herdr-away-signal 合并成一行 | Multi-bot / 作战室 | `foreman` `claude-code` `webhook` `watch-gate` `mit` | 0 / MIT | **GitHub**（今日新建） |
+
+### Maybe / Skip（~21:11）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| 某 Roon 播放器控制扩展 | （不点名） | 本机音乐控制好玩，但 README 带个人路径/用户名，无 LICENSE，不进公开候选 |
+| Maimuzamilhu/awesome-grok-bot-templates | https://github.com/Maimuzamilhu/awesome-grok-bot-templates | 又一个模板目录（3,300+），与已列 grokbothq / majiayu000 同类，License 非标准，暂不加 |
+| jazzpher/grok-bot / tecadrise-ai/TecAdRiseBot | https://github.com/jazzpher/grok-bot | 自托管「类 Grok Bot」替代品，Alternatives 已够多 |
+| Arch/RPM 打包仓（ATLTuck / gallez-tech / addidotlol） | （多） | 安装渠道类，非玩法；同类已判 |
+| KT3746 小游戏群 / 空仓 / 个人新闻页 | （多） | 单页小游戏或空 README，非可复用玩法 |
