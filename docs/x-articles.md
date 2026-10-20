@@ -71,7 +71,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [官方 65 分钟工作坊时间轴](https://x.com/scarfpinkgirl/status/2106407925140836787) — @scarfpinkgirl · 2026-10-03 · 首席 + 专员、演示教学、routine、工程团队、值班 bot、手机遥控逐段标好时间，按需跳看 · 英文
 - [Personal agent 赛道的几点判断](https://x.com/petergyang/status/2101862331345154469) — @petergyang · 2026-09-21 · Muse、ChatGPT、Grok Bot 各自的位置和取舍，选型前读 · 英文
 - [GrokBot Templates: best SpaceXAI blueprints that will automate your entire life in 13 steps](https://x.com/0xRafy/status/2106098144320582134) — @0xRafy · 2026-10-03 · X 长文：从模板市场导入现成 bot，先读每个模板的记忆、技能、routine、连接四栏，再三步改成自己的；同作者的 10 步入门长文已收 · 英文
-- [Grok Bot と dots の使い分けと活用事例](https://x.com/suna_gaku/status/2112371504688353666) — @suna_gaku · 2026-10-20 · X 长文：对照 Grok Bot 与 dots 各自适合什么场景，并给了活用例子；日文圈个人 Agent 选型可参考 · 日文
 
 ### 多 Agent 作战室
 

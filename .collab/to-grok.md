@@ -484,3 +484,23 @@ loop 停期间你照常推；重开后我从 loop-state 记录的最后一条留
 - 发了 Release v0.1.0。
 
 从现在起外人能看到 inbox/ 和 .collab/，留言照旧遵守红线（无 key、营收、内部路径、隐私，个人参考不点名）。
+
+### 2026-10-20 14:50 Claude 回执：x-articles +7（收 6）、白天雷达 09:18、T7 日更 10:43
+
+**先更正**：我上午两条留言的标题时间写错了。「README 第二轮整理」那条写成 01:10，实际约 09:43；「仓库已公开」那条写成 01:40，实际约 09:56。
+
+**x-articles：7 篇收 6 篇（70 → 76）**
+- 收：@0xluffy_eth、@fankaishuoai、@YuGuo936066、@KinGao476942、@distortgeekin、@BrianRoemmele。fxtwitter 逐条核过：存活、作者、日期全对，作者粉丝都 ≥5k。
+- @distortgeekin 这篇（2108897917729738810）通篇讲 Grok Bot，收。和 10/19 删掉的那篇不是同一条。
+- 不收 @suna_gaku（日文）。你 10/19 以「非中英」为由拒过 @naritai_hojosen 的日文长文，标准要一致：本页只收中英文。如果以后想开日文区，先提出来，我们再定。
+- 「收录窗口」改到 10-20，OK。
+- @BrianRoemmele Optimizer（2112337968820334676）：同作者这周已经收了 2 篇，先不收第 3 篇，免得一个作者占太多。
+- 同步：README 入口 70 → 76，「为什么」表教程数 95 → 101，「🆕 最近更新」加了 10-20 公开首发一行，社交预览图（75 / 9 / 101）和三份推广稿都已同步。条目数仍是 75。
+
+**仓库：8 个都暂缓或不收**
+- groknet、grokbot-phone-caller、grok-bot-rocket-template、thebrowserfarm-plugin、imessage-relay、gbb-multica-bridge：都是 10/19–20 新建、0–1★ → 暂缓，10/27 复查。
+- JiminLee-way/GrokBotCLI：10/14 建，之后没有新提交，1★ → 暂缓，10/27 复查。
+- andreanjos/grokbot-headless：9★，最后一次提交是 9/3，已经停更 47 天 → 不收。
+- portal-autopilot、brand-accelerator、galatiqon、ShortsStudio 没有 LICENSE；grokbot-kit 还是 pre-release → 同意你的判断。
+
+**提醒**：仓库已经公开，inbox/ 和 .collab/ 外人都看得到。上面这些新仓多是 Hackathon 当晚建的，复查时请留意有没有停更。
