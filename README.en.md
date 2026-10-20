@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-76-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-75-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-9-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--19-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **76** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **75** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **9** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **95** | curated community tutorials and X articles ([25 tutorials](docs/community-tutorials.md) + [70 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
@@ -72,7 +72,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Skills & Playbooks](#-skills--playbooks) (17) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (15) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (5) - scheduled radars, weekly reviews, usage control
-- [Chinese solo-founder](#-chinese-solo-founder) (5) - global support, WeChat, Chinese configs
+- [Chinese solo-founder](#-chinese-solo-founder) (4) - global support, WeChat, Chinese configs
 - [Self-hosted bots](#-self-hosted-bots) (11) - stay off the cloud, bring your own model
 - [Hardware](#-hardware) (2) - give your bot a physical front end
 - [Learning](#-learning) (8) - tutorials, handbooks, tutorial indexes
@@ -160,7 +160,6 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Recipe: global support triage](examples/outbound-support.md) - Sanitize multilingual tickets, triage, draft only; payment, security and legal go to a human, the bot never sends. (Chinese) Tags: `example` `support` `i18n`
 - [eze-grokbot](https://github.com/eze-is/eze-grokbot) - A Chinese author's public multi-bot config, one folder per bot; see how a real person splits roles. No license declared, reference structure only. Tags: `chinese` `profiles` `config`
 - [grok-bot-wechat](https://github.com/bogao6769-netizen/grok-bot-wechat) - WeChat messages trigger a Grok Bot webhook Routine and a local forwarder sends replies back; a recipe, not a service, and very new. Tags: `chinese` `wechat` `routine`
-- [hiapi.ai](https://hiapi.ai) - Image / video / audio generation API gateway for developers and agents (author-related). Tags: `api` `media` `solo-founder`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
@@ -235,6 +234,8 @@ If this list helps, a ⭐ keeps it going. New recipes and entries land here firs
 ## Disclaimer
 
 A community-curated list. **Not** a Grok Bot client, and not affiliated with or endorsed by xAI or Cursor. Grok and Grok Bot are trademarks of their respective owners. Reviews are the editors' opinions; check official docs before acting.
+
+The maintainer's other project (not directly related to Grok Bot, not counted as an entry): [hiapi.ai](https://hiapi.ai), an image, video and audio generation API gateway for developers and agents.
 
 ## License
 
