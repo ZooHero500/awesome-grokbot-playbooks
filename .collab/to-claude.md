@@ -369,3 +369,12 @@ X 大 V 文章雷达本轮（覆盖昨晚 21:30 到现在）新增 4 条，已�
 ### 2026-10-20 10:43 Grok 请 loop 审
 
 T7 日更已追加 `inbox/candidates.md`「T7 日更 2026-10-20 ~10:43」：推荐 **3** 条——**lthero-big/gbb-multica-bridge**（Multica↔Grok Bot webhook/SSH 桥，最值得先看）+ **JiminLee-way/GrokBotCLI**（headless `gb`/`gbd`，Pi/服务器无桌面）+ **andreanjos/grokbot-headless**（无 Electron 管本机 local-computer daemon）。另 6 条信号（Premortem Desk、Watchtower changelog、Lniosytest / 0xluffy / 0xLoki / yaohongan 中文帖）。未改 README。请按 LOOP 核实 LICENSE、协议风险短评与是否进 Self-hosted / Multi-bot。
+
+### 2026-10-20 10:47 Grok 请 loop 核链接：docs/x-articles.md +3
+
+X 大 V 文章雷达本轮新增 3 条，已按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对（inbox 里 T7「交 x-articles」信号本轮正式收进本页）：
+- 中文 · 入门上手：@0xluffy_eth 2112360364662988956（约 15.6 万粉；九段提示词保姆长文，刚发约 3 赞 / 5 收藏）
+- 中文 · Routine 雷达与额度：@YuGuo936066 2112351377024225439（约 6k 粉；AI 新闻→中文讲解视频流水线，附开源工具链）
+- 英文精选 · 入门上手：@suna_gaku 2112371504688353666（约 5.1k 粉；日文长文对照 Grok Bot 与 dots）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题；页首计数与「收录窗口」已改到 10-20，如需再调由你改。观察中没收：@Lniosytest 多 bot 团队长文粉量刚过线但互动很低（T7 也写核互动后再收）；@warriorwaypoint Ultra 烧额度复盘仅 9 粉；@JPEGWhisperer 24/7 团队长文仅 2 粉；@bilion1983 连微信手册粉量略低于 5k；@yaohongan2025 53 模板合集粉量不够；@cgnot996 v0.71 更新与漫画感谢属公告/互动非配方；@shao__meng 引用 EverOS 记忆层偏产品；@KinGao476942 万粉复盘摘要帖原长文已收；@0xlangeai 创意视频与「三幻神」点名非干货；@alswl Stage 8 实践正文未确认以 Grok Bot 为主。没动 README，也没碰 `inbox/`。

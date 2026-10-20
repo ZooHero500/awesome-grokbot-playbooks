@@ -5,7 +5,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 > 只收公开帖，短评为本仓观点，版权归原作者。帖内的数字（涨粉、线索数、流量倍数等）都是作者自述，本仓没有核实。
 > 收录标准：作者粉丝约 5k 以上，或帖子有明显互动（约 100 赞或 50 收藏以上），而且内容是教程、配方、真实配置或复盘。抽奖送码、代币、交易收益、纯推广、官方公告转发都不收。
 > 已经在 [社区教程精选](community-tutorials.md) 里的 25 篇这里不重复列，请两页一起看；本仓作者自己的教程见 [sitin 的教程索引](sitin-tutorials.md)。
-> 收录窗口：约 2026-09-07 至 2026-10-19，个别早期高收藏长文也收了。
+> 收录窗口：约 2026-09-07 至 2026-10-20，个别早期高收藏长文也收了。
 
 ## 目录
 
@@ -26,6 +26,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 上手四步：先装上下文、接工具、一个主 bot 派活、画清不可逆线](https://x.com/wutujiang1999/status/2112034366998315408) — @wutujiang1999 · 2026-10-19 · X 长文：建议先派一周重复三遍以上的活（增量简报、内容复用、收件分拣、过夜清单），安全规则用白话写；结尾是账号人设故事，可跳过 · 中文
 - [免翻墙能用，但长期大陆 IP 交互会让 bot 电脑出口 IP 被标到中国](https://x.com/chenmo/status/2110380646824816682) — @chenmo · 2026-10-14 · 踩坑：作者发现 bot 电脑出口经 Cloudflare 被标成中国后不少服务受限，网站行为异常时先查出口 IP · 中文
 - [安装桌面端立刻关掉「在这台电脑上执行」和「经此电脑转发流量」](https://x.com/fankaishuoai/status/2111740064409756037) — @fankaishuoai · 2026-10-18 · 云端 Bot 不该碰本机文件和密钥；关转发也避免暴露地址、被 Cloudflare 标错地区 · 中文
+- [Grok Bot 保姆级教程：9 段神级提示词，解决你所有烦心事](https://x.com/0xluffy_eth/status/2112360364662988956) — @0xluffy_eth · 2026-10-20 · X 长文：九段可复制提示词覆盖入门、派活、报障和日常杂事；作者约十五万粉，偏合集向，可当提示词素材库翻 · 中文
 - [花两千踩坑四大 Personal Agent，我用 3 个提示语把 33% 成功率救活了](https://x.com/aiwarts/status/2111812368972022217) — @aiwarts · 2026-10-18 · X 长文：Grok Bot、Muse、Dots、Cue 横测 12 个自媒体平台，作者自述只委托成功三分之一；附多任务进度表、Computer Use 采集「六道门」校验和融合日报三段提示语，日报落飞书再发邮件通知。文中对 Grok Bot 本机操控的判断是作者当时的体验 · 中文
 
 ## 中文 · 多 Agent 作战室
@@ -40,6 +41,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一小时用 Grok Bot 做出每日 AI 热点新闻站](https://x.com/fankaishuoai/status/2109967621710070238) — @fankaishuoai · 2026-10-13 · 抓 X 热点 → 生成日报 → 发布到 GitHub Pages，每天定时出四份，是最小可用的雷达 routine · 中文
 - [用 Grok Bot 做 AI 早报，留白处补原帖截图](https://x.com/liyue_ai/status/2108398163929510207) — @liyue_ai · 2026-10-09 · 早报 routine 的迭代：给每条解读配上原帖截图或视频，信息更完整 · 中文
 - [OpenRouter 免费模型接 Pi Agent，给 Grok Bot 当执行层](https://x.com/NFT_Chen/status/2108414543978533341) — @NFT_Chen · 2026-10-09 · 省额度思路：bot 只调度，免费模型干活。标题偏夸张，免费模型每天有调用次数上限，切模型要人确认 · 中文
+- [用 Grok Bot 把 24 小时 AI 新闻做成中文讲解视频](https://x.com/YuGuo936066/status/2112351377024225439) — @YuGuo936066 · 2026-10-20 · 流程写清：新闻聚合 → 去重挑 5–7 条 → 去 AI 腔 → 口播稿 / PPT → 约 90 秒视频再发帖；工具链点名 ai-news-radar、Humanizer-zh 和歸藏开源 skill，配音用 edge-tts · 中文
 
 ## 中文 · Skills 与连接
 
@@ -69,6 +71,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [官方 65 分钟工作坊时间轴](https://x.com/scarfpinkgirl/status/2106407925140836787) — @scarfpinkgirl · 2026-10-03 · 首席 + 专员、演示教学、routine、工程团队、值班 bot、手机遥控逐段标好时间，按需跳看 · 英文
 - [Personal agent 赛道的几点判断](https://x.com/petergyang/status/2101862331345154469) — @petergyang · 2026-09-21 · Muse、ChatGPT、Grok Bot 各自的位置和取舍，选型前读 · 英文
 - [GrokBot Templates: best SpaceXAI blueprints that will automate your entire life in 13 steps](https://x.com/0xRafy/status/2106098144320582134) — @0xRafy · 2026-10-03 · X 长文：从模板市场导入现成 bot，先读每个模板的记忆、技能、routine、连接四栏，再三步改成自己的；同作者的 10 步入门长文已收 · 英文
+- [Grok Bot と dots の使い分けと活用事例](https://x.com/suna_gaku/status/2112371504688353666) — @suna_gaku · 2026-10-20 · X 长文：对照 Grok Bot 与 dots 各自适合什么场景，并给了活用例子；日文圈个人 Agent 选型可参考 · 日文
 
 ### 多 Agent 作战室
 
