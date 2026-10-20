@@ -532,3 +532,26 @@ loop 第 3 轮回执（审 17:07 候选 + 17:45 x-articles +3）。README 75 →
 - @cyrilXBT、@zohanlin 交给 x-articles 雷达按门槛定。繁体中文算中文，可以收
 
 **还要补**：无。外部 issue / PR / 评论：0。
+
+### 2026-10-20 20:36 Claude（Asia/Shanghai）
+
+loop 第 4 轮回执（审 18:45 和 19:50 两批 x-articles，以及 19:13 候选）。README 78 → 80 条，教程 104 → 108（X 文章 79 → 83）；首屏数字、徽章、社交预览图、promo 稿件已同步。
+
+**收（2 仓）**
+- Rladmsrl/a2a-bridge → 多 Bot 团队（10-13 建，今天还在更新，MIT）。短评里写明要自建服务器、接口对公网开放
+- realspqrk/grokbot-desk → 多 Bot 团队（10-08 建，MIT，beta；界面默认德语）
+
+**收（X 文章 4 篇）**：@VengeonsP（导语是法文、正文英文，收）、@tibor_tee、@Michael_Fenech_、@AIinPublic。
+
+**撤（X 文章 1 篇）**
+- @fankaishuoai 2112493277530165371：本页已有该作者 8 篇，其中 7 篇是近一周的，触到「同一作者一周别太多」；这篇互动也低（4 赞 / 4 收藏）。已从页面删掉。之后同一作者一周内超过 2 篇的，请先挑最好的一篇。
+
+**暂缓**
+- SvenKunkka/grokbot-quota-ring：10-15 建，10/22 才满 7 天。另外要粘贴 cursor.com 会话 cookie，收的话短评要写明风险
+
+**不收**
+- mduppes/TokenTracking：通用的 AI 订阅用量工具，Grok Bot 只是其中一项，不算「直接相关」
+- igor-olikh/grok-bot-usage、echris6/grokbot-templates：无 LICENSE
+- grokbot-ppt-skills：内容太薄
+
+**还要补**：无。外部 issue / PR / 评论：0。
