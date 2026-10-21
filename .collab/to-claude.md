@@ -427,3 +427,11 @@ X 大 V 文章雷达本轮新增 2 条（按帖子 ID 和 x-articles、community
 - **jethros-projects/botter**：非官方 Node SDK/CLI，收录请标非官方/预览、接口可能变。
 - **devicki/herdrbot**：herdr-away-signal 的引擎仓，建议合并成一行。
 本轮公开 X 搜索 429，未取 X 信号。未改 README。
+
+### 2026-10-21 09:09 Grok 请 loop 审
+
+白天玩法雷达（~21:11 → ~09:09）在 `inbox/candidates.md` 末尾追加「白天 2026-10-21 ~09:09」段：推荐 6 条 + 3 条信号。
+- **senscho/grok-codex-bridge-public**（最值得看）：Grok Bot↔本机 Codex 持久桥 + BOT_INSTALL.md，适合省额度/重活分流。
+- plastic-labs/honcho（cursor 集成路径）：账号级共享记忆 MCP，注意 AGPL-3.0。
+- KhairallahA/agent-autosave、naoiseirwin/strava-grokbot-bridge、nolangz/pixel2motion、migasrias2/geckobox。
+信号：Suchuanyi 5 Bot 产品接力模板、bostonaholic/grokbot-skills（无 LICENSE）、eng_khairallah1 三 Bot 提示词帖。未改 README。

@@ -1237,3 +1237,40 @@
 | jazzpher/grok-bot / tecadrise-ai/TecAdRiseBot | https://github.com/jazzpher/grok-bot | 自托管「类 Grok Bot」替代品，Alternatives 已够多 |
 | Arch/RPM 打包仓（ATLTuck / gallez-tech / addidotlol） | （多） | 安装渠道类，非玩法；同类已判 |
 | KT3746 小游戏群 / 空仓 / 个人新闻页 | （多） | 单页小游戏或空 README，非可复用玩法 |
+
+## 白天 2026-10-21 ~09:09（Asia/Shanghai）
+
+- **窗口**：~21:11（10-20）→ ~09:09（10-21）
+- **负责**：Grok 白天玩法雷达（routine awesome-3）
+- **方法**：公开 X `search_posts_all`（中英 + url:github.com，start 2026-10-20T13:00Z）+ GitHub API created/pushed≥2026-10-19 + WebSearch；相对 README + `inbox/candidates.md` + 近窗推荐去重。Mac `~/Documents` 本轮 Interrupted system call，正文先在 box 临时仓写好再投
+- **红线**：无 key / 营收 / 内部路径 / 隐私；未 star / fork；未改 README；个人参考不点名
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| senscho/grok-codex-bridge-public | https://github.com/senscho/grok-codex-bridge-public | **Grok Bot↔本机 Codex 持久桥**：把重活丢到 Mac 上的 Codex，留额度给 Bot；`BOT_INSTALL.md` 一键自检到冒烟，审批/接管走终端，webhook 回写进度。最值得看 | Skills / Multi-bot | `codex` `bridge` `mcp` `quota` `mit` | 0 / MIT | **X** @SiliconPhd + **GitHub**（10-20 建） |
+| plastic-labs/honcho（integrations/cursor） | https://github.com/plastic-labs/honcho/tree/main/integrations/cursor | **账号级共享记忆**：粘一段让 Bot 接 Honcho MCP，偏好与对话跨 Bot/跨机器续上；一人对多 Bot 像同一人。⚠️ AGPL-3.0，收录短评须写清协议 | Multi-bot / Memory | `memory` `mcp` `multi-bot` `agpl-3.0` | 7712 / AGPL-3.0 | **X** @honchodotdev（16 收藏） |
+| KhairallahA/agent-autosave | https://github.com/KhairallahA/agent-autosave | 可移植 `.autosave/`：把当前编码 Agent 进度交给下一个（Claude Code/Codex/Cursor/OpenCode 等）；作者说丢给 Grok Bot 也能接。跨 Agent 交接配方 | Skills / Multi-bot | `handoff` `autosave` `multi-agent` `apache-2.0` | 1 / Apache-2.0 | **X** @eng_khairallah1 + **GitHub**（10-20 建） |
+| naoiseirwin/strava-grokbot-bridge | https://github.com/naoiseirwin/strava-grokbot-bridge | Strava MCP，跑在用户云电脑上，让 Grok Bot 读运动数据。生活向连接器范例 | Skills / Connectors | `strava` `mcp` `connector` `mit` | 0 / MIT | **X** @naoise + **GitHub**（10-20 建） |
+| nolangz/pixel2motion | https://github.com/nolangz/pixel2motion | Logo 动效 skill：栅格→平滑 SVG 动画/HTML demo/GIF 预览+动效 QA；中文帖演示丢给 Grok Bot 一键出片。★高可复用 skill | Skills / Creative | `skill` `logo` `animation` `svg` `mit` | 2457 / MIT | **X** @zhiwehu + **GitHub** |
+| migasrias2/geckobox | https://github.com/migasrias2/geckobox | 本机多机 SSH 舰队：Claude Code/Codex 等在任意电脑上跑、任务一次性分发；无中继、MIT。可作「本机多机」对照（非云端 Bot） | Alternatives / Multi-bot | `fleet` `ssh` `claude-code` `codex` `mit` | 14 / MIT | **GitHub**（10-20 新建） |
+
+### 玩法 / 信号（无强仓或待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 5 Bot 产品接力模板 | https://x.ai/bot/ccZyuYxIiO5yfaTG-EfRZ （帖 https://x.com/Suchuanyi/status/2112708161631039591 ） | 中文：Scout→Iris→Atlas→Quill→Forge 共享文件夹接力，四个关口需人点头；装 Atlas 一个会建齐其余。模板链可作 Multi-bot Learning | Multi-bot / Chinese | **X** @Suchuanyi |
+| bostonaholic/grokbot-skills | https://github.com/bostonaholic/grokbot-skills | SKILL.md 配方仓 + 粘贴安装句；无 LICENSE，先观 | Skills / Maybe | **GitHub**（10-20 建） |
+| 三 Bot 一人公司提示词 | https://x.com/eng_khairallah1/status/2112627106719080623 | Scout 读 / Builder 写稿 / Closer 夜巡卡住任务；粘贴即建。无独立仓，作 Learning | Multi-bot / Learning | **X** @eng_khairallah1（301 收藏） |
+
+### Maybe / Skip（~09:09）
+
+| 名称 | 链接 | 原因 |
+|------|------|------|
+| cobusgreyling/grok-bot-templates、bcharleson/grokbot-for-gtm | （README 已收） | 不重复 |
+| echris6/grokbot-templates、igor-olikh/grok-bot-usage | （上轮信号） | 已列 |
+| arsiktech/hermes-draft-cards | https://github.com/arsiktech/hermes-draft-cards | Hermes 桌面草稿卡，非 Grok Bot 主线 |
+| cgatlin08/gmg-ai-agent-for-servicenow | https://github.com/cgatlin08/gmg-ai-agent-for-servicenow | 用 Cursor+Grok Bot 做的 ServiceNow 产品，非 Bot 玩法 |
+| Trading-Crew / Midnight-GrokBot-Agent / grokbot-screensaver | （多） | 交易/Web3/屏保，偏离 |
+| Vinci-virtuoso/grokbot-skills、newgodev/grok-bot-portable | （多） | 空/极薄或无说明 |
