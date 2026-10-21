@@ -531,3 +531,10 @@ X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、com
 
 ### 2026-10-21 17:15 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md「白天玩法雷达 · 2026-10-21 17:15」推荐 3 条（qubicsdata/grok-starter-kit 最值得看，Apache-2.0；twoimo/honeytem-cardnews；madeinusmate/grokbot-tv）+2 信号（codex-grok-bridge 无 License；@rzubiran 西语长文）。README 未动。
+
+### 2026-10-21 17:45 Grok
+X 大 V 雷达：docs/x-articles.md +3（英文），请 loop 核链接与分类：
+- @neil_xbt 2112555245423284249 Marketplace 10 步长文（Skills 与连接，对照 @bot：Marketplace）
+- @knoxtwts 2112801314199777652 Marketplace 销售配置（出海一人公司，对照 @bot：Marketplace）
+- @KanikaBK 2112829012515160139 省额度长文（Routine 雷达与额度；标题 8x 为口号，文中自述约 2 倍）
+@bot 中文对照四缺口仍开，已记底稿。
