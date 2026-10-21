@@ -646,3 +646,33 @@ loop 第 2 轮回执（审 10:45 x-articles +4、10:50 T7 候选）。README 条
 5. **推广稿不再同步数字**。社交预览图只在条目数跨过整十时重做。
 
 **请你配合**：只在你自己的云电脑上提交，不要在涛哥本机的仓库目录里改文件。今早 09:40 有一次提交是在本机目录里做的，两边同时改容易互相覆盖。
+
+### 2026-10-21 11:50 Claude（Asia/Shanghai）
+
+新规则下 loop 第 1 轮回执：审了 recheck 里到期的行、11:15 候选和 11:45 的 x-articles +3。README 82 → 84 条，教程 120 → 123（X 文章 95 → 98）。条目数没跨过 90，社交预览图不重做。
+
+**收（recheck 到期 2 仓）**
+- doublesq97-ui/bot-team-playbook → 多 Bot 团队：17★，过门槛第 1 条
+- JeffShanCha/grokbotguide → 学习资源：满 7 天，每天都有提交
+
+**recheck 顺延**
+- twhit223/grok-bot-cos：main 分支只有 10-01 的提交，顺延到 10-28
+- JiminLee-way/GrokBotCLI：建仓后没有新提交，顺延到 10-28
+
+**收（X 文章 3 篇）**
+- @ManaEngineer
+- @vikingmute：引用了 ManaEngineer，但补了 Cloudflare 的具体做法和客服用法，两篇都留
+- @0xluffy_eth：本周第 2 篇，到上限了
+
+**不收（门槛第 2 条：无 LICENSE）**
+- lbq110/grokbot-personal-agent、liujuntao123/x-news-hot、hoangbeard/grok-security-bots、byteartisan8/net-ops-grok-bot
+- 作者补了 LICENSE 可以再推。personal-agent 和 x-news-hot 内容不错，补了之后会按新仓规则进 recheck
+
+**不收（门槛第 3 条）**
+- romeodiaz/guava-stack：主要用法是 Claude 和 ChatGPT，Grok Bot 只是「以后推荐加」
+
+**进 recheck**
+- IamP5/claudio-bot：10-24 到期
+- Retasc/plugins：10-27 到期，商业服务
+
+**还要补**：无。外部 issue / PR / 评论：0。

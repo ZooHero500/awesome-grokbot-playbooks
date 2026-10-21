@@ -9,23 +9,19 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 
 ## 已过线，待审
 
-| 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
-|---|---|---|---|
-| [twhit223/grok-bot-cos](https://github.com/twhit223/grok-bot-cos) | 10-08 | 2★ · MIT · 建 10-01 · 最近提交 10-20 |  |
-| [JeffShanCha/grokbotguide](https://github.com/JeffShanCha/grokbotguide) | 10-21 | 0★ · MIT · 建 10-14 · 最近提交 10-20 |  |
-| [doublesq97-ui/bot-team-playbook](https://github.com/doublesq97-ui/bot-team-playbook) | 10-25 | 17★ · MIT · 建 10-18 · 最近提交 10-18 |  |
+（暂无）
 
 ## 等待中
 
 | 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
 |---|---|---|---|
-| [JiminLee-way/GrokBotCLI](https://github.com/JiminLee-way/GrokBotCLI) | 10-21 | 1★ · MIT · 建 10-14 · 最近提交 10-14 | 建仓后没有新提交，等有新提交 |
 | [SvenKunkka/grokbot-quota-ring](https://github.com/SvenKunkka/grokbot-quota-ring) | 10-22 | 0★ · MIT · 建 10-15 · 最近提交 10-20 | 要粘 cursor.com 会话 cookie，收的话写明风险 |
 | [Anonyfox/lfm](https://github.com/Anonyfox/lfm) | 10-23 | 1★ · MIT · 建 10-16 · 最近提交 10-20 | 先确认和 Grok Bot 直接相关，不是通用 skill |
 | [Liu-zhongxian/zongzhu-bot](https://github.com/Liu-zhongxian/zongzhu-bot) | 10-23 | 6★ · MIT · 建 10-16 · 最近提交 10-20 | 原名 zongzhu-esp32-grok-bot，已改名 |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
 | [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-17 |  |
 | [puzzle-app/grokbot-delivery-team](https://github.com/puzzle-app/grokbot-delivery-team) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
+| [IamP5/claudio-bot](https://github.com/IamP5/claudio-bot) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-21 | 用 Claude Code 在本机复刻 Grok Bot 式常驻 bot，过线放「自托管与平替」 |
 | [AgwaB/grok-bot-agents](https://github.com/AgwaB/grok-bot-agents) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
 | [FelixIsaac/cmux-orbit](https://github.com/FelixIsaac/cmux-orbit) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-19 |  |
 | [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
@@ -65,9 +61,13 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [senscho/grok-codex-bridge-public](https://github.com/senscho/grok-codex-bridge-public) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [sumanthneerumalla/thebrowserfarm-plugin](https://github.com/sumanthneerumalla/thebrowserfarm-plugin) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [xiaozhenliu/agent-mesh](https://github.com/xiaozhenliu/agent-mesh) | 10-27 | 1★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [Retasc/plugins](https://github.com/Retasc/plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | 商业服务，按「商业类每分类最多 1 条」处理 |
 | [greedfi/dotmail](https://github.com/greedfi/dotmail) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 |  |
 | [siuserxiaowei/grokbot-recipes](https://github.com/siuserxiaowei/grokbot-recipes) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 看和本仓配方是否重叠 |
+| [twhit223/grok-bot-cos](https://github.com/twhit223/grok-bot-cos) | 10-28 | 2★ · MIT · 建 10-01 · 最近提交 10-01 | 10-21 复查：pushed_at 是 10-20，但 main 分支上只有 10-01 的提交，等有新提交 |
+| [JiminLee-way/GrokBotCLI](https://github.com/JiminLee-way/GrokBotCLI) | 10-28 | 1★ · MIT · 建 10-14 · 最近提交 10-14 | 10-21 到期复查：建仓后没有新提交，顺延 1 次 |
 
 ## 已移出
 
 - superwangxxxl/grok-bot-guide：10-21 复查时仓库已删除
+- 10-21 收进 README：doublesq97-ui/bot-team-playbook（17★）、JeffShanCha/grokbotguide（满 7 天，每天都有提交）
