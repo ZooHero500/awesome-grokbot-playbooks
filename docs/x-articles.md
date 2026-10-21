@@ -37,6 +37,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [我现在用 Grok Bot 干什么](https://x.com/fankaishuoai/status/2111407398237909098) — @fankaishuoai · 2026-10-17 · 邮件、私信、每日新闻、待办分派、便笺各一个 bot，重活回本机 Agent 做，讲清了云端多 bot 和本机分工的边界 · 中文
 - [Grok Bot 云端干轻活、Paseo 本地干重活，一人指挥两支 AI 队](https://x.com/fankaishuoai/status/2112031460492537904) — @fankaishuoai · 2026-10-19 · 两套并排开，Obsidian 看 AI 落盘的文档当本地知识库，语音小键盘派活；和同作者「我现在用 Grok Bot 干什么」一起看 · 中文
 - [DIY 云+端一体化 Agent 工作流：Grok Bot 定计划，本机 Agent 写代码再回审](https://x.com/fankaishuoai/status/2112211923626500585) — @fankaishuoai · 2026-10-19 · 云端 Engineer bot 和人定好计划，交给云电脑上的 Pi Agent + DeepSeek 写代码和测试，本机 Mac 上的模型再审一遍、把意见回传；复杂需求先在 bot 里出 PRD 再交本机实现、回 bot 验收，作者说能省不少套餐额度；同作者 Paseo 分工帖已收 · 中文
+- [【全文中译】被马斯克转发过的「如何用 Grok Bot 搭建一只内容团队」](https://x.com/Sukiea1008/status/2095130333536739825) — @Sukiea1008 · 2026-09-02 · X 长文：@ScottyBeamIO 原文的中文全译，先定三个内容支柱和三项检查，再拆 7 个各管一段的 bot、共享云电脑交接和排期发布，附实际提示词；约 370 收藏，今天又被中文作者引用推荐 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -58,6 +59,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [自有域名经 Cloudflare 转发到 Grok Bot 邮箱，最小化做个智能客服](https://x.com/vikingmute/status/2112735841634378175) — @vikingmute · 2026-10-21 · 在 CF 开 Email Routing，把 hey@/support@ 等地址都转到 bot 邮箱，产品咨询自动回、建议转工单、拿不准的留给自己；对应 @bot 邮箱别名能力，英文原帖见 @ManaEngineer · 中文
 - [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
 - [Grok Bot 从零到一夜建成：自动交易台完整搭建流程（中文复刻）](https://x.com/chenke20266/status/2112210289555046524) — @chenke20266 · 2026-10-19 · X 长文：按步骤搭「先拒绝、再花钱」的交易流水线，免费检查跑完才调 Grok，字段缺失即淘汰，第一周只开纸面交易、bot 不碰私钥；约 150 收藏，是搭建教程不是收益帖，涉及真钱务必自担风险 · 中文
+- [保姆级教程：用 EverOS Cloud 让 Grok Bot 和 Muse 共享记忆](https://x.com/jinglian/status/2112796802038804984) — @jinglian · 2026-10-21 · X 长文：注册 EverOS Cloud、复制记忆空间的 Agent Prompt 分别发给两个 Agent 即接通同一记忆库，任务前查上下文、任务后存 Case 再提炼成 Skill；X 盯盘交给 bot、准点任务交给另一个 Agent。⚠️ 偏产品推广，同期多帖引用，接入前看清记忆里存了什么 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -137,6 +139,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Own a domain? Forward it into your Grok Bot email](https://x.com/ManaEngineer/status/2112481479158587884) — @ManaEngineer · 2026-10-20 · 让 bot 自己在 Cloudflare 建免费转发地址，全落到 bot 邮箱，再按收件地址分给不同 bot（support 一个、私人一个）；700+ 赞、1200+ 收藏，对应 @bot 邮箱别名能力 · 英文
 - [Super Bot × HeyGen MCP: One-Click Videos](https://x.com/HeyGen/status/2112639914198352004) — @HeyGen · 2026-10-21 · X 长文：给 bot 接 HeyGen MCP，再设成 iPhone 动作按钮，按住说一句话，bot 写口播稿并用你的数字人和声音出片；对照 @bot：Action Button + 连接器（HeyGen 官方号的英文写法，中文保姆版仍缺） · 英文
 - [Drive Vault：云电脑空间满了自动挪到 Google Drive](https://x.com/XFreeze/status/2112794321502027812) — @XFreeze · 2026-10-21 · 公开模板：大文件任务中途磁盘告急时，把不再用的原始文件上传 Drive、逐个校验后再清理，任务不中断；成片也传 Drive 发链接，手机一点就下载 · 英文
+- [Triage Hound：用 Grok Bot 做漏洞线索分诊](https://x.com/anshuman_bh/status/2112799721626767778) — @anshuman_bh · 2026-10-21 · X 长文：安全研究员把漏洞线索交给 bot，让 Claude 和 Codex 互不看对方结论各审一遍，只留两边都确认的，再起草赏金报告并记台账越用越准；适合做安全和代码审查的人 · 英文
 
 ### 出海一人公司
 

@@ -512,3 +512,11 @@ X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、com
 
 ### 2026-10-21 15:10 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-21 15:10」，推荐 3 条（最值得看 Skybatan/family-book 家庭收支账本 bot 配方；另 iconnectgroupco/grokbot-skills、taasky/plugin）+3 信号（grokbot-watch、grok-bot-screensaver、@yuanliuwei 短视频工作室长文）。请核 License（family-book 无 License、grokbot-skills 混合授权）与商业属性后决定是否进 README。没动 README。
+
+### 2026-10-21 15:50 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者与分区：
+- 中文 · 多 Agent 作战室：@Sukiea1008 2095130333536739825（@ScottyBeamIO 内容团队长文全文中译，约 370 收藏；本轮最值得看。原帖 2090174525468033116 仓内未收，看是否另补英文原帖）
+- 中文 · Skills 与连接：@jinglian 2112796802038804984（EverOS Cloud 共享记忆保姆级教程，约 9.3k 粉；偏产品推广、同期多帖引用，已加 ⚠️，请判断是否保留）
+- 英文 · Skills 与连接：@anshuman_bh 2112799721626767778（Triage Hound 漏洞分诊 bot 长文，约 5.2k 粉，互动低但干货足）
+信号未收：@xiaoying_eth 10 场景清单（缺步骤）、@Brainrot_Labs 4 bot 比价设想（假设性）、@kenz4788 23 bots 长文（粉/互动未过线）、@yaohongan2025 53 模板已在 inbox。@bot 四缺口仍无合格中文对照。没动 README，也没碰 inbox/。
