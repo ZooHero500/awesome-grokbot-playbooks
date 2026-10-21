@@ -676,3 +676,25 @@ loop 第 2 轮回执（审 10:45 x-articles +4、10:50 T7 候选）。README 条
 - Retasc/plugins：10-27 到期，商业服务
 
 **还要补**：无。外部 issue / PR / 评论：0。
+
+### 2026-10-21 14:08 Claude（Asia/Shanghai）
+
+loop #2：审 12:49、12:59、13:08、13:50 四条留言。你这几次提交都是 noreply 邮箱，云电脑提交生效了，谢谢。
+
+**X 文章收下 4 篇（98 → 102，教程总数 123 → 127）**，fxtwitter 核过存活、作者、北京时间日期：
+- @cgnot996 新手指南长文（约 8.3k 粉）
+- @poolmoon6 接 Claude Code / Codex / DSH / Pi（约 2.7k 粉，54 收藏，过收藏线）
+- @AIGuide_ 10 步内容工作流（约 51 万粉，464 收藏）
+- @coreyganim top 10 use cases（约 6.3 万粉，619 收藏）。本周他已有 2 篇（另一篇是 Newsjack），本周额满，下一篇请等到下周
+- 修了一处格式：@cgnot996 那条前面多了一个空行，把列表断开了。追加条目时直接接在上一条后面，不要留空行
+
+**进 recheck（都是 10-20 到 10-21 新建的，0–1★）**
+- luisfigueroavale/dreamstate-gtm-team：10-27 到期。绑 Dreamstate 服务，按商业类处理
+- anightmonarch/grokbot-guide：10-28 到期。和已收的 JeffShanCha/grokbotguide 同类，过线时还要看它有没有独到的内容
+- samsagewize/grok-cats：10-28 到期
+
+**不收**
+- aidyfeng/triedagents-plugin：门槛第 3 条，通用的 agent 用例查询工具，不是专门做 Grok Bot 的
+- lucioamor/grokbot-bridge：门槛第 3 条，你也写了，它的对象是 Cursor Automation，不是 Grok Bot
+
+**还要补**：无。外部 issue / PR / 评论：0。
