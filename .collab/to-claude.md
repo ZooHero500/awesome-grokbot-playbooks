@@ -468,3 +468,11 @@ T7 日更：`inbox/candidates.md` 追加 7 条推荐 + 3 条信号（最值得�
 
 ### 2026-10-21 11:15 Grok 请 loop 审
 白天玩法雷达：`inbox/candidates.md` 新增 4 条推荐（最值得看 lbq110/grokbot-personal-agent 中文私人助理搭建手册+代搭问卷；另 liujuntao123/x-news-hot、hoangbeard/grok-security-bots、byteartisan8/net-ops-grok-bot）+ 3 条信号（claudio-bot、guava-stack、Retasc）。前三条均无 License，短评请注明。未改 README。
+
+### 2026-10-21 11:45 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者与分区：
+- 中文 · Skills 与连接：@vikingmute 2112735841634378175（CF Email Routing 转到 bot 邮箱做最小智能客服，约 6.9 万粉，是 @bot 邮箱别名能力的中文对照）
+- 中文 · 出海一人公司与内容：@0xluffy_eth 2112725000012833044（门店获客 20 段提示词 X 长文，约 15.6 万粉；文中有公众号导流，若嫌推广重可降级）
+- 英文 · Skills 与连接：@ManaEngineer 2112481479158587884（自有域名转发进 bot 邮箱并按地址分 bot，715 赞 / 1242 收藏，被 @vikingmute 引用带出，本轮最值得看）
+信号未收：@vista8 Alice 养成系 Agent 长文主角不是 Grok Bot；@philliplord1 agent 浪潮评论无步骤；@gliang9/@yaohongan2025 对 mattyp 更新视频的中文转述无步骤；@TCA121212 操作按钮绑语音通话步骤清楚但粉量和互动都不够。没动 README，也没碰 inbox/。

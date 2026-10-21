@@ -54,6 +54,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [在 Grok Bot 里用上 Codex CLI](https://x.com/0xlangeai/status/2097866244456333730) — @0xlangeai · 2026-09-10 · 让 bot 自己装 Codex、走设备授权登录、再约定什么场景交给 Codex，四步写清 · 中文
 - [把 Gemini 接进 Grok Bot 写文案](https://x.com/Pluvio9yte/status/2110295056796229927) — @Pluvio9yte · 2026-10-14 · bot 只当指挥，文案、口播稿交给外部模型写，额度花在别人那边 · 中文
 - [全网首发：把 Grok Bot 装进 ESP32](https://x.com/Liu_zhongxisn/status/2112118491239379227) — @Liu_zhongxisn · 2026-10-19 · X 长文：圆屏 ESP32 语音唤醒→Webhook→Bot 回字幕朗读的保姆级烧录与配网；作者约 1.2k 粉但收藏过百，硬件玩法入口 · 中文
+- [自有域名经 Cloudflare 转发到 Grok Bot 邮箱，最小化做个智能客服](https://x.com/vikingmute/status/2112735841634378175) — @vikingmute · 2026-10-21 · 在 CF 开 Email Routing，把 hey@/support@ 等地址都转到 bot 邮箱，产品咨询自动回、建议转工单、拿不准的留给自己；对应 @bot 邮箱别名能力，英文原帖见 @ManaEngineer · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -64,6 +65,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 Grok Bot 自动化提交外链：一天跑完 4000 多个站](https://x.com/sujingshen/status/2112061360708403397) — @sujingshen · 2026-10-19 · X 长文：用 bot 批量提交外链的完整流程，适合出海 SEO 获客；站点数为作者自述 · 中文
 - [推特万粉复盘：不到 2 个月涨到 1 万粉，附实操建议和模版](https://x.com/KinGao476942/status/2112198262661017812) — @KinGao476942 · 2026-10-19 · X 长文：按时间线复盘每天 6–10 条出摊、去大 V 评论区写有观点的回复、提前搭好「下载专家」bot 抢热点汉化视频、做「XXX 如何用好 Grok Bot」系列选题，文末附 4 个可一键导入的 Grok Bot 模版和橙皮书仓库；粉丝和阅读数为作者自述，文中有付费社群推荐 · 中文
 - [万粉路上的复盘：从三个月才千粉到一个来月接近万粉](https://x.com/0xlangeai/status/2112516355455066170) — @0xlangeai · 2026-10-20 · X 长文：拆爆款节点、停滞期、选题变化，以及围绕 Grok Bot 持续出内容的打法；作者近万粉，被多位中文作者引用转评，粉丝数为作者自述 · 中文
+- [20 段神级提示词，让 Grok Bot 帮你搞定门店获客](https://x.com/0xluffy_eth/status/2112725000012833044) — @0xluffy_eth · 2026-10-21 · X 长文：先喂一份业务资料 JSON，再按查同行类目、改门店资料、找关键词、补网站内容、做月报逐段派活，国内用高德/点评、海外用 Google 商家资料；要求区分实测与估计、对外改动先确认；文中有公众号和资料包导流 · 中文
 
 ## 英文精选
 
@@ -127,6 +129,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一个 Grok Bot 专门当 Claude Code 的入口](https://x.com/NixFred/status/2112159670890578329) — @NixFred · 2026-10-19 · 短帖：其他 bot 把任务交给它，它在 herdr 里找到对应的 Claude Code 会话把任务直接敲进去，人可随时旁观；合并和强推仍要本人批准；「一晚开 4 个 PR」为作者自述 · 英文
 - [How To Wire Jev Into Grok Bot: The Best Agent I've Built](https://x.com/0x_rody/status/2112558839589417355) — @0x_rody · 2026-10-20 · X 长文：加一个路由 skill，先只记录一周再放权、保留急停开关，key 走遮罩密钥流程不进聊天；依赖第三方 TypeSafe 的 Jev API（需自备 key），330+ 收藏 · 英文
 - [让 Bot 碰钱之前先定 6 条规矩](https://x.com/distortgeekin/status/2112536833636614655) — @distortgeekin · 2026-10-20 · 接券商/交易所前的护栏清单：子账户、单笔上限、只用现金、每单确认、日亏熔断、X 帖只当研究；不是收益帖 · 英文
+- [Own a domain? Forward it into your Grok Bot email](https://x.com/ManaEngineer/status/2112481479158587884) — @ManaEngineer · 2026-10-20 · 让 bot 自己在 Cloudflare 建免费转发地址，全落到 bot 邮箱，再按收件地址分给不同 bot（support 一个、私人一个）；700+ 赞、1200+ 收藏，对应 @bot 邮箱别名能力 · 英文
 
 ### 出海一人公司
 
