@@ -30,6 +30,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [花两千踩坑四大 Personal Agent，我用 3 个提示语把 33% 成功率救活了](https://x.com/aiwarts/status/2111812368972022217) — @aiwarts · 2026-10-18 · X 长文：Grok Bot、Muse、Dots、Cue 横测 12 个自媒体平台，作者自述只委托成功三分之一；附多任务进度表、Computer Use 采集「六道门」校验和融合日报三段提示语，日报落飞书再发邮件通知。文中对 Grok Bot 本机操控的判断是作者当时的体验 · 中文
 - [X 上 Grok Bot 必读文章合集：9 个分类，24 篇文章](https://x.com/0xlangeai/status/2111396742264742034) — @0xlangeai · 2026-10-17 · X 长文：把散在各作者时间线上的 24 篇文章按基础用法、IM 接入、额度订阅、内容创作、多 Bot 分工等 9 类整理成索引，找不到之前刷过的那篇时先翻这里；和本页部分重合；同作者的 Codex 接入长文已收 · 中文
 
+- [Grok Bot 新手指南：从跑通单任务到多 Bot 分工协作](https://x.com/cgnot996/status/2112761781080965416) — @cgnot996 · 2026-10-21 · X 长文：非官方中文学习站路线图，四步（跑通任务→磨合→固定触发器→组建团队）+ 四篇 25 章大纲，附 bot.fmcat.top；作者约八千粉，同作者 Clipper/学习站已在 inbox · 中文
+
 ## 中文 · 多 Agent 作战室
 
 - [用 Grok Bot 搭建自媒体团队：保姆级教程](https://x.com/AdrianPunk115/status/2097311704547987756) — @AdrianPunk115 · 2026-09-08 · X 长文：情报侦察 → 选题 → 主笔 → 事实编辑 → 人工发布 → 数据复盘，文件交接、群聊规则、发布留人手都写成了可验收的规则，和本仓作战室配方思路一致 · 中文
@@ -55,6 +57,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 Gemini 接进 Grok Bot 写文案](https://x.com/Pluvio9yte/status/2110295056796229927) — @Pluvio9yte · 2026-10-14 · bot 只当指挥，文案、口播稿交给外部模型写，额度花在别人那边 · 中文
 - [全网首发：把 Grok Bot 装进 ESP32](https://x.com/Liu_zhongxisn/status/2112118491239379227) — @Liu_zhongxisn · 2026-10-19 · X 长文：圆屏 ESP32 语音唤醒→Webhook→Bot 回字幕朗读的保姆级烧录与配网；作者约 1.2k 粉但收藏过百，硬件玩法入口 · 中文
 - [自有域名经 Cloudflare 转发到 Grok Bot 邮箱，最小化做个智能客服](https://x.com/vikingmute/status/2112735841634378175) — @vikingmute · 2026-10-21 · 在 CF 开 Email Routing，把 hey@/support@ 等地址都转到 bot 邮箱，产品咨询自动回、建议转工单、拿不准的留给自己；对应 @bot 邮箱别名能力，英文原帖见 @ManaEngineer · 中文
+- [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
 
 ## 中文 · 出海一人公司与内容
 
