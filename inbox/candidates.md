@@ -1344,3 +1344,28 @@ grokbot-wop-tracker（README 404）、grokbot-screensaver（上轮已 skip）、
 ### Skip（本轮）
 
 leadstream-mcp（商业获客连接器）、rss-feeds（与 Grok Bot 关系仅「自动更新」一句）、grokbot-roon-control（个人播放器控制）、pure-xml-rs、grok-Kelola-keuangan、空 README 个人仓若干。X 近 4 小时带 GitHub 链的 Grok Bot 帖 0 条。
+
+## 非 X 渠道 · 2026-10-21
+
+> 来源 dev.to / HN / Medium / V2EX / 掘金 / B 站；按标题摘要初筛，待 Claude 核正文。
+
+| 标题 | 链接 | 渠道 | 作者 | 短评 | 语言 | 分类 |
+|---|---|---|---|---|---|---|
+| Grok Bot Tutorial for Beginners: Build Your First AI Teammate | https://dev.to/arindam_1729/grok-bot-tutorial-for-beginners-build-your-first-ai-teammate-29jb | dev.to | arindam_1729 | 新手搭第一个 bot | en | 入门 |
+| Jobs I Would Let a Grok Bot Run After I Close the Laptop | https://dev.to/promptway/jobs-i-would-let-a-grok-bot-run-after-i-close-the-laptop-139p | dev.to | agnelnieves | 合盖后托管的任务清单 | en | Routines |
+| I Let Grok Bot Apply to Software Engineering Jobs While I Was Sleeping | https://dev.to/bobbyhalljr/i-let-grok-bot-apply-to-software-engineering-jobs-while-i-was-sleeping-n62 | dev.to | bobbyhalljr | 求职自动投递实录 | en | 案例 |
+| AI Agent 多代理人自動化開發實作：讓 Agents 夜巡 | https://dev.to/letswrite/ai-agent-duo-dai-li-ren-zi-dong-hua-kai-fa-shi-zuo-rang-agents-ye-xun-xie-zuo-kai-fa-svg-yuan-xing-lian-xian-gong-ju-5037 | dev.to | letswrite | 多 agent 夜巡协作开发 | zh-TW | 多 bot 协作 |
+| Grok Bot has its own email now. How to put it on your own domain | https://shipmail.to/blog/grok-bot-email-on-your-own-domain | HN | jcoulaud | 自有域名邮箱接 bot（作者有产品，需核软广） | en | 邮件 |
+| How Grok Bot Works | https://www.peterp.me/articles/what-actually-happens-when-you-message-grok-bot/ | HN | thegreatpeter | 消息到执行的原理拆解 | en | 原理 |
+| From Hermes to Grok Bot | https://chad.cm/posts/2026-10-6-from-hermes-to-grok-bot | HN | carimura | 迁移经验 | en | 经验 |
+| Running a Self-Healing Grok Bot Company | https://medium.com/git-connected/running-a-self-healing-grok-bot-company-e07171741a49 | Medium | 抓不到 | 自愈型多 bot 组织 | en | 多 bot 协作 |
+| 用 Grok Bot 在微信公众号挂号，差点导致微信被封 | https://www.v2ex.com/t/1250172 | V2EX | b309f3337 | 踩坑：风控 | zh | 踩坑 |
+| 给 GPT Dot 和 Grok Bot 接了座桥 | https://www.v2ex.com/t/1247898 | V2EX | bimeixishuai | 跨 agent 桥接 | zh | 集成 |
+| 用 Grok Bot 写了个旅行青蛙 | https://www.v2ex.com/t/1249970 | V2EX | Rogeryxx | 做小游戏实录 | zh | 案例 |
+| Grok Bot 从 0 到 1｜用云电脑和插件，搭一个能干活的 X 助手 | https://juejin.cn/post/7684649314158510114 | 掘金 | 小墨同学boy | 云电脑+插件搭 X 助手 | zh | 入门 |
+| 我 build 了一个 Grok Bot 帮我 7x24 运营我的 pstack 中文站 | https://juejin.cn/post/7694134378717986851 | 掘金 | 出发向未来 | 站点运营托管 | zh | 案例 |
+| Grok Bot 保姆级做视频教程 | https://juejin.cn/post/7694287070886297610 | 掘金 | XiaoLei_Liu | 一句话到成片 | zh | 内容生产 |
+| 【Grok Bot 仓颉实践】助手一次汇报七八条，我只批准一条往下做 | https://juejin.cn/post/7693358476032213002 | 掘金 | 猛犸象限 | 审批节奏经验（系列） | zh | 经验 |
+| 一小队 Grok Bot 怎么分工不抢答？（附可抄 prompt） | https://www.bilibili.com/video/BV1EtnP6AEm7 | B 站 | 泸州不窖你老叫 | 群规则+流水线配方 | zh | 多 bot 协作 |
+| Grok Bot 额度两天就用完？我的两个改进 | https://www.bilibili.com/video/BV1Menj62E4q | B 站 | KunKun的折腾手记 | 省额度 | zh | 踩坑 |
+

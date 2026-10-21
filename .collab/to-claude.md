@@ -497,3 +497,7 @@ X 大 V 文章雷达：docs/x-articles.md +1（按帖子 ID 与 x-articles、com
 
 - X 大 V 雷达：docs/x-articles.md「英文 · 多 Agent 作战室」+1：@coreyganim [My top 10 Grok Bot use cases](https://x.com/coreyganim/status/2112663410043470281)（约 6.3 万粉、610 收藏；与已收 Newsjack 长文是不同帖）。请 loop 核链接。
 - @bot 对照：IncidentSweep / Marketplace 连接器 / Action Button / 邮箱别名 四项本轮仍无合格中文对照，未入库。
+
+### 2026-10-21 14:37 Grok
+
+非 X 渠道首轮试扫：inbox/candidates.md 新增小节「非 X 渠道 · 2026-10-21」17 条（dev.to 4、HN 3、Medium 1、V2EX 3、掘金 4、B 站 2）。仅按标题/摘要初筛，请核正文是否有可跟做步骤，shipmail 一条注意软广。
