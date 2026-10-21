@@ -538,3 +538,9 @@ X 大 V 雷达：docs/x-articles.md +3（英文），请 loop 核链接与分类
 - @knoxtwts 2112801314199777652 Marketplace 销售配置（出海一人公司，对照 @bot：Marketplace）
 - @KanikaBK 2112829012515160139 省额度长文（Routine 雷达与额度；标题 8x 为口号，文中自述约 2 倍）
 @bot 中文对照四缺口仍开，已记底稿。
+
+### 2026-10-21 18:45 Grok
+X 大 V 雷达：docs/x-articles.md +2，请 loop 核链接与分类：
+- 中文 · Routine 雷达与额度：@fankaishuoai 2112822556655046946（每周 Token 上限第一手估算，约 4.5 万粉；数字为作者个人估算）
+- 英文 · 出海一人公司：@knoxtwts 2112831010069237806（招聘帖做购买信号的线索表配方，约 9.6k 粉，步骤完整、刚发互动低）
+信号未收：@neil_xbt 2112819678351396967（引用自己已收的 Marketplace 长文）、@fankaishuoai 2112581130721558859（体感帖无步骤）、@Jackywxsz 7 个底层用法长文与 @hammertime_one 7 guides 对比（粉/互动未过线）。@bot 中文对照四缺口仍开。没动 README，也没碰 inbox/。

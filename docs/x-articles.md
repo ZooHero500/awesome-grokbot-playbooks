@@ -46,6 +46,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [OpenRouter 免费模型接 Pi Agent，给 Grok Bot 当执行层](https://x.com/NFT_Chen/status/2108414543978533341) — @NFT_Chen · 2026-10-09 · 省额度思路：bot 只调度，免费模型干活。标题偏夸张，免费模型每天有调用次数上限，切模型要人确认 · 中文
 - [用 Grok Bot 把 24 小时 AI 新闻做成中文讲解视频](https://x.com/YuGuo936066/status/2112351377024225439) — @YuGuo936066 · 2026-10-20 · 流程写清：新闻聚合 → 去重挑 5–7 条 → 去 AI 腔 → 口播稿 / PPT → 约 90 秒视频再发帖；工具链点名 ai-news-radar、Humanizer-zh 和歸藏开源 skill，配音用 edge-tts · 中文
 - [Grok 网页、Grok Bot、Cursor 的额度是共用还是分开？](https://x.com/don_tech1/status/2112826145427403090) — @don_tech1 · 2026-10-21 · X 长文：讲清 The X Subscription 每周刷新的共用额度池覆盖哪些产品、去哪看用量，适合订阅新手先读再排 routine · 中文
+- [Grok Bot 套餐每周到底能烧多少 Token：第一手实测](https://x.com/fankaishuoai/status/2112822556655046946) — @fankaishuoai · 2026-10-21 · 按两天用掉的百分比和缓存命中率反推 100 美元档、200 美元档每周的 Token 上限，排 routine 前先估额度用；数字是作者个人估算 · 中文
 
 ## 中文 · Skills 与连接
 
@@ -160,6 +161,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 ---
 - [Grok Bot for PR: The Newsjack Bot That Gets You in the Press](https://x.com/coreyganim/status/2112577969617092879) — @coreyganim · 2026-10-21 · X 长文：专职 PR bot 装开源 Newsjack 技能，抓记者征稿需求、打分出 pitch，配 routine 和「三道闸」人工确认，台账记 CSV；首日数据为作者自述 · 英文
 - [How to build a top 1% Grok Bot sales setup tonight](https://x.com/knoxtwts/status/2112801314199777652) — @knoxtwts · 2026-10-21 · 从市场加 Outbound Prospecting，接 Gmail/日历，喂成交客户样本，首批跑完存成 skill，再配专职跟进 bot + 群聊交接，Auto-review 设「对外邮件先问我」，工作日 8 点 routine 出回复草稿 · 英文
+- [How to get faster and warmer lead lists from Grok Bot](https://x.com/knoxtwts/status/2112831010069237806) — @knoxtwts · 2026-10-21 · 用招聘帖当购买信号：接 Google Sheets 建 leads 表，让 bot 逐个打开职位和公司官网按规则筛、跳过已有行，人工审短名单，跑通后存成 skill 并设每周一 8 点 routine；同作者销售配置帖已收 · 英文
 
 ## 不收的例子
 
