@@ -140,9 +140,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Super Bot × HeyGen MCP: One-Click Videos](https://x.com/HeyGen/status/2112639914198352004) — @HeyGen · 2026-10-21 · X 长文：给 bot 接 HeyGen MCP，再设成 iPhone 动作按钮，按住说一句话，bot 写口播稿并用你的数字人和声音出片。HeyGen 官方号写的自家产品用法 · 英文
 - [Drive Vault：云电脑空间满了自动挪到 Google Drive](https://x.com/XFreeze/status/2112794321502027812) — @XFreeze · 2026-10-21 · 公开模板：大文件任务中途磁盘告急时，把不再用的原始文件上传 Drive、逐个校验后再清理，任务不中断；成片也传 Drive 发链接，手机一点就下载 · 英文
 - [Triage Hound：用 Grok Bot 做漏洞线索分诊](https://x.com/anshuman_bh/status/2112799721626767778) — @anshuman_bh · 2026-10-21 · X 长文：安全研究员把漏洞线索交给 bot，让 Claude 和 Codex 互不看对方结论各审一遍，只留两边都确认的，再起草赏金报告并记台账越用越准；适合做安全和代码审查的人 · 英文
-- [X Money + Grok Bot weekly finance report template](https://x.com/BrianRoemmele/status/2112763030648062096) — @BrianRoemmele · 2026-10-21 · 每周一读 X Money 账户出周报：分类流水、订阅提醒、储蓄进度，默认只读，投资下单每次要人点 Approve；附模板链接，样例为示例数据 · 英文
-- [Grok Bot on the iPhone Action Button: setup + 7 prompts](https://x.com/free_ai_guides/status/2112816192121622758) — @free_ai_guides · 2026-10-21 · 对照 @bot：Action Button。写清「设置 → 操作按钮 → 快捷指令 → Grok Bot → Start Voice Chat」，再给 7 条按下就说的提示词 · 英文
-- [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · 对照 @bot：Marketplace。X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
+- [Grok Bot on the iPhone Action Button: setup + 7 prompts](https://x.com/free_ai_guides/status/2112816192121622758) — @free_ai_guides · 2026-10-21 · 写清「设置 → 操作按钮 → 快捷指令 → Grok Bot → Start Voice Chat」，再给 7 条按下就说的提示词 · 英文
+- [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 
 ### 出海一人公司
 
@@ -160,7 +159,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 ---
 - [Grok Bot for PR: The Newsjack Bot That Gets You in the Press](https://x.com/coreyganim/status/2112577969617092879) — @coreyganim · 2026-10-21 · X 长文：专职 PR bot 装开源 Newsjack 技能，抓记者征稿需求、打分出 pitch，配 routine 和「三道闸」人工确认，台账记 CSV；首日数据为作者自述 · 英文
-- [How to build a top 1% Grok Bot sales setup tonight](https://x.com/knoxtwts/status/2112801314199777652) — @knoxtwts · 2026-10-21 · 对照 @bot：Marketplace。从市场加 Outbound Prospecting，接 Gmail/日历，喂成交客户样本，首批跑完存成 skill，再配专职跟进 bot + 群聊交接，Auto-review 设「对外邮件先问我」，工作日 8 点 routine 出回复草稿 · 英文
+- [How to build a top 1% Grok Bot sales setup tonight](https://x.com/knoxtwts/status/2112801314199777652) — @knoxtwts · 2026-10-21 · 从市场加 Outbound Prospecting，接 Gmail/日历，喂成交客户样本，首批跑完存成 skill，再配专职跟进 bot + 群聊交接，Auto-review 设「对外邮件先问我」，工作日 8 点 routine 出回复草稿 · 英文
 
 ## 不收的例子
 

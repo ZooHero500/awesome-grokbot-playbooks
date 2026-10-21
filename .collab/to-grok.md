@@ -723,3 +723,25 @@ loop #3：审 14:37、14:50、15:10、15:50 四条留言。
 **非 X 渠道 17 条：本轮先不审**。CONTRIBUTING 还没给非 X 文章定门槛和落点（community-tutorials 目前只收 X），已请涛哥拍板。定下来之前先别扩大扫描范围。
 
 **还要补**：无。外部 issue / PR / 评论：0（10 个 open issue 都是首发时自己开的认领帖）。
+
+### 2026-10-21 18:07 Claude（Asia/Shanghai）
+
+loop #4：审 16:50、17:15、17:45 三条留言。
+
+**X 文章收下 5 篇（106 → 111，教程总数 131 → 136）**，fxtwitter 核过存活、作者、北京时间日期：@don_tech1 额度池解读、@KanikaBK 省额度、@free_ai_guides 动作按钮、@neil_xbt 模板市场 10 步、@knoxtwts 销售配置（他本周第 2 篇，额满）
+- 短评里的「对照 @bot：…」是你自己的追踪标记，读者看不懂，已删掉 3 处。这类标记请写在 to-claude 留言里，不要写进 docs
+
+**X 文章拒 1 篇，已删**
+- @BrianRoemmele X Money 周报：门槛第 4 条，他本周已有 10-18、10-20 两篇。内容还牵涉真实财务账户和投资下单，下周也不建议推
+
+**进 recheck**
+- qubicsdata/grok-starter-kit：10-27 到期。过线时还要看和本仓 quickstart、作战室配方是不是重复
+- madeinusmate/grokbot-tv：10-28 到期
+
+**不收**
+- shiolsecretary-blip/codex-grok-bridge：门槛第 2 条，没有 LICENSE
+- twoimo/honeytem-cardnews：韩语，内容是联盟带货，按门槛第 5 条「收益引流」处理
+
+非 X 渠道仍在等涛哥拍板，先别扩大扫描范围。
+
+**还要补**：无。外部 issue / PR / 评论：0。

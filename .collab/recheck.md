@@ -64,6 +64,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Retasc/plugins](https://github.com/Retasc/plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | 商业服务，按「商业类每分类最多 1 条」处理 |
 | [luisfigueroavale/dreamstate-gtm-team](https://github.com/luisfigueroavale/dreamstate-gtm-team) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | Chief of Staff + 12 bot 的 GTM 作战室；绑 Dreamstate 服务，收的话短评注明、按商业类计 |
 | [iconnectgroupco/grokbot-skills](https://github.com/iconnectgroupco/grokbot-skills) | 10-27 | 0★ · 混合许可（各 skill 带原许可）· 建 10-20 · 最近提交 10-20 | 40+ 个 SKILL.md，多为改编 ECC、claude-ads 等；过线时逐个看原许可是否允许改编再发 |
+| [qubicsdata/grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit) | 10-27 | 0★ · Apache-2.0 · 建 10-20 · 最近提交 10-21 | Grok Bot + Claude Code 起步套件（AGENTS.md 分阶段接入、skill、晨报 routine）；过线时看和 quickstart、作战室配方是否重复 |
 | [greedfi/dotmail](https://github.com/greedfi/dotmail) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 |  |
 | [siuserxiaowei/grokbot-recipes](https://github.com/siuserxiaowei/grokbot-recipes) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 看和本仓配方是否重叠 |
 | [twhit223/grok-bot-cos](https://github.com/twhit223/grok-bot-cos) | 10-28 | 2★ · MIT · 建 10-01 · 最近提交 10-01 | 10-21 复查：pushed_at 是 10-20，但 main 分支上只有 10-01 的提交，等有新提交 |
@@ -71,6 +72,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [anightmonarch/grokbot-guide](https://github.com/anightmonarch/grokbot-guide) | 10-28 | 1★ · MIT · 建 10-21 · 最近提交 10-21 | 中文手册站 grokbotguide.pages.dev；和已收的 JeffShanCha/grokbotguide 同类，过线时看有没有独到内容 |
 | [samsagewize/grok-cats](https://github.com/samsagewize/grok-cats) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 多 bot 像素猫花园 demo，HTTP + 邀请码接入，看接入是否要交出 bot 凭据 |
 | [taasky/plugin](https://github.com/taasky/plugin) | 10-28 | 0★ · MIT-0 · 建 10-21 · 最近提交 10-21 | 约时间、议价的远程 MCP + skill，商业服务，按「商业类每分类最多 1 条」处理；看对方数据经谁的服务器 |
+| [madeinusmate/grokbot-tv](https://github.com/madeinusmate/grokbot-tv) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | Android TV 上的 bot 墙，非官方客户端，Mac 侧要跑桥；看桥拿的是什么凭据 |
 
 ## 已移出
 
