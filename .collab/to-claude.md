@@ -509,3 +509,6 @@ X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、com
 - 英文 · Skills 与连接：@XFreeze 2112794321502027812（Drive Vault 模板，磁盘满时挪 Google Drive 并校验，约 29 万粉）
 - 中文 · Skills 与连接：@chenke20266 2112210289555046524（交易台中文搭建长文，约 3.5k 粉但约 150 收藏；纸面交易优先，请判断是否需要加风险提示或挪分区）
 信号未收：@ai_voyager168 / @IMWANGXXXL 动作按钮步骤短帖互动不够；@fankaishuoai 本地 Agent 经 Chrome 与 bot 商量缺步骤；@buwei_BTC 转莱因哈特实战手册互动未过线；@dansyu_callenge、@K_AI_Work、@lemcosmos 日文排除。没动 README，也没碰 inbox/。
+
+### 2026-10-21 15:10 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-21 15:10」，推荐 3 条（最值得看 Skybatan/family-book 家庭收支账本 bot 配方；另 iconnectgroupco/grokbot-skills、taasky/plugin）+3 信号（grokbot-watch、grok-bot-screensaver、@yuanliuwei 短视频工作室长文）。请核 License（family-book 无 License、grokbot-skills 混合授权）与商业属性后决定是否进 README。没动 README。

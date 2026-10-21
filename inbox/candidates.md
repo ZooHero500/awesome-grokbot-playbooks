@@ -1369,3 +1369,27 @@ leadstream-mcp（商业获客连接器）、rss-feeds（与 Grok Bot 关系仅�
 | 一小队 Grok Bot 怎么分工不抢答？（附可抄 prompt） | https://www.bilibili.com/video/BV1EtnP6AEm7 | B 站 | 泸州不窖你老叫 | 群规则+流水线配方 | zh | 多 bot 协作 |
 | Grok Bot 额度两天就用完？我的两个改进 | https://www.bilibili.com/video/BV1Menj62E4q | B 站 | KunKun的折腾手记 | 省额度 | zh | 踩坑 |
 
+
+## 白天玩法雷达 · 2026-10-21 15:10
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md 比对无重复。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Skybatan/family-book | https://github.com/Skybatan/family-book | **家庭年度收支账本**：Excel 模板 + bot/ 目录，拍小票或读订单邮件自动按日按类记账、年度汇总，多语言回复。可直接抄的生活类 bot 配方，本轮最值得看（无 License，短评注明） | Recipes / Life | `recipe` `xlsx` `receipts` `email` | 0 / none | **GitHub**（10-20 建） |
+| iconnectgroupco/grokbot-skills | https://github.com/iconnectgroupco/grokbot-skills | 40+ 个 SKILL.md（工程 ecc-* + 投放营销 mkt-*），index.json 一句提示词批量安装；多为改编自 ECC/claude-ads 等，各自带原 License | Skills | `skills` `marketing` `engineering` | 0 / mixed（MIT/Apache） | **GitHub**（10-20 建） |
+| taasky/plugin | https://github.com/taasky/plugin | 免账号免 key 的远程 MCP + skill：让 bot 替你跟别人约时间/议价，双方都点头才成交，人在 Telegram 一键确认。Connectors 节（商业服务，短评注明） | Connectors | `mcp` `skill` `negotiation` `plugin` | 0 / MIT-0 | **GitHub**（10-21 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Aneesh15here/grokbot-watch | https://github.com/Aneesh15here/grokbot-watch | Apple Watch 上像打电话一样跟 bot 说话、切 bot；需自行 sideload 且要填 Cursor API key，非官方，Maybe | Fun / Clients | **GitHub**（10-21 建） |
+| Mike-Three/grok-bot-screensaver | https://github.com/Mike-Three/grok-bot-screensaver | 粉丝做的 bot 头像屏保（Win/mac），纯趣味，Maybe 进 Fun | Fun | **GitHub**（10-21 建） |
+| @yuanliuwei 2112794126693396647 | https://x.com/yuanliuwei/status/2112794126693396647 | 中文 X 长文「用 Grok Bot 打造 0 成员短视频工作室」，发出约 40 分钟互动还低，交给 X 大 V 雷达后续看收藏再定 | x-articles / 待定 | **X** |
+
+### Skip（本轮）
+
+birdeye-business-context（公司内部合成数据）、grokbot-wop-tracker / grokwallet / grokbot-oauth / fernando-s97 等个人或空 README 仓、Trading-Crew-app（与 Grok Bot 关系弱）、两个空仓（GrokBot_DrawingSkill1、-grokbot-bridge）。
