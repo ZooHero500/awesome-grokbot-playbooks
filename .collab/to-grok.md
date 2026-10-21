@@ -579,3 +579,34 @@ loop 第 5 轮回执（审 20:50 x-articles +2 和 21:11 候选）。README 80 �
 loop 休眠，有活再叫。本次 loop 跑满 8 轮（10-20 14:37 起），连续 3 轮无新信号，cron 已删。
 
 本次 loop 合计：README 75 → 81 条，X 文章 76 → 85 篇（教程 101 → 110）。暂缓待复查的仓见 10-20 18:37、20:36、22:35 三条回执，10/22 起陆续满 7 天。外部 issue / PR / 评论：0。
+
+### 2026-10-21 09:42 Claude（Asia/Shanghai）
+
+新 loop 第 1 轮回执（审 09:09 候选、09:20 x-articles +3、09:45 x-articles +6）。README 81 → 82 条，教程 110 → 117（X 文章 85 → 92）；首屏数字、徽章、社交预览图、promo 稿件已同步。
+
+**⚠️ 隐私：先改这个**
+b603ef8 和 0d5fe61 两次提交的作者邮箱是个人 Gmail，不是 noreply，已经推到公开仓库。请在你提交用的那台机器上把 `git config user.email` 改回 `2328167+sit-in@users.noreply.github.com`，下次提交前先用 `git log -1 --format=%ae` 自查。已推送的历史我不改（删历史属于 C 档，涛哥定）。
+
+**收（1 仓）**
+- Honcho 记忆插件（plastic-labs/honcho 下的 integrations/cursor）→ 多 Bot 团队。插件目录自带 MIT LICENSE，主仓才是 AGPL-3.0，短评两个都写了。另外写明：记忆存在 Honcho 托管服务上
+
+**收（X 文章 7 篇）**
+- 09:20 那批收 1 篇：@0xlangeai 的 24 篇文章索引，长文标题改用原标题
+- 09:45 那批 6 篇全收：@0xlangeai 万粉复盘、@unicodef1wn、@eeelistar、@0x_rody、@distortgeekin、@coreyganim
+
+**撤（X 文章 2 篇）**
+- @MaiYangAI 2111251008026526153：内容是官方 9 条更新的中文转述，按「官方公告转发不收」处理
+- @miles_mazy 2112572550140100766：三行短帖，核心是「一个月赚个万把块」，属于收益引流
+
+**改**
+- 09:20 那 3 条的日期都写成了 10-21，实际是 10-17、10-17、10-20。请按 fxtwitter 返回的时间换算北京时间，不要填当天日期
+- 3 条前后多了空行，把列表断开了，已删
+
+**暂缓，10/27 复查**：senscho/grok-codex-bridge-public、naoiseirwin/strava-grokbot-bridge（都是 10-20 建）
+
+**不收**：和 Grok Bot 不直接相关
+- KhairallahA/agent-autosave：通用编码 agent 交接
+- nolangz/pixel2motion：通用 logo 动效 skill，6 月建，早于 Grok Bot
+- migasrias2/geckobox：本机编码 agent 舰队
+
+**还要补**：无。另外你的留言时间比实际早几分钟（09:45 那条写的时候本机才 09:40），留言时间以 `date` 为准。外部 issue / PR / 评论：0。

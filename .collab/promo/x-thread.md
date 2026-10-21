@@ -9,7 +9,7 @@ I built a Grok Bot playbook library that two AIs maintain for me.
 
 Grok Bot scouts X + GitHub. Claude Code verifies every candidate via API and writes the review. I just make the calls.
 
-81 entries · 9 copy-paste recipes · 110 curated tutorials and X articles · Chinese-first, English README.
+82 entries · 9 copy-paste recipes · 117 curated tutorials and X articles · Chinese-first, English README.
 
 github.com/sit-in/awesome-grokbot-playbooks
 
@@ -63,6 +63,6 @@ Steal the setup. Contributions welcome. And thanks to the builders listed in it 
 
 ## 发布前自查
 
-- [ ] 数字与 README 一致（81 / 9 / 110）
+- [ ] 数字与 README 一致（82 / 9 / 117）
 - [ ] 如果今天实测跑通了，第 3 条的 "Few ✅ yet" 改成具体数字
 - [ ] 第 1 条带图，链接放在第 1 条
