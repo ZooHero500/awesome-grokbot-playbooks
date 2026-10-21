@@ -39,6 +39,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 云端干轻活、Paseo 本地干重活，一人指挥两支 AI 队](https://x.com/fankaishuoai/status/2112031460492537904) — @fankaishuoai · 2026-10-19 · 两套并排开，Obsidian 看 AI 落盘的文档当本地知识库，语音小键盘派活；和同作者「我现在用 Grok Bot 干什么」一起看 · 中文
 - [DIY 云+端一体化 Agent 工作流：Grok Bot 定计划，本机 Agent 写代码再回审](https://x.com/fankaishuoai/status/2112211923626500585) — @fankaishuoai · 2026-10-19 · 云端 Engineer bot 和人定好计划，交给云电脑上的 Pi Agent + DeepSeek 写代码和测试，本机 Mac 上的模型再审一遍、把意见回传；复杂需求先在 bot 里出 PRD 再交本机实现、回 bot 验收，作者说能省不少套餐额度；同作者 Paseo 分工帖已收 · 中文
 - [【全文中译】被马斯克转发过的「如何用 Grok Bot 搭建一只内容团队」](https://x.com/Sukiea1008/status/2095130333536739825) — @Sukiea1008 · 2026-09-02 · X 长文：@ScottyBeamIO 原文的中文全译，先定三个内容支柱和三项检查，再拆 7 个各管一段的 bot、共享云电脑交接和排期发布，附实际提示词；约 370 收藏，今天又被中文作者引用推荐 · 中文
+- [如何发挥 Grok Bot 的最强实力？拉开差距的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166) — @Jackywxsz · 2026-10-21 · X 长文：幕僚长入口 + 专职军团、产物强制落盘、知识库单向同步、Tailscale 移植配置、Skill 当 SOP、四级模型混调、Routine 自动触发；约 69 收藏 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -47,6 +48,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [OpenRouter 免费模型接 Pi Agent，给 Grok Bot 当执行层](https://x.com/NFT_Chen/status/2108414543978533341) — @NFT_Chen · 2026-10-09 · 省额度思路：bot 只调度，免费模型干活。标题偏夸张，免费模型每天有调用次数上限，切模型要人确认 · 中文
 - [用 Grok Bot 把 24 小时 AI 新闻做成中文讲解视频](https://x.com/YuGuo936066/status/2112351377024225439) — @YuGuo936066 · 2026-10-20 · 流程写清：新闻聚合 → 去重挑 5–7 条 → 去 AI 腔 → 口播稿 / PPT → 约 90 秒视频再发帖；工具链点名 ai-news-radar、Humanizer-zh 和歸藏开源 skill，配音用 edge-tts · 中文
 - [Grok 网页、Grok Bot、Cursor 的额度是共用还是分开？](https://x.com/don_tech1/status/2112826145427403090) — @don_tech1 · 2026-10-21 · X 长文：讲清 The X Subscription 每周刷新的共用额度池覆盖哪些产品、去哪看用量，适合订阅新手先读再排 routine · 中文
+- [我怎么让 Codex、Cursor、Grok、Claude 按额度长期一起干活](https://x.com/runes_leo/status/2112909109096058913) — @runes_leo · 2026-10-21 · X 长文：跨多订阅按周额度节奏派单，超速转派、只读与改代码分池、不确定不重发、发帖动钱要人点头；约 2.3 万粉 · 中文
 
 ## 中文 · Skills 与连接
 
@@ -62,6 +64,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [iPhone 操作按钮一键唤起 Grok Bot 语音：四步设置](https://x.com/cgnot996/status/2112328304170828230) — @cgnot996 · 2026-10-20 · 设置里搜「操作按钮」→ 快捷指令 → Grok Bot → 开始语音聊天，四步可跟做并配截图，作者约 8.9k 粉；同作者新手指南已收 · 中文
 - [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
 - [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
+- [实操教程｜把 Grok Bot 接进了微信：发一句话，它真的去干活](https://x.com/EvanWritesX/status/2111661828749373784) — @EvanWritesX · 2026-10-18 · X 长文：用 openclaw-weixin 自建桥接 + webhook 叫醒 bot 查邮箱/读网页再回微信，密钥走加密环境变量；约 2.3 万粉、66 收藏，路线不同于 KinGao/wx-bot · 中文
 
 ## 中文 · 出海一人公司与内容
 
