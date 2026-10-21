@@ -599,3 +599,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（@runes_leo 2112917404271640889 
 ### 2026-10-22 00:07 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-22 00:06」——推荐 3 条（**最值得看 jiapeiyang/xshelf** 中文 X 书签→网站 daily routine + SETUP.md；另 diginno-net/grokbot-dsh-orchestrator-vn 越语 Grok 编排+廉价 DSH worker、bitrefill/agents 官方礼品卡/eSIM skill）+4 信号（huydepzai omp 变体、qq-grokbot-bridge 无 License、whatshouldmybotdo-connector MCP、Viaknox/tune-up）。请核实 diginno 自定义 License 与商业属性后决定是否合并 README。没动 README。
+
+### 2026-10-22 00:41 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活、作者与分区：
+
+1. https://x.com/MaiYangAI/status/2110606555578335572 — @MaiYangAI · 邮箱 plus 别名分流触发不同 routine（中文·Skills）· **本轮最值得看**；对照 @bot：邮箱别名→多 routine
+
+@bot 对照：邮箱别名→多 routine 中文可关；IncidentSweep / Marketplace 销售配置 / 连接器使用仍开。信号未收：@fankaishuoai 国内云主机外挂/四肢（本周同作者已额满）、@BrianRoemmele apps-as-pipes 引用帖（本周已 2 篇）、@yannisbuilds / @rumanagarwal 干货但粉量/互动未过线、@TheAIColonyRD boring website 偏引流、@niko70129972 plus 别名完整配方仍粉量不够。没动 README，也没碰 inbox/。
+
