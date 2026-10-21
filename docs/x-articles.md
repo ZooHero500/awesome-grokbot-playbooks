@@ -67,6 +67,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [推特万粉复盘：不到 2 个月涨到 1 万粉，附实操建议和模版](https://x.com/KinGao476942/status/2112198262661017812) — @KinGao476942 · 2026-10-19 · X 长文：按时间线复盘每天 6–10 条出摊、去大 V 评论区写有观点的回复、提前搭好「下载专家」bot 抢热点汉化视频、做「XXX 如何用好 Grok Bot」系列选题，文末附 4 个可一键导入的 Grok Bot 模版和橙皮书仓库；粉丝和阅读数为作者自述，文中有付费社群推荐 · 中文
 
 - [两个 bot：学会做视频 + 闲鱼接定制](https://x.com/miles_mazy/status/2112572550140100766) — @miles_mazy · 2026-10-21 · 自媒体/接单向实操，双 bot 分工 · 中文
+- [万粉路上的复盘：从三个月才千粉到一个来月接近万粉](https://x.com/0xlangeai/status/2112516355455066170) — @0xlangeai · 2026-10-20 · X 长文：拆爆款节点、停滞期、选题变化，以及围绕 Grok Bot 持续出内容的打法；作者近万粉，被多位中文作者引用转评，粉丝数为作者自述 · 中文
 
 ## 英文精选
 
@@ -82,6 +83,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 替你打电话：7 段提示词](https://x.com/AIinPublic/status/2112484012984074583) — @AIinPublic · 2026-10-20 · 串帖：订位、约诊、比价询价、退款、改约、查库存、通话日志，每段都留了「先问我再答应」的确认点；开头「BREAKING NEWS」偏标题党，打电话能力以官方说明为准 · 英文
 - [Grok Bot Setup: Write the Contract, Not the Job Title](https://x.com/silentguyy66/status/2108957020187468171) — @silentguyy66 · 2026-10-11 · X 长文：description 别写岗位名，改写成「负责什么、用哪些来源、产出格式、审批边界、缺数据怎么办、绝不碰什么」六行合同；附任务五段式、skill 校验步骤、要不要拆第二个 bot 的清单和 routine 无数据规则，处处引官方文档；作者粉不多但约 230 收藏，今晚被大号引用翻红 · 英文
 - [How do always-on agents like @Bot work? 斯坦福 CS146S 讲座](https://x.com/leerob/status/2108650243365736855) — @leerob · 2026-10-10 · 约 45 分钟讲座视频，以 Grok Bot 为例讲常驻 agent 的内部结构、harness 和上下文工程，帖内附章节时间轴；作者约 30 万粉、9 千多收藏；是视频不是图文，想懂原理再看 · 英文
+- [Set Up Your Grok Bot Like the Team Does: 72 Hours of Their Livestreams + My Own Notes](https://x.com/unicodef1wn/status/2112574886421901822) — @unicodef1wn · 2026-10-21 · X 长文：把官方团队 72 小时直播浓缩成一条消息安装（Dr. Eggbot 导入）、7 个提示习惯、AGENTS.md 与权限规则、5 个 routine 和 5 条连接器规则、首周清单；约 200 收藏 · 英文
+- [Grok Bot A 到 Z 入门指南](https://x.com/eeelistar/status/2112528735127871960) — @eeelistar · 2026-10-20 · 约 6 万粉作者的完整上手指南，正文在 Substack · 英文
 
 ### 多 Agent 作战室
 
@@ -123,6 +126,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Hermes, Grok Bot, and Instinct know everything about me thanks to a portable memory I built](https://x.com/mgonto/status/2111986349511159912) — @mgonto · 2026-10-19 · X 长文：把人脉、笔记、项目上下文放进自己的 Markdown wiki，经 MCP 和 REST 接口给多个 Agent 共用，换工具不用重讲一遍 · 英文
 - [让 Grok Bot 打电话帮你订餐厅](https://x.com/BrianRoemmele/status/2111812467500458135) — @BrianRoemmele · 2026-10-18 · 可分享的单一用途 bot：先问清人数、时间和回拨号码，复述后等你确认才拨，结束后转述店家原话并可写进日历；电话靠第三方通话服务 ClawCall 接入，护栏是不报卡号、不留语音、一次一通；被 @elonmusk 引用后爆火，改几个词就能约理发、修车、比价 · 英文
 - [一个 Grok Bot 专门当 Claude Code 的入口](https://x.com/NixFred/status/2112159670890578329) — @NixFred · 2026-10-19 · 短帖：其他 bot 把任务交给它，它在 herdr 里找到对应的 Claude Code 会话把任务直接敲进去，人可随时旁观；合并和强推仍要本人批准；「一晚开 4 个 PR」为作者自述 · 英文
+- [How To Wire Jev Into Grok Bot: The Best Agent I've Built](https://x.com/0x_rody/status/2112558839589417355) — @0x_rody · 2026-10-20 · X 长文：加一个路由 skill，先只记录一周再放权、保留急停开关，key 走遮罩密钥流程不进聊天；依赖第三方 TypeSafe 的 Jev API（需自备 key），330+ 收藏 · 英文
+- [让 Bot 碰钱之前先定 6 条规矩](https://x.com/distortgeekin/status/2112536833636614655) — @distortgeekin · 2026-10-20 · 接券商/交易所前的护栏清单：子账户、单笔上限、只用现金、每单确认、日亏熔断、X 帖只当研究；不是收益帖 · 英文
 
 ### 出海一人公司
 
@@ -139,6 +144,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 Grok Bot 当生意合伙人：$30/月、零股份的用法汇总](https://x.com/AleiahLock/status/2112147410122129534) — @AleiahLock · 2026-10-19 · X 长文：把官方案例、工作坊和创始人公开分享汇成小生意用法清单（客服队列、砍供应商账单、客户需求转报价等），每个数字标出处、自述的另注，也写了会翻车的地方；同作者的官方工作坊要点已收在社区教程 · 英文
 
 ---
+- [Grok Bot for PR: The Newsjack Bot That Gets You in the Press](https://x.com/coreyganim/status/2112577969617092879) — @coreyganim · 2026-10-21 · X 长文：专职 PR bot 装开源 Newsjack 技能，抓记者征稿需求、打分出 pitch，配 routine 和「三道闸」人工确认，台账记 CSV；首日数据为作者自述 · 英文
 
 ## 不收的例子
 

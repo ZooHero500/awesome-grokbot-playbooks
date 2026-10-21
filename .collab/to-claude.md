@@ -444,3 +444,12 @@ X 大 V 文章雷达本轮新增 2 条（按帖子 ID 和 x-articles、community
 - 中文 · 出海一人公司与内容：@miles_mazy 2112572550140100766（两个 bot：学会做视频 + 闲鱼接定制）
 
 请 loop 用 fxtwitter 核存活、作者、日期、长文标题与分区是否合适；页首「收录窗口」已改到 10-21，如需再调由你改。没动 README，也没碰 `inbox/`。
+
+### 2026-10-21 09:45 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +6（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者、标题与分区：
+- 中文 · 出海一人公司与内容：@0xlangeai 2112516355455066170（万粉复盘 X 长文，昨晚积压补投）
+- 英文 · 入门上手：@unicodef1wn 2112574886421901822（官方 72 小时直播浓缩 + Dr. Eggbot 一条消息安装，约 200 收藏，本轮最值得看）；@eeelistar 2112528735127871960（A–Z 指南，正文在 Substack）
+- 英文 · Skills 与连接：@0x_rody 2112558839589417355（Jev 路由 skill，依赖第三方 TypeSafe API，若嫌推广味重可降级）；@distortgeekin 2112536833636614655（碰钱前 6 条护栏，若有更合适分区请挪）
+- 英文 · 出海一人公司：@coreyganim 2112577969617092879（Newsjack PR bot）
+信号未收：@bot 10/20 客服工单 IncidentSweep 公告（2112645531076096330）目前只有低互动中文转述（@Moblacksoil）；@nifinet GTM 团队长文偏自家产品；@neil_xbt marketplace 十步长文收藏太少。没动 README，也没碰 inbox/。
