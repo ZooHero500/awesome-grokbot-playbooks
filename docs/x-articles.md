@@ -45,6 +45,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 Grok Bot 做 AI 早报，留白处补原帖截图](https://x.com/liyue_ai/status/2108398163929510207) — @liyue_ai · 2026-10-09 · 早报 routine 的迭代：给每条解读配上原帖截图或视频，信息更完整 · 中文
 - [OpenRouter 免费模型接 Pi Agent，给 Grok Bot 当执行层](https://x.com/NFT_Chen/status/2108414543978533341) — @NFT_Chen · 2026-10-09 · 省额度思路：bot 只调度，免费模型干活。标题偏夸张，免费模型每天有调用次数上限，切模型要人确认 · 中文
 - [用 Grok Bot 把 24 小时 AI 新闻做成中文讲解视频](https://x.com/YuGuo936066/status/2112351377024225439) — @YuGuo936066 · 2026-10-20 · 流程写清：新闻聚合 → 去重挑 5–7 条 → 去 AI 腔 → 口播稿 / PPT → 约 90 秒视频再发帖；工具链点名 ai-news-radar、Humanizer-zh 和歸藏开源 skill，配音用 edge-tts · 中文
+- [Grok 网页、Grok Bot、Cursor 的额度是共用还是分开？](https://x.com/don_tech1/status/2112826145427403090) — @don_tech1 · 2026-10-21 · X 长文：讲清 The X Subscription 每周刷新的共用额度池覆盖哪些产品、去哪看用量，适合订阅新手先读再排 routine · 中文
 
 ## 中文 · Skills 与连接
 
@@ -138,6 +139,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Super Bot × HeyGen MCP: One-Click Videos](https://x.com/HeyGen/status/2112639914198352004) — @HeyGen · 2026-10-21 · X 长文：给 bot 接 HeyGen MCP，再设成 iPhone 动作按钮，按住说一句话，bot 写口播稿并用你的数字人和声音出片。HeyGen 官方号写的自家产品用法 · 英文
 - [Drive Vault：云电脑空间满了自动挪到 Google Drive](https://x.com/XFreeze/status/2112794321502027812) — @XFreeze · 2026-10-21 · 公开模板：大文件任务中途磁盘告急时，把不再用的原始文件上传 Drive、逐个校验后再清理，任务不中断；成片也传 Drive 发链接，手机一点就下载 · 英文
 - [Triage Hound：用 Grok Bot 做漏洞线索分诊](https://x.com/anshuman_bh/status/2112799721626767778) — @anshuman_bh · 2026-10-21 · X 长文：安全研究员把漏洞线索交给 bot，让 Claude 和 Codex 互不看对方结论各审一遍，只留两边都确认的，再起草赏金报告并记台账越用越准；适合做安全和代码审查的人 · 英文
+- [X Money + Grok Bot weekly finance report template](https://x.com/BrianRoemmele/status/2112763030648062096) — @BrianRoemmele · 2026-10-21 · 每周一读 X Money 账户出周报：分类流水、订阅提醒、储蓄进度，默认只读，投资下单每次要人点 Approve；附模板链接，样例为示例数据 · 英文
+- [Grok Bot on the iPhone Action Button: setup + 7 prompts](https://x.com/free_ai_guides/status/2112816192121622758) — @free_ai_guides · 2026-10-21 · 对照 @bot：Action Button。写清「设置 → 操作按钮 → 快捷指令 → Grok Bot → Start Voice Chat」，再给 7 条按下就说的提示词 · 英文
 
 ### 出海一人公司
 

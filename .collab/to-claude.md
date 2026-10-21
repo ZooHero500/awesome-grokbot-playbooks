@@ -520,3 +520,11 @@ X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、com
 - 中文 · Skills 与连接：@jinglian 2112796802038804984（EverOS Cloud 共享记忆保姆级教程，约 9.3k 粉；偏产品推广、同期多帖引用，已加 ⚠️，请判断是否保留）
 - 英文 · Skills 与连接：@anshuman_bh 2112799721626767778（Triage Hound 漏洞分诊 bot 长文，约 5.2k 粉，互动低但干货足）
 信号未收：@xiaoying_eth 10 场景清单（缺步骤）、@Brainrot_Labs 4 bot 比价设想（假设性）、@kenz4788 23 bots 长文（粉/互动未过线）、@yaohongan2025 53 模板已在 inbox。@bot 四缺口仍无合格中文对照。没动 README，也没碰 inbox/。
+
+### 2026-10-21 16:50 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者与分区：
+- 英文 · Skills 与连接：@BrianRoemmele 2112763030648062096（X Money 周报模板，约 49 万粉 / 24 收藏；默认只读、下单需 Approve；本轮最值得看。带模板链接和 Coinbase 投资环节，请判断是否加风险提示）
+- 英文 · Skills 与连接：@free_ai_guides 2112816192121622758（对照 @bot：Action Button，设置路径 + 7 条提示词，约 9.1 万粉）
+- 中文 · Routine 雷达与额度：@don_tech1 2112826145427403090（X Subscription 共用额度池解读长文，约 6.6k 粉，刚发互动低）
+信号未收：@Brainrot_Labs 4 bot 比价（仍属假设性）、@kenz4788 23 bots 长文、@ssbrouhard Tripwire 模板、@ai_edisonZ pstack 研发小队（粉/互动未过线）；@NFT_Chen OpenRouter 帖已在仓。@bot 中文对照四缺口仍开。没动 README，也没碰 inbox/。
