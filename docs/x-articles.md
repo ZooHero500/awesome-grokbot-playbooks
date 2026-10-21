@@ -124,6 +124,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [把收藏的 Instagram 视频做成离线 markdown 知识库](https://x.com/kevinrose/status/2101455244567973976) — @kevinrose · 2026-09-20 · 转录 + 视觉理解，按 wiki 风格建本地 .md，可搜可问 · 英文
 - [Content OS：把 Grok Bot 做成内容编辑台](https://x.com/minchoi/status/2100249139422330922) — @minchoi · 2026-09-16 · 公开模板：先学你的语气和交付偏好，再侦察、调研、写作、监控，产出可直接粘贴的稿件包 · 英文
+- [10 步搭一套 Grok Bot 内容工作流：发现→核源→多角度→周复盘](https://x.com/AIGuide_/status/2112604511533469980) — @AIGuide_ · 2026-10-21 · 长帖：合成多套公开配方（早间扫爆款、分 bot 核源选题、一源五角度、多账号差异化、按中位互动打分、周一周报、验证后再复用到外站），全程草稿+人工发布；约 51 万粉、400+ 收藏，本轮最值得看 · 英文
 - [How to Build from your Tesla, with Grok Bot as the Front Door](https://x.com/mikepat711/status/2104380789517344994) — @mikepat711 · 2026-09-28 · X 长文：在车里用语音让 Grok Bot 当入口，转给 Mac mini 上的其他模型干活，附模板；作者另一条 routine 已收 · 英文
 - [给 bot 起邮箱名的小建议](https://x.com/petergyang/status/2108624122339287335) — @petergyang · 2026-10-10 · 让 bot 当首席助理时，邮箱别用你自己的名字，用它的「职位名」，抄送和约时间才自然 · 英文
 - [How to build a Second Brain that actually does the work (Grok Bot full course)](https://x.com/Argona0x/status/2110045296902164532) — @Argona0x · 2026-10-14 · X 长文：7 章在 bot 的电脑上搭「第二大脑」，资料存文件不靠聊天记忆，夜里自动归档、早上给一页、周日回顾；收藏两千多 · 英文

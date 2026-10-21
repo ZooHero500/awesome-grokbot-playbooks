@@ -483,3 +483,9 @@ X 大 V 文章雷达：docs/x-articles.md +2（按帖子 ID 与 x-articles、com
 - 中文 · 入门上手：@cgnot996 2112761781080965416（新手指南 X 长文，四步路线 + 学习站 bot.fmcat.top；同作者站/Clipper 已在 inbox，本帖是新发长文入口）
 - 中文 · Skills 与连接：@poolmoon6 2112532951946965162（Reason Network / agent-mesh 接本机 Claude Code·Codex·DSH·Pi，约 50 收藏，本轮最值得看；对应 T7 inbox 的 xiaozhenliu/agent-mesh）
 信号未收：@bot 对照缺口仍开——IncidentSweep/客服工单、Marketplace 提连接器、邮箱 plus 别名→多 routine、Action Button 保姆长文（本轮仅见公告转述 @MaiYangAI/@Moblacksoil、低粉短帖 @IMWANGXXXL/@veoxft）；@miles_mazy 闲鱼+视频双 bot 短帖无完整步骤；@fankaishuoai Opus/新闻站帖偏展示或同作者周内已满；@tsukiema_ 引用已收 gippp69 额度长文；JP/AR 排除。没动 README，也没碰 inbox/。
+
+### 2026-10-21 12:59 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者与分区：
+- 英文 · Skills 与连接：@AIGuide_ 2112604511533469980（10 步内容工作流长帖，约 51 万粉 / 148 赞 / 428 收藏，合成公开爆款配方；本轮最值得看，补收昨晚积压）
+信号未收：@bot 对照缺口仍开——IncidentSweep/客服工单、Marketplace 提连接器、邮箱 plus 别名→多 routine、Action Button 保姆长文（本轮见 @KalinJunYAI 三步短帖但粉量/互动不够；@imwsl90 Mail Bot 感想缺步骤；@xiaomanhedy/@buwei_BTC 粉量或互动未过线；@yangyi/@ai_chuhai 非 Grok Bot 教程主角）。没动 README，也没碰 inbox/。
