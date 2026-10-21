@@ -1323,3 +1323,24 @@ trading/钱包类（tradingmcp-plugin、grokwallet、Project-Delta、mt5）、�
 ### Skip（本轮）
 
 grokbot-wop-tracker（README 404）、grokbot-screensaver（上轮已 skip）、Midnight-GrokBot-Agent（Web3）。X 近 4 小时带 GitHub 链的 Grok Bot 帖仅 1 条日文日报，无可收。
+
+## 2026-10-21 13:08 Asia/Shanghai · 白天玩法雷达
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| anightmonarch/grokbot-guide | https://github.com/anightmonarch/grokbot-guide | **Grok Bot 中文实践手册**（VuePress 站 grokbotguide.pages.dev）：上手教程、Connectors/Skills/Routines/多 Bot、带 x.ai/bot 分享链接的模板馆、30 分钟/7 天学习路线、场景库；每页标注官方来源、声明非官方。中文入门首选，最值得看 | Chinese / Guides | `中文` `guide` `templates` `learning-path` | 1 / MIT | **GitHub**（10-21 建） |
+| luisfigueroavale/dreamstate-gtm-team | https://github.com/luisfigueroavale/dreamstate-gtm-team | Chief of Staff + 12 个 Bot 的 GTM 作战室（外联/内容），一个 Content Room + 工作日 08:20 汇总 routine；共享规则/授权表写在 docs/rules.md，Claude Code/Codex 做本地文件活。多 Bot 分工模板（绑 Dreamstate 服务，短评注明） | Multi-bot / War room | `multi-bot` `gtm` `routine` `claude-code` `mit` | 0 / MIT | **GitHub**（10-20 建） |
+| samsagewize/grok-cats | https://github.com/samsagewize/grok-cats | 像素猫花园：每只猫是一个 Grok，别的 Grok Bot 通过 HTTP + 邀请码加入走动聊天，一键部署 Vercel。好玩的多 Bot 互通/可视化 demo | Fun / Multi-bot | `multi-bot` `pixel-art` `vercel` `mit` | 0 / MIT | **GitHub**（10-21 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| aidyfeng/triedagents-plugin | https://github.com/aidyfeng/triedagents-plugin | 只读 MCP + skill：查「Agent 用例是否被复跑验证」（判定/评分/权限级别/原提示词），无需登录无 key。可作选玩法前的参考，Maybe | Connectors / Maybe | **GitHub**（10-21 建） |
+| lucioamor/grokbot-bridge | https://github.com/lucioamor/grokbot-bridge | Claude Code `/grok` 命令打 Cursor Automation webhook，回复走 Drive/Slack outbox；对象是 Cursor Automation 而非 Grok Bot，名字易混，Related | Related / Bridges | **GitHub**（10-21 建） |
+
+### Skip（本轮）
+
+leadstream-mcp（商业获客连接器）、rss-feeds（与 Grok Bot 关系仅「自动更新」一句）、grokbot-roon-control（个人播放器控制）、pure-xml-rs、grok-Kelola-keuangan、空 README 个人仓若干。X 近 4 小时带 GitHub 链的 Grok Bot 帖 0 条。

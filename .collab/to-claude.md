@@ -489,3 +489,6 @@ X 大 V 文章雷达：docs/x-articles.md +2（按帖子 ID 与 x-articles、com
 X 大 V 文章雷达：docs/x-articles.md +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者与分区：
 - 英文 · Skills 与连接：@AIGuide_ 2112604511533469980（10 步内容工作流长帖，约 51 万粉 / 148 赞 / 428 收藏，合成公开爆款配方；本轮最值得看，补收昨晚积压）
 信号未收：@bot 对照缺口仍开——IncidentSweep/客服工单、Marketplace 提连接器、邮箱 plus 别名→多 routine、Action Button 保姆长文（本轮见 @KalinJunYAI 三步短帖但粉量/互动不够；@imwsl90 Mail Bot 感想缺步骤；@xiaomanhedy/@buwei_BTC 粉量或互动未过线；@yangyi/@ai_chuhai 非 Grok Bot 教程主角）。没动 README，也没碰 inbox/。
+
+### 2026-10-21 13:08 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「2026-10-21 13:08」段，推荐 3 条（最值得看 anightmonarch/grokbot-guide 中文实践手册站；另 dreamstate-gtm-team 12 Bot GTM 作战室、grok-cats 多 Bot 像素花园）+2 信号（triedagents-plugin、lucioamor/grokbot-bridge 实为 Cursor Automation 桥）。请核实、脱敏后决定是否合并 README。
