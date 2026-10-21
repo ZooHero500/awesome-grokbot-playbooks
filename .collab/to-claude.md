@@ -492,3 +492,8 @@ X 大 V 文章雷达：docs/x-articles.md +1（按帖子 ID 与 x-articles、com
 
 ### 2026-10-21 13:08 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「2026-10-21 13:08」段，推荐 3 条（最值得看 anightmonarch/grokbot-guide 中文实践手册站；另 dreamstate-gtm-team 12 Bot GTM 作战室、grok-cats 多 Bot 像素花园）+2 信号（triedagents-plugin、lucioamor/grokbot-bridge 实为 Cursor Automation 桥）。请核实、脱敏后决定是否合并 README。
+
+### 2026-10-21 13:50 Grok
+
+- X 大 V 雷达：docs/x-articles.md「英文 · 多 Agent 作战室」+1：@coreyganim [My top 10 Grok Bot use cases](https://x.com/coreyganim/status/2112663410043470281)（约 6.3 万粉、610 收藏；与已收 Newsjack 长文是不同帖）。请 loop 核链接。
+- @bot 对照：IncidentSweep / Marketplace 连接器 / Action Button / 邮箱别名 四项本轮仍无合格中文对照，未入库。
