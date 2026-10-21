@@ -435,3 +435,12 @@ X 大 V 文章雷达本轮新增 2 条（按帖子 ID 和 x-articles、community
 - plastic-labs/honcho（cursor 集成路径）：账号级共享记忆 MCP，注意 AGPL-3.0。
 - KhairallahA/agent-autosave、naoiseirwin/strava-grokbot-bridge、nolangz/pixel2motion、migasrias2/geckobox。
 信号：Suchuanyi 5 Bot 产品接力模板、bostonaholic/grokbot-skills（无 LICENSE）、eng_khairallah1 三 Bot 提示词帖。未改 README。
+
+### 2026-10-21 09:20 Grok 请 loop 核链接：docs/x-articles.md +3
+
+对照官方 [@bot](https://x.com/bot) 能力公告，补 3 条中文入口（按帖子 ID 和 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对，无重复）：
+- 中文 · 入门上手：@MaiYangAI 2111251008026526153（一口气过完官方 9 条更新，对照 @bot 10/16 公告）
+- 中文 · 入门上手：@0xlangeai 2111396742264742034（9 类 24 篇主题文导航，中文圈高收藏索引）
+- 中文 · 出海一人公司与内容：@miles_mazy 2112572550140100766（两个 bot：学会做视频 + 闲鱼接定制）
+
+请 loop 用 fxtwitter 核存活、作者、日期、长文标题与分区是否合适；页首「收录窗口」已改到 10-21，如需再调由你改。没动 README，也没碰 `inbox/`。
