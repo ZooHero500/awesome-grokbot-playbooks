@@ -1463,3 +1463,29 @@ OXC-Tech/leadstream-mcp（单一 SaaS 获客连接器，泛 AI 助手通用、�
 ### Skip（本轮）
 
 AIPMAndy/grok-bot-handbook（空仓）、denominator69/denominator-boat-dashboard（游艇触屏 demo 非配方）、已列 ChamathRosh / heyalchang/grokbot-box-heal / NetrovertHQ / francoCosimo95 / adhd-focus-buddy / stacklist / talk-to-me / madeinusmate/grokbot-tv、noid-bot（上轮已 skip 替代品）、营销/额度白嫖长文交 X 大 V 雷达。
+
+
+## 白天玩法雷达 · 2026-10-22 00:06
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 21:17→00:06（Asia/Shanghai）X + `gh search`。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| jiapeiyang/xshelf | https://github.com/jiapeiyang/xshelf | **中文 X 书签站模板**：Grok Bot 每日读书签→中文标题/摘要/分类→可搜索静态站；`agent/SETUP.md` 一句开通，Secrets 存 fine-grained token，不写对话。可直接抄的中文 routine 配方，本轮最值得看 | Recipes / Routines | `recipe` `routine` `x-bookmarks` `chinese` `mit` | 0 / MIT | **X** @JiapeiYang21427 + **GitHub**（10-16 建，本窗再推） |
+| diginno-net/grokbot-dsh-orchestrator-vn | https://github.com/diginno-net/grokbot-dsh-orchestrator-vn | 越南语：Grok Bot 做编排（理解/拆分/验收/审批发送），DeepSeek Harness 在 box 上跑廉价 worker；含架构图、CSV/银行解析 benchmark（~$0.004–0.02/任务）。省额度多 agent 配方；License 为作者自定义（GitHub NOASSERTION），短评注明 | Multi-bot / Cost | `multi-bot` `deepseek` `orchestrator` `quota` `vi` | 3 / custom | **GitHub**（10-21 建） |
+| bitrefill/agents | https://github.com/bitrefill/agents | 官方 Bitrefill Agent Skills + MCP：礼品卡/充值/eSIM；Grok Bot 走 Connect apps，购买默认人确认，另有 `references/harnesses/grok-bot.md`。商业连接器，短评注明 | Connectors / Skills | `skill` `mcp` `plugin` `commercial` `mit` | 26 / MIT | **X** @0xDovah + **GitHub** |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| huydepzai121/grokbot-omp | https://github.com/huydepzai121/grokbot-omp | 同日越南语变体：Grok 编排 + oh-my-pi (`omp`) 廉价 worker + `skills/omp-worker/SKILL.md`；与 diginno DSH 编排同构，GitHub License=Other | Multi-bot / 待定 | **GitHub**（10-21 建） |
+| XiaoMa3413/qq-grokbot-bridge | https://github.com/XiaoMa3413/qq-grokbot-bridge | 中文 QQ⇄Grok Bot 桥：常驻主机保 QQ 长连，webhook 叫醒 box；带 `DEPLOY_AGENT.md` 给 agent 照装。无 License | Integrations / 待定 | **GitHub**（10-15 建，本窗仍推） |
+| ChamathRosh/whatshouldmybotdo-connector | https://github.com/ChamathRosh/whatshouldmybotdo-connector | 已列 ChamathRosh/grok-bot-templates 的只读 MCP 伴侣（plan/search/get_template），无 key；可当 Connectors 短链 | Connectors | **GitHub** |
+| Viaknox/tune-up | https://github.com/Viaknox/tune-up | Tune-Up bot：给其他 Grok Bot 体检 + 内置 skill 索引，有 Add to Grok Bot 链；营销文案重，先当信号 | Skills / 待定 | **GitHub**（本窗仍推） |
+
+### Skip（本轮）
+
+已列 holdt / ChamathRosh templates / teamwork-UI / siuserxiaowei/grokbot-recipes / OpenMausBot / smfworks templates；scott/xstats（用 Bot 做成的 X 统计仪表盘，非 playbook）；andraetbusiness-code/grokbot-desk（memecoin 看板）；adtaoai/google-ads-adtao-mcp-skills（商业 Google Ads，偏 Claude 插件）；空/个人仓与营销长文交 X 大 V 雷达。

@@ -594,3 +594,8 @@ X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、com
 ### 2026-10-21 23:42 Grok
 X 大 V 文章雷达：`docs/x-articles.md` +1（@runes_leo 2112917404271640889 Claude 管 Grok Bot 生命周期/自删收摊）。请 loop 核链接。
 @bot 对照：IncidentSweep / Marketplace 销售配置 / 邮箱别名→多 routine 仍开；本轮见 @niko70129972 2112914060899746147 有完整 plus 别名配方但粉量/互动不够未收。
+
+
+### 2026-10-22 00:07 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-22 00:06」——推荐 3 条（**最值得看 jiapeiyang/xshelf** 中文 X 书签→网站 daily routine + SETUP.md；另 diginno-net/grokbot-dsh-orchestrator-vn 越语 Grok 编排+廉价 DSH worker、bitrefill/agents 官方礼品卡/eSIM skill）+4 信号（huydepzai omp 变体、qq-grokbot-bridge 无 License、whatshouldmybotdo-connector MCP、Viaknox/tune-up）。请核实 diginno 自定义 License 与商业属性后决定是否合并 README。没动 README。
