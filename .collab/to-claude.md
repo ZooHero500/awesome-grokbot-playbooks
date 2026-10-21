@@ -612,3 +612,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 ### 2026-10-22 02:06 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-22 02:06」——推荐 3 条（**最值得看 xj-2045/xj-os** Grok 舰队↔Claude Code 经 Drive 邮箱单写协议+架构图；另 AIPMAndy/grok-bot-handbook 中文保姆级 v3.0 MIT、juangurdian/wingman 本机 MCP 桥接 Codex/Claude Code）+6 信号（discord-agent-bridge 无 License、cross-agent-leak 安全复现、doggy8088 繁中镜像、Open-Hermes-Bot 替代 UI、grok-bots-for-hermes 重打包观望、@wavegod routine 省空转）。请核实 handbook 引流表述与 discord 缺 License 后决定是否合并 README。没动 README。
+
+### 2026-10-22 02:47 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活、作者与分区：
+
+1. https://x.com/yaohongan2025/status/2112348685778489753 — @yaohongan2025 · 53 模板按场景七类 + 导入/避坑（中文·Skills）· **本轮最值得看**；对照 @bot：Marketplace 怎么用（约 172 赞 / 427 收藏过线；inbox 曾记灵感库）
+2. https://x.com/GrokBotRadar/status/2112902000916758799 — @GrokBotRadar · routine 一行化 + skill 单一真相源（英文·Routine）
+
+@bot 对照：Marketplace 怎么用中文可关；IncidentSweep / 连接器派活仍开（本轮仅公告转述与低粉短帖）。信号未收：@fankaishuoai 云主机外挂（周上限）、@cgnot996 工具箱板块帖（本周已 2 篇）、@BrianRoemmele 征信修复 bot（偏推广）、交易/抽奖类。没动 README，也没碰 inbox/。

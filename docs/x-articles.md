@@ -5,7 +5,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 > 只收公开帖，短评为本仓观点，版权归原作者。帖内的数字（涨粉、线索数、流量倍数等）都是作者自述，本仓没有核实。
 > 收录标准：作者粉丝约 5k 以上，或帖子有明显互动（约 100 赞或 50 收藏以上），而且内容是教程、配方、真实配置或复盘。只收中英文，同一作者一周最多 2 篇。抽奖送码、代币、交易收益、收益引流、纯推广、官方公告的转发或转述都不收。完整规则见 [CONTRIBUTING](../CONTRIBUTING.md#收录门槛)。
 > 已经在 [社区教程精选](community-tutorials.md) 里的 25 篇这里不重复列，请两页一起看；本仓作者自己的教程见 [sitin 的教程索引](sitin-tutorials.md)。
-> 收录窗口：约 2026-09-07 至 2026-10-21，个别早期高收藏长文也收了。
+> 收录窗口：约 2026-09-07 至 2026-10-22，个别早期高收藏长文也收了。
 
 ## 目录
 
@@ -64,6 +64,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [自有域名经 Cloudflare 转发到 Grok Bot 邮箱，最小化做个智能客服](https://x.com/vikingmute/status/2112735841634378175) — @vikingmute · 2026-10-21 · 在 CF 开 Email Routing，把 hey@/support@ 等地址都转到 bot 邮箱，产品咨询自动回、建议转工单、拿不准的留给自己；对应 @bot 邮箱别名能力，英文原帖见 @ManaEngineer · 中文
 - [邮箱 plus 别名分流：不同来源触发不同 routine](https://x.com/MaiYangAI/status/2110606555578335572) — @MaiYangAI · 2026-10-15 · bot 自带邮箱支持 plus 别名，+newsletters/+receipts/+travel 分地址收信，再建只听某个别名的 routine 做摘要或整理账单；哪个别名开始收垃圾邮件就知道是谁泄露的；作者约 5k 粉 · 中文
 - [iPhone 操作按钮一键唤起 Grok Bot 语音：四步设置](https://x.com/cgnot996/status/2112328304170828230) — @cgnot996 · 2026-10-20 · 设置里搜「操作按钮」→ 快捷指令 → Grok Bot → 开始语音聊天，四步可跟做并配截图，作者约 8.9k 粉；同作者新手指南已收 · 中文
+- [别人把 Grok Bot 都调好了，53 个模板点一下就复制来用，我按场景分好了七类](https://x.com/yaohongan2025/status/2112348685778489753) — @yaohongan2025 · 2026-10-20 · 对照 @bot：Marketplace 怎么用；讲清 Add to Grok Bot→预览→Add Bot、密钥不随模板走，按七类筛了 53 个可装模板并点名描述里藏指令/下陌生代码的坑；作者约 0.8k 粉但约 172 赞 / 427 收藏 · 中文
 - [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
 - [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
 - [实操教程｜把 Grok Bot 接进了微信：发一句话，它真的去干活](https://x.com/EvanWritesX/status/2111661828749373784) — @EvanWritesX · 2026-10-18 · X 长文：用 openclaw-weixin 自建桥接 + webhook 叫醒 bot 查邮箱/读网页再回微信，密钥走加密环境变量；约 2.3 万粉、66 收藏，路线不同于 KinGao/wx-bot · 中文
@@ -132,6 +133,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [跑 16 个 bot 一天烧掉 75% 额度后，我怎么把用量砍下来](https://x.com/Zaardaar/status/2112388264430580104) — @Zaardaar · 2026-10-20 · 串帖：一岗一 bot、闲置几乎不费额度、routine 降频、批量提问、通用 bot 当老板同步规则、重活（浏览器/视频/长调研）只在划算时开；帖尾有付费 PDF 链接可忽略 · 英文
 - [每天扫 X 上冒充你的账号，附举报步骤并跟踪处理结果](https://x.com/TeslaAIBot/status/2112683025951535280) — @TeslaAIBot · 2026-10-21 · 模板：每日 routine 搜冒名账号，逐个发来主页和举报步骤，再记录每个已举报账号的处理进度；帖内附可一键导入的 x.ai/bot 模板链接，约十五万粉 · 英文
 - [How To Make Your Grok Bot Weekly Limit Last 8x Longer (Full Setup + Prompts)](https://x.com/KanikaBK/status/2112829012515160139) — @KanikaBK · 2026-10-21 · X 长文：先测再改，一任务一新会话、routine 放宽频率或换触发器、一事一 bot、连接器优先于浏览器，附可复制提示词和用量对照表；标题 8x 是作者口号，文中实测为作者自述约 2 倍 · 英文
+- [把 routine 指令收成一行，真正做法写进 skill](https://x.com/GrokBotRadar/status/2112902000916758799) — @GrokBotRadar · 2026-10-21 · 可复制提示：把 routine 长指令搬进 skill，routine 只留「run the skill end to end」；改一处全更新，避免日程和说明两处打架；作者约 9.5k 粉 · 英文
 
 ### Skills 与连接
 
