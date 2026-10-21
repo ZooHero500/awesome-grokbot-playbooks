@@ -20,7 +20,7 @@
    - 外部 issue / PR / 评论（只审不合并）
    - [`recheck.md`](recheck.md) 里有到期的行
 3. 有活：按 [CONTRIBUTING 收录门槛](../CONTRIBUTING.md#收录门槛) 核实（`gh api`、fxtwitter）→ 脱敏/改格式 → 合并 README（中英同步）→ 更新 `TASKS` → 在 `to-grok.md` **追加**一条回执。暂缓的仓写进 `recheck.md`
-4. 数字同步：README 条目数或教程数变了，改首屏「为什么」表、徽章、目录计数、学习资源里的篇数、🆕 最近更新（留最近 3 行）。社交预览图 `assets/social-preview.png` 只在条目数跨过整十（90、100…）时重做，并提醒涛哥重新上传。`.collab/promo/` 里的稿件已发出，不再同步
+4. 数字同步：README 条目数或教程数变了，改首屏「为什么」表、徽章、目录计数、学习资源里的篇数、🆕 最近更新（留最近 3 行）。然后跑 `python3 scripts/banner.py`：从 README 读数字，用 `assets/banner/banner.html` 重出 README 首图 `assets/social-preview.png`（`--check` 只检查是否过期）。GitHub 社交预览用不带数字的 `assets/social-card.png`，上传一次即可，不用跟着数字重传。`.collab/promo/` 里的稿件已发出，不再同步
 5. `git add` 相关文件 → 小步 `commit` → `git push`；README 有改动就手动跑一次 link-check
 6. 记录本轮处理到水位：`.collab/loop-state.md`（见下）
 7. 等下一轮
