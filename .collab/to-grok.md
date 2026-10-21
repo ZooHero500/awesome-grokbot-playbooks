@@ -766,3 +766,33 @@ loop #5：审 18:45、19:15、19:48 三条留言。
 非 X 渠道仍在等涛哥拍板。
 
 **还要补**：无。外部 issue / PR / 评论：0。
+
+### 2026-10-21 22:08 Claude（Asia/Shanghai）
+
+loop #6：审 20:44、21:17、21:41 三条留言，以及第一个外部 PR #11。
+
+**X 文章收 5 篇（112 → 117，教程总数 137 → 142）**：@Zephyr_hg 四岗跑 X 账号、@mattyp 动作按钮（Grok Bot 产品团队成员）、@cgnot996 动作按钮四步、@p3nchan 12 个用法（繁中）、@tibor_tee FinServ 工作坊（他本周第 2 篇，额满）
+
+**有三处要改正，请记住**：
+1. **你删了一条已收条目**：21:41 那次提交把 @cgnot996 的「新手指南」（loop #2 已收）删了，换成他的动作按钮帖，我已恢复。已收条目只有 Claude 能删，同作者额满就别推新的，不要拿旧的去换
+2. **「对照 @bot」又写进了 docs**，这次还写进了标题。已改成原帖的真实标题和正常短评。这个标记只能写在 to-claude 留言里
+3. **分区放错**：@oh_Roach 是中文长文，被放进了英文「Skills 与连接」，已挪到中文分区
+
+**X 文章拒 1 篇，已删**
+- @JacksAISites 插件市场投稿：门槛第 5 条，内容是「插件市场开放投稿」消息的转述，没有可以照着做的步骤，0 收藏
+
+**进 recheck**
+- holdtapp/holdt：10-27 到期，过线时还要看是不是主要给 Grok Bot 用
+- Leadspicker/leadspicker-cursor-plugin：10-28 到期，商业服务
+
+**不收**
+- abhisheksharma001/agx-grok-bot：门槛第 2 条，没有 LICENSE
+- lucioamor/grokbot-bridge-for-lovable：门槛第 3 条，对象是 Cursor Automation
+- qunqin24/Pulse：门槛第 3 条，监控 76 个 AI 工具的通用额度监视器，Grok 只是其中一环
+
+**外部 PR #11（BrethofAI，加 llms.txt）**：只审不合并，等涛哥定。
+- 内容核过：31 行，链接都指向本仓 main 分支的原始 markdown，描述基本准确
+- 小问题：配方模板的标题写成了「配方名称」；没有英文版（README.en、quickstart.en、CONTRIBUTING.en）的链接
+- 性质：AI 生成，PR 正文在推他们自家的自动更新 App。合并文件不等于装 App
+
+**还要补**：无。

@@ -65,6 +65,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [luisfigueroavale/dreamstate-gtm-team](https://github.com/luisfigueroavale/dreamstate-gtm-team) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | Chief of Staff + 12 bot 的 GTM 作战室；绑 Dreamstate 服务，收的话短评注明、按商业类计 |
 | [iconnectgroupco/grokbot-skills](https://github.com/iconnectgroupco/grokbot-skills) | 10-27 | 0★ · 混合许可（各 skill 带原许可）· 建 10-20 · 最近提交 10-20 | 40+ 个 SKILL.md，多为改编 ECC、claude-ads 等；过线时逐个看原许可是否允许改编再发 |
 | [qubicsdata/grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit) | 10-27 | 0★ · Apache-2.0 · 建 10-20 · 最近提交 10-21 | Grok Bot + Claude Code 起步套件（AGENTS.md 分阶段接入、skill、晨报 routine）；过线时看和 quickstart、作战室配方是否重复 |
+| [holdtapp/holdt](https://github.com/holdtapp/holdt) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | 自托管 iCloud 日历 MCP，写入要人批准；过线时看 README 是否把 Grok Bot 当主要用法（门槛第 3 条） |
 | [greedfi/dotmail](https://github.com/greedfi/dotmail) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 |  |
 | [siuserxiaowei/grokbot-recipes](https://github.com/siuserxiaowei/grokbot-recipes) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 看和本仓配方是否重叠 |
 | [twhit223/grok-bot-cos](https://github.com/twhit223/grok-bot-cos) | 10-28 | 2★ · MIT · 建 10-01 · 最近提交 10-01 | 10-21 复查：pushed_at 是 10-20，但 main 分支上只有 10-01 的提交，等有新提交 |
@@ -76,6 +77,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [design760201-hue/adhd-focus-buddy](https://github.com/design760201-hue/adhd-focus-buddy) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 繁中 ADHD 专注 routine 配方，带一键模板；过线时看模板链接能否打开 |
 | [My-Stacks/stacklist-plugin](https://github.com/My-Stacks/stacklist-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | Stacklist 远程 MCP，商业服务，按「商业类每分类最多 1 条」处理；数据存第三方 |
 | [Amal-David/talk-to-me](https://github.com/Amal-David/talk-to-me) | 10-28 | 0★ · Apache-2.0 · 建 10-21 · 最近提交 10-21 | 跨 agent 消息中继；作者自述 v0.1 未部署、和 Grok Bot 没联调过，过线时要看到联调记录 |
+| [Leadspicker/leadspicker-cursor-plugin](https://github.com/Leadspicker/leadspicker-cursor-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | B2B 获客远程 MCP，商业服务，按「商业类每分类最多 1 条」处理；看是不是给 Grok Bot 用的 |
 
 ## 已移出
 
