@@ -24,6 +24,19 @@ On-topic repos that miss rule 1 go into [`.collab/recheck.md`](.collab/recheck.m
 
 Dates use Beijing time and the original post date.
 
+### Community articles outside X ([community tutorials](docs/community-tutorials.md))
+
+Articles and videos on blogs, dev.to, Medium, HN, V2EX, Juejin, Bilibili and similar:
+
+1. **Public**: the text or video is readable without logging in or paying
+2. **Followable**: it has steps, configs, prompts or a real retrospective. Opinions, news and link-only lists are out. Videos need the key steps in the description, captions or a linked page
+3. **Chinese (simplified or traditional) or English only**
+4. **No disguised ads**: out if it mainly sells the author's own product or funnels readers elsewhere. If the author has a related product but the tutorial works without it, it can go in, marked "author-related"
+5. **No engagement threshold**, since numbers aren't comparable across platforms. At most 2 posts per author per week
+6. **The X exclusions apply too**: giveaways, tokens, trading gains, income bait, reposts or summaries of official announcements
+
+Dates use Beijing time and the original publish date.
+
 ## Entry format
 
 Each entry has a link, a short review and tags.

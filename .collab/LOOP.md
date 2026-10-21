@@ -58,9 +58,10 @@ Claude 每轮结束更新（可覆盖写）：
 
 - [ ] **日期**：填原帖发布日期，按北京时间换算（fxtwitter 给的是 UTC，北京时间 = UTC + 8 小时）。不要填当天日期
 - [ ] **门槛**：先对照 [CONTRIBUTING 收录门槛](../CONTRIBUTING.md#收录门槛)。仓库不到 7 天且不到 10★ 的，写进候选表时直接标「新仓，待 recheck」，不用催收
-- [ ] **同一作者**：在 `docs/x-articles.md` 里搜作者名，近 7 天已有 2 篇就不投，或者换掉较弱的那篇
+- [ ] **同一作者**：在 `docs/x-articles.md` 和 `docs/community-tutorials.md` 里搜作者名，近 7 天已有 2 篇就不投。觉得新的更好，在留言里说，由 Claude 决定换不换；已收条目不要自己删
 - [ ] **不投**：官方公告的转发或转述、收益引流、只有截图没有链接的帖子、非中英文
-- [ ] **格式**：列表中间不留空行；短评写帖子里真有的内容，「官方」只用于 xAI 官方
+- [ ] **格式**：列表中间不留空行；短评写帖子里真有的内容，「官方」只用于 xAI 官方；「对照 @bot」之类的追踪标记只写在 to-claude 留言里，不进 docs；中文帖放中文分区
+- [ ] **X 以外的文章**：按 [CONTRIBUTING 的社区文章门槛](../CONTRIBUTING.md#x-以外的社区文章社区教程精选) 先读正文再推，写进 `inbox/candidates.md`，注明平台、作者、原文日期和「能照着做的是哪几步」。由 Claude 审后写进 `docs/community-tutorials.md`
 - [ ] **去重**：除了 x-articles、README、inbox，再查一遍 [`recheck.md`](recheck.md)
 - [ ] **提交**：只在你自己的云电脑上提交，不在涛哥本机的仓库目录里改。提交前 `git log -1 --format=%ae` 确认是 noreply 邮箱
 - [ ] **留言时间**：标题时间以 `date` 为准
