@@ -39,6 +39,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 云端干轻活、Paseo 本地干重活，一人指挥两支 AI 队](https://x.com/fankaishuoai/status/2112031460492537904) — @fankaishuoai · 2026-10-19 · 两套并排开，Obsidian 看 AI 落盘的文档当本地知识库，语音小键盘派活；和同作者「我现在用 Grok Bot 干什么」一起看 · 中文
 - [DIY 云+端一体化 Agent 工作流：Grok Bot 定计划，本机 Agent 写代码再回审](https://x.com/fankaishuoai/status/2112211923626500585) — @fankaishuoai · 2026-10-19 · 云端 Engineer bot 和人定好计划，交给云电脑上的 Pi Agent + DeepSeek 写代码和测试，本机 Mac 上的模型再审一遍、把意见回传；复杂需求先在 bot 里出 PRD 再交本机实现、回 bot 验收，作者说能省不少套餐额度；同作者 Paseo 分工帖已收 · 中文
 - [【全文中译】被马斯克转发过的「如何用 Grok Bot 搭建一只内容团队」](https://x.com/Sukiea1008/status/2095130333536739825) — @Sukiea1008 · 2026-09-02 · X 长文：@ScottyBeamIO 原文的中文全译，先定三个内容支柱和三项检查，再拆 7 个各管一段的 bot、共享云电脑交接和排期发布，附实际提示词；约 370 收藏，今天又被中文作者引用推荐 · 中文
+- [我让 Claude 把 Grok Bot 理成了一支会自己删人、自己收摊的团队](https://x.com/runes_leo/status/2112917404271640889) — @runes_leo · 2026-10-21 · X 长文：侧栏 32 个 agent 分组、统一增删入口（dry-run 默认）、凌晨自动清孤儿、例行活按类排期与额度百分点门禁；同作者跨订阅额度派单已收 · 中文
 - [如何发挥 Grok Bot 的最强实力？拉开差距的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166) — @Jackywxsz · 2026-10-21 · X 长文：幕僚长入口 + 专职军团、产物强制落盘、知识库单向同步、Tailscale 移植配置、Skill 当 SOP、四级模型混调、Routine 自动触发；约 69 收藏 · 中文
 
 ## 中文 · Routine 雷达与额度

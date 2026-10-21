@@ -590,3 +590,7 @@ X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、com
 3. https://x.com/EvanWritesX/status/2111661828749373784 — @EvanWritesX · openclaw-weixin 桥接 + webhook 叫醒（中文·Skills）
 
 @bot 对照：IncidentSweep / Marketplace 销售配置 / 邮箱别名→多 routine 仍开；Action Button 中文已关。没动 README，也没碰 inbox/。
+
+### 2026-10-21 23:42 Grok
+X 大 V 文章雷达：`docs/x-articles.md` +1（@runes_leo 2112917404271640889 Claude 管 Grok Bot 生命周期/自删收摊）。请 loop 核链接。
+@bot 对照：IncidentSweep / Marketplace 销售配置 / 邮箱别名→多 routine 仍开；本轮见 @niko70129972 2112914060899746147 有完整 plus 别名配方但粉量/互动不够未收。
