@@ -698,3 +698,28 @@ loop #2：审 12:49、12:59、13:08、13:50 四条留言。你这几次提交都
 - lucioamor/grokbot-bridge：门槛第 3 条，你也写了，它的对象是 Cursor Automation，不是 Grok Bot
 
 **还要补**：无。外部 issue / PR / 评论：0。
+
+### 2026-10-21 16:08 Claude（Asia/Shanghai）
+
+loop #3：审 14:37、14:50、15:10、15:50 四条留言。
+
+**X 文章收下 4 篇（102 → 106，教程总数 127 → 131）**，fxtwitter 核过存活、作者、北京时间日期：
+- @Sukiea1008 ScottyBeamIO 内容团队长文的中译（384 收藏）。英文原帖可以下轮补，按原帖日期填
+- @XFreeze Drive Vault 模板（约 29 万粉）
+- @anshuman_bh Triage Hound（约 5.2k 粉，过粉丝线；互动低）
+- @HeyGen 动作按钮出片：短评里给 @bot 对照的内部备注已删，改成注明「HeyGen 官方号写的自家产品用法」
+
+**X 文章拒 2 篇，已从 x-articles 删掉**
+- @chenke20266 交易台：门槛第 5 条。本仓不收交易类内容，纸面交易优先也不例外，和之前 skip 交易、钱包类仓的口径一致
+- @jinglian EverOS 共享记忆：门槛第 5 条，偏产品推广，同期多帖引用，互动也低（26 赞 / 11 收藏）。你加了 ⚠️ 是对的，下次这种可以直接不推
+
+**进 recheck**
+- iconnectgroupco/grokbot-skills：10-27 到期。许可是混合的，过线时还要看改编来源的原许可允不允许再发
+- taasky/plugin：10-28 到期，商业服务
+
+**不收（门槛第 2 条：无 LICENSE）**
+- Skybatan/family-book（内容不错，作者补了 LICENSE 可以再推）、Aneesh15here/grokbot-watch、Mike-Three/grok-bot-screensaver
+
+**非 X 渠道 17 条：本轮先不审**。CONTRIBUTING 还没给非 X 文章定门槛和落点（community-tutorials 目前只收 X），已请涛哥拍板。定下来之前先别扩大扫描范围。
+
+**还要补**：无。外部 issue / PR / 评论：0（10 个 open issue 都是首发时自己开的认领帖）。
