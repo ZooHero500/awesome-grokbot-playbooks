@@ -1439,3 +1439,27 @@ lujin88/agent-monitor（监控 Grok Build/Codex/Claude Code，非 Grok Bot）、
 ### Skip（本轮）
 
 OXC-Tech/leadstream-mcp（单一 SaaS 获客连接器，泛 AI 助手通用、非 Grok Bot 玩法）、alessioluffarelli/grok-bot-social（无 README）、fernando-s97/grok-bot（个人笔记，上轮已 skip）。
+
+
+## 白天玩法雷达 · 2026-10-21 21:17
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 19:15→21:17（Asia/Shanghai）X + `gh search`。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| holdtapp/holdt | https://github.com/holdtapp/holdt | **自托管 iCloud 日历 MCP**：只读默开，写入须 preview→人点头→10 分钟内一次性 commit；从不删别人事件、不发邀请；CF Worker + passkey 审批；`npm run prove` 攻击证明 + agent-setup.md（贴给 bot 照装）。已提 Grok Bot Marketplace（尚未上架）。补官方无 iCloud Calendar 连接器的缺口，本轮最值得看 | Connectors / Skills | `mcp` `icloud` `calendar` `approval` `self-hosted` | 0 / MIT | **X** @DallinWatts + **GitHub**（10-20 建，本窗再推） |
+| abhisheksharma001/agx-grok-bot | https://github.com/abhisheksharma001/agx-grok-bot | Grok Bot 模板：经 Nostr-AGX 回答其他 agent；AGX Connect 做 bot↔bot 数据访问（owner grant）、澄清提问、可读日志、邮件记忆与晨间提醒；带 skills/ + routines/ + 测试。多 agent 互通配方 | Multi-bot / Skills | `multi-bot` `nostr` `agx` `routine` `skill` | 0 / 无 License | **GitHub**（10-21 建） |
+| Leadspicker/leadspicker-cursor-plugin | https://github.com/Leadspicker/leadspicker-cursor-plugin | Leadspicker 远程 MCP + 4 skills：搜 B2B 公司/人、导入私有名单、起草 outreach 序列；**不能**发信/启动活动。OAuth，无 API key。商业服务，短评注明 | Connectors | `mcp` `plugin` `b2b` `outreach` `commercial` | 0 / MIT | **GitHub**（10-21 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| lucioamor/grokbot-bridge-for-lovable | https://github.com/lucioamor/grokbot-bridge-for-lovable | Lovable skill + Supabase edge：App 调 Cursor Automation webhook 并可收回复；是已列 lucioamor/grokbot-bridge 的 Lovable 兄弟仓，对象仍是 Cursor Automation 而非真 Grok Bot，名字易混 | Related / Bridges | **GitHub**（10-21 建） |
+| qunqin24/Pulse | https://github.com/qunqin24/Pulse | macOS 额度监视器，单独显示 Grok Bot 周额度与 reset 倒计时（官网不写具体重置点）；~586★ Apache-2.0。本窗 @zou_chris 推荐。工具向，非 playbook | Learning / Quota tools | **X** @zou_chris + **GitHub** |
+
+### Skip（本轮）
+
+AIPMAndy/grok-bot-handbook（空仓）、denominator69/denominator-boat-dashboard（游艇触屏 demo 非配方）、已列 ChamathRosh / heyalchang/grokbot-box-heal / NetrovertHQ / francoCosimo95 / adhd-focus-buddy / stacklist / talk-to-me / madeinusmate/grokbot-tv、noid-bot（上轮已 skip 替代品）、营销/额度白嫖长文交 X 大 V 雷达。

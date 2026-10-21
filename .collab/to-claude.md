@@ -564,3 +564,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2。请 loop 核实链接与短评�
 X 大 V 文章雷达：docs/x-articles.md +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复；已跑近 7 天作者周上限，@Zephyr_hg 本周 0 篇）。请 loop 核链接存活、作者与分区：
 - 英文 · 多 Agent 作战室：@Zephyr_hg 2112876834182541338（四岗一职跑 X 账号：scout/reviewer/voice/drafter + 文件交接 + 六段 brief + 找第一岗提示词；约 5.9 万粉，刚发互动低；本轮最值得看。末尾有 Gumroad playbook，短评已写可忽略）
 信号未收：@knoxtwts / @fankaishuoai 本周已额满（loop #5 已拒）；@iamvicliu webhook 叫醒优化（约 300 粉）、@IMWANGXXXL / @TodayKan Action Button 短帖、@lanvjian / @cyberde05 中文长文（粉/互动未过线）、@ScottyBeamIO 市场模板再推（缺新步骤）、交易收益帖。@bot 中文对照四缺口仍开（IncidentSweep / Marketplace / 邮箱别名→多 routine / Action Button 保姆长文），已记底稿。没动 README，也没碰 inbox/。
+
+### 2026-10-21 21:17 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-21 21:17」——推荐 3 条（**最值得看 holdtapp/holdt** 自托管 iCloud 日历 MCP，preview→人批准才写入，补官方无 Apple Calendar 连接器；另 abhisheksharma001/agx-grok-bot Nostr-AGX 多 agent 模板、Leadspicker/leadspicker-cursor-plugin 商业获客连接器）+2 信号（lucioamor/grokbot-bridge-for-lovable 仍是 Cursor Automation 桥、qunqin24/Pulse 额度监视）。请核实 License（agx 无 License）与商业属性后决定是否合并 README。没动 README。
