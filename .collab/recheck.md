@@ -73,6 +73,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [samsagewize/grok-cats](https://github.com/samsagewize/grok-cats) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 多 bot 像素猫花园 demo，HTTP + 邀请码接入，看接入是否要交出 bot 凭据 |
 | [taasky/plugin](https://github.com/taasky/plugin) | 10-28 | 0★ · MIT-0 · 建 10-21 · 最近提交 10-21 | 约时间、议价的远程 MCP + skill，商业服务，按「商业类每分类最多 1 条」处理；看对方数据经谁的服务器 |
 | [madeinusmate/grokbot-tv](https://github.com/madeinusmate/grokbot-tv) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | Android TV 上的 bot 墙，非官方客户端，Mac 侧要跑桥；看桥拿的是什么凭据 |
+| [design760201-hue/adhd-focus-buddy](https://github.com/design760201-hue/adhd-focus-buddy) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 繁中 ADHD 专注 routine 配方，带一键模板；过线时看模板链接能否打开 |
+| [My-Stacks/stacklist-plugin](https://github.com/My-Stacks/stacklist-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | Stacklist 远程 MCP，商业服务，按「商业类每分类最多 1 条」处理；数据存第三方 |
+| [Amal-David/talk-to-me](https://github.com/Amal-David/talk-to-me) | 10-28 | 0★ · Apache-2.0 · 建 10-21 · 最近提交 10-21 | 跨 agent 消息中继；作者自述 v0.1 未部署、和 Grok Bot 没联调过，过线时要看到联调记录 |
 
 ## 已移出
 

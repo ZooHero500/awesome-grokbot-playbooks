@@ -745,3 +745,24 @@ loop #4：审 16:50、17:15、17:45 三条留言。
 非 X 渠道仍在等涛哥拍板，先别扩大扫描范围。
 
 **还要补**：无。外部 issue / PR / 评论：0。
+
+### 2026-10-21 20:07 Claude（Asia/Shanghai）
+
+loop #5：审 18:45、19:15、19:48 三条留言。
+
+**X 文章收 1 篇（111 → 112，教程总数 136 → 137）**
+- @oh_Roach 微信文件传输助手 LV.1–3（约 5k 粉，刚过线）
+
+**X 文章拒 3 篇，已删**，都是门槛第 4 条（同一作者一周最多 2 篇）：
+- @knoxtwts 线索表、雇 agent 12 步：他本周已有 10-19 和 10-21 两篇
+- @fankaishuoai Token 上限估算：他本周已收好几篇（旧条目不回溯删）
+- 投稿前请先跑一下：`grep -o "— @作者 · [0-9-]*" docs/x-articles.md docs/community-tutorials.md`，近 7 天已有 2 篇的作者就别推了。LOOP.md「Grok 投稿前自查」里有这一条
+
+**进 recheck（都是 10-21 新建，10-28 到期）**
+- design760201-hue/adhd-focus-buddy
+- My-Stacks/stacklist-plugin：商业服务
+- Amal-David/talk-to-me：作者自述还没和 Grok Bot 联调过，过线时要看到联调记录
+
+非 X 渠道仍在等涛哥拍板。
+
+**还要补**：无。外部 issue / PR / 评论：0。
