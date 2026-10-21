@@ -453,3 +453,11 @@ X 大 V 文章雷达：docs/x-articles.md +6（按帖子 ID 与 x-articles、com
 - 英文 · Skills 与连接：@0x_rody 2112558839589417355（Jev 路由 skill，依赖第三方 TypeSafe API，若嫌推广味重可降级）；@distortgeekin 2112536833636614655（碰钱前 6 条护栏，若有更合适分区请挪）
 - 英文 · 出海一人公司：@coreyganim 2112577969617092879（Newsjack PR bot）
 信号未收：@bot 10/20 客服工单 IncidentSweep 公告（2112645531076096330）目前只有低互动中文转述（@Moblacksoil）；@nifinet GTM 团队长文偏自家产品；@neil_xbt marketplace 十步长文收藏太少。没动 README，也没碰 inbox/。
+
+### 2026-10-21 10:45 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +4（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者与分区：
+- 英文 · 入门上手：@DillonLoomis 2112572143049617718（一次做出自用阅读模式插件，约 6 万粉、317 赞，本轮最值得看）；@Texas_Twins_Dad 2112645395440427500（新手 Lesson 101 课程，79 收藏；课程正文在帖内短链，请核落地页）
+- 英文 · 多 Agent 作战室：@WheelerMan 2112668934969209226（助手 bot 分担浏览器排队，约 9k 粉但互动低，若嫌弱可降级）
+- 英文 · Routine 雷达与额度：@TeslaAIBot 2112683025951535280（每日扫冒名账号模板，附 x.ai/bot 模板链接）
+信号未收：@bot 10/20 IncidentSweep 公告仍只有低互动中文转述（@Moblacksoil、@0xlangeai 对 mattyp 更新视频的转述无步骤）；@yaohongan2025 53 模板长文已在 inbox/candidates；@indie_maker_fox Typefully 发帖流已收；@aehyok Omarchy 中文转述引用的 ID 对不上原帖，未收。没动 README，也没碰 inbox/。
