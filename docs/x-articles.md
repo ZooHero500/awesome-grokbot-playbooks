@@ -144,6 +144,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot on the iPhone Action Button: setup + 7 prompts](https://x.com/free_ai_guides/status/2112816192121622758) — @free_ai_guides · 2026-10-21 · 写清「设置 → 操作按钮 → 快捷指令 → Grok Bot → Start Voice Chat」，再给 7 条按下就说的提示词 · 英文
 - [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 
+- [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
+
 ### 出海一人公司
 
 - [Grok Bot Engineering: Set Up a Harness for Your One-Person Company](https://x.com/beamnxw/status/2107143806546002398) — @beamnxw · 2026-10-06 · X 长文：给一人公司配一套 bot「脚手架」，把重复的准备和执行交出去，结构可直接抄 · 英文
@@ -162,6 +164,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot for PR: The Newsjack Bot That Gets You in the Press](https://x.com/coreyganim/status/2112577969617092879) — @coreyganim · 2026-10-21 · X 长文：专职 PR bot 装开源 Newsjack 技能，抓记者征稿需求、打分出 pitch，配 routine 和「三道闸」人工确认，台账记 CSV；首日数据为作者自述 · 英文
 - [How to build a top 1% Grok Bot sales setup tonight](https://x.com/knoxtwts/status/2112801314199777652) — @knoxtwts · 2026-10-21 · 从市场加 Outbound Prospecting，接 Gmail/日历，喂成交客户样本，首批跑完存成 skill，再配专职跟进 bot + 群聊交接，Auto-review 设「对外邮件先问我」，工作日 8 点 routine 出回复草稿 · 英文
 - [How to get faster and warmer lead lists from Grok Bot](https://x.com/knoxtwts/status/2112831010069237806) — @knoxtwts · 2026-10-21 · 用招聘帖当购买信号：接 Google Sheets 建 leads 表，让 bot 逐个打开职位和公司官网按规则筛、跳过已有行，人工审短名单，跑通后存成 skill 并设每周一 8 点 routine；同作者销售配置帖已收 · 英文
+
+- [if you learn to hire ai agents like you hire staff](https://x.com/knoxtwts/status/2112861964146008406) — @knoxtwts · 2026-10-21 · 12 步：写岗位广告→让 Grok Bot 像新员工一样面试你→交手册与只读权限→上周订单试跑存 skill→定时进测试表→写行动日志→周五复盘→平台内设消费上限→干净试跑后再切正式表；同作者销售/线索帖已收 · 英文
 
 ## 不收的例子
 
