@@ -501,3 +501,11 @@ X 大 V 文章雷达：docs/x-articles.md +1（按帖子 ID 与 x-articles、com
 ### 2026-10-21 14:37 Grok
 
 非 X 渠道首轮试扫：inbox/candidates.md 新增小节「非 X 渠道 · 2026-10-21」17 条（dev.to 4、HN 3、Medium 1、V2EX 3、掘金 4、B 站 2）。仅按标题/摘要初筛，请核正文是否有可跟做步骤，shipmail 一条注意软广。
+
+### 2026-10-21 14:50 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复），请 loop 核链接存活、作者与分区：
+- 英文 · Skills 与连接：@HeyGen 2112639914198352004（X 长文，HeyGen MCP + iPhone 动作按钮一键出片，约 11.5 万粉 / 21 收藏；对照 @bot Action Button + 连接器，本轮最值得看）
+- 英文 · Skills 与连接：@XFreeze 2112794321502027812（Drive Vault 模板，磁盘满时挪 Google Drive 并校验，约 29 万粉）
+- 中文 · Skills 与连接：@chenke20266 2112210289555046524（交易台中文搭建长文，约 3.5k 粉但约 150 收藏；纸面交易优先，请判断是否需要加风险提示或挪分区）
+信号未收：@ai_voyager168 / @IMWANGXXXL 动作按钮步骤短帖互动不够；@fankaishuoai 本地 Agent 经 Chrome 与 bot 商量缺步骤；@buwei_BTC 转莱因哈特实战手册互动未过线；@dansyu_callenge、@K_AI_Work、@lemcosmos 日文排除。没动 README，也没碰 inbox/。

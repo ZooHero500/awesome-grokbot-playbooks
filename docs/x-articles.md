@@ -57,6 +57,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [全网首发：把 Grok Bot 装进 ESP32](https://x.com/Liu_zhongxisn/status/2112118491239379227) — @Liu_zhongxisn · 2026-10-19 · X 长文：圆屏 ESP32 语音唤醒→Webhook→Bot 回字幕朗读的保姆级烧录与配网；作者约 1.2k 粉但收藏过百，硬件玩法入口 · 中文
 - [自有域名经 Cloudflare 转发到 Grok Bot 邮箱，最小化做个智能客服](https://x.com/vikingmute/status/2112735841634378175) — @vikingmute · 2026-10-21 · 在 CF 开 Email Routing，把 hey@/support@ 等地址都转到 bot 邮箱，产品咨询自动回、建议转工单、拿不准的留给自己；对应 @bot 邮箱别名能力，英文原帖见 @ManaEngineer · 中文
 - [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
+- [Grok Bot 从零到一夜建成：自动交易台完整搭建流程（中文复刻）](https://x.com/chenke20266/status/2112210289555046524) — @chenke20266 · 2026-10-19 · X 长文：按步骤搭「先拒绝、再花钱」的交易流水线，免费检查跑完才调 Grok，字段缺失即淘汰，第一周只开纸面交易、bot 不碰私钥；约 150 收藏，是搭建教程不是收益帖，涉及真钱务必自担风险 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -134,6 +135,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How To Wire Jev Into Grok Bot: The Best Agent I've Built](https://x.com/0x_rody/status/2112558839589417355) — @0x_rody · 2026-10-20 · X 长文：加一个路由 skill，先只记录一周再放权、保留急停开关，key 走遮罩密钥流程不进聊天；依赖第三方 TypeSafe 的 Jev API（需自备 key），330+ 收藏 · 英文
 - [让 Bot 碰钱之前先定 6 条规矩](https://x.com/distortgeekin/status/2112536833636614655) — @distortgeekin · 2026-10-20 · 接券商/交易所前的护栏清单：子账户、单笔上限、只用现金、每单确认、日亏熔断、X 帖只当研究；不是收益帖 · 英文
 - [Own a domain? Forward it into your Grok Bot email](https://x.com/ManaEngineer/status/2112481479158587884) — @ManaEngineer · 2026-10-20 · 让 bot 自己在 Cloudflare 建免费转发地址，全落到 bot 邮箱，再按收件地址分给不同 bot（support 一个、私人一个）；700+ 赞、1200+ 收藏，对应 @bot 邮箱别名能力 · 英文
+- [Super Bot × HeyGen MCP: One-Click Videos](https://x.com/HeyGen/status/2112639914198352004) — @HeyGen · 2026-10-21 · X 长文：给 bot 接 HeyGen MCP，再设成 iPhone 动作按钮，按住说一句话，bot 写口播稿并用你的数字人和声音出片；对照 @bot：Action Button + 连接器（HeyGen 官方号的英文写法，中文保姆版仍缺） · 英文
+- [Drive Vault：云电脑空间满了自动挪到 Google Drive](https://x.com/XFreeze/status/2112794321502027812) — @XFreeze · 2026-10-21 · 公开模板：大文件任务中途磁盘告急时，把不再用的原始文件上传 Drive、逐个校验后再清理，任务不中断；成片也传 Drive 发链接，手机一点就下载 · 英文
 
 ### 出海一人公司
 
