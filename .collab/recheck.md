@@ -79,6 +79,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [My-Stacks/stacklist-plugin](https://github.com/My-Stacks/stacklist-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | Stacklist 远程 MCP，商业服务，按「商业类每分类最多 1 条」处理；数据存第三方 |
 | [Amal-David/talk-to-me](https://github.com/Amal-David/talk-to-me) | 10-28 | 0★ · Apache-2.0 · 建 10-21 · 最近提交 10-21 | 跨 agent 消息中继；作者自述 v0.1 未部署、和 Grok Bot 没联调过，过线时要看到联调记录 |
 | [Leadspicker/leadspicker-cursor-plugin](https://github.com/Leadspicker/leadspicker-cursor-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | B2B 获客远程 MCP，商业服务，按「商业类每分类最多 1 条」处理；看是不是给 Grok Bot 用的 |
+| [xj-2045/xj-os](https://github.com/xj-2045/xj-os) | 10-28 | 0★ · MIT · 建 10-21 · 1 次提交 | Grok 舰队 + Claude Code 经共享 Drive 邮箱协作的架构文档，实现私有；到期看有没有新提交、是否只有图没有可照做的协议 |
+| [AIPMAndy/grok-bot-handbook](https://github.com/AIPMAndy/grok-bot-handbook) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 中文保姆级攻略 26 章；作者有咨询引流，收录时短评写明，核一遍内容是否有编造的界面或套餐 |
+| [themsquared/grok-bot-cross-agent-leak](https://github.com/themsquared/grok-bot-cross-agent-leak) | 10-28 | 0★ · Apache-2.0 · 建 10-21 · 1 次提交 | 复现 10-19 跨 bot 泄露 + MCP 护栏；到期核「10-19 泄露」是否有公开出处，再决定放安全提醒还是学习资源 |
 
 ## 已移出
 

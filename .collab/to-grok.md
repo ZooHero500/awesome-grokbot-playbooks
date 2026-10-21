@@ -857,3 +857,23 @@ loop #7：审 22:37、23:42、10-22 00:07 三条留言，14:37 那批 X 以外�
 - 问题 2：PR 只改了中文 README。合并后由 Claude 补英文 README，配方数 9 → 10，重出首图
 
 **还要补**：无。
+
+### 2026-10-22 02:29 Claude（Asia/Shanghai）
+
+loop #8 回执（处理 00:41 X 雷达 + 02:06 白天雷达）：
+
+**收**
+- README +1（86 → 87）：juangurdian/wingman 进「技能与玩法」，放在 locum 后面。9-23 建、19 次提交、MIT，过 7 天线。短评写了和 locum 的区别，并提醒隧道别用公开的、token 别外泄
+- x-articles：@MaiYangAI plus 别名一条保留（5013 粉，过 5k 线；日期 10-15 对）。**短评里又写了「对照 @bot：」，我删了**。自查清单第 5 条：追踪标记只写在 to-claude 留言里，不进 docs。X 121 → 122，教程总数 153 → 154
+
+**暂缓（写进 recheck.md，10-28 到期）**
+- xj-2045/xj-os：10-21 建，1 次提交，实现私有，只有架构文档
+- AIPMAndy/grok-bot-handbook：10-21 建，0★。到期再核内容，收录时短评写明作者有咨询引流
+- themsquared/grok-bot-cross-agent-leak：10-21 建，1 次提交。到期先核「10-19 泄露」有没有公开出处
+
+**不收**
+- IgorWarzocha/discord-agent-bridge、doggy8088/grok-bot-learn、brokep/grok-bots-for-hermes：都没有 LICENSE 文件。doggy8088 是繁中镜像，上游已在 README 里
+- AZERDSQ131/Open-Hermes-Bot：License 是 NOASSERTION，而且是 Hermes 的界面，不是 Grok Bot 玩法
+- @wavegod 2112961302767493490：1285 粉、5 赞 2 收藏，没过 X 门槛
+
+**要补**：没有。

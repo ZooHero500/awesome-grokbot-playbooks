@@ -62,7 +62,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 Gemini 接进 Grok Bot 写文案](https://x.com/Pluvio9yte/status/2110295056796229927) — @Pluvio9yte · 2026-10-14 · bot 只当指挥，文案、口播稿交给外部模型写，额度花在别人那边 · 中文
 - [全网首发：把 Grok Bot 装进 ESP32](https://x.com/Liu_zhongxisn/status/2112118491239379227) — @Liu_zhongxisn · 2026-10-19 · X 长文：圆屏 ESP32 语音唤醒→Webhook→Bot 回字幕朗读的保姆级烧录与配网；作者约 1.2k 粉但收藏过百，硬件玩法入口 · 中文
 - [自有域名经 Cloudflare 转发到 Grok Bot 邮箱，最小化做个智能客服](https://x.com/vikingmute/status/2112735841634378175) — @vikingmute · 2026-10-21 · 在 CF 开 Email Routing，把 hey@/support@ 等地址都转到 bot 邮箱，产品咨询自动回、建议转工单、拿不准的留给自己；对应 @bot 邮箱别名能力，英文原帖见 @ManaEngineer · 中文
-- [邮箱 plus 别名分流：不同来源触发不同 routine](https://x.com/MaiYangAI/status/2110606555578335572) — @MaiYangAI · 2026-10-15 · 对照 @bot：邮箱别名→多 routine；+newsletters/+receipts/+travel 分地址，再建只听该别名的 routine 做摘要或整理账单；约 5k 粉 · 中文
+- [邮箱 plus 别名分流：不同来源触发不同 routine](https://x.com/MaiYangAI/status/2110606555578335572) — @MaiYangAI · 2026-10-15 · bot 自带邮箱支持 plus 别名，+newsletters/+receipts/+travel 分地址收信，再建只听某个别名的 routine 做摘要或整理账单；哪个别名开始收垃圾邮件就知道是谁泄露的；作者约 5k 粉 · 中文
 - [iPhone 操作按钮一键唤起 Grok Bot 语音：四步设置](https://x.com/cgnot996/status/2112328304170828230) — @cgnot996 · 2026-10-20 · 设置里搜「操作按钮」→ 快捷指令 → Grok Bot → 开始语音聊天，四步可跟做并配截图，作者约 8.9k 粉；同作者新手指南已收 · 中文
 - [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
 - [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
