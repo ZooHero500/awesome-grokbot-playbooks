@@ -15,7 +15,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 
 | 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
 |---|---|---|---|
-| [SvenKunkka/grokbot-quota-ring](https://github.com/SvenKunkka/grokbot-quota-ring) | 10-22 | 0★ · MIT · 建 10-15 · 最近提交 10-20 | 要粘 cursor.com 会话 cookie，收的话写明风险 |
+| [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-23 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 中文 X 书签→静态站的 daily routine；建仓后还没有新提交，到期没新提交就顺延 |
 | [Anonyfox/lfm](https://github.com/Anonyfox/lfm) | 10-23 | 1★ · MIT · 建 10-16 · 最近提交 10-20 | 先确认和 Grok Bot 直接相关，不是通用 skill |
 | [Liu-zhongxian/zongzhu-bot](https://github.com/Liu-zhongxian/zongzhu-bot) | 10-23 | 6★ · MIT · 建 10-16 · 最近提交 10-20 | 原名 zongzhu-esp32-grok-bot，已改名 |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
@@ -36,6 +36,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [stland6338/ai-tool-inventory](https://github.com/stland6338/ai-tool-inventory) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
 | [vliuyt/grok-bot-esp32-bridge](https://github.com/vliuyt/grok-bot-esp32-bridge) | 10-25 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-21 |  |
 | [ChamathRosh/grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 | 6 个模板只有 1 个可装，看是否补齐 |
+| [ChamathRosh/whatshouldmybotdo-connector](https://github.com/ChamathRosh/whatshouldmybotdo-connector) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | grok-bot-templates 的只读 MCP 伴侣，和主仓一起看 |
 | [Gitmaxd/grok-bot-rocket-template](https://github.com/Gitmaxd/grok-bot-rocket-template) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-19 |  |
 | [PhillipHolland/imessage-relay](https://github.com/PhillipHolland/imessage-relay) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-20 |  |
 | [StefMVP/grokbot-exporter](https://github.com/StefMVP/grokbot-exporter) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 |  |
@@ -82,4 +83,5 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 ## 已移出
 
 - superwangxxxl/grok-bot-guide：10-21 复查时仓库已删除
+- 10-22 收进 README：SvenKunkka/grokbot-quota-ring（满 7 天，10-20 有新提交）
 - 10-21 收进 README：doublesq97-ui/bot-team-playbook（17★）、JeffShanCha/grokbotguide（满 7 天，每天都有提交）

@@ -811,3 +811,49 @@ loop #6：审 20:44、21:17、21:41 三条留言，以及第一个外部 PR #11�
 LOOP.md「Grok 投稿前自查」也改了两条：
 - 同作者额满就不投，已收条目不要自己删
 - 「对照 @bot」这类标记不进 docs
+
+### 2026-10-22 00:22 Claude（Asia/Shanghai）
+
+loop #7：审 22:37、23:42、10-22 00:07 三条留言，14:37 那批 X 以外渠道的 17 篇，recheck 到期的 1 行，以外部 PR #12。
+
+**README 收 2 条（84 → 86）**
+- SvenKunkka/grokbot-quota-ring：recheck 到期过线（满 7 天，10-20 有新提交），放进 Routine 与摘要。短评写明要交 cursor.com 登录 cookie、走的是未公开接口
+- Viaknox/tune-up：建仓 11 天、一直在提交，MIT，过线，放进技能与玩法。短评注明是品牌化项目、要读你其他 bot 的指令
+
+**X 文章收 4 篇（117 → 121）**：@runes_leo 两篇（他本周额满）、@Jackywxsz 7 个底层用法、@EvanWritesX 微信桥接
+
+**X 以外渠道（17 篇）：收 7、不收 6、存疑 4**
+- 收进 community-tutorials（25 → 32）：
+  - 掘金 4 篇：X 助手从 0 到 1、pstack 站运营复盘、做视频教程、仓颉实践
+  - dev.to 求职 agent 1 篇
+  - Let's Write 夜巡 1 篇：用原站 letswrite.tw 的链接
+  - B 站 KunKun 省额度 1 篇
+- 不收：
+  - shipmail：软广，每一步都要用作者的付费邮箱
+  - peterp：讲原理，没有能照着做的步骤
+  - chad.cm：迁移感想
+  - V2EX 三帖：踩坑短帖 / 只有仓库链接 / 只展示成品
+  - V2EX 那条桥接帖里的仓库 UnCooe/grok-dot-bridge，可以按 GitHub 流程单独推
+- 存疑，暂不收：
+  - dev.to arindam：步骤都在视频里，正文只有要点
+  - dev.to promptway：主要在给作者自家目录导流
+  - Medium 自愈公司：正文被拦，读不到
+  - B 站分工不抢答：prompt 包链接还是占位符「发前填」，置顶评论要登录才能看
+  - 作者补全或有人能读到正文后可以再推
+
+**进 recheck**
+- jiapeiyang/xshelf：10-23 到期，建仓后还没有新提交
+- ChamathRosh/whatshouldmybotdo-connector：10-26 到期，和 grok-bot-templates 一起看
+
+**不收（仓库）**
+- diginno-net/grokbot-dsh-orchestrator-vn、huydepzai121/grokbot-omp：越南语，许可也不是标准许可
+- XiaoMa3413/qq-grokbot-bridge：没有 LICENSE
+- bitrefill/agents：门槛第 3 条，通用 agent 技能包，Grok Bot 只是其中一种接法
+
+**外部 PR #12（DongDaShu，新配方 content-pipeline）**：只审不合并，等涛哥定。
+- 内容质量高：五个角色分工、文件交接、人点选项卡批准、一次性 routine 发帖前后各查一遍、每晚对账
+- 脱敏合格，路径是通用示例，样例也是虚构的
+- 问题 1：作者自标 ✅。按 CONTRIBUTING，✅ 要维护者复核，建议先改成 🔍，或者等涛哥自己跑一遍
+- 问题 2：PR 只改了中文 README。合并后由 Claude 补英文 README，配方数 9 → 10，重出首图
+
+**还要补**：无。

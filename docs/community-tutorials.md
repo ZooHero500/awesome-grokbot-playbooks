@@ -23,6 +23,7 @@
 - [官方 1 小时工作坊要点](https://x.com/AleiahLock/status/2095924854335631840) — @AleiahLock · 英文。官方 workshop 的转述和时间轴，核心是从「派任务」转到「设岗位」 · 2026-09-05
 - [像入职新员工一样配 Grok Bot：hire / train / equip](https://x.com/0xShoopy/status/2107874318244032867) — @0xShoopy · 英文。官方工作坊笔记：一个 bot 一个岗位，演示一次存成 skill，有现成连接器就先用连接器 · 2026-10-08
 - [How to Grok Bot (Non-Slop)](https://x.com/im_insulting/status/2099228547760128299) — @im_insulting · 英文 X 长文：把非核心任务交给 bot 的务实做法 · 2026-09-14
+- [Grok Bot 从 0 到 1｜用云电脑和插件，搭一个能干活的 X 助手](https://juejin.cn/post/7684649314158510114) — 小墨同学boy · 掘金 · 在 M 系列 Mac 上安装登录，给云电脑接 Cloudflare WARP 换出口 IP（保留内网和控制通道），再补齐 X 开发者账号、项目和 App 让 X 插件真正连上，附一条只读验证指令；X API 按量付费，按 2026-08-31 的界面写，注意时效 · 2026-09-13
 
 ## 多 Agent 作战室
 
@@ -31,12 +32,16 @@
 - [25+ bots：Chief of Staff + PM + QA + worker 的演示笔记](https://x.com/shirosignal/status/2110077526924317019) — @shirosignal · 英文。30 分钟演示的笔记：怎么把一个 bot 扩成有分工的团队 · 2026-10-14
 - [SpaceXAI 工程师的 Chief of Staff 配置](https://x.com/0xRafy/status/2096017149999358316) — @0xRafy · 英文。转述官方工程师 10+ bot 组队、由首席掌握全局的做法，二手信息 · 2026-09-05
 - [Grok Bot 当总调度，云电脑里装 Codex / Cursor / Gemini CLI 分工](https://x.com/luhuamfl0/status/2100155813528768516) — @luhuamfl0 · 写代码交给 Cursor，复杂任务交给 Codex，长上下文交给 Gemini 的编排思路 · 2026-09-16
+- [AI Agent 多代理人自動化開發實作：讓 Agents 夜巡](https://www.letswrite.tw/night-patrol/) — Let's Write · 博客（dev.to 有转载）· 繁中：NightLead / Explorer / Builder / Critic 四个 bot 的设定原文和群组启动指令，凌晨 3 点开跑、每天新建工作目录，安全边界写死（不碰正式仓库、不花钱、不发布），早上交一份 Morning Report · 2026-10-01
+- [【Grok Bot 仓颉实践】助手一次汇报七八条，我只批准一条往下做](https://juejin.cn/post/7693358476032213002) — 猛犸象限 · 掘金 · 项目管理 bot 只汇总有新增或修改的变更，人一次只批一条，任务开头写「已批准第 N 项」再转给对应的专长 bot，Notion 当唯一事实源；系列第二篇，作者写明还有几条没落地 · 2026-10-06
 
 ## Routine 与额度
 
 - [Grok bot 省钱教程](https://x.com/czzzzzzJ_/status/2109600412366160101) — @czzzzzzJ_ · $20 档怎么够用：省额度的 prompt 思路。帖内的文档库要登录，本页不放链接 · 2026-10-12
 - [每周让 Grok Bot 对照新功能检查你的用法](https://x.com/Michael_Fenech_/status/2108145378323542306) — @Michael_Fenech_ · 英文。一条可直接粘贴的周度 routine：比对产品更新和你的实际用法，提示该换的做法 · 2026-10-08
 - [周一 routine：交给 Chief of Staff 的周度自查](https://x.com/mikepat711/status/2107130731382079767) — @mikepat711 · 英文。可以直接复制给首席助理的 routine 原文 · 2026-10-05
+- [I Let Grok Bot Apply to Software Engineering Jobs While I Was Sleeping](https://dev.to/bobbyhalljr/i-let-grok-bot-apply-to-software-engineering-jobs-while-i-was-sleeping-n62) — Bobby Hall Jr · dev.to · 英文：附去掉个人信息的求职 agent 设定原文，0–100 打分、75 分以上才投、去重、拿到确认才算投递成功、敏感问题停下来问人，设成每 4 小时一次的定时任务。⚠️ 要把求职网站的登录态交给 bot；文末推作者自家产品（作者相关） · 2026-08-31
+- [Grok Bot 额度两天就用完？我的两个改进](https://www.bilibili.com/video/BV1Menj62E4q) — KunKun的折腾手记 · B 站视频 · 多个 bot 都在一个经理群里，人说一句全员醒来读一遍；简介写了两招：群外另开私聊入口，汇报改成手机上看的 HTML 并写清要人决定什么 · 2026-10-19
 
 配套配方：[Routine 额度体检](../examples/routine-budget.md)、[周报](../examples/weekly-review.md)。
 
@@ -50,6 +55,8 @@
 - [How To Build a One-Person Company Using Grok Bot](https://x.com/sairahul1/status/2089995692874068433) — @sairahul1 · 英文 X 长文：找线索、写外联、做图、回复、周复盘全交给 bot 团队，一人公司主题里传播最广 · 2026-08-19
 - [别再让一个 AI 干所有活了：内容生产拆给 14 个机器人](https://x.com/ai_goge/status/2110331990566449273) — @ai_goge · X 长文：短推、长文、公众号、出图、核事实、数据复盘各配一个机器人的完整搭法 · 2026-10-14
 - [用 Grok Bot 做开源项目宣传片](https://x.com/seekjourney/status/2110986767549739151) — @seekjourney · 从产品理解、创意、分镜、画面到视频生成一整套，附提示词 · 2026-10-16
+- [我 build 了一个 Grok Bot 帮我 7x24 运营我的 pstack 中文站](https://juejin.cn/post/7694134378717986851) — 出发向未来 · 掘金 · 真实复盘：bot 拆需求，改代码交给 Cursor Cloud Agent，日常检查放进定时任务；踩坑后定下「一个 PR 一个 Cloud Agent，做完就关」「按任务类型选模型档位」等规矩，再整理成 skill 给第二个 bot 复用。作者自己的站（作者相关），没贴 skill 原文 · 2026-10-08
+- [Grok Bot 保姆级做视频教程：从一句话需求到全平台成片](https://juejin.cn/post/7694287070886297610) — XiaoLei_Liu · 掘金 · 代码渲染路线：页面暴露 seek(t)，Playwright 逐帧截图，ffmpeg 合成，edge-tts 词级时间戳驱动动效；给了八步流水线、三个 Skill 分工和 4 个 prompt 模板。引用的第三方 skill 里有一份规避版权检查的文件，作者要求禁用；音效商用前先核授权 · 2026-10-09
 
 配套配方：[一人三岗](../examples/one-person-three-roles.md)、[作战室](../examples/war-room.md)。
 
