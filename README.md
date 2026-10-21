@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>中文</b> · <a href="README.en.md">English</a> · <a href="#-3-分钟上手">3 分钟上手</a> · <a href="ROADMAP.md">路线图</a> · <a href="#-参与贡献">参与贡献</a>
+  <b>中文</b> · <a href="README.en.md">English</a> · <a href="docs/quickstart.md">快速上手</a> · <a href="ROADMAP.md">路线图</a> · <a href="#-参与贡献">参与贡献</a>
 </p>
 
 ## ⚡ 为什么看这个仓库
@@ -40,6 +40,8 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 它和聊天助手 Grok、编码命令行 Grok Build 是三个不同的产品。
 
 ## 🚀 3 分钟上手
+
+> 第一次用 Grok Bot？先看 **[快速上手](docs/quickstart.md)**：一个下午 5 步，从设安全底线到第一条不乱烧额度的 Routine。下面是已经上手的人的捷径。
 
 1. **先补课**：读 [grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) 的 `AGENTS.md` 和翻车记录，少走弯路
 2. **要现成团队**：去 [botteams](https://github.com/ellelion/botteams) 挑一个 `installable` 团队，复制 installer prompt 粘进 Grok Bot

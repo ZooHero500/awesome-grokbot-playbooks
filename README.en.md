@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">中文</a> · <b>English</b> · <a href="#-3-minute-start">3-minute start</a> · <a href="ROADMAP.md">Roadmap</a> · <a href="#-contributing">Contributing</a>
+  <a href="README.md">中文</a> · <b>English</b> · <a href="docs/quickstart.en.md">Quickstart</a> · <a href="ROADMAP.md">Roadmap</a> · <a href="#-contributing">Contributing</a>
 </p>
 
 ## ⚡ Why this list
@@ -40,6 +40,8 @@ Grok Bot is the AI-teammate product xAI and Cursor launched together on 2026-08-
 It is a different product from the Grok chat assistant and the Grok Build coding CLI.
 
 ## 🚀 3-minute start
+
+> New to Grok Bot? Start with the **[Quickstart](docs/quickstart.en.md)**: 5 steps in one afternoon, from safety rules to a first Routine that doesn't burn your usage. The list below is the shortcut for people already up and running.
 
 1. **Learn first**: read `AGENTS.md` and the failure log in [grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes)
 2. **Want a ready-made team**: pick an `installable` team on [botteams](https://github.com/ellelion/botteams) and paste its installer prompt into Grok Bot
