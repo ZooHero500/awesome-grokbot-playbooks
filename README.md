@@ -218,7 +218,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 ## 🤝 参与贡献
 
 - **推荐条目**：开一个[推荐条目 issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues/new/choose)，附链接和一句理由
-- **投稿配方**：照 [配方模板](examples/_template.md) 写，提 PR；脱敏规则见 [CONTRIBUTING.md](CONTRIBUTING.md)
+- **投稿配方**：照 [配方模板](examples/_template.md) 写，提 PR；收录门槛和脱敏规则见 [CONTRIBUTING.md](CONTRIBUTING.md)
 - **认领实测**：配方大多还没真机跑过。认领一个[实测 issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test)，在你的 Grok Bot 里跑通，配方标 ✅ 并署你的名
 - **报告失效**：链接挂了或项目归档了，开「报告失效」issue
 

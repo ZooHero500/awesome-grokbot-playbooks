@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/recipes-9-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--21-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
+  <a href="CONTRIBUTING.en.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <img src="https://img.shields.io/badge/unofficial-lightgrey?style=flat-square" alt="Unofficial">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT"></a>
 </p>
@@ -218,7 +218,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 ## 🤝 Contributing
 
 - **Suggest an entry**: open a [suggestion issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues/new/choose) with the link and one line on why
-- **Submit a recipe**: follow the [recipe template](examples/_template.md) and open a PR; sanitization rules are in [CONTRIBUTING.md](CONTRIBUTING.md) (Chinese)
+- **Submit a recipe**: follow the [recipe template](examples/_template.md) and open a PR; inclusion criteria and sanitization rules are in [CONTRIBUTING.en.md](CONTRIBUTING.en.md)
 - **Claim a test run**: most recipes have not been run end-to-end yet. Claim a [testing issue](https://github.com/sit-in/awesome-grokbot-playbooks/issues?q=is%3Aissue+label%3Aneeds-test); once it runs in your Grok Bot, the recipe gets ✅ and your name
 - **Report a dead link**: open a "broken" issue
 

@@ -1,0 +1,73 @@
+# 暂缓复查清单
+
+Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING.md#收录门槛)）但内容对题的，记在这里，到期再核。
+
+- **到期**＝建仓满 7 天那天。到期后仍要「之后还有提交」才算过线；10★ 以上随时可收
+- loop 每轮先看「到期」≤ 今天的行，重新核实：过线就审短评、进 README，从本表删除；仍不过线就把到期顺延 7 天，在要点里写原因
+- 顺延两次仍不过线，或仓库已删除、归档，直接从本表删除，在回执里提一句
+- Grok 新推的候选如果暂缓，由 Claude 加到本表，Grok 不用再重复推
+
+## 已过线，待审
+
+| 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
+|---|---|---|---|
+| [twhit223/grok-bot-cos](https://github.com/twhit223/grok-bot-cos) | 10-08 | 2★ · MIT · 建 10-01 · 最近提交 10-20 |  |
+| [JeffShanCha/grokbotguide](https://github.com/JeffShanCha/grokbotguide) | 10-21 | 0★ · MIT · 建 10-14 · 最近提交 10-20 |  |
+| [doublesq97-ui/bot-team-playbook](https://github.com/doublesq97-ui/bot-team-playbook) | 10-25 | 17★ · MIT · 建 10-18 · 最近提交 10-18 |  |
+
+## 等待中
+
+| 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
+|---|---|---|---|
+| [JiminLee-way/GrokBotCLI](https://github.com/JiminLee-way/GrokBotCLI) | 10-21 | 1★ · MIT · 建 10-14 · 最近提交 10-14 | 建仓后没有新提交，等有新提交 |
+| [SvenKunkka/grokbot-quota-ring](https://github.com/SvenKunkka/grokbot-quota-ring) | 10-22 | 0★ · MIT · 建 10-15 · 最近提交 10-20 | 要粘 cursor.com 会话 cookie，收的话写明风险 |
+| [Anonyfox/lfm](https://github.com/Anonyfox/lfm) | 10-23 | 1★ · MIT · 建 10-16 · 最近提交 10-20 | 先确认和 Grok Bot 直接相关，不是通用 skill |
+| [Liu-zhongxian/zongzhu-bot](https://github.com/Liu-zhongxian/zongzhu-bot) | 10-23 | 6★ · MIT · 建 10-16 · 最近提交 10-20 | 原名 zongzhu-esp32-grok-bot，已改名 |
+| [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
+| [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-17 |  |
+| [puzzle-app/grokbot-delivery-team](https://github.com/puzzle-app/grokbot-delivery-team) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
+| [AgwaB/grok-bot-agents](https://github.com/AgwaB/grok-bot-agents) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
+| [FelixIsaac/cmux-orbit](https://github.com/FelixIsaac/cmux-orbit) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-19 |  |
+| [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
+| [Olivia295/grokbot-teamwork-UI](https://github.com/Olivia295/grokbot-teamwork-UI) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-21 |  |
+| [dim-pan/overtime](https://github.com/dim-pan/overtime) | 10-25 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-18 |  |
+| [effi0724/grokbot-task-dashboard](https://github.com/effi0724/grokbot-task-dashboard) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
+| [fredericalix/my-botstack](https://github.com/fredericalix/my-botstack) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
+| [jeffgreendesign/follow-through](https://github.com/jeffgreendesign/follow-through) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
+| [noisyloop/Fleet-51](https://github.com/noisyloop/Fleet-51) | 10-25 | 1★ · MIT · 建 10-18 · 最近提交 10-21 |  |
+| [rfsbraz/genealogy-agent-skills](https://github.com/rfsbraz/genealogy-agent-skills) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
+| [shagghiesuperstar/veilbreaker](https://github.com/shagghiesuperstar/veilbreaker) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-21 |  |
+| [stland6338/ai-tool-inventory](https://github.com/stland6338/ai-tool-inventory) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
+| [vliuyt/grok-bot-esp32-bridge](https://github.com/vliuyt/grok-bot-esp32-bridge) | 10-25 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-21 |  |
+| [ChamathRosh/grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 | 6 个模板只有 1 个可装，看是否补齐 |
+| [Gitmaxd/grok-bot-rocket-template](https://github.com/Gitmaxd/grok-bot-rocket-template) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-19 |  |
+| [PhillipHolland/imessage-relay](https://github.com/PhillipHolland/imessage-relay) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-20 |  |
+| [StefMVP/grokbot-exporter](https://github.com/StefMVP/grokbot-exporter) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 |  |
+| [TheSethRose/grokbot-bridge](https://github.com/TheSethRose/grokbot-bridge) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 和 locum、claude-grok-bridge 一起看 |
+| [francoCosimo95/claude-grok-bridge](https://github.com/francoCosimo95/claude-grok-bridge) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 和 grokbot-bridge 一起看 |
+| [lthero-big/gbb-multica-bridge](https://github.com/lthero-big/gbb-multica-bridge) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 |  |
+| [mikecann/delegate](https://github.com/mikecann/delegate) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-21 |  |
+| [sudoTomas/groknet](https://github.com/sudoTomas/groknet) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 |  |
+| [treverhatch-glitch/hatchfield-ai-studio-template](https://github.com/treverhatch-glitch/hatchfield-ai-studio-template) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-19 | 偏游戏制作，看是否对题 |
+| [william1010121/ClaudeCodeBot](https://github.com/william1010121/ClaudeCodeBot) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 | 过线放「自托管与平替」 |
+| [NetrovertHQ/netrovert-agents](https://github.com/NetrovertHQ/netrovert-agents) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 商业托管服务，按「商业类每分类最多 1 条」处理 |
+| [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 和 herdrbot 合成一行 |
+| [devicki/herdrbot](https://github.com/devicki/herdrbot) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 和 herdr-away-signal 合成一行 |
+| [devrecated/grokbot-routines](https://github.com/devrecated/grokbot-routines) | 10-27 | 1★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [fal-ai-community/fal-grok-plugin](https://github.com/fal-ai-community/fal-grok-plugin) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [heyalchang/grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 |  |
+| [jethros-projects/botter](https://github.com/jethros-projects/botter) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 收的话标「非官方、走非公开接口」 |
+| [lingverse-ai/lingverse](https://github.com/lingverse-ai/lingverse) | 10-27 | 0★ · NOASSERTION · 建 10-20 · 最近提交 10-21 | API 许可 NOASSERTION，看仓内 LICENSE 文件是否写明 |
+| [naoiseirwin/strava-grokbot-bridge](https://github.com/naoiseirwin/strava-grokbot-bridge) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [oscarsterling/telegram-bot-relay](https://github.com/oscarsterling/telegram-bot-relay) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 要粘 bot token，收的话写明风险 |
+| [senscho/grok-codex-bridge-public](https://github.com/senscho/grok-codex-bridge-public) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [sumanthneerumalla/thebrowserfarm-plugin](https://github.com/sumanthneerumalla/thebrowserfarm-plugin) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [xiaozhenliu/agent-mesh](https://github.com/xiaozhenliu/agent-mesh) | 10-27 | 1★ · MIT · 建 10-20 · 最近提交 10-20 |  |
+| [greedfi/dotmail](https://github.com/greedfi/dotmail) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 |  |
+| [siuserxiaowei/grokbot-recipes](https://github.com/siuserxiaowei/grokbot-recipes) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 看和本仓配方是否重叠 |
+
+## 已移出
+
+- superwangxxxl/grok-bot-guide：10-21 复查时仓库已删除

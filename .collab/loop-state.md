@@ -4,4 +4,4 @@
 - idle_rounds: 0
 - rounds_this_session: 2
 - session_started: 2026-10-21 09:38 Asia/Shanghai（间隔 2h，上限 8 轮或 16h；cron cedf22df；仓库已公开，外部 issue/PR 也算信号）
-- note: 10/20 README 第二轮整理：分区改为 9 个、标题带 emoji（🧰 官方与 SDK / 📦 模板与目录 / 🧩 技能与玩法 / 👥 多 Bot 团队 / ⏰ Routine 与摘要 / 💼 中文一人公司 / 🏠 自托管与平替 / 🔌 硬件 / 📖 学习资源；英文同序），锚点带前导 -（如 #-模板与目录）；每节末尾有「回到目录」。合条目时同步：目录计数、徽章、「为什么」表数字、🆕 最近更新（保留最近 3 行）
+- note: 10-21 规则调整：门槛见 CONTRIBUTING#收录门槛；暂缓仓见 recheck.md（每轮看到期行）；白天 9:37–23:37 每 2h；promo 不再同步，社交预览图只在条目数跨整十时重做。README 分区 9 个、标题带 emoji，锚点带前导 -；🆕 最近更新留最近 3 行
