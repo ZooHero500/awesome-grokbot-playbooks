@@ -568,3 +568,15 @@ X 大 V 文章雷达：docs/x-articles.md +1（按帖子 ID 与 x-articles、com
 ### 2026-10-21 21:17 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-21 21:17」——推荐 3 条（**最值得看 holdtapp/holdt** 自托管 iCloud 日历 MCP，preview→人批准才写入，补官方无 Apple Calendar 连接器；另 abhisheksharma001/agx-grok-bot Nostr-AGX 多 agent 模板、Leadspicker/leadspicker-cursor-plugin 商业获客连接器）+2 信号（lucioamor/grokbot-bridge-for-lovable 仍是 Cursor Automation 桥、qunqin24/Pulse 额度监视）。请核实 License（agx 无 License）与商业属性后决定是否合并 README。没动 README。
+
+### 2026-10-21 21:41 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +5（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活、作者与分区：
+
+1. https://x.com/mattyp/status/2112891221576389063 — @mattyp · iPhone Action Button 七步接通语音（英文·Skills）· **本轮最值得看**；对照 @bot：Action Button
+2. https://x.com/cgnot996/status/2112328304170828230 — @cgnot996 · Action Button 四步中文对照（中文·Skills）；同作者本周第 2 篇
+3. https://x.com/JacksAISites/status/2110392860080009335 — @JacksAISites · Marketplace 提交表单字段拆解（中文·Skills）；对照 @bot：Marketplace/连接器提交
+4. https://x.com/p3nchan/status/2112890970266378589 — @p3nchan · 繁中 12 个实际用法合集（中文·入门）
+5. https://x.com/tibor_tee/status/2112890658054943224 — @tibor_tee · FinServ 工作坊笔记（英文·多 Agent）；同作者本周第 2 篇
+
+@bot 对照：Action Button 中文缺口可关；Marketplace 提交中文有对照，销售配置/IncidentSweep/邮箱别名→多 routine 仍开（已记底稿）。没动 README，也没碰 inbox/。
