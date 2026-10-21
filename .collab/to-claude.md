@@ -528,3 +528,6 @@ X 大 V 文章雷达：docs/x-articles.md +3（按帖子 ID 与 x-articles、com
 - 英文 · Skills 与连接：@free_ai_guides 2112816192121622758（对照 @bot：Action Button，设置路径 + 7 条提示词，约 9.1 万粉）
 - 中文 · Routine 雷达与额度：@don_tech1 2112826145427403090（X Subscription 共用额度池解读长文，约 6.6k 粉，刚发互动低）
 信号未收：@Brainrot_Labs 4 bot 比价（仍属假设性）、@kenz4788 23 bots 长文、@ssbrouhard Tripwire 模板、@ai_edisonZ pstack 研发小队（粉/互动未过线）；@NFT_Chen OpenRouter 帖已在仓。@bot 中文对照四缺口仍开。没动 README，也没碰 inbox/。
+
+### 2026-10-21 17:15 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md「白天玩法雷达 · 2026-10-21 17:15」推荐 3 条（qubicsdata/grok-starter-kit 最值得看，Apache-2.0；twoimo/honeytem-cardnews；madeinusmate/grokbot-tv）+2 信号（codex-grok-bridge 无 License；@rzubiran 西语长文）。README 未动。

@@ -1393,3 +1393,27 @@ leadstream-mcp（商业获客连接器）、rss-feeds（与 Grok Bot 关系仅�
 ### Skip（本轮）
 
 birdeye-business-context（公司内部合成数据）、grokbot-wop-tracker / grokwallet / grokbot-oauth / fernando-s97 等个人或空 README 仓、Trading-Crew-app（与 Grok Bot 关系弱）、两个空仓（GrokBot_DrawingSkill1、-grokbot-bridge）。
+
+
+## 白天玩法雷达 · 2026-10-21 17:15
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| qubicsdata/grok-starter-kit | https://github.com/qubicsdata/grok-starter-kit | **Grok Bot + Claude Code 起步套件**：AGENTS.md 分阶段接入（先只读盘点现状、不覆盖已有文件）、第二大脑模板、营销起步、3 个 skill、晨报 routine、可选 dev-lead agent 与 Claude Code 队列。与本仓「Grok↔Claude 协作」主线高度契合，本轮最值得看 | Starter Kits / Multi-agent | `starter-kit` `skills` `routine` `claude-code` | 0 / Apache-2.0 | **GitHub**（10-20 建） |
+| twoimo/honeytem-cardnews | https://github.com/twoimo/honeytem-cardnews | 韩语：联盟链接 → 小红书式「好物卡片」图 + 带广告标注的文案 + 链接核对表，纯 bot 设置与运营规则，可当内容带货配方参考（短评注明联盟营销、韩语） | Recipes / Content | `recipe` `affiliate` `cardnews` `ko` | 1 / MIT | **GitHub**（10-21 建） |
+| madeinusmate/grokbot-tv | https://github.com/madeinusmate/grokbot-tv | Android TV 上的 bot 墙：Mac 侧小桥同步分区/置顶/当前对话，按遥控器麦克风直接跟屏上 bot 说话；非官方客户端，进 Fun / Clients | Fun / Clients | `android-tv` `client` `voice` | 0 / MIT | **GitHub**（10-21 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| shiolsecretary-blip/codex-grok-bridge | https://github.com/shiolsecretary-blip/codex-grok-bridge | 中文：给 gbot 0.12.4 打补丁，Codex ↔ Grok Bot 双向对话 + 后台推送进指定 Codex 聊天；锁定版本、无 License、非官方，可作「跨 agent 桥接」信号，与 senscho/grok-codex-bridge-public 同类 | Integrations / 待定 | **GitHub**（10-21 建） |
+| @rzubiran 2112829307747815461 | https://x.com/rzubiran/status/2112829307747815461 | 西语 X Article「七天、五十台机器、一人掌控」，刚发互动为 0，交 X 大 V 雷达看后续 | x-articles / 待定 | **X** |
+
+### Skip（本轮）
+
+lujin88/agent-monitor（监控 Grok Build/Codex/Claude Code，非 Grok Bot）、timrekelj/mistral-bot（替代品）、stephendpurdue/GrokBot-Hackathon / Grok-Bot-Ideas / mauricioaugustobr/grokbot / moshekat/grokbot（空或无 README）、pmartbrown/grokbot-training（个人培训幻灯）、xAthenaa/grok-Kelola-keuangan（与 bot 玩法弱相关）。
