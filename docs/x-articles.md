@@ -82,7 +82,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Set Up Your Grok Bot Like the Team Does: 72 Hours of Their Livestreams + My Own Notes](https://x.com/unicodef1wn/status/2112574886421901822) — @unicodef1wn · 2026-10-21 · X 长文：把官方团队 72 小时直播浓缩成一条消息安装（Dr. Eggbot 导入）、7 个提示习惯、AGENTS.md 与权限规则、5 个 routine 和 5 条连接器规则、首周清单；约 200 收藏 · 英文
 - [Grok Bot A 到 Z 入门指南](https://x.com/eeelistar/status/2112528735127871960) — @eeelistar · 2026-10-20 · 约 6 万粉作者的完整上手指南，正文在 Substack · 英文
 - [一条提示就让 Grok Bot 做出自用的阅读模式浏览器插件](https://x.com/DillonLoomis/status/2112572143049617718) — @DillonLoomis · 2026-10-20 · 真实搭建：作者试遍现有阅读模式插件都不满意，让 bot 一次做出功能齐全的自用版，附 3 分钟演示视频；约六万粉、300+ 赞，核心是「不顺手的工具就自己让 bot 造一个」 · 英文
-- [给新用户的 Grok Bot Lesson 101 课程，由 bot 自己发课程邮件](https://x.com/Texas_Twins_Dad/status/2112645395440427500) — @Texas_Twins_Dad · 2026-10-20 · 作者为新手做了分课的入门课，第 1、2 课已开放，课程邮件由他的 bot 发出；约 80 收藏，适合转给刚上手的人 · 英文
 
 ### 多 Agent 作战室
 
@@ -100,7 +99,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot: How to Build Your First AI Team (Full Guide)](https://x.com/distortgeekin/status/2108897917729738810) — @distortgeekin · 2026-10-10 · X 长文：从官方团队的公开分享里提炼五件套（一个入口首席、按记忆分域的专员、任务看板、routine 时钟、审批闸门），附首席提示词、5 天搭建步骤和 5 种常见翻车；收藏两千多，近期被多个大号引用 · 英文
 - [How to Build an SEO Team with Grok Bot (Full Course)](https://x.com/VengeonsP/status/2112481555276804113) — @VengeonsP · 2026-10-20 · 9 个窄职 SEO bot 经共享文件夹交接，SEO Director 只判 GO/HOLD/KILL，人工把关每个关键词决策，附 routine 时间表和整套提示词 · 英文（导语法文）
 - [Grok Bot Product Best Practices: a product team of Bots](https://x.com/tibor_tee/status/2112484479440977946) — @tibor_tee · 2026-10-20 · 官方产品工作坊复盘：幕僚长/分析/PM/设计各一 bot、注意力清单、每小时 routine、调研到 PRD 再交 Cloud Agents，末尾给本周可试三步 · 英文
-- [给忙不过来的 bot 配一个助手 bot：浏览器不再排队](https://x.com/WheelerMan/status/2112668934969209226) — @WheelerMan · 2026-10-20 · 踩坑：每个 bot 只有一个浏览器，主 bot 占着网页时其他活只能排队；作者加了第二个 bot 专接需要看网页的活和后台任务，主 bot 就能并行；互动不高但拆分思路清楚 · 英文
+- [给忙不过来的 bot 配一个助手 bot：浏览器不再排队](https://x.com/WheelerMan/status/2112668934969209226) — @WheelerMan · 2026-10-21 · 踩坑：每个 bot 只有一个浏览器，主 bot 占着网页时其他活只能排队；作者加了第二个 bot 专接需要看网页的活和后台任务，主 bot 就能并行；互动不高但拆分思路清楚 · 英文
 
 ### Routine 雷达与额度
 
@@ -114,7 +113,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Every Monday Grok Bot grades my X posts](https://x.com/MichaelGannotti/status/2112176393014440149) — @MichaelGannotti · 2026-10-19 · X 长文：每周一跑一个只读 routine，拉上周原创和引用帖、回补前一周的迟到互动，按自己 60 天中位数给每条打分，收藏、转发、回复权重高于点赞，再按话题、格式、开头类型打标签找规律；作者说目前只跑了两期；同作者的 Hermes 管理长文已收 · 英文
 - [The Grok Bot That Has Self Improvement](https://x.com/BrianRoemmele/status/2112249592133935133) — @BrianRoemmele · 2026-10-20 · 长帖：每周把用量导出交给审计 bot，找出最费 token 的 run、重复空转和只复述旧信息的 routine，逐条给修法（限来源、跳过「无变化」小结、轮询改按变化触发、合并重叠 routine），报告再喂回首席 bot；附可复制的 bot 模板，和上面的用量 CSV 小技巧一起看；同作者订餐厅 bot 已收 · 英文
 - [跑 16 个 bot 一天烧掉 75% 额度后，我怎么把用量砍下来](https://x.com/Zaardaar/status/2112388264430580104) — @Zaardaar · 2026-10-20 · 串帖：一岗一 bot、闲置几乎不费额度、routine 降频、批量提问、通用 bot 当老板同步规则、重活（浏览器/视频/长调研）只在划算时开；帖尾有付费 PDF 链接可忽略 · 英文
-- [每天扫 X 上冒充你的账号，附举报步骤并跟踪处理结果](https://x.com/TeslaAIBot/status/2112683025951535280) — @TeslaAIBot · 2026-10-20 · 模板：每日 routine 搜冒名账号，逐个发来主页和举报步骤，再记录每个已举报账号的处理进度；帖内附官方模板链接，约十五万粉 · 英文
+- [每天扫 X 上冒充你的账号，附举报步骤并跟踪处理结果](https://x.com/TeslaAIBot/status/2112683025951535280) — @TeslaAIBot · 2026-10-21 · 模板：每日 routine 搜冒名账号，逐个发来主页和举报步骤，再记录每个已举报账号的处理进度；帖内附可一键导入的 x.ai/bot 模板链接，约十五万粉 · 英文
 
 ### Skills 与连接
 

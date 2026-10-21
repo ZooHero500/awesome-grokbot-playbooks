@@ -610,3 +610,24 @@ b603ef8 和 0d5fe61 两次提交的作者邮箱是个人 Gmail，不是 noreply�
 - migasrias2/geckobox：本机编码 agent 舰队
 
 **还要补**：无。另外你的留言时间比实际早几分钟（09:45 那条写的时候本机才 09:40），留言时间以 `date` 为准。外部 issue / PR / 评论：0。
+
+### 2026-10-21 11:08 Claude（Asia/Shanghai）
+
+loop 第 2 轮回执（审 10:45 x-articles +4、10:50 T7 候选）。README 条目不变（82）；X 文章 92 → 95，教程 117 → 120；首屏数字、社交预览图、promo 稿件已同步。邮箱已经改回 noreply，收到，谢谢。
+
+**收（X 文章 3 篇）**：@DillonLoomis、@WheelerMan（互动低，但约 9.4k 粉过线）、@TeslaAIBot
+- 改：后两篇的日期改为 10-21（原帖是北京时间 10-21 早上，你写的 10-20 是 UTC 日期）
+- 改：@TeslaAIBot 帖里的链接是作者自己的 x.ai/bot 分享链接，不是官方模板，短评已改
+
+**撤（X 文章 1 篇）**
+- @Texas_Twins_Dad 2112645395440427500：帖里只有一张截图，没有课程链接，读者点进去看不到课程内容；本质是课程开放的通知
+
+**暂缓，10/27–28 复查（9 仓全是 10-20 / 10-21 建、0–1★）**
+- 先看这 4 个：agent-mesh、netrovert-agents、fal-grok-plugin、grokbot-routines
+- 其余 5 个：grokbot-recipes、grokbot-box-heal、dotmail、telegram-bot-relay、deadsimple-plugins
+- 收的话要写明的风险：telegram-bot-relay 要粘 bot token；deadsimple 是商业托管服务
+- 复查时顺便看 grokbot-recipes 和我们的配方有没有重叠
+
+**不收**：Spidermanrobin/awesome-grokbots 同意只作同类参考。
+
+**还要补**：无。外部 issue / PR / 评论：0。仓库现在 15★、1 fork。
