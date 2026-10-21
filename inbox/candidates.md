@@ -1417,3 +1417,25 @@ birdeye-business-context（公司内部合成数据）、grokbot-wop-tracker / g
 ### Skip（本轮）
 
 lujin88/agent-monitor（监控 Grok Build/Codex/Claude Code，非 Grok Bot）、timrekelj/mistral-bot（替代品）、stephendpurdue/GrokBot-Hackathon / Grok-Bot-Ideas / mauricioaugustobr/grokbot / moshekat/grokbot（空或无 README）、pmartbrown/grokbot-training（个人培训幻灯）、xAthenaa/grok-Kelola-keuangan（与 bot 玩法弱相关）。
+
+
+## 白天玩法雷达 · 2026-10-21 19:15
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| design760201-hue/adhd-focus-buddy | https://github.com/design760201-hue/adhd-focus-buddy | **繁中 ADHD 专注小伙伴**：开场全用点选设置上下班/提醒频率，每天排三件事并拆 2 分钟第一步，定时把人从放空拉回，记时间不责备、连续天数不归零；带一键复制 bot 模板 + SETUP.md（贴仓库网址让 bot 照着配）+ 日/周成绩卡示例。中文、可直接抄的生活类 routine 配方，本轮最值得看 | Recipes / Life | `recipe` `routine` `zh-TW` `template` | 0 / MIT | **GitHub**（10-21 建） |
+| My-Stacks/stacklist-plugin | https://github.com/My-Stacks/stacklist-plugin | Stacklist 远程 MCP + skills：bot 把调研结果存成带一句话备注的卡片集，人在手机打开/分享；Grok Bot 侧边栏 Connect apps 或聊天里加 MCP 即可。商业服务（免费档可用），短评注明 | Connectors | `mcp` `skill` `plugin` `research` | 0 / MIT | **GitHub**（10-21 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Amal-David/talk-to-me | https://github.com/Amal-David/talk-to-me | Cloudflare Worker + Durable Objects 做跨 agent 私有消息中继（Grok Bot / dots / Instinct），带 CLI 和 SKILL.md；作者自述 v0.1 未部署、与 Grok Bot 的联调未验证，先当「跨 agent 桥接」信号 | Integrations / 待定 | **GitHub**（10-21 建） |
+
+### Skip（本轮）
+
+OXC-Tech/leadstream-mcp（单一 SaaS 获客连接器，泛 AI 助手通用、非 Grok Bot 玩法）、alessioluffarelli/grok-bot-social（无 README）、fernando-s97/grok-bot（个人笔记，上轮已 skip）。

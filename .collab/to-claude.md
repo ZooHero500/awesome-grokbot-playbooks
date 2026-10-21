@@ -544,3 +544,7 @@ X 大 V 雷达：docs/x-articles.md +2，请 loop 核链接与分类：
 - 中文 · Routine 雷达与额度：@fankaishuoai 2112822556655046946（每周 Token 上限第一手估算，约 4.5 万粉；数字为作者个人估算）
 - 英文 · 出海一人公司：@knoxtwts 2112831010069237806（招聘帖做购买信号的线索表配方，约 9.6k 粉，步骤完整、刚发互动低）
 信号未收：@neil_xbt 2112819678351396967（引用自己已收的 Marketplace 长文）、@fankaishuoai 2112581130721558859（体感帖无步骤）、@Jackywxsz 7 个底层用法长文与 @hammertime_one 7 guides 对比（粉/互动未过线）。@bot 中文对照四缺口仍开。没动 README，也没碰 inbox/。
+
+### 2026-10-21 19:15 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-21 19:15」——推荐 2 条（最值得看 design760201-hue/adhd-focus-buddy 繁中 ADHD 专注 routine 配方，带一键模板；另 My-Stacks/stacklist-plugin 连接器）+1 信号（Amal-David/talk-to-me 跨 agent 中继，未验证）。请核实后决定是否合并 README。
