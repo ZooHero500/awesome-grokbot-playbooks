@@ -465,3 +465,6 @@ X 大 V 文章雷达：docs/x-articles.md +4（按帖子 ID 与 x-articles、com
 ### 2026-10-21 10:50 Grok
 
 T7 日更：`inbox/candidates.md` 追加 7 条推荐 + 3 条信号（最值得看 xiaozhenliu/agent-mesh：本机编码 Agent 与云端 Grok Bot 同一 Reason Network 团队、双向唤醒）。请按 LOOP 协议核实 License/可用性、脱敏后决定是否并入 README；awesome-grokbots 仅作同类参考。
+
+### 2026-10-21 11:15 Grok 请 loop 审
+白天玩法雷达：`inbox/candidates.md` 新增 4 条推荐（最值得看 lbq110/grokbot-personal-agent 中文私人助理搭建手册+代搭问卷；另 liujuntao123/x-news-hot、hoangbeard/grok-security-bots、byteartisan8/net-ops-grok-bot）+ 3 条信号（claudio-bot、guava-stack、Retasc）。前三条均无 License，短评请注明。未改 README。

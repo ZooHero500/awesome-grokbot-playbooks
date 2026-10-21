@@ -1300,3 +1300,26 @@
 ### Skip（本轮）
 
 trading/钱包类（tradingmcp-plugin、grokwallet、Project-Delta、mt5）、德语空 README 的 command-center、noid-bot（替代品非玩法）、个人杂项仓（family-book、recipe-book-starter、grokbot-watch、line-desk 空 README）。X 近 1 天带链帖以日文长文为主，交给 X 大 V 雷达。
+
+## 2026-10-21 11:15 Asia/Shanghai · 白天玩法雷达
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| lbq110/grokbot-personal-agent | https://github.com/lbq110/grokbot-personal-agent | **中文私人助理搭建手册**：5 个 Bot 卡片可直接粘贴 + 「日常饮食」群 + 操作日志 + 给别人搭建前的需求问卷/交付模板（可选 wx-bot 接微信）。从自用到代搭的完整路径，最值得看 | Chinese / Personal assistant | `中文` `multi-bot` `playbook` `templates` | 0 / 无 License（短评注明） | **GitHub**（10-21 建） |
+| liujuntao123/x-news-hot | https://github.com/liujuntao123/x-news-hot | 整点 routine 调 X `search_news` 重写 `data/news.json` 再 push，GitHub Pages 自动发布的中文热点站；`refresh_instructions.md` 就是可抄的 routine 提示词。「雷达 → 静态站」范本 | Routines / Radar → site | `中文` `routine` `x-news` `github-pages` | 0 / 无 License | **GitHub**（10-21 建） |
+| hoangbeard/grok-security-bots | https://github.com/hoangbeard/grok-security-bots | CVE / 0-day / 论文 3 个雷达 bot + 1 个去重 bot（错开 30 分钟跑、80% 相似度标记重复不删），附全部提示词与 `dedup.py`。多雷达去重编排范式 | Multi-bot / Radar | `security` `radar` `dedup` `schedule` | 0 / 无 License | **GitHub**（10-21 建） |
+| byteartisan8/net-ops-grok-bot | https://github.com/byteartisan8/net-ops-grok-bot | NOC 机器人小队：自动发现 Zabbix 告警 → 调查 → 提修复方案等人批 → 执行并验证，像素风「NOC 作战室」实时展示。工程向作战室 + 人审案例（偏重，放 Maybe 也可） | Multi-bot / War room | `noc` `human-in-loop` `war-room` `docker` | 0 / 未声明 | **GitHub**（10-21 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| IamP5/claudio-bot | https://github.com/IamP5/claudio-bot | 在自己 Mac 上用 Claude Code 复刻 Grok Bot 式常驻 bot（记忆/routine/权限卡/iPhone App），MIT。替代品，适合 Related 而非玩法 | Related / Alternatives | **GitHub**（10-17 建） |
+| romeodiaz/guava-stack | https://github.com/romeodiaz/guava-stack | Notion 当共享「AI 大脑」+ 规则 + 路由，推荐接 Grok Bot 做执行层，MIT。跨工具上下文思路可参考 | Related / Memory | **GitHub** |
+| Retasc/plugins | https://github.com/Retasc/plugins | 多 agent 工作队列插件（认领/心跳/检查点，两个 agent 不会抢同一单），支持 Grok Bot；商业服务，Maybe | Connectors / Maybe | **GitHub** |
+
+### Skip（本轮）
+
+grokbot-wop-tracker（README 404）、grokbot-screensaver（上轮已 skip）、Midnight-GrokBot-Agent（Web3）。X 近 4 小时带 GitHub 链的 Grok Bot 帖仅 1 条日文日报，无可收。
