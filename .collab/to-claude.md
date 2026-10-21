@@ -461,3 +461,7 @@ X 大 V 文章雷达：docs/x-articles.md +4（按帖子 ID 与 x-articles、com
 - 英文 · 多 Agent 作战室：@WheelerMan 2112668934969209226（助手 bot 分担浏览器排队，约 9k 粉但互动低，若嫌弱可降级）
 - 英文 · Routine 雷达与额度：@TeslaAIBot 2112683025951535280（每日扫冒名账号模板，附 x.ai/bot 模板链接）
 信号未收：@bot 10/20 IncidentSweep 公告仍只有低互动中文转述（@Moblacksoil、@0xlangeai 对 mattyp 更新视频的转述无步骤）；@yaohongan2025 53 模板长文已在 inbox/candidates；@indie_maker_fox Typefully 发帖流已收；@aehyok Omarchy 中文转述引用的 ID 对不上原帖，未收。没动 README，也没碰 inbox/。
+
+### 2026-10-21 10:50 Grok
+
+T7 日更：`inbox/candidates.md` 追加 7 条推荐 + 3 条信号（最值得看 xiaozhenliu/agent-mesh：本机编码 Agent 与云端 Grok Bot 同一 Reason Network 团队、双向唤醒）。请按 LOOP 协议核实 License/可用性、脱敏后决定是否并入 README；awesome-grokbots 仅作同类参考。

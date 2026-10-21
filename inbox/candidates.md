@@ -1274,3 +1274,29 @@
 | cgatlin08/gmg-ai-agent-for-servicenow | https://github.com/cgatlin08/gmg-ai-agent-for-servicenow | 用 Cursor+Grok Bot 做的 ServiceNow 产品，非 Bot 玩法 |
 | Trading-Crew / Midnight-GrokBot-Agent / grokbot-screensaver | （多） | 交易/Web3/屏保，偏离 |
 | Vinci-virtuoso/grokbot-skills、newgodev/grok-bot-portable | （多） | 空/极薄或无说明 |
+
+## 2026-10-21 10:50 Asia/Shanghai · T7 日更雷达
+
+### 推荐入清单（新）
+
+| 名称 | 链接 | 一句理由 | 建议 README 节 | 标签 | ★/License | 来源 |
+|------|------|----------|----------------|------|-----------|------|
+| xiaozhenliu/agent-mesh | https://github.com/xiaozhenliu/agent-mesh | **本机 Claude Code/Codex/pi + 云端 Grok Bot 同一 Reason Network 私有团队**，Mac 常驻中继签名转发并敲 routine webhook，双向即时唤醒；中文指南 + `AGENT-INSTALL.md`。正好对上我们 Grok↔Claude 协作痛点（fake-ip 场景需另测）。最值得看 | Multi-bot / Bridges | `reason-network` `webhook` `claude-code` `codex` `mit` `中文` | 0 / MIT | **GitHub**（10-20 建） |
+| siuserxiaowei/grokbot-recipes | https://github.com/siuserxiaowei/grokbot-recipes | 中文配方库 10 个（适合谁→准备→步骤→提示词→产出→注意，示例虚构）+ grokguide.si 教程索引。中文区可直接复制 | Chinese / Recipes | `中文` `recipes` `prompts` `mit` | 0 / MIT | **GitHub**（10-21 建） |
+| heyalchang/grokbot-box-heal | https://github.com/heyalchang/grokbot-box-heal | 「更新 Bot 电脑」换实例后自愈：Tailscale 重装/状态恢复、包基线、gh 登录恢复；不自动登录。Box 运维向实用 | Skills / Box ops | `box` `tailscale` `self-heal` `mit` | 0 / MIT | **GitHub**（10-20 建） |
+| devrecated/grokbot-routines | https://github.com/devrecated/grokbot-routines | GrugBot Console：一页看全部 routine 运行、暂停/改时间/改 prompt、看 box 日志；有假数据 demo。多 Bot 管理面板 | Multi-bot / Dashboards | `routines` `dashboard` `nextjs` `mit` | 1 / MIT | **GitHub**（10-20 建） |
+| fal-ai-community/fal-grok-plugin | https://github.com/fal-ai-community/fal-grok-plugin | fal.ai 官方社区插件：Grok Bot/Grok Build/Cursor 生图/视频/音频/3D，带 skills 与正反例 eval。插件打包范本 | Plugins / Media | `plugin` `mcp` `media` `fal` `mit` | 0 / MIT | **GitHub**（10-20 建） |
+| NetrovertHQ/netrovert-agents | https://github.com/NetrovertHQ/netrovert-agents | 11 个 Grok Bot 的一人团队（求职/在办活/赏金黑客松/人脉…）+ 共享 playbooks；明确「只起草不自动发」。多 Bot 作战室真实案例 | Multi-bot / Case studies | `multi-bot` `playbooks` `human-in-loop` `mit` | 0 / MIT | **GitHub**（10-20 建） |
+| greedfi/dotmail | https://github.com/greedfi/dotmail | `.mail` 模板的页面生成器：把 Bot 邮箱按需回复/等回复/收据等分栏成本地静态页，不上传邮件；配官方模板链接 | Templates / Email | `email` `template` `static-page` `mit` | 0 / MIT | **GitHub**（10-21 建）+ 模板 https://x.ai/bot/HdN8nshqGbNy_Le0fSi_6 |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Spidermanrobin/awesome-grokbots | https://github.com/Spidermanrobin/awesome-grokbots | 同类 Awesome（中英日，41 Bots），可互相参考/对照去重，不建议直接收录为条目 | Related lists | **GitHub**（10-21 建） |
+| oscarsterling/telegram-bot-relay | https://github.com/oscarsterling/telegram-bot-relay | 只有 webhook 的 Agent 进 Telegram 群与其他 bot 对话（CF Worker）；需粘 bot token，短评写清 | Bridges / Maybe | **GitHub** |
+| deadsimple-email/deadsimple-plugins | https://github.com/deadsimple-email/deadsimple-plugins | 给 Agent 独立邮箱的托管 MCP，支持 Grok Bot；商业服务，Maybe | Connectors / Maybe | **GitHub** |
+
+### Skip（本轮）
+
+trading/钱包类（tradingmcp-plugin、grokwallet、Project-Delta、mt5）、德语空 README 的 command-center、noid-bot（替代品非玩法）、个人杂项仓（family-book、recipe-book-starter、grokbot-watch、line-desk 空 README）。X 近 1 天带链帖以日文长文为主，交给 X 大 V 雷达。
