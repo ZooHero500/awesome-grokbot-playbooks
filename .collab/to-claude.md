@@ -608,3 +608,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 
 @bot 对照：邮箱别名→多 routine 中文可关；IncidentSweep / Marketplace 销售配置 / 连接器使用仍开。信号未收：@fankaishuoai 国内云主机外挂/四肢（本周同作者已额满）、@BrianRoemmele apps-as-pipes 引用帖（本周已 2 篇）、@yannisbuilds / @rumanagarwal 干货但粉量/互动未过线、@TheAIColonyRD boring website 偏引流、@niko70129972 plus 别名完整配方仍粉量不够。没动 README，也没碰 inbox/。
 
+
+### 2026-10-22 02:06 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-22 02:06」——推荐 3 条（**最值得看 xj-2045/xj-os** Grok 舰队↔Claude Code 经 Drive 邮箱单写协议+架构图；另 AIPMAndy/grok-bot-handbook 中文保姆级 v3.0 MIT、juangurdian/wingman 本机 MCP 桥接 Codex/Claude Code）+6 信号（discord-agent-bridge 无 License、cross-agent-leak 安全复现、doggy8088 繁中镜像、Open-Hermes-Bot 替代 UI、grok-bots-for-hermes 重打包观望、@wavegod routine 省空转）。请核实 handbook 引流表述与 discord 缺 License 后决定是否合并 README。没动 README。

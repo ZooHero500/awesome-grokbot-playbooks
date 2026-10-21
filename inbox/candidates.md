@@ -1489,3 +1489,31 @@ AIPMAndy/grok-bot-handbook（空仓）、denominator69/denominator-boat-dashboar
 ### Skip（本轮）
 
 已列 holdt / ChamathRosh templates / teamwork-UI / siuserxiaowei/grokbot-recipes / OpenMausBot / smfworks templates；scott/xstats（用 Bot 做成的 X 统计仪表盘，非 playbook）；andraetbusiness-code/grokbot-desk（memecoin 看板）；adtaoai/google-ads-adtao-mcp-skills（商业 Google Ads，偏 Claude 插件）；空/个人仓与营销长文交 X 大 V 雷达。
+
+
+## 白天玩法雷达 · 2026-10-22 02:06
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 00:06→02:06（Asia/Shanghai）X + `gh search`。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| xj-2045/xj-os | https://github.com/xj-2045/xj-os | **Grok 舰队 + Claude Code 经共享 Drive 邮箱协作**：两边从不互调 API，只靠 `to-grok/` / `from-grok/` Markdown 单写；含动画数据流、一日时间线、协议序列图与护栏。实现私有、文档脱敏公开。与本仓「Grok↔Claude 邮箱协作」主线同构，本轮最值得看 | Multi-bot / Architecture | `multi-bot` `claude-code` `drive` `mailbox` `architecture` `mit` | 0 / MIT | **GitHub**（10-21 建） |
+| AIPMAndy/grok-bot-handbook | https://github.com/AIPMAndy/grok-bot-handbook | **中文保姆级攻略 v3.0**：26 章操作 + 40 套可复制任务指令 + 36 FAQ + 故障诊断/安全检查/7 天上手；Pages 站 + 事实溯源台账（claims.json）。上轮因空仓 skip，本窗已满内容、MIT。作者有咨询引流，短评注明非官方 | Chinese / Guides | `中文` `guide` `prompts` `faq` `mit` | 0 / MIT | **GitHub**（10-21 建，本窗充实） |
+| juangurdian/wingman | https://github.com/juangurdian/wingman | 本机 MCP 桥：Grok Bot（及 Cursor/Muse）可列线程、读 transcript、发消息、打断本地 Codex / Claude Code 会话；`npx wingman-mcp` + Tailscale Serve。云端 Bot 管本地 coding agent 的具体配方 | Skills / Bridges | `mcp` `bridge` `claude-code` `codex` `mit` | 0 / MIT | **X** @pearlwolf42 + **GitHub** |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| IgorWarzocha/discord-agent-bridge | https://github.com/IgorWarzocha/discord-agent-bridge | Discord @mention → 该用户自己的 Grok Bot（email / webhook / Hermes / OpenClaw）；带 `skills/discord-bridge/SKILL.md` 与回帖回调。无 License，2★ | Integrations / 待定 | **GitHub**（10-21 建） |
+| themsquared/grok-bot-cross-agent-leak | https://github.com/themsquared/grok-bot-cross-agent-leak | 复现 10-19 跨 Bot 银行余额泄入公开 Slack，并用 agentgateway MCP 护栏按敏感标签拦截。安全/边界案例，Apache-2.0 | Learning / Security | **GitHub**（10-21 建） |
+| doggy8088/grok-bot-learn | https://github.com/doggy8088/grok-bot-learn | RongleCat/grok-bot-learn 的繁中自动同步镜像（OpenCC），站 grok-bot-learn.gh.miniasp.com；上游已列，本条仅作繁中入口信号 | Chinese / Guides | **GitHub** |
+| AZERDSQ131/Open-Hermes-Bot | https://github.com/AZERDSQ131/Open-Hermes-Bot | macOS Electron：用 Hermes 主机复刻 Grok Bot 多 Bot 聊天 UI（群/侧栏），early OSS。替代品界面，非 Grok Bot 玩法 | Related / Alternatives | **X** @AZERDSQ0329 + **GitHub** |
+| brokep/grok-bots-for-hermes | https://github.com/brokep/grok-bots-for-hermes | 90 个 marketplace bot → Hermes profile（SOUL.md + skills + paused cron）。同作者 deepseek-harness 曾因无 License/重打包版权被拒；本仓亦无 License，先观 | Related / Port | **GitHub**（本窗新建） |
+| @wavegod 2112961302767493490 | https://x.com/wavegod/status/2112961302767493490 | 审计全舰队 routine：把「有没有活」机械检查写成先跑脚本（0=睡/10=醒），省空转额度；无独立仓，交 Learning/Routines 短链或 X 大 V 雷达 | Routines / 待定 | **X** |
+
+### Skip（本轮）
+
+交易台 hypergrok-trading-desk / 中文跟风交易「连亏两单下岗」刷帖；graveyard-golf（仅 Built with）；cwijayasundara/grok_bot_harness_v1.0（名含 grok_bot、实为 Claude Code Quorum 插件）；Aceop lilis-kitchen（发现库非配方）；SuperintelApp / pi-adblocker / noid-bot（替代品/弱相关）；已列 xshelf / diginno / holdt / recipes / screensaver / Midnight-GrokBot-Agent；营销/额度长文交 X 大 V 雷达。
