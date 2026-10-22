@@ -1718,3 +1718,26 @@ VesperZephyr/OpenBot、XInTheDark/meowbert-ai-agent、yyydddkkk/rakazo（替代�
 ### Skip（本轮）
 
 已列 kiwi-hook / specialized-ai-grok-empire / cherwinyu/grok-bot-mcp / misselvexu x-ops / herdr-mcp / vm-vitals / grokbot-cli 等；robbin/grokbot-local-agent（已在候选，本窗 @fankaishuoai 再推 Telegram 看 agent）；voltwake/xianyu-monitor（OpenClaw 闲鱼 skill，非 Grok Bot 原生配方）；jinkkkang/grokbot_computer_research（沙箱/专有 sand 脚本学习摘录，再分发风险）；一个自称应保持私有的 workspace 快照仓（隐私，不点名）；Midnight-GrokBot-Agent / 替代品 orca·rome·rakazo·OpenMausBot·claudio-bot·mygrokbot-host；bot 自产内容站与营销/额度帖交 X 大 V 雷达。
+
+## 2026-10-22 22:00 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 20:07→22:00（Asia/Shanghai）`gh search`（"Grok Bot" / grokbot / grok-bot 更新与今日新建）+ X `url:github.com` / 玩法帖。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| devicki/ourobot | https://github.com/devicki/ourobot | **卡住时呼叫的顾问 Bot**：把 Q00/ouroboros（访谈定规格→种子→证据验收的 Agent OS）包成 Grok Bot 引擎；默认只咨询/验收，显式要求才写代码。本机跑 Ouroboros MCP + Claude Code（判断）+ Grok Build CLI（执行），`install.sh` 幂等、不登录不打密钥；多语 README。同作者已有 herdrbot 系，本轮最值得看 | Multi-bot / Skills | `consultant` `ouroboros` `mcp` `claude-code` `grok-build` `mit` | 0 / MIT | **X** @teatime_forest + **GitHub**（10-22 本窗新建） |
+| 00200200/maintainer-skills-lab | https://github.com/00200200/maintainer-skills-lab | **17 个维护者向 skill 单源多端**：人味润稿、带证据修 bug、ML 调试、PR 审阅等；写一份 Markdown → sync 出 Claude/Codex/Cursor/OpenCode/**Grok Bot** 等原生文件（含 `grok-bot/` 与 providers）。MIT，48★，可当 skill 配方库 | Skills / Playbooks | `skills` `multi-client` `grok-bot` `docs` `mit` | 48 / MIT | **GitHub**（本窗更新） |
+| EdmundLimBoEn/gb2gpt | https://github.com/EdmundLimBoEn/gb2gpt | **ChatGPT Developer-mode MCP ↔ Grok Bot 舰队桥**：零第三方 pip 依赖的小 Python/SQLite 服务；推荐专用 relay bot 转发到总管，可选 routine webhook 门铃叫醒；含 CHATGPT_SETUP / 自托管 / 威胁模型。非官方。License=CC BY-NC 4.0，短评须注明非商业 | Skills / Bridges | `chatgpt` `mcp` `fleet` `relay` `webhook` `cc-by-nc` | 0 / CC BY-NC 4.0 | **GitHub**（本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Nichokas/grokbot-linux-port | https://github.com/Nichokas/grokbot-linux-port | 非官方 Linux 打包：从官方 .deb 原样重打 AUR/COPR/便携 tar；43★ MIT。包装向非玩法，可作 Clients 信号 | Related / Clients | **GitHub**（本窗更新） |
+| Q00/ouroboros | https://github.com/Q00/ouroboros | ourobot 底座 Agent OS（MCP、多 runtime）；偏通用编码编排，随 ourobot 对照即可 | Related / Engines | **X** + **GitHub** |
+
+### Skip（本轮）
+
+QuinnEckart/digitalocean-grokbot-plugin（空 README）；ikeriano/eltiron-grok-bot / frank-otto/cauldron-eruption（游戏）；kleezhou/klee-ielts（词卡）；yousafnazir/grok-bot（空）；ZuskiVibeCode/quant-trading / mfanninf1555/Project-Delta / Midnight-GrokBot-Agent（交易/Web3）；ViktorychGroup/ViktorychApp / dlamb-boop/easypost / boydt/morning-brief / gilsrubin-sys/market-indicator（bot 自产内容站）；mikeg0/grokbot-face（人脸 demo）；lucasfrasca-AI/GrokBotOne（私人备份）；andraetbusiness-code/grokbot-desk / m-fin/render-helper / send21io/send21-plugin（已 skip 类或 Private）；CelestoAI/celesto / jooler/kepcup / NachikethReddyY/agni-bot（替代品）；sukikeeling/moodie-pet / Bronsonalan/pi-adblocker / michaelhofsteenge-art/mijn-bots / SenorFernando/GBP（偏题或 stub）；已列 orca / botter / recipes / harness-bridge / claude-grok-bridge / taishang-laojun 等；营销/额度帖交 X 大 V 雷达。

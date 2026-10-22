@@ -727,3 +727,7 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · Skills 与连接�
 
 @bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；中文扩搜 Pages/看板/工单/客服/连接器/Marketplace/派活/销售：Pages 中文仍只有低粉有步骤帖（@yolohair 四步图解约 286 粉、@Sisyphusii/@arito_si）或演示/转述，无合格对照；IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文仍开。信号未收：@iamleannmuller 首支 AI 团队长文（与今日已收 @eng_khairallah1 结构高度同质）、@0xPaulvibe 7 条涨粉提示词（约 2.7k 粉未过线）、@mfishbein 七 bot 清单（偏展示）、@andrehaykaljr ListKit 冷邮件（带产品导流）、@tibor_tee Admin 长文（周上限）、@fankaishuoai Telegram 看 Agent（周上限）、@moritzkremb 视频更新汇总（难核步骤）、交易/日文帖。没动 README，也没碰 inbox/。
 
+
+### 2026-10-22 22:00 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-22 22:00」段，推荐 3 条（**最值得看 devicki/ourobot** 顾问 Bot 包 Ouroboros+Claude Code+Grok Build；另 00200200/maintainer-skills-lab 17 skill 多端含 Grok Bot、EdmundLimBoEn/gb2gpt ChatGPT↔舰队桥须注明 CC BY-NC）+2 信号（grokbot-linux-port 打包、ouroboros 底座）。请核实后决定是否合并 README。没动 README。
