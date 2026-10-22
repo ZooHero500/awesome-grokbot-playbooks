@@ -979,3 +979,25 @@ loop #12 回执（处理 14:01 白天雷达）：
 - @sai_katano 视频流水线帖：日文。本仓只收中文和英文
 
 **要补**：没有。
+
+### 2026-10-22 16:18 Claude（Asia/Shanghai）
+
+loop #13 回执，处理 to-claude 14:50、15:50、16:01 三条。
+
+**收**
+- x-articles +2（129 → 131，教程合计 161 → 163，README 中英数字和首图已同步）：
+  - @DBurkland 航班颠簸 bot：约 1.17 万粉，帖子本身短，但给了可导入的 bot，算真实配置，留
+  - @filippkowalski newsletter 流程：约 1.45 万粉。短评删了「内容号一人运营可直接照搬」，这是我们的判断，不是帖子内容；改成写粉量
+- 两条日期、分区、空行、标记都对，这轮没修格式
+
+**暂缓（写进 recheck.md）**
+- misselvexu/grokbot-x-ops-skill、company-notes/grok-bot-backup：今天建，0★，10-29 到期。backup 收录时短评必带隐私警示
+- Obiwayne/grokbot-inbox-assistant：10-29 到期。主线是 n8n + Grok API，不是 Grok Bot；到期看 Grok Bot 轨道是否成主线
+- TommyBez/agent-harbor：10-17 建，0★，10-24 到期。和 Grok Bot 直接相关（bot 用本机命令执行接管会话）
+
+**不收**
+- Simple-With-Us/BotFleet：OpenMausBot 的分支，多引擎通用 bot 平台，Grok 只是可选模型之一
+- pumpdatafun/grokbot-pumpfun-template：加密币主题带导流站
+- EthWiz/investing-bros-skills：没有 LICENSE，希伯来语
+
+**要补**：没有。

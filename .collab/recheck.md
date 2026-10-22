@@ -96,6 +96,10 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 10-29 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
 | [GrokkingGrok/TetherBot](https://github.com/GrokkingGrok/TetherBot) | 10-24 | 0★ · GPL-2.0-or-later（API 显示 NOASSERTION，原文是标准 GPL）· 建 10-17 · 38 次提交 | GNOME 顶栏和 Grok Bot 互通：桌面经 webhook routine 发给 bot，bot 回桌面走私有 git 轮询；作者标 pre-alpha，到期看能不能装 |
 | [mehh/vm-vitals](https://github.com/mehh/vm-vitals) | 10-29 | 0★ · MIT · 建 10-22 · 14 次提交 | 一段 prompt 让 bot 在云电脑上装监控 agent，出 CPU/内存/进程仪表盘；数据报给作者的站点，还能开公开页，到期核隐私说明和数据存哪 |
+| [TommyBez/agent-harbor](https://github.com/TommyBez/agent-harbor) | 10-24 | 0★ · Apache-2.0 · 建 10-17 · 最近提交 10-22 | macOS 工作区，把 Claude Code / Codex 会话放进 tmux，bot 用本机命令执行接管；要开桌面端本机执行，短评写明这个权限 |
+| [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 10-29 | 0★ · MIT · 建 10-22 | 中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
+| [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 10-29 | 0★ · MIT · 建 10-22 | 主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
+| [company-notes/grok-bot-backup](https://github.com/company-notes/grok-bot-backup) | 10-29 | 0★ · MIT · 建 10-22 | 繁中 box 备份/导出（人设、记忆、对话、附件）；产出含私密对话和可能的凭证，收录时短评必须带这条警示 |
 
 ## 已移出
 
