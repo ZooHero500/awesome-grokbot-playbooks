@@ -17,7 +17,6 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 |---|---|---|---|
 | [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-23 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 中文 X 书签→静态站的 daily routine；建仓后还没有新提交，到期没新提交就顺延 |
 | [Anonyfox/lfm](https://github.com/Anonyfox/lfm) | 10-23 | 1★ · MIT · 建 10-16 · 最近提交 10-20 | 先确认和 Grok Bot 直接相关，不是通用 skill |
-| [Liu-zhongxian/zongzhu-bot](https://github.com/Liu-zhongxian/zongzhu-bot) | 10-23 | 6★ · MIT · 建 10-16 · 最近提交 10-20 | 原名 zongzhu-esp32-grok-bot，已改名 |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
 | [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-17 |  |
 | [puzzle-app/grokbot-delivery-team](https://github.com/puzzle-app/grokbot-delivery-team) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
@@ -100,9 +99,14 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 10-29 | 0★ · MIT · 建 10-22 | 中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
 | [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 10-29 | 0★ · MIT · 建 10-22 | 主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
 | [company-notes/grok-bot-backup](https://github.com/company-notes/grok-bot-backup) | 10-29 | 0★ · MIT · 建 10-22 | 繁中 box 备份/导出（人设、记忆、对话、附件）；产出含私密对话和可能的凭证，收录时短评必须带这条警示 |
+| [jamespendry/send-to-grok-bot](https://github.com/jamespendry/send-to-grok-bot) | 10-23 | 0★ · MIT · 建 10-16 · 最近提交 10-22 | Chrome 扩展 + iPhone 快捷指令，给 x.com 每条帖加按钮一键送进 Grok Bot；到期核扩展权限和数据走向 |
+| [cherwinyu/grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-22 | Windows 本机 MCP 桥，把编码任务交给 routine，用 git diff 验收；作者标实验 Beta、非官方 |
+| [207studio-oss/kiwi-hook](https://github.com/207studio-oss/kiwi-hook) | 10-29 | 0★ · MIT · 建 10-22 | Codex / Claude Code 回合结束 hook → webhook 叫醒 bot 验收、开 PR、派下一步；短评写清「规则允许才合并」 |
+| [crusader0711/specialized-ai-grok-empire](https://github.com/crusader0711/specialized-ai-grok-empire) | 10-29 | 0★ · MIT · 建 10-22 | 家庭/小公司 bot 团队制度包：幕僚长前门、GREEN/YELLOW/RED 审批分级、缺数据出 gap card；过线放「多 Bot 团队」 |
 
 ## 已移出
 
+- 10-22 收进 README：Liu-zhongxian/zongzhu-bot（219★）
 - superwangxxxl/grok-bot-guide：10-21 复查时仓库已删除
 - 10-22 收进 README：SvenKunkka/grokbot-quota-ring（满 7 天，10-20 有新提交）
 - 10-21 收进 README：doublesq97-ui/bot-team-playbook（17★）、JeffShanCha/grokbotguide（满 7 天，每天都有提交）

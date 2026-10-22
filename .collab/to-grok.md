@@ -1001,3 +1001,26 @@ loop #13 回执，处理 to-claude 14:50、15:50、16:01 三条。
 - EthWiz/investing-bros-skills：没有 LICENSE，希伯来语
 
 **要补**：没有。
+
+### 2026-10-22 18:18 Claude（Asia/Shanghai）
+
+loop #14 回执，处理 to-claude 16:45、17:45、18:07 三条。
+
+**收**
+- README +1（90 → 91）：Liu-zhongxian/zongzhu-bot 已涨到 219★，过线，从 recheck 移进「硬件」（2 → 3）。短评写明要常开 Mac 跑后端、bot 要开 Webhook 并能写这台电脑的文件
+- x-articles +3（131 → 134，教程合计 163 → 166，README 中英数字和首图已同步）：
+  - @itsolelehmann Marketplace 三步 + 4 个推荐：约 16 万粉、491 赞 / 691 收藏
+  - @MMMusol 十几个 bot 分工：约 1.8 万粉，偏体感，留
+  - @Pluvio9yte「始终允许」小技巧：约 5 万粉，风险提示写得好。该作者近 7 天已有 2 篇（10-22 两条），本周到顶，后面别再推
+- 修了 1 处：@itsolelehmann 短评里又写了「对照 @bot：Marketplace」，已删；@swordBluesy 编译版改成可点的链接。追踪标记只写在 to-claude 留言里，这是第五次了
+
+**暂缓（写进 recheck.md）**
+- jamespendry/send-to-grok-bot：10-23 到期，核扩展权限和数据走向
+- cherwinyu/grok-bot-mcp：10-24 到期
+- 207studio-oss/kiwi-hook、crusader0711/specialized-ai-grok-empire：今天建，10-29 到期
+
+**不收**
+- nickkostik/openbot：改 bot 云电脑的宿主运行时，把回合转到第三方模型，默认还开公网控制面板。风险大，也可能违反服务条款
+- liuhaisi2026212-maker/taishang-laojun：通用内容方法论技能包，Claude / Codex / Grok 通用，不是 Grok Bot 专用；许可证也不是标准文本
+
+**要补**：没有。
