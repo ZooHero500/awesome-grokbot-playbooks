@@ -151,6 +151,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build from your Tesla, with Grok Bot as the Front Door](https://x.com/mikepat711/status/2104380789517344994) — @mikepat711 · 2026-09-28 · X 长文：在车里用语音让 Grok Bot 当入口，转给 Mac mini 上的其他模型干活，附模板；作者另一条 routine 已收 · 英文
 - [给 bot 起邮箱名的小建议](https://x.com/petergyang/status/2108624122339287335) — @petergyang · 2026-10-10 · 让 bot 当首席助理时，邮箱别用你自己的名字，用它的「职位名」，抄送和约时间才自然 · 英文
 - [How to build a Second Brain that actually does the work (Grok Bot full course)](https://x.com/Argona0x/status/2110045296902164532) — @Argona0x · 2026-10-14 · X 长文：7 章在 bot 的电脑上搭「第二大脑」，资料存文件不靠聊天记忆，夜里自动归档、早上给一页、周日回顾；收藏两千多 · 英文
+- [把未婚妻的第二大脑从 Claude Code 迁到 Grok Bot：云端电脑免维护本机](https://x.com/vinayp10/status/2113263397491855821) — @vinayp10 · 2026-10-22 · X 长文：笔记在 GitHub、开场读 Brain Boot、会话结束写回；Grok Bot 云端电脑省掉家里 Mac Mini 掉线；语音对话、并行 bot、发送前确认卡是作者选它的理由；附 brainboot 起步文件；约 1.7 万粉 · 英文
 - [Hermes, Grok Bot, and Instinct know everything about me thanks to a portable memory I built](https://x.com/mgonto/status/2111986349511159912) — @mgonto · 2026-10-19 · X 长文：把人脉、笔记、项目上下文放进自己的 Markdown wiki，经 MCP 和 REST 接口给多个 Agent 共用，换工具不用重讲一遍 · 英文
 - [让 Grok Bot 打电话帮你订餐厅](https://x.com/BrianRoemmele/status/2111812467500458135) — @BrianRoemmele · 2026-10-18 · 可分享的单一用途 bot：先问清人数、时间和回拨号码，复述后等你确认才拨，结束后转述店家原话并可写进日历；电话靠第三方通话服务 ClawCall 接入，护栏是不报卡号、不留语音、一次一通；被 @elonmusk 引用后爆火，改几个词就能约理发、修车、比价 · 英文
 - [一个 Grok Bot 专门当 Claude Code 的入口](https://x.com/NixFred/status/2112159670890578329) — @NixFred · 2026-10-19 · 短帖：其他 bot 把任务交给它，它在 herdr 里找到对应的 Claude Code 会话把任务直接敲进去，人可随时旁观；合并和强推仍要本人批准；「一晚开 4 个 PR」为作者自述 · 英文
@@ -165,6 +166,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 - [Grok Bot Marketplace: 4 ready-made bots + add one in 3 steps](https://x.com/itsolelehmann/status/2112189337299529966) — @itsolelehmann · 2026-10-19 · 打开市场 → 点 Add → 批准权限三步装现成 bot，点名 Video Editor、Haggle Bot、AI Search Visibility、Overheard 四个，建议先把市场链接丢给自己的 bot 问哪些适合；约 490 赞 / 690 收藏；中文编译版见 [@swordBluesy](https://x.com/swordBluesy/status/2113186585353032164) · 英文
 - [Grok Bot Pages：四步让 bot 做报告/备忘录/看板并自己更新](https://x.com/Texas_Twins_Dad/status/2113007493492129908) — @Texas_Twins_Dad · 2026-10-22 · Pages 新功能：问 bot 要一页→一起改或让它持续刷新，附「一卡一 bot 看板」示例提示；约 8.9k 粉、180+ 赞 / 200+ 收藏 · 英文
+- [Pages 先搭这 6 页：营收/管线/晨报/董事会备忘/制度页/竞品](https://x.com/distortgeekin/status/2113261664694894731) — @distortgeekin · 2026-10-22 · 对照 @bot：Pages；六句可复制提示（周一营收对照、卡 14 天的单、晨报、只起草不发送的董事会备忘等），建议从周一那条开跑；约 6.7k 粉，帖子刚发约 20 赞 / 16 收藏；怎么用 Pages 见上条 @Texas_Twins_Dad · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
 
 ### 出海一人公司
