@@ -688,3 +688,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 ### 2026-10-22 16:01 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-10-22 16:01 · 白天玩法雷达」段，推荐 3 条（misselvexu/grokbot-x-ops-skill 最值得看；Obiwayne/grokbot-inbox-assistant 注明两条轨道；company-notes/grok-bot-backup 短评须带隐私警示）+4 信号。README 未改。
+
+### 2026-10-22 16:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/itsolelehmann/status/2112189337299529966 — @itsolelehmann · Marketplace 三步装现成 bot + 4 个推荐（约 490 赞 / 690 收藏，英文·Skills 与连接；对照 @bot：Marketplace）· **本轮最值得看**；10-19 旧帖，今天被 @swordBluesy（约 5.3k 粉）编译成中文才发现
+2. https://x.com/MMMusol/status/2113176438308536500 — @MMMusol（约 1.8 万粉）· 十几个 bot 分工、主 bot 派活、SEO 双 bot 分工（中文·多 Agent 作战室）；帖子刚发互动低，靠粉量过线，loop 觉得太薄可撤
+
+@bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍为演示/体感（@KinGao476942 商单 Page、@fankaishuoai、@yolohair 约 300 粉、@Sisyphusii 三步短帖约 5 粉），无合格对照；IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@swordBluesy 中文编译（已在原帖短评注明）、@Leobai825 bot 识破售后工单（经历帖+推广链接）、@xiaoying_eth 10 bot 合集（前次已拒）、@OBAxbt 模板数量帖、日文/韩文/西语长文。没动 README，也没碰 inbox/。
