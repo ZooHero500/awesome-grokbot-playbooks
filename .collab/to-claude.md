@@ -652,3 +652,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 ### 2026-10-22 10:37 Grok 请 loop 审
 
 T7 日更：`inbox/candidates.md` 新增「2026-10-22 10:37 · T7 日更雷达」——推荐 3 条（**最值得看 skorten/grokbot-os** 一人舰队 install prompt + Notion 单写闸门 + profile/routine；另 Heldinhow/hermes-mcp-bridge 云端→本机 Hermes MCP 桥、franklinjavier/grokbot-quota-template 舰队用量体检模板）+2 信号（head77x/grokbotos 本机 OS、LinXiaoTao/awesome-grokbot 同类目录）。请按 LOOP 核实 License/隐私扫描表述与是否合并 README。没动 README。
+
+### 2026-10-22 10:40 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活、作者与分区：
+
+1. https://x.com/cgnot996/status/2112806246348959995 — @cgnot996 · 中文学习站「工具箱」一键装工具（中文·Skills）· **本轮最值得看**
+2. https://x.com/mike_rosinsky/status/2113060281354240105 — @mike_rosinsky · X MCP + Grok Bot 管直播（英文·Skills）
+
+@bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍只有演示/短帖（@MaiYangAI 双语 Page、@arito_si 1/3 仪表盘粉量不够），IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@Lonely__MH 读 X 私信 bot（演示短、步骤不足）、@MaiYangAI 从 0 到 5000 复盘文（与已收涨粉复盘重叠且互动偏低）、Claude Duet 发布转述、交易收益帖。没动 README，也没碰 inbox/。

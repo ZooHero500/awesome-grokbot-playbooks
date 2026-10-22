@@ -70,6 +70,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
 - [实操教程｜把 Grok Bot 接进了微信：发一句话，它真的去干活](https://x.com/EvanWritesX/status/2111661828749373784) — @EvanWritesX · 2026-10-18 · X 长文：用 openclaw-weixin 自建桥接 + webhook 叫醒 bot 查邮箱/读网页再回微信，密钥走加密环境变量；约 2.3 万粉、66 收藏，路线不同于 KinGao/wx-bot · 中文
 
+- [中文学习站「工具箱」：一键复制提示词给 Bot 装 Codex / 反重力等](https://x.com/cgnot996/status/2112806246348959995) — @cgnot996 · 2026-10-21 · 学习站新增工具箱板块：找工具→详情页复制配置提示词→发给 Bot 逐步安装；约 9.6k 粉、150 赞 / 200+ 收藏，同作者新手指南与 Action Button 已收 · 中文
+
 ## 中文 · 出海一人公司与内容
 
 - [做自媒体怎么用好 Grok bot](https://x.com/KinGao476942/status/2099736121781764594) — @KinGao476942 · 2026-09-15 · X 长文：从「做出来没人知道」讲起，用 bot 做选题、写作和低成本获客；作者公开了自己的涨粉 bot 模板 · 中文
@@ -160,6 +162,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 - [Grok Bot Pages：四步让 bot 做报告/备忘录/看板并自己更新](https://x.com/Texas_Twins_Dad/status/2113007493492129908) — @Texas_Twins_Dad · 2026-10-22 · Pages 新功能：问 bot 要一页→一起改或让它持续刷新，附「一卡一 bot 看板」示例提示；约 8.9k 粉、180+ 赞 / 200+ 收藏 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
+
+- [用 X MCP + Grok Bot 管直播：排期、管 mod、结束后摘要聊天](https://x.com/mike_rosinsky/status/2113060281354240105) — @mike_rosinsky · 2026-10-22 · X MCP 新能力演示：bot 代管直播排期与管理员、结束后总结聊天；约 89 赞 / 30 收藏（粉量约 3.4k），@thecsguy 有转发摘要 · 英文
 
 ### 出海一人公司
 
