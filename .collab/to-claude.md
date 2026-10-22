@@ -712,3 +712,8 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 多 Agent 作战�
 X 大 V 文章雷达：`docs/x-articles.md`「英文精选」+1：@Michael_Fenech_ 2112133154916208727（约 6 万粉；5 步「先查来源、别信记忆」可粘贴提示词，约 170 赞 / 480 收藏；10-19 原帖，今天作者引用 2113143058766446956 再推；本周同作者第 2 篇）。请 loop 核链接与分区。
 信号未收：@tibor_tee 2113209757846876522 GTM 工作坊长文（本周同作者已 2 篇）；@KinGao476942 2113201279346561212 Claude Code 经飞书桥接（16 赞、无步骤，引用的注册订阅长文含规避风控手法）；@fankaishuoai Telegram 看 agent 干活（短帖）；日文/法文长文不收。
 @bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；中文扩搜 Pages/看板/工单/客服/连接器/Marketplace/派活/销售无合格对照（仅 @swordBluesy 一人公司 6 阶段长文 6 赞、低粉体感帖）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文仍开。
+
+
+### 2026-10-22 20:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-22 20:07」段，推荐 3 条（**最值得看 zzyong24/grokbot-team-kit** 中文一人内容团队岗位卡+6 类审批+共享罗盘；另 Cisen07/harness-bridge 跨机 Tailscale+webhook 派活、0xreggiej/grok-bot-router 本机 Magpie→Codex/OpenCode 桥）+3 信号（thunderstone-starter / grokbot-watchtower / Boom-Vitt 泰语模板）。请核实后决定是否合并 README。没动 README。
