@@ -1645,3 +1645,28 @@ rome-os/rome、nitrictech/sugabots、XInTheDark/meowbert、CelestoAI/celesto、N
 ### Skip（本轮）
 
 a70win-wq/usegrokbot（站点已在 README）；StanHuanng/agent-skills（个人 1 个 skill 薄仓）；Bronsonalan/pi-adblocker（上轮已 skip）；SeRgi270710267/ViktorychApp / memelord420p/judgement-day-tracker / thebullzone/grokbot-wop-tracker / Skybatan/family-book（bot 自产内容站）；owenservera/grokbot-telemetry（已列）；chinghauchu/snorlax-bot / florianleibert/flobot / XInTheDark/meowbert* / NachikethReddyY/agni-bot / webautoscrape/rakazo（替代品或已列）；davidwester89-dot/boekhoudmatch / michaelhofsteenge-art/mijn-bots / SenorFernando/GBP（空或个人 stub）；PalomaCEO-ai/cursor-plugin（商业薄）；stablyai/orca / amplifthq/openmeld / elie222/rakazo / rome-os/rome（README 已有）；营销/额度白嫖长文与 Claude Duet 横评交 X 大 V 雷达。
+
+## 2026-10-22 16:01 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 14:01→16:01（Asia/Shanghai）`gh search`（"Grok Bot" / grokbot / grok-bot 更新）+ X `url:github.com`。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| misselvexu/grokbot-x-ops-skill | https://github.com/misselvexu/grokbot-x-ops-skill | **一条消息搭 X 运营小编辑部**：单文件中英双语 skill `x-ops-team-setup`，交给主 bot 走一段访谈，自动建专职 bot + skills + routines，走「起草→人批→发布」闸；原则「自动化准备、不自动化判断」。带 CHANGELOG/SECURITY/中文 README，本轮最值得看 | Skills / 中文 / 出海一人公司 | `x-ops` `skill` `multi-bot` `approval-gate` `中文` | 0 / MIT | **GitHub**（10-22 新建） |
+| Obiwayne/grokbot-inbox-assistant | https://github.com/Obiwayne/grokbot-inbox-assistant | **邮件助理模板**：新邮件→摘要/下一步/回复草稿→Telegram 里批；主线是 n8n + AgentMail + Grok API（作者实测 31 项），另附 `grok-bot/` 包用 AgentMail 官方插件跑成 Grok Bot（作者注明未实测）。短评须写清两条轨道区别 | Use cases / Email | `email` `agentmail` `n8n` `telegram` `approval` | 0 / MIT | **GitHub**（10-22 新建，template 仓） |
+| company-notes/grok-bot-backup | https://github.com/company-notes/grok-bot-backup | **非官方 box 备份/导出**：把人物设定、记忆、笔记、附件、工作区和每位助理完整对话导成原始包+可读包；config 已 gitignore。繁中。README 自警「产出含私密对话/可能含凭证，不是脱敏数据」——收录时短评必须带这条警示 | Skills / Box ops | `backup` `export` `box` `memory` `繁中` | 0 / MIT | **GitHub**（10-22 新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| TommyBez/agent-harbor | https://github.com/TommyBez/agent-harbor | macOS 原生工作区，常驻 Claude Code / Codex CLI 会话并与 Grok Bot 共享；可对照 herdr-mcp 思路 | Clients / Bridges | **GitHub**（10-17 建，本窗更新） |
+| Simple-With-Us/BotFleet | https://github.com/Simple-With-Us/BotFleet | Mac/iOS 多 bot 工作台：矩阵总览 + kanban 派活，Apache-2.0，4★；需核与 Grok Bot 实际关系 | Multi-bot / Boards | **GitHub**（本窗更新） |
+| pumpdatafun/grokbot-pumpfun-template | https://github.com/pumpdatafun/grokbot-pumpfun-template | 用 x.ai/bot 模板链一键 Add to Grok Bot 的范例（BOT.md / BOT-DAILY.md 结构可参考）；内容是加密币 dev 检查、带导流站，主题不宜正推 | Learning / Maybe | **GitHub**（10-22 新建） |
+| EthWiz/investing-bros-skills | https://github.com/EthWiz/investing-bros-skills | 播客团队共享 skills（Claude/Codex/Grokbot 通用），希伯来语，薄 | Skills / Maybe | **GitHub**（本窗更新） |
+
+### Skip（本轮）
+
+5dive-ai/5dive、Kshot3000/Midnight-GrokBot-Agent、andraetbusiness-code/grokbot-desk、taufiq0205/grok-bot-clone（已列）；CelestoAI/celesto、rome-os/rome、chinghauchu/snorlax-bot、NachikethReddyY/agni-bot、Ayuilos/Miffan（替代品/通用平台）；a70win-wq/usegrokbot（README 已有）；ViktorychGroup/ViktorychApp、thebullzone/grokbot-wop-tracker、memelord420p/judgement-day-tracker（bot 自产内容站）；migueltrevinom/crypto-signals-with-grok-bot、send21io/send21-plugin（加密/支付推广）；nehoraiavior/grok-bot-velocity、Perkalars211/grok-bot-timeline、botbikamordehai2-sketch/grok-bots、Jackson1-netizen/grokbot-music、michaelhofsteenge-art/mijn-bots、davidwester89-dot/boekhoudmatch、Bronsonalan/pi-adblocker（空/个人 stub/无 README）；X 本窗仅 Hermes 替代品自荐帖，跳过。

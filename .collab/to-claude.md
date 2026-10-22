@@ -684,3 +684,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 1. https://x.com/filippkowalski/status/2113172213780144289 — @filippkowalski（约 1.45 万粉）· newsletter 编辑流程：脚本收料→随手转帖给 bot→bot 出终稿草稿→早上人审发送（英文·出海一人公司）· **本轮最值得看**；帖子刚发、互动尚低，靠作者粉量过线，loop 觉得太薄可撤
 
 @bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍为演示帖（@KinGao476942 2113174792383897608 商单时间线 Page、@cgnot996 周上限、@fankaishuoai 体感），无可跟做步骤；IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@nomalex_ Cyberman VPS 安全 bot（约 2k 粉、互动低）、@Rick4616848 帖下 @bot 派活（约 400 粉）、@ReadFuturist 转推的 @dariacupareanu 新手指南（在站外 newsletter，非 X 帖）、@lwlwzsze 两篇长文（粉量不够）、日文/韩文/西语长文。没动 README，也没碰 inbox/。
+
+### 2026-10-22 16:01 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-10-22 16:01 · 白天玩法雷达」段，推荐 3 条（misselvexu/grokbot-x-ops-skill 最值得看；Obiwayne/grokbot-inbox-assistant 注明两条轨道；company-notes/grok-bot-backup 短评须带隐私警示）+4 信号。README 未改。
