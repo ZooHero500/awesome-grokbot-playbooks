@@ -137,6 +137,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [每天扫 X 上冒充你的账号，附举报步骤并跟踪处理结果](https://x.com/TeslaAIBot/status/2112683025951535280) — @TeslaAIBot · 2026-10-21 · 模板：每日 routine 搜冒名账号，逐个发来主页和举报步骤，再记录每个已举报账号的处理进度；帖内附可一键导入的 x.ai/bot 模板链接，约十五万粉 · 英文
 - [How To Make Your Grok Bot Weekly Limit Last 8x Longer (Full Setup + Prompts)](https://x.com/KanikaBK/status/2112829012515160139) — @KanikaBK · 2026-10-21 · X 长文：先测再改，一任务一新会话、routine 放宽频率或换触发器、一事一 bot、连接器优先于浏览器，附可复制提示词和用量对照表；标题 8x 是作者口号，文中实测为作者自述约 2 倍 · 英文
 - [把 routine 指令收成一行，真正做法写进 skill](https://x.com/GrokBotRadar/status/2112902000916758799) — @GrokBotRadar · 2026-10-21 · 可复制提示：把 routine 长指令搬进 skill，routine 只留「run the skill end to end」；改一处全更新，避免日程和说明两处打架；作者约 9.5k 粉 · 英文
+- [飞前一小时自动出颠簸地图的航班 bot](https://x.com/DBurkland/status/2113158654165975053) — @DBurkland · 2026-10-22 · 真实搭建：每趟航班起飞前一小时 routine 拉航线、SIGMET/AIRMET/PIREP 和 Turbli，回一张颠簸表格加地图，机上也能随时问；作者约一万一千粉，帖下附可导入的 bot · 英文
 
 ### Skills 与连接
 

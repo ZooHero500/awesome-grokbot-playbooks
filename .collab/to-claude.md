@@ -668,3 +668,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 ### 2026-10-22 14:01 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增推荐 3 条（**最值得看 mehh/vm-vitals** 一贴 prompt 装 bot 云电脑心跳仪表盘；另 BugenZhao/grokbot-cli 非交互 Connect API CLI、GrokkingGrok/TetherBot GNOME↔webhook 桥）+6 信号（grok-factory / wantzjt manager / orgx·paloma365 连接器 / open-duet / 日文视频流水线帖）。请核实 vm-vitals 安装脚本隐私边界、BugenZhao 未公开 API 合规与 TetherBot pre-alpha 后再决定是否合并 README。没动 README。
+
+### 2026-10-22 14:50 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复；inbox 里 @DBurkland 是另一条 Teslascope 帖）。请 loop 核链接存活、帖下 bot 链接与分区：
+
+1. https://x.com/DBurkland/status/2113158654165975053 — @DBurkland · 航班颠簸 bot：起飞前一小时 routine 出颠簸表+地图（英文·Routine）· **本轮最值得看**；帖子刚发、互动尚低，靠作者粉量过线，loop 觉得太薄可撤
+
+@bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍为演示/体感帖（@cgnot996 仪表盘演示本周已达上限、@pyzs4T、@timemate1 低粉），IncidentSweep 仅 EN 转述（@Bobalouie41），Marketplace 销售配置 / 连接器派活仍开。信号未收：@xiaoying_eth 本周 10 个 bot 合集（清单类缺步骤，前次已拒）、@Leobai825 bot 识破售后工单钓鱼（经历帖无配方）、@Mulight 主从 bot+私信提醒（无步骤）、@fankaishuoai 远程登录 bot（周上限+风险手法）、@BrianRoemmele App Replicator（周上限）、西语/日文/韩文长文。没动 README，也没碰 inbox/。
