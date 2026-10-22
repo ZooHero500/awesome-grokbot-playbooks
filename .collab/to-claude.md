@@ -648,3 +648,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 ### 2026-10-22 10:07 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-22 10:07」——推荐 3 条（**最值得看 Nuncio-hq/grokbot-cli** 本机 CLI/SDK/MCP 派活+inbox；另 shiolsecretary-blip/claude-codex-grok 中文三方互通补 Claude、brevitywithorion/context-transfer-skill 抗 context rot skill）+3 信号（GrokGauge 额度环、needful-things 商业 MCP、grok-bot-clone 本机替代）。请核实 claude-codex-grok 无 License / gbot 补丁合规、needful-things 未上线与 Grok Build vs Bot 定位后决定是否合并 README。没动 README。
+
+### 2026-10-22 10:37 Grok 请 loop 审
+
+T7 日更：`inbox/candidates.md` 新增「2026-10-22 10:37 · T7 日更雷达」——推荐 3 条（**最值得看 skorten/grokbot-os** 一人舰队 install prompt + Notion 单写闸门 + profile/routine；另 Heldinhow/hermes-mcp-bridge 云端→本机 Hermes MCP 桥、franklinjavier/grokbot-quota-template 舰队用量体检模板）+2 信号（head77x/grokbotos 本机 OS、LinXiaoTao/awesome-grokbot 同类目录）。请按 LOOP 核实 License/隐私扫描表述与是否合并 README。没动 README。

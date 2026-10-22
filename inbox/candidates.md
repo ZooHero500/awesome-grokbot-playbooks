@@ -1571,3 +1571,26 @@ AIPMAndy/grok-bot-handbook（空仓）、denominator69/denominator-boat-dashboar
 ### Skip（本轮）
 
 hexuria/grok-shell（从生产包抽设计 token 做 UI 对标，RE/ToS 风险）；cantgetalonggta-png/grok-omega-console（无 README、含可疑 injector 页）；Topman3579/groknews-archive / Zeua00/Hve-Hangari / dlamb-boop/easypost-outbound-page（空或薄静态）；Richard-Yhn/deepseek-bot-ios / appsvoltaire/TinyTodo（非 Grok Bot 玩法）；已列 ZMGID/7iook/kanban/mygrokbot/xj-os/handbook/wingman/xshelf/diginno/holdt 等；@Codywqkhg Claude Code on bot VM 步骤帖无仓交 X 大 V；营销/额度白嫖长文交 X 大 V 雷达。
+
+## 2026-10-22 10:37 Asia/Shanghai · T7 日更雷达
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约近 24h（含白天 10:07 之后补漏）`gh search` + X `url:github.com` + Web。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| skorten/grokbot-os | https://github.com/skorten/grokbot-os | **一人舰队可安装 OS 包**：Chief of Staff / Notion Librarian / Bot Designer 等 profile + 5 条核心 routine + Notion 单写闸门；空白 bot 粘贴 install prompt 逐步建队，每步等人批。含 leak 扫描与架构文档。可直接抄的多 bot 编排配方，本轮最值得看 | Multi-bot / Playbooks | `multi-bot` `notion` `routines` `install` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-20 建，本窗仍更） |
+| Heldinhow/hermes-mcp-bridge | https://github.com/Heldinhow/hermes-mcp-bridge | 本机 Node MCP（Streamable HTTP）：云端 agent（含 Grok Bot）经隧道把任务派给自托管 Hermes，`hermes_task/status/result/files` + 多 agent 注册表；loopback + bearer + 审计。云→本机 Hermes 派活桥，MIT | Skills / Bridges | `mcp` `hermes` `bridge` `multi-agent` `mit` | 0 / MIT | **X** @helldinhow + **GitHub**（10-22 建） |
+| franklinjavier/grokbot-quota-template | https://github.com/franklinjavier/grokbot-quota-template | 只读额度/活跃度模板：`SETUP.md` 给导入 bot 照装；sqlite 汇总 bot/子 agent/routine 与 Claude·Codex·Grok CLI 花费，静态 dashboard + leakguard 脱敏。比菜单栏环更偏「舰队用量体检」配方 | Learning / Quota | `quota` `dashboard` `fleet` `template` `mit` | 0 / MIT | **X** @franklinjavier + **GitHub** |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| head77x/grokbotos | https://github.com/head77x/grokbotos | Fedora bootc 本机 OS，开机即进 Grok Bot Linux 应用 + `grokbotd`/MCP 控硬件；Apache-2.0，7★。替代品/自托管 OS，非玩法配方 | Related / Alternatives | **X** + **GitHub**（本窗仍推） |
+| LinXiaoTao/awesome-grokbot | https://github.com/LinXiaoTao/awesome-grokbot | 又一份 marketplace bot 目录（中英，站点 awsomebot.com）；同类 Awesome，对照去重即可，不必进条目 | Related lists | **GitHub**（本窗更新） |
+
+### Skip（本轮）
+
+已列 daytime：Nuncio-hq/grokbot-cli、shiolsecretary-blip/claude-codex-grok、brevitywithorion/context-transfer-skill、ZMGID/7iook/kanban/mygrokbot、xj-os/handbook/wingman、xshelf/diginno/holdt 等；timscheuerai/gtm-architecture-template（同作者 grokbot-gtm-team 已在 README）；tt-a1i/archify / mateuscmtropical/cloudbot / Midnight-GrokBot-Agent（上轮已 skip）；appsvoltaire/TinyTodo / manu-labs/grokwallet / trading / 空仓 stub；Fei2411/DeepSeek-Bot（替代品非 Grok Bot 配方）；marketplace 单帖 Storage Rescue / PHP vuln 模板交 X 大 V 或灵感库；营销/额度白嫖长文交 X 大 V 雷达。
