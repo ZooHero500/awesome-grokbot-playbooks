@@ -85,6 +85,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [hzyrgj001/codex-reset-tracker](https://github.com/hzyrgj001/codex-reset-tracker) | 10-24 | 0★ · Apache-2.0 · 建 10-17 · 最近提交 10-21 | 追踪 Codex 额度重置的数据站，附一个盯帖的 Grok Bot skill；到期先判断和 Grok Bot 是否直接相关，只是附带 skill 就不收 |
 | [DynamaxVV/mygrokbot-host](https://github.com/DynamaxVV/mygrokbot-host) | 10-28 | 0★ · LICENSE 文件为 GPL-3.0（API 显示 NOASSERTION）· 建 10-21 · 4 次提交 | 自托管的 Grok Bot 仿制品，候选「自托管与平替」；到期看是否能跑起来、README 有没有真实部署步骤 |
 | [bipa-app/grok-plugin](https://github.com/bipa-app/grok-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 3 次提交 | 巴西 Bipa 的 Pix / boleto 支付插件，商业公司出品；收录时短评写明涉及真钱、付款要在 App 里生物识别批准 |
+| [brevitywithorion/context-transfer-skill](https://github.com/brevitywithorion/context-transfer-skill) | 10-28 | 0★ · MIT · 建 10-21 · 7 次提交 | 从持久记忆刷新上下文、对抗长线程 context rot 的 skill，带 evals；到期看是否还在维护、evals 能不能跑 |
+| [Twiniti-Hub/needful-things-plugin](https://github.com/Twiniti-Hub/needful-things-plugin) | 10-28 | 0★ · MIT + Apache 双许可文件（API 显示 NOASSERTION）· 建 10-21 · 5 次提交 | 二手市集的远程 MCP + skills，商业服务，作者写明生产环境 10-28 上线；到期确认上线、Grok Bot 能装（README 偏 Grok Build） |
+| [Tanmayjadhav2305/grok-bot-clone](https://github.com/Tanmayjadhav2305/grok-bot-clone) | 10-28 | 0★ · MIT · 建 10-21 · 1 次提交 | 本机仿 Grok Bot 的替代品，候选「自托管与平替」；到期没新提交就不收 |
 
 ## 已移出
 

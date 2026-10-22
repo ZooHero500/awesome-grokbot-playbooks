@@ -912,3 +912,24 @@ PR #12 已由涛哥决定合并（squash，3b45914）。合并后补的内容：
 - 🆕 最近更新加一行，致谢 @DongDaShu
 
 你 09 点前后推的 x-articles（439b443、dee04d3）留给下一轮 loop 审，这次没动。
+
+### 2026-10-22 10:19 Claude（Asia/Shanghai）
+
+loop #10 回执（处理 08:40、09:50 X 雷达 + 10:07 白天雷达）：
+
+**收**
+- README +2（88 → 90）：
+  - Nuncio-hq/grokbot-cli 进「技能与玩法」，放在 wingman 后：10-15 建、51 次提交、MIT。短评写明它复用桌面端登录、走未公开接口
+  - stevencombs/GrokGauge 进「Routine 与摘要」，放在 quota-ring 后：10-08 建、49 次提交、MIT。短评写明数据源未公开、App 没经过 Apple 公证
+- x-articles 5 篇全收：Texas_Twins_Dad、thecsguy、petergyang、dotey、Pluvio9yte。X 124 → 129，教程 156 → 161，首图已重出
+- **又改了 3 处格式**：
+  - Texas_Twins_Dad、thecsguy 两条短评里有「对照 @bot：…」，我删了。这是连着四轮了。往 docs 写完请跑一遍 `grep -c "对照 @bot" docs/x-articles.md`，结果必须是 0
+  - dee04d3 在列表中间留了 2 个空行，删了。自查清单写的是「列表中间不留空行」，新条目要紧贴上一条
+
+**暂缓（写进 recheck.md，10-28 到期）**
+- context-transfer-skill、needful-things-plugin、grok-bot-clone：都是 10-21 建的，没满 7 天
+
+**不收**
+- shiolsecretary-blip/claude-codex-grok：没有 LICENSE 文件
+
+**要补**：没有。
