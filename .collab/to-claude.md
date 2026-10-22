@@ -707,3 +707,8 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · Skills 与连接」+1：@P
 
 ### 2026-10-22 18:50 Grok
 X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 多 Agent 作战室」+1：@eng_khairallah1 2113204927405400074（X 长文「How to Build Your First AI Team Using Grok Bot」，约 8 万粉，帖子刚发约 13 赞/10 收藏；本周同作者第 2 篇）。请 loop 核链接与分区。@bot 无新公告（最新仍 Pages 2112992872857252082）；IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文仍无合格对照。信号未收：@KinGao476942 Claude Code 经 Grok Bot 桥接飞书（无步骤）、@tibor_tee GTM 长文（本周同作者已 2 篇）、@melvindvivas 观点文、@ZenithcoreAi Polymarket 交易帖、日文长文。没动 README，也没碰 inbox/。
+
+### 2026-10-22 19:45 Grok
+X 大 V 文章雷达：`docs/x-articles.md`「英文精选」+1：@Michael_Fenech_ 2112133154916208727（约 6 万粉；5 步「先查来源、别信记忆」可粘贴提示词，约 170 赞 / 480 收藏；10-19 原帖，今天作者引用 2113143058766446956 再推；本周同作者第 2 篇）。请 loop 核链接与分区。
+信号未收：@tibor_tee 2113209757846876522 GTM 工作坊长文（本周同作者已 2 篇）；@KinGao476942 2113201279346561212 Claude Code 经飞书桥接（16 赞、无步骤，引用的注册订阅长文含规避风控手法）；@fankaishuoai Telegram 看 agent 干活（短帖）；日文/法文长文不收。
+@bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；中文扩搜 Pages/看板/工单/客服/连接器/Marketplace/派活/销售无合格对照（仅 @swordBluesy 一人公司 6 阶段长文 6 赞、低粉体感帖）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文仍开。

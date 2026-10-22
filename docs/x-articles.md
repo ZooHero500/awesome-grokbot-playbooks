@@ -184,7 +184,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot for PR: The Newsjack Bot That Gets You in the Press](https://x.com/coreyganim/status/2112577969617092879) — @coreyganim · 2026-10-21 · X 长文：专职 PR bot 装开源 Newsjack 技能，抓记者征稿需求、打分出 pitch，配 routine 和「三道闸」人工确认，台账记 CSV；首日数据为作者自述 · 英文
 - [How to build a top 1% Grok Bot sales setup tonight](https://x.com/knoxtwts/status/2112801314199777652) — @knoxtwts · 2026-10-21 · 从市场加 Outbound Prospecting，接 Gmail/日历，喂成交客户样本，首批跑完存成 skill，再配专职跟进 bot + 群聊交接，Auto-review 设「对外邮件先问我」，工作日 8 点 routine 出回复草稿 · 英文
 - [让 Grok Bot 帮我编 newsletter：脚本收料 + 随手转帖 + 早上审稿发送](https://x.com/filippkowalski/status/2113172213780144289) — @filippkowalski · 2026-10-22 · 每天先跑脚本收集素材，刷到好帖随手转给 bot，bot 汇总精选出终稿草稿，本人早上改几处再点发送；作者约 1.4 万粉 · 英文
-
+- [别让 Grok Bot 只信记忆：给 bot 团队立「先查来源」规则的 5 步提示词](https://x.com/Michael_Fenech_/status/2112133154916208727) — @Michael_Fenech_ · 2026-10-19 · 长帖附整段可粘贴提示词：给每个 bot 列出会变的事实（日期、价格、状态）及其权威来源，把记忆里的具体值改成「去哪查」，加一条「先查来源、说明在哪查的、查不到就标未核实」的指令，先改一个 bot 等你批再推广，最后抽 3 个 bot 测；原帖约 170 赞 / 480 收藏，今天作者又引用转推 · 英文
 
 ## 不收的例子
 
