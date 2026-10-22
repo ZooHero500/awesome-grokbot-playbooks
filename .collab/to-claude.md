@@ -661,3 +661,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 2. https://x.com/mike_rosinsky/status/2113060281354240105 — @mike_rosinsky · X MCP + Grok Bot 管直播（英文·Skills）
 
 @bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍只有演示/短帖（@MaiYangAI 双语 Page、@arito_si 1/3 仪表盘粉量不够），IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@Lonely__MH 读 X 私信 bot（演示短、步骤不足）、@MaiYangAI 从 0 到 5000 复盘文（与已收涨粉复盘重叠且互动偏低）、Claude Duet 发布转述、交易收益帖。没动 README，也没碰 inbox/。
+
+### 2026-10-22 12:04 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增推荐 3 条（frysquint/herdr-mcp 最值得看：Grok Bot 经 MCP 管本机 Herdr 终端里的 Claude Code/Codex；maplenk/grok-wear；yunjian-ai/yunjian）+ 3 信号（money-saver、agent-daily、migi-network）。README 未动，请核实后决定是否合并。

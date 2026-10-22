@@ -1594,3 +1594,27 @@ hexuria/grok-shell（从生产包抽设计 token 做 UI 对标，RE/ToS 风险�
 ### Skip（本轮）
 
 已列 daytime：Nuncio-hq/grokbot-cli、shiolsecretary-blip/claude-codex-grok、brevitywithorion/context-transfer-skill、ZMGID/7iook/kanban/mygrokbot、xj-os/handbook/wingman、xshelf/diginno/holdt 等；timscheuerai/gtm-architecture-template（同作者 grokbot-gtm-team 已在 README）；tt-a1i/archify / mateuscmtropical/cloudbot / Midnight-GrokBot-Agent（上轮已 skip）；appsvoltaire/TinyTodo / manu-labs/grokwallet / trading / 空仓 stub；Fei2411/DeepSeek-Bot（替代品非 Grok Bot 配方）；marketplace 单帖 Storage Rescue / PHP vuln 模板交 X 大 V 或灵感库；营销/额度白嫖长文交 X 大 V 雷达。
+
+## 2026-10-22 12:04 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:07 之后 `gh search`（grokbot / grok-bot / grok bot，updated ≥ 10-22）+ X `url:github.com`（本窗 X 链仓均已列）。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| frysquint/herdr-mcp | https://github.com/frysquint/herdr-mcp | **Grok Bot 盯本机终端里的 Claude Code / Codex**：MCP 暴露 Herdr 会话（workspace/tab/pane + 每格 agent 空闲/工作/卡对话框/完成状态），可读输出、派 prompt、等完成、开新 pane 跑命令；后台事件 tap + `events_wait`；变更类工具带 readOnly/destructive 注解便于逐工具授权。需 Herdr 0.9+、Python 3.12。与 grokbot-cli / claude-codex-grok 互补（反向：bot 管终端 agent），本轮最值得看 | Skills / Bridges | `mcp` `claude-code` `codex` `terminal` `mit` | 0 / MIT | **GitHub**（10-22 建） |
+| maplenk/grok-wear | https://github.com/maplenk/grok-wear | 非官方 Wear OS 手表端：手机扫码登录，选任意 bot 免手实时语音、带字幕、可打断，与 bot 聊天记录同步；有 APK + 安装指南。非官方、License 为自定义，短评注明 | Related / Clients | `wear-os` `voice` `client` `unofficial` | 0 / Other | **GitHub**（10-22 建） |
+| yunjian-ai/yunjian | https://github.com/yunjian-ai/yunjian | **中文「装进 Bot 的成员」系列**：青鸟（提示词助手）、千机（造 Skill）、试金（验证助手），每位单一职责，带 CHANGELOG / CI / 安装说明；中英双语。可当中文 skill/bot 配方参考 | Skills / 中文 | `中文` `skill` `prompt` `bot-profile` | 0 / CC BY 4.0 + MIT | **GitHub**（10-21 建，本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| vblife/money-saver | https://github.com/vblife/money-saver | 省钱 bot 规格：退订/砍账单/比价/保价理赔，所有动作过确认闸 + 储蓄台账；目前只有中文 PRD，早期 | Use cases / Maybe | **GitHub**（10-19 建，本窗更新） |
+| skyiimaple/agent-daily | https://github.com/skyiimaple/agent-daily | 中文：把多个 bot（热点早报、招聘雷达等）消息自动归档成按 bot 分类的展示站；思路同 xshelf，仓较薄 | Use cases / 中文 | **GitHub**（本窗更新） |
+| nathanielangafor/migi-network | https://github.com/nathanielangafor/migi-network | agent 互相分享项目/反馈的网络，GrokBot 经 MCP 接入；社区型，先观察 | Connectors / Maybe | **GitHub** |
+
+### Skip（本轮）
+
+rome-os/rome、nitrictech/sugabots、XInTheDark/meowbert、CelestoAI/celesto、NachikethReddyY/agni-bot（替代品/通用 agent 平台）；Aceop-001/lilis-kitchen（已在候选）；peruvian-bull/grokbot、KT3746/grokbot-xadrez、1234yyyyyy/grokbot-news、github031524/Grok-Bot-Ideas、SenorFernando/GBP 等空或个人 stub；bot 自产内容站（market-indicator、tw-stock、wop-tracker、judgement-day、personal-news-reader、wallet-dashboard）非可复用配方；m-fin/render-helper 自称 Private；X 本窗链仓（hermes-mcp-bridge、grok-bot-handbook、grokbotos）已列。
