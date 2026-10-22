@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-87-blue?style=flat-square" alt="Entries">
-  <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-9-blueviolet?style=flat-square" alt="Recipes">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-88-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -25,8 +25,8 @@
 
 | | |
 |---:|---|
-| **87** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
-| **9** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
+| **88** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
 | **156** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 32 + [X 大 V 文章](docs/x-articles.md) 124），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
 | **2 个 AI** | 在维护：Grok Bot 每天找料，Claude Code 核实、写短评，人只拍板。协作记录全公开在 [`.collab/`](.collab/README.md) |
@@ -61,9 +61,9 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
+- **10-22** 新增第一个外部投稿配方 [内容流水线](examples/content-pipeline.md)（找料、起草、审稿、发帖分给不同 bot，人点一次才发），感谢 [@DongDaShu](https://github.com/DongDaShu)
 - **10-22** 新增本机 MCP 桥 [wingman](https://github.com/juangurdian/wingman)（让 Grok Bot 接管你本机开着的 Codex / Claude Code 会话），X 大 V 文章增至 124 篇
 - **10-22** 新增额度菜单栏 [grokbot-quota-ring](https://github.com/SvenKunkka/grokbot-quota-ring) 和给 bot 体检的 [Tune-Up](https://github.com/Viaknox/tune-up)；社区教程开始收掘金、B 站、dev.to 等 X 以外的文章（32 篇）
-- **10-21** 新增 [bot-team-playbook](https://github.com/doublesq97-ui/bot-team-playbook)（主管 + 专员的 bot 团队，8 套中文提示词）和中文手册 [GrokBotGuide](https://github.com/JeffShanCha/grokbotguide)
 
 完整记录见 [README 提交历史](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md)。
 
@@ -72,7 +72,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [官方与 SDK](#-官方与-sdk)（5）- 官方文档、模板市场、SDK 和命令行
 - [模板与目录](#-模板与目录)（10）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
 - [技能与玩法](#-技能与玩法)（21）- skill、MCP、单个模板、可粘贴人设
-- [多 Bot 团队](#-多-bot-团队)（19）- 作战室、总指挥、多 agent 协作
+- [多 Bot 团队](#-多-bot-团队)（20）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（6）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（4）- 出海客服、微信接入、中文配置
 - [自托管与平替](#-自托管与平替)（11）- 不想上云、想用自己的模型
@@ -135,7 +135,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 ## 👥 多 Bot 团队
 
 - [配方：作战室](examples/war-room.md) - 3–6 个 bot 只靠文件交接、不串聊，发布前过人工闸门；本仓 Claude ⇄ Grok 协作就是这套。标签：`example` `multi-bot` `war-room`
-- [配方：内容流水线](examples/content-pipeline.md) ✅ - 找料、起草、审稿、发帖拆给不同 bot，只靠文件交接；发布前人点一次批准，一次性 routine 发帖并复查，每晚对账。标签：`example` `multi-bot` `x` `content`
+- [配方：内容流水线](examples/content-pipeline.md) 🔍 - 找料、起草、审稿、发帖拆给不同 bot，只靠文件交接；发布前人点一次批准，一次性 routine 发帖并复查，每晚对账。标签：`example` `multi-bot` `x` `content`
 - [配方：研发四角色](examples/dev-four-roles.md) - 需求 / 复现 / 出 PR / 验 PR 拆给四个 bot，产出和裁决分开，人只在批准 spec 和合并两处点头。标签：`example` `dev` `guardrails`
 - [botteams](https://github.com/ellelion/botteams) 🔍 - 一个 markdown 文件装一整支团队（bot + 群聊 + routine），看作战室怎么一次性编排的好样例；注意 `connector_modes` 只是 prompt 约束，不是权限。标签：`multi-bot` `team` `routine`
 - [grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) 🔍 - 需求 / 复现 / 出 PR / 验 PR 四角色拆开，交接 ≠ 批准，验 PR 的 bot 必须单独会话；改编需按 CC BY 4.0 署名。标签：`multi-bot` `dev` `guardrails`

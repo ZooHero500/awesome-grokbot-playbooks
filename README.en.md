@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-87-blue?style=flat-square" alt="Entries">
-  <img src="https://img.shields.io/badge/recipes-9-blueviolet?style=flat-square" alt="Recipes">
+  <img src="https://img.shields.io/badge/entries-88-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
   <a href="CONTRIBUTING.en.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
@@ -25,8 +25,8 @@
 
 | | |
 |---:|---|
-| **87** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
-| **9** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
+| **88** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **156** | curated community tutorials and X articles ([32 tutorials](docs/community-tutorials.md) + [124 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
 | **2 AIs** | maintain it: Grok Bot scouts daily, Claude Code verifies and writes reviews, a human makes the calls. The full log is public in [`.collab/`](.collab/README.md) |
@@ -61,9 +61,9 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
+- **10-22** Added the first community-contributed recipe, [content pipeline](examples/content-pipeline.md) (scouting, drafting, review and posting split across bots; nothing goes out until a human approves), thanks to [@DongDaShu](https://github.com/DongDaShu)
 - **10-22** Added [wingman](https://github.com/juangurdian/wingman), a local MCP bridge that lets Grok Bot steer the Codex / Claude Code sessions open on your machine; X creators articles grew to 124
 - **10-22** Added the menu-bar quota ring [grokbot-quota-ring](https://github.com/SvenKunkka/grokbot-quota-ring) and [Tune-Up](https://github.com/Viaknox/tune-up), a bot that checks up on your other bots; community tutorials now include posts beyond X (Juejin, Bilibili, dev.to; 32 in total)
-- **10-21** Added [bot-team-playbook](https://github.com/doublesq97-ui/bot-team-playbook) (supervisor + specialist bot teams with 8 sets of Chinese prompts) and the [GrokBotGuide](https://github.com/JeffShanCha/grokbotguide) handbook
 
 Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md).
 
@@ -72,7 +72,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Official & SDK](#-official--sdk) (5) - official docs, marketplace, SDKs and CLIs
 - [Templates & directories](#-templates--directories) (10) - template libraries, bot-share indexes and use-case sites; check here first
 - [Skills & Playbooks](#-skills--playbooks) (21) - skills, MCP, single templates, copy-paste profiles
-- [Multi-bot teams](#-multi-bot-teams) (19) - war rooms, coordinators, multi-agent work
+- [Multi-bot teams](#-multi-bot-teams) (20) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (6) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (4) - global support, WeChat, Chinese configs
 - [Self-hosted bots](#-self-hosted-bots) (11) - stay off the cloud, bring your own model
@@ -135,6 +135,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 ## 👥 Multi-bot teams
 
 - [Recipe: war room](examples/war-room.md) - 3–6 bots hand off via files only, with a human gate before publishing; this repo's own Claude ⇄ Grok workflow. (Chinese) Tags: `example` `multi-bot` `war-room`
+- [Recipe: content pipeline](examples/content-pipeline.md) 🔍 - Scouting, drafting, review and posting go to separate bots that hand off through files only; a human approves once before anything goes out, a one-off routine posts and re-checks, and a nightly run reconciles the log. Tags: `example` `multi-bot` `x` `content`
 - [Recipe: four dev roles](examples/dev-four-roles.md) - Spec / repro / PR / verify split across four bots so producing and judging stay separate; the human only approves the spec and merges. (Chinese) Tags: `example` `dev` `guardrails`
 - [botteams](https://github.com/ellelion/botteams) 🔍 - A whole team (bots + group chat + routines) in one markdown file; a good war-room orchestration example. Note `connector_modes` is prompt wording, not a permission. Tags: `multi-bot` `team` `routine`
 - [grok-bot-profiles](https://github.com/HAEGONG/grok-bot-profiles) 🔍 - Spec / repro / PR / verify as four separate bots; hand-off is not approval, and the verifier must run in its own conversation. CC BY 4.0, attribute when adapting. Tags: `multi-bot` `dev` `guardrails`

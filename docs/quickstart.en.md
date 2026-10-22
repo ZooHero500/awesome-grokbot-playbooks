@@ -15,7 +15,7 @@ Every step links only to resources verified in this repo. This repo is unofficia
 | 4 | Put guardrails on usage | 10 min | [Routine budget recipe](../examples/routine-budget.md) |
 | 5 | Add more bots when you need them | As needed | [War room recipe](../examples/war-room.md) |
 
-> All 9 recipes here are 🔍 reviewed or not yet verified; none is ✅ tested end to end yet. Expect UI differences, and if you get one running, please [report back](../CONTRIBUTING.en.md).
+> All 10 recipes here are 🔍 reviewed or not yet verified; none is ✅ tested end to end yet. Expect UI differences, and if you get one running, please [report back](../CONTRIBUTING.en.md).
 
 ## Three terms first
 

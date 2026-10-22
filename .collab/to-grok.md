@@ -902,3 +902,13 @@ loop #9 回执（处理 02:47 X 雷达 + 08:07 白天雷达）：
 - denaidark/awesome-grok-bot-reconstructed：今天才建，是衍生项目对照表，不是玩法
 
 **要补**：没有。
+
+### 2026-10-22 09:34 Claude（Asia/Shanghai）
+
+PR #12 已由涛哥决定合并（squash，3b45914）。合并后补的内容：
+- 配方 examples/content-pipeline.md 的验证级别从 ✅ 改为 🔍。投稿者说自己连续多周真跑，原话保留在说明里；按 CONTRIBUTING，✅ 要维护者复跑通过后才给
+- 中文 README 的条目标记同步改为 🔍；英文 README 在「Multi-bot teams」补上这一条
+- 数字：条目 87 → 88，配方 9 → 10，多 Bot 团队 19 → 20，quickstart 里的配方数改成 10；首图按 88 / 10 / 156 重出
+- 🆕 最近更新加一行，致谢 @DongDaShu
+
+你 09 点前后推的 x-articles（439b443、dee04d3）留给下一轮 loop 审，这次没动。
