@@ -1546,3 +1546,28 @@ AIPMAndy/grok-bot-handbook（空仓）、denominator69/denominator-boat-dashboar
 ### Skip（本轮）
 
 交易台 HyperGrok / Midnight-GrokBot-Agent（上轮已 skip）；mateuscmtropical/cloudbot（自述 early 不可用）；timscheuerai/gtm-architecture-template（同作者 grokbot-gtm-team 已在 README）；tt-a1i/archify（通用 agent 作图 skill，非 Grok Bot 专向）；bostonaholic/grokbot-skills / owenservera/grokbot-telemetry（candidates 已列）；空 README（Chaoc2624/SenorFernando/tony-wei-chang/dlamb-boop）；drpclau/claude-routine-pilot（虚构测试仓）；数字牙科失败报告（个人叙事薄）；营销/额度长文交 X 大 V 雷达。
+
+
+## 白天玩法雷达 · 2026-10-22 10:07
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 08:07→10:07（Asia/Shanghai）X + `gh search` + Web。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Nuncio-hq/grokbot-cli | https://github.com/Nuncio-hq/grokbot-cli | **本机 CLI / SDK / MCP 驱动 Grok Bot 舰队**：`grokbot ask/send/wait/reply/team/inbox`，`setup-prompt` 贴进 Claude Code/Codex/Cursor 一次配好；bot 云电脑装 inbox skill，助手侧约 1 分钟可见待办。macOS + Node 20.3+，MIT。跨 runtime 派活配方，本轮最值得看 | Skills / Bridges | `cli` `mcp` `sdk` `multi-bot` `inbox` `mit` | 0 / MIT | **GitHub**（10-15 建，本窗仍推） |
+| shiolsecretary-blip/claude-codex-grok | https://github.com/shiolsecretary-blip/claude-codex-grok | **中文 Claude Code ↔ Codex ↔ Grok Bot 三方互通**：gbot 0.12.4 版本锁定补丁 + 按 @GPT/@Claude 点名分拣转发；架构图与叫醒时序；Claude 侧收件箱（终端 2 分钟 / 桌面 30 分钟兜底）。上轮同作者 codex-grok-bridge 仅双边，本仓补全 Claude。无 License、非官方，短评注明 | Integrations / Multi-bot | `中文` `claude-code` `codex` `bridge` `gbot` | 0 / 无 License | **GitHub**（10-21 建，本窗更新） |
+| brevitywithorion/context-transfer-skill | https://github.com/brevitywithorion/context-transfer-skill | Context Transfer skill：每轮从持久 memory 拉短 Context Snapshot，对抗长线程 context rot；含 SKILL.md + evals。MIT，可直接当 skill 配方抄 | Skills | `skill` `memory` `context` `mit` | 0 / MIT | **GitHub**（10-21 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| stevencombs/GrokGauge | https://github.com/stevencombs/GrokGauge | macOS 菜单栏 SuperGrok 总池 + Grok/Grok Bot/Cursor 分摊环，Homebrew cask；与已列 Pulse / quota-ring 同类额度工具 | Learning / Quota | **GitHub**（本窗更新） |
+| Twiniti-Hub/needful-things-plugin | https://github.com/Twiniti-Hub/needful-things-plugin | Needful Things 二手市集远程 MCP + skills（draft 可写、发布须 App 内人批）；README 偏 Grok Build，另有 `.grok-plugin`；生产 10-28 才上线。商业连接器，先当信号 | Connectors / Maybe | **GitHub**（10-21 建） |
+| Tanmayjadhav2305/grok-bot-clone | https://github.com/Tanmayjadhav2305/grok-bot-clone | 开源本机「Bot Computer」：多 bot / automations / computer-use / gateway；自称 clean-room 仿 Grok Bot 架构。替代品向，与 mygrokbot-host 同类 | Related / Alternatives | **GitHub**（10-21 建） |
+
+### Skip（本轮）
+
+hexuria/grok-shell（从生产包抽设计 token 做 UI 对标，RE/ToS 风险）；cantgetalonggta-png/grok-omega-console（无 README、含可疑 injector 页）；Topman3579/groknews-archive / Zeua00/Hve-Hangari / dlamb-boop/easypost-outbound-page（空或薄静态）；Richard-Yhn/deepseek-bot-ios / appsvoltaire/TinyTodo（非 Grok Bot 玩法）；已列 ZMGID/7iook/kanban/mygrokbot/xj-os/handbook/wingman/xshelf/diginno/holdt 等；@Codywqkhg Claude Code on bot VM 步骤帖无仓交 X 大 V；营销/额度白嫖长文交 X 大 V 雷达。
