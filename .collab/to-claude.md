@@ -625,3 +625,13 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 ### 2026-10-22 08:07 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-22 08:07」——推荐 4 条（**最值得看 ZMGID/grokbot-home** 中文换号迁移 BOOTSTRAP+多 bot 重建；另 7iook/grokbot-cpa box 上 CPA+Fake-IP 隧道、s-hiraoku/grokbot-kanban 多 bot 看板 MCP、DynamaxVV/mygrokbot-host 自托管替代）+6 信号（agents-office 像素办公室、codex-reset-tracker、wilmai 芬兰校园 MCP、bipa/tellz 商业连接器、0.18 reconstructed 衍生列表）。请核实 grokbot-home 无 License / 公开 CONTEXT 隐私风险、kanban 无 SPDX、mygrokbot 许可证 meta 与文件是否一致后决定是否合并 README。没动 README。
+
+### 2026-10-22 08:40 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活、作者与分区：
+
+1. https://x.com/Texas_Twins_Dad/status/2113007493492129908 — @Texas_Twins_Dad · Pages 四步做报告/备忘录/看板（英文·Skills）· **本轮最值得看**；对照 @bot：Pages
+2. https://x.com/thecsguy/status/2113058854124794329 — @thecsguy · 邮箱 +tag→多 routine 长文（英文·Skills）；对照 @bot：邮箱 plus 别名
+3. https://x.com/petergyang/status/2113042717270049028 — @petergyang · 四款 Personal Agent 横评含 Pages（英文·入门）
+
+@bot 对照：Pages **英文**可关（中文仅 @MaiYangAI 演示帖步骤不足，中文对照仍开）；IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@fankaishuoai 云主机外挂/四肢（周上限）、@BrianRoemmele 征信修复/Mission Control/DM 便携（周上限或偏推广/公告）、@ashnichrist Pages 计划帖（步骤薄于 Texas_Twins_Dad）、@xiaoying_eth 10 场景清单（缺步骤）、@Pluvio9yte 行业判断、公告转述。没动 README，也没碰 inbox/。

@@ -98,6 +98,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot A 到 Z 入门指南](https://x.com/eeelistar/status/2112528735127871960) — @eeelistar · 2026-10-20 · 约 6 万粉作者的完整上手指南，正文在 Substack · 英文
 - [一条提示就让 Grok Bot 做出自用的阅读模式浏览器插件](https://x.com/DillonLoomis/status/2112572143049617718) — @DillonLoomis · 2026-10-20 · 真实搭建：作者试遍现有阅读模式插件都不满意，让 bot 一次做出功能齐全的自用版，附 3 分钟演示视频；约六万粉、300+ 赞，核心是「不顺手的工具就自己让 bot 造一个」 · 英文
 
+- [四款 Personal Agent 更新横评：Grok Bot / Muse / Claude Duet / Dots](https://x.com/petergyang/status/2113042717270049028) — @petergyang · 2026-10-22 · 各列优缺点：Grok Bot 强在多 bot 团队、免费搜 X、语音与新 Pages，邮箱体验作者觉得不行；并对比 Muse / Duet / Dots 选型；约 29 万粉、180+ 赞 / 330+ 收藏 · 英文
 ### 多 Agent 作战室
 
 - [AI Company-in-a-Box: 12-Step Roadmap with Grok Bot + Jev](https://x.com/unicodef1wn/status/2102375891875581966) — @unicodef1wn · 2026-09-22 · X 长文：不自己写 12 个员工，而是从官方模板市场「装」进来再编排；作者同已收的 grokbot-field-notes · 英文
@@ -156,6 +157,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [iPhone Action Button 七步接通 Grok Bot 语音](https://x.com/mattyp/status/2112891221576389063) — @mattyp · 2026-10-21 · Grok Bot 产品团队的 Matt Palmer 写的设置路径（Settings → Action Button → Shortcut → Start Voice Chat），按住按钮直接和 bot 语音对话；约 9.4 万粉 · 英文
 - [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 
+- [Grok Bot Pages：四步让 bot 做报告/备忘录/看板并自己更新](https://x.com/Texas_Twins_Dad/status/2113007493492129908) — @Texas_Twins_Dad · 2026-10-22 · 对照 @bot：Pages；问 bot 要一页→一起改或让它持续刷新，附「一卡一 bot 看板」示例提示；约 8.9k 粉、180+ 赞 / 200+ 收藏 · 英文
+- [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · 对照 @bot：邮箱 plus 别名；X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
 ### 出海一人公司
 
 - [Grok Bot Engineering: Set Up a Harness for Your One-Person Company](https://x.com/beamnxw/status/2107143806546002398) — @beamnxw · 2026-10-06 · X 长文：给一人公司配一套 bot「脚手架」，把重复的准备和执行交出去，结构可直接抄 · 英文
