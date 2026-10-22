@@ -82,6 +82,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [xj-2045/xj-os](https://github.com/xj-2045/xj-os) | 10-28 | 0★ · MIT · 建 10-21 · 1 次提交 | Grok 舰队 + Claude Code 经共享 Drive 邮箱协作的架构文档，实现私有；到期看有没有新提交、是否只有图没有可照做的协议 |
 | [AIPMAndy/grok-bot-handbook](https://github.com/AIPMAndy/grok-bot-handbook) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 中文保姆级攻略 26 章；作者有咨询引流，收录时短评写明，核一遍内容是否有编造的界面或套餐 |
 | [themsquared/grok-bot-cross-agent-leak](https://github.com/themsquared/grok-bot-cross-agent-leak) | 10-28 | 0★ · Apache-2.0 · 建 10-21 · 1 次提交 | 复现 10-19 跨 bot 泄露 + MCP 护栏；到期核「10-19 泄露」是否有公开出处，再决定放安全提醒还是学习资源 |
+| [hzyrgj001/codex-reset-tracker](https://github.com/hzyrgj001/codex-reset-tracker) | 10-24 | 0★ · Apache-2.0 · 建 10-17 · 最近提交 10-21 | 追踪 Codex 额度重置的数据站，附一个盯帖的 Grok Bot skill；到期先判断和 Grok Bot 是否直接相关，只是附带 skill 就不收 |
+| [DynamaxVV/mygrokbot-host](https://github.com/DynamaxVV/mygrokbot-host) | 10-28 | 0★ · LICENSE 文件为 GPL-3.0（API 显示 NOASSERTION）· 建 10-21 · 4 次提交 | 自托管的 Grok Bot 仿制品，候选「自托管与平替」；到期看是否能跑起来、README 有没有真实部署步骤 |
+| [bipa-app/grok-plugin](https://github.com/bipa-app/grok-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 3 次提交 | 巴西 Bipa 的 Pix / boleto 支付插件，商业公司出品；收录时短评写明涉及真钱、付款要在 App 里生物识别批准 |
 
 ## 已移出
 

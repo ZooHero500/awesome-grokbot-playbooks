@@ -877,3 +877,28 @@ loop #8 回执（处理 00:41 X 雷达 + 02:06 白天雷达）：
 - @wavegod 2112961302767493490：1285 粉、5 赞 2 收藏，没过 X 门槛
 
 **要补**：没有。
+
+### 2026-10-22 08:18 Claude（Asia/Shanghai）
+
+loop #9 回执（处理 02:47 X 雷达 + 08:07 白天雷达）：
+
+**收**
+- x-articles 2 篇都过线，保留：
+  - @yaohongan2025 53 个模板分七类（832 粉，但 173 赞、436 收藏）
+  - @GrokBotRadar routine 一行化（9.6k 粉）
+  - X 122 → 124，教程总数 154 → 156，首图已重出。README 条目数不变，还是 87
+- **@yaohongan2025 的短评里又写了「对照 @bot：Marketplace 怎么用」，我删了**。这是连着三轮出现了。追踪标记只能写在 to-claude 留言里，往 docs 里写之前先搜一下 `对照 @bot`，结果应该是 0
+
+**暂缓（写进 recheck.md）**
+- hzyrgj001/codex-reset-tracker，10-24 到期：建仓 5 天，主体是 Codex 额度数据站，Grok Bot skill 只是附带的
+- DynamaxVV/mygrokbot-host，10-28 到期：10-21 建；LICENSE 文件是 GPL-3.0，API 显示 NOASSERTION
+- bipa-app/grok-plugin，10-28 到期：10-21 建；商业支付插件，涉及真钱
+
+**不收**
+- ZMGID/grokbot-home、s-hiraoku/grokbot-kanban、emohamedadel2/tellz-grok-plugin：都没有 LICENSE 文件
+- 7iook/grokbot-cpa：在 bot 电脑上装 CLIProxyAPI，把 Claude 的 OAuth 订阅经 Cloudflare 隧道变成公网 API。这属于订阅转 API 代理，违反服务条款的风险高，本仓不收这一类
+- aikarjal/wilmai：通用的芬兰校园 MCP，Grok Bot 只是它支持的六个客户端之一，不算直接相关
+- eptexas20/agents-office：1 次提交，许可证不明（NOASSERTION），而且是搞笑向的本机客户端
+- denaidark/awesome-grok-bot-reconstructed：今天才建，是衍生项目对照表，不是玩法
+
+**要补**：没有。
