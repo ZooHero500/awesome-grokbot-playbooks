@@ -1517,3 +1517,32 @@ AIPMAndy/grok-bot-handbook（空仓）、denominator69/denominator-boat-dashboar
 ### Skip（本轮）
 
 交易台 hypergrok-trading-desk / 中文跟风交易「连亏两单下岗」刷帖；graveyard-golf（仅 Built with）；cwijayasundara/grok_bot_harness_v1.0（名含 grok_bot、实为 Claude Code Quorum 插件）；Aceop lilis-kitchen（发现库非配方）；SuperintelApp / pi-adblocker / noid-bot（替代品/弱相关）；已列 xshelf / diginno / holdt / recipes / screensaver / Midnight-GrokBot-Agent；营销/额度长文交 X 大 V 雷达。
+
+
+## 白天玩法雷达 · 2026-10-22 08:07
+
+> 按 full_name / 仓名与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 02:06→08:07（Asia/Shanghai）X + `gh search`。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| ZMGID/grokbot-home | https://github.com/ZMGID/grokbot-home | **中文换号迁移家**：公开仓 + `BOOTSTRAP.md`，新号 bot 匿名克隆→密码框解 `secrets/*.enc`→装 composio-pg→按 `bots/` 重建整队与 routine；密钥扫描、每日同步。可直接抄的「账号迁移/多 bot 重建」配方。注意仓库公开后 CONTEXT 也会被看见，短评提醒勿写隐私。本轮最值得看 | Chinese / Migration | `中文` `multi-bot` `bootstrap` `migration` `secrets` | 0 / 无 License | **GitHub**（10-08 建，本窗仍推） |
+| 7iook/grokbot-cpa | https://github.com/7iook/grokbot-cpa | Grok Bot box 上装 CLIProxyAPI：Cloudflare 隧道（named 双 connector / quick / local）、校验下载、健康 watchdog；专门处理 box 常见 Fake-IP（`198.18.x`）用 `unshare`+hosts。带 skill 引导与 hourly healthcheck。Box 运维向实用，MIT | Skills / Box ops | `box` `cpa` `cloudflare` `fake-ip` `mit` | 0 / MIT | **GitHub**（10-05 建，本窗更新） |
+| s-hiraoku/grokbot-kanban | https://github.com/s-hiraoku/grokbot-kanban | 一人看板 + 多 Grok Bot：bot 经 MCP/HTTP 建卡/认领/批注/移动，**只有主人能删**；可把卡交给 Cursor cloud agent。带架构图与鉴权表。多 bot 工作队列范本（无 SPDX License，短评注明） | Multi-bot / Boards | `multi-bot` `kanban` `mcp` `cursor` | 0 / 无 License | **GitHub**（10-11 建，本窗更新） |
+| DynamaxVV/mygrokbot-host | https://github.com/DynamaxVV/mygrokbot-host | 自托管 Grok-Bot 形态：名册/流式回合/审批闸门/skill/routine/Gateway RPC+SSE；密钥只走环境变量。GPL-3.0 + 中文 README。替代品向，适合 Related | Related / Alternatives | `self-hosted` `routines` `skills` `gpl-3.0` `中文` | 0 / GPL-3.0（meta NOASSERTION） | **GitHub**（本窗新建 10-21） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| eptexas20/agents-office | https://github.com/eptexas20/agents-office | Windows 本机像素办公室「The Branch」：同事=你的 Grok Bot，点人聊天；不索要密码。趣味客户端，License=Other | Fun / Clients | **GitHub**（本窗新建） |
+| hzyrgj001/codex-reset-tracker | https://github.com/hzyrgj001/codex-reset-tracker | 非官方 Codex 额度重置追踪：历史数据集 + 静态可视化 + **Grok Bot skill 一键盯帖**；中英页。Apache-2.0 | Learning / Quota | **GitHub**（本窗更新） |
+| aikarjal/wilmai | https://github.com/aikarjal/wilmai | 芬兰 Wilma 校园系统 MCP/CLI/skill，明确支持 Grok Bot 做家庭晨报；MIT，78★。地域向连接器 | Connectors | **GitHub**（本窗更新） |
+| bipa-app/grok-plugin | https://github.com/bipa-app/grok-plugin | 巴西 Bipa：Pix/boleto 支付 MCP + 葡语 skill；支付须生物识别批准。商业金融连接器，短评注明 | Connectors / Maybe | **GitHub**（本窗新建） |
+| emohamedadel2/tellz-grok-plugin | https://github.com/emohamedadel2/tellz-grok-plugin | Tellz 竞品情报远程 MCP + Marketplace 上架资产；OAuth，商业服务 | Connectors / Maybe | **GitHub**（本窗新建） |
+| denaidark/awesome-grok-bot-reconstructed | https://github.com/denaidark/awesome-grok-bot-reconstructed | 0.18 reconstructed 衍生 fork/port 对照表（带证据标签）。同类 Related list，勿当玩法条目 | Related lists | **GitHub**（本窗新建） |
+
+### Skip（本轮）
+
+交易台 HyperGrok / Midnight-GrokBot-Agent（上轮已 skip）；mateuscmtropical/cloudbot（自述 early 不可用）；timscheuerai/gtm-architecture-template（同作者 grokbot-gtm-team 已在 README）；tt-a1i/archify（通用 agent 作图 skill，非 Grok Bot 专向）；bostonaholic/grokbot-skills / owenservera/grokbot-telemetry（candidates 已列）；空 README（Chaoc2624/SenorFernando/tony-wei-chang/dlamb-boop）；drpclau/claude-routine-pilot（虚构测试仓）；数字牙科失败报告（个人叙事薄）；营销/额度长文交 X 大 V 雷达。

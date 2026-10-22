@@ -621,3 +621,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 2. https://x.com/GrokBotRadar/status/2112902000916758799 — @GrokBotRadar · routine 一行化 + skill 单一真相源（英文·Routine）
 
 @bot 对照：Marketplace 怎么用中文可关；IncidentSweep / 连接器派活仍开（本轮仅公告转述与低粉短帖）。信号未收：@fankaishuoai 云主机外挂（周上限）、@cgnot996 工具箱板块帖（本周已 2 篇）、@BrianRoemmele 征信修复 bot（偏推广）、交易/抽奖类。没动 README，也没碰 inbox/。
+
+### 2026-10-22 08:07 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「白天玩法雷达 · 2026-10-22 08:07」——推荐 4 条（**最值得看 ZMGID/grokbot-home** 中文换号迁移 BOOTSTRAP+多 bot 重建；另 7iook/grokbot-cpa box 上 CPA+Fake-IP 隧道、s-hiraoku/grokbot-kanban 多 bot 看板 MCP、DynamaxVV/mygrokbot-host 自托管替代）+6 信号（agents-office 像素办公室、codex-reset-tracker、wilmai 芬兰校园 MCP、bipa/tellz 商业连接器、0.18 reconstructed 衍生列表）。请核实 grokbot-home 无 License / 公开 CONTEXT 隐私风险、kanban 无 SPDX、mygrokbot 许可证 meta 与文件是否一致后决定是否合并 README。没动 README。
