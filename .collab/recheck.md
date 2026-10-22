@@ -15,8 +15,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 
 | 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
 |---|---|---|---|
-| [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-23 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 中文 X 书签→静态站的 daily routine；建仓后还没有新提交，到期没新提交就顺延 |
-| [Anonyfox/lfm](https://github.com/Anonyfox/lfm) | 10-23 | 1★ · MIT · 建 10-16 · 最近提交 10-20 | 先确认和 Grok Bot 直接相关，不是通用 skill |
+| [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-30 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 10-23 复查：建仓后仍没有新提交，顺延一次（第 1 次） |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
 | [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-17 |  |
 | [puzzle-app/grokbot-delivery-team](https://github.com/puzzle-app/grokbot-delivery-team) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
@@ -99,7 +98,6 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 10-29 | 0★ · MIT · 建 10-22 | 中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
 | [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 10-29 | 0★ · MIT · 建 10-22 | 主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
 | [company-notes/grok-bot-backup](https://github.com/company-notes/grok-bot-backup) | 10-29 | 0★ · MIT · 建 10-22 | 繁中 box 备份/导出（人设、记忆、对话、附件）；产出含私密对话和可能的凭证，收录时短评必须带这条警示 |
-| [jamespendry/send-to-grok-bot](https://github.com/jamespendry/send-to-grok-bot) | 10-23 | 0★ · MIT · 建 10-16 · 最近提交 10-22 | Chrome 扩展 + iPhone 快捷指令，给 x.com 每条帖加按钮一键送进 Grok Bot；到期核扩展权限和数据走向 |
 | [cherwinyu/grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-22 | Windows 本机 MCP 桥，把编码任务交给 routine，用 git diff 验收；作者标实验 Beta、非官方 |
 | [207studio-oss/kiwi-hook](https://github.com/207studio-oss/kiwi-hook) | 10-29 | 0★ · MIT · 建 10-22 | Codex / Claude Code 回合结束 hook → webhook 叫醒 bot 验收、开 PR、派下一步；短评写清「规则允许才合并」 |
 | [crusader0711/specialized-ai-grok-empire](https://github.com/crusader0711/specialized-ai-grok-empire) | 10-29 | 0★ · MIT · 建 10-22 | 家庭/小公司 bot 团队制度包：幕僚长前门、GREEN/YELLOW/RED 审批分级、缺数据出 gap card；过线放「多 Bot 团队」 |
@@ -107,9 +105,14 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Cisen07/harness-bridge](https://github.com/Cisen07/harness-bridge) | 10-29 | 0★ · MIT · 建 10-22 | 云端 bot 经 Tailscale 调度本机 Codex / Claude Code，终态 webhook 回推；短评写明要开 tailnet 和本机常驻服务 |
 | [0xreggiej/grok-bot-router](https://github.com/0xreggiej/grok-bot-router) | 10-29 | 0★ · MIT · 建 10-22 | 本机 shell 桥，Grok Bot 经 Magpie 派活给 Codex / OpenCode，验收要回读产出文件；需本机已装 Magpie CLI |
 | [devicki/ourobot](https://github.com/devicki/ourobot) | 10-29 | 0★ · MIT · 建 10-22 | 顾问 bot：把 Q00/ouroboros 包成 Grok Bot 引擎，本机跑 Ouroboros MCP + Claude Code + Grok Build；默认只咨询、验收，到期核是否真以 Grok Bot 为主 |
+| [ericyangpan/grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin) | 10-29 | 0★ · MIT · 建 10-22 | 微信 iLink → Grok Bot webhook 双向桥，目前只有 README；到期看代码有没有补上 |
+| [naoiseirwin/Tesla-Grokbot-Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) | 10-29 | 0★ · MIT · 建 10-22 | 只读 Tesla Fleet MCP（电量、充电、行程，不能控车），目前只有 README |
+| [aipmer/codex-grok-task-bridge](https://github.com/aipmer/codex-grok-task-bridge) | 10-30 | 4★ · Apache-2.0 · 建 09-12 · 最近提交 09-20 | 门槛已过，但 README 自己写 Grok Bot 侧「还要接 connector、测 routine」。到期看作者跑通没有，跑通就收；仍没跑通就移出 |
 
 ## 已移出
 
+- 10-23 收进 README：jamespendry/send-to-grok-bot（满 7 天，之后每天有提交）
+- 10-23 移出：Anonyfox/lfm，通用落地页 CLI，Claude Code / Codex / Cursor 等都能用，Grok Bot 只是其中一个入口
 - 10-22 收进 README：Liu-zhongxian/zongzhu-bot（219★）
 - superwangxxxl/grok-bot-guide：10-21 复查时仓库已删除
 - 10-22 收进 README：SvenKunkka/grokbot-quota-ring（满 7 天，10-20 有新提交）

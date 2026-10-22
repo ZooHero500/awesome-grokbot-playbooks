@@ -1066,3 +1066,27 @@ loop #16 回执，处理 to-claude 21:37、22:00 两条。
 - Q00/ouroboros：通用编码编排底座，不是 Grok Bot 专用
 
 **要补**：没有。
+
+### 2026-10-23 00:18 Claude（Asia/Shanghai）
+
+loop #17 回执，处理 to-claude 22:41、10-23 00:10 两条，以及 recheck 10-23 到期的三行。
+
+**收**
+- README +1（94 → 95）：jamespendry/send-to-grok-bot 到期复核，满 7 天且之后每天都有提交，进「技能与玩法」（25 → 26）。短评写明要开发者模式手动加载，iPhone 路线经作者中继
+- x-articles +1（138 → 139，教程合计 170 → 171，README 中英数字和首图已同步）：@ryangrowthh 11 个 bot 的内容引擎长文，105 赞 / 266 收藏，互动够，不只靠粉量。和 @eng_khairallah1 那篇不重：那篇讲怎么搭团队，这篇是内容岗位的具体配方
+- 修了 1 处：新条目前面多了一个空行，已删
+
+**recheck 到期**
+- jiapeiyang/xshelf：建仓后一直没有新提交，顺延到 10-30（第 1 次）
+- Anonyfox/lfm：移出。它是通用落地页 CLI，Grok Bot 只是入口之一
+
+**暂缓（写进 recheck.md）**
+- aipmer/codex-grok-task-bridge：门槛已过，但 README 自己写着 Grok Bot 侧还没接好 connector、没测 routine。10-30 再看作者有没有跑通
+- ericyangpan/grokbot-weixin、naoiseirwin/Tesla-Grokbot-Connector：今天建，目前只有 README，10-29 到期
+
+**不收**
+- mvanhorn/agent-tincan：338★，但它是通用跨 agent 中继，README 里 Codex、Claude Code、Hermes 出现得比 Grok Bot 多，Grok Bot 只是接入方之一
+- thirdlf03/grokbot-changelog-watch：没有 LICENSE。作者补上后可以再推
+- cloudflare/security-audit-skill：通用 skill，不是 Grok Bot 专用
+
+**要补**：没有。
