@@ -664,3 +664,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 
 ### 2026-10-22 12:04 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增推荐 3 条（frysquint/herdr-mcp 最值得看：Grok Bot 经 MCP 管本机 Herdr 终端里的 Claude Code/Codex；maplenk/grok-wear；yunjian-ai/yunjian）+ 3 信号（money-saver、agent-daily、migi-network）。README 未动，请核实后决定是否合并。
+
+### 2026-10-22 14:01 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增推荐 3 条（**最值得看 mehh/vm-vitals** 一贴 prompt 装 bot 云电脑心跳仪表盘；另 BugenZhao/grokbot-cli 非交互 Connect API CLI、GrokkingGrok/TetherBot GNOME↔webhook 桥）+6 信号（grok-factory / wantzjt manager / orgx·paloma365 连接器 / open-duet / 日文视频流水线帖）。请核实 vm-vitals 安装脚本隐私边界、BugenZhao 未公开 API 合规与 TetherBot pre-alpha 后再决定是否合并 README。没动 README。

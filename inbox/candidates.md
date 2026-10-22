@@ -1618,3 +1618,30 @@ hexuria/grok-shell（从生产包抽设计 token 做 UI 对标，RE/ToS 风险�
 ### Skip（本轮）
 
 rome-os/rome、nitrictech/sugabots、XInTheDark/meowbert、CelestoAI/celesto、NachikethReddyY/agni-bot（替代品/通用 agent 平台）；Aceop-001/lilis-kitchen（已在候选）；peruvian-bull/grokbot、KT3746/grokbot-xadrez、1234yyyyyy/grokbot-news、github031524/Grok-Bot-Ideas、SenorFernando/GBP 等空或个人 stub；bot 自产内容站（market-indicator、tw-stock、wop-tracker、judgement-day、personal-news-reader、wallet-dashboard）非可复用配方；m-fin/render-helper 自称 Private；X 本窗链仓（hermes-mcp-bridge、grok-bot-handbook、grokbotos）已列。
+
+## 2026-10-22 14:01 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 12:04→14:01（Asia/Shanghai）`gh search`（\"Grok Bot\" / grokbot 更新）+ X `url:github.com` / 玩法帖。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| mehh/vm-vitals | https://github.com/mehh/vm-vitals | **一键盯 bot 云电脑心跳**：站点点 Copy prompt → 贴给 Grok Bot，curl 装本机 Go agent，约 1 分钟出仪表盘（CPU/内存/磁盘/网络 + Claude/Codex/Grok 等 agent 进程）；告警、公开页与 OG 分享卡。只报数字不碰密钥/文件内容。MIT，本轮最值得看 | Skills / Box ops | `box` `telemetry` `dashboard` `one-prompt` `mit` | 0 / MIT | **GitHub**（本窗新建 10-22，仍推） |
+| BugenZhao/grokbot-cli | https://github.com/BugenZhao/grokbot-cli | **非交互 CLI**：`ask/wait/log/status/routines`，走与桌面相同的未公开 Connect API（`aiserver.v1`）；支持独立登录或 macOS 借用桌面会话。与已列 Nuncio-hq/grokbot-cli（SDK/MCP/inbox 舰队派活）互补——本仓偏脚本化/CI。未声明 SPDX，短评注明 API 可能变 | Skills / Bridges | `cli` `connect-api` `routines` `scripting` | 0 / 无 License | **GitHub**（本窗新建 10-22） |
+| GrokkingGrok/TetherBot | https://github.com/GrokkingGrok/TetherBot | **GNOME 顶栏拴住 Grok Bot**：本机 daemon + Shell 扩展；桌面→bot 走 webhook routine，bot→桌面可选轮询私有 git。带 SETUP/prompts/隐私说明。pre-alpha、非官方、License=Other，短评注明 | Clients / Bridges | `gnome` `webhook` `desktop` `bridge` | 0 / Other | **GitHub**（本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| jaredtrichard/grok-factory | https://github.com/jaredtrichard/grok-factory | 一贴 `follow …/GROK_FACTORY.md`：Firstmate 管软件/研究工厂（Cursor cloud 干活、bot 合成写、人合并）。@grok 本窗转链；无 License，上次推 10-05 | Multi-bot / Playbooks | **X** @grok + **GitHub** |
+| wantzjt/manager | https://github.com/wantzjt/manager | 创始人看板：Inbox + Ask + **Grok Build** 工厂两轮后停、人合并；偏 Build 非云端 Bot 舰队，可对照 kanban | Multi-bot / Boards | **X** @grok + **GitHub** |
+| useorgx/orgx-grokbot-plugin | https://github.com/useorgx/orgx-grokbot-plugin | OrgX MCP + initiative skills + Work Graph 钩子，Cursor marketplace 安装路径；商业协作连接器，MIT | Connectors / Maybe | **GitHub**（本窗更新） |
+| Paloma365com/paloma365-plugin | https://github.com/Paloma365com/paloma365-plugin | 餐饮 POS 后台 MCP（哈萨克/CIS）；改价等须确认预览。商业连接器，本窗新建 | Connectors / Maybe | **GitHub** |
+| Anil-matcha/open-duet | https://github.com/Anil-matcha/open-duet | 自托管「同事」替代 Claude Duet，简介点名 Grok Bot/Muse/Dots；同作者已有 open-grok-bot 在 README，对照即可 | Related / Alternatives | **GitHub**（本窗更新，~5.9k★） |
+| Grok→Opus→MCP 视频流水线 | https://x.com/sai_katano/status/2113144716439278069 | 日文：Grok Bot 只编排不判断，中间 Opus+多 MCP+本机处理再回 Bot。无仓，Learning 短链 | Learning | **X** |
+
+### Skip（本轮）
+
+a70win-wq/usegrokbot（站点已在 README）；StanHuanng/agent-skills（个人 1 个 skill 薄仓）；Bronsonalan/pi-adblocker（上轮已 skip）；SeRgi270710267/ViktorychApp / memelord420p/judgement-day-tracker / thebullzone/grokbot-wop-tracker / Skybatan/family-book（bot 自产内容站）；owenservera/grokbot-telemetry（已列）；chinghauchu/snorlax-bot / florianleibert/flobot / XInTheDark/meowbert* / NachikethReddyY/agni-bot / webautoscrape/rakazo（替代品或已列）；davidwester89-dot/boekhoudmatch / michaelhofsteenge-art/mijn-bots / SenorFernando/GBP（空或个人 stub）；PalomaCEO-ai/cursor-plugin（商业薄）；stablyai/orca / amplifthq/openmeld / elie222/rakazo / rome-os/rome（README 已有）；营销/额度白嫖长文与 Claude Duet 横评交 X 大 V 雷达。
