@@ -635,3 +635,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +3（按帖子 ID 与 x-articles、c
 3. https://x.com/petergyang/status/2113042717270049028 — @petergyang · 四款 Personal Agent 横评含 Pages（英文·入门）
 
 @bot 对照：Pages **英文**可关（中文仅 @MaiYangAI 演示帖步骤不足，中文对照仍开）；IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@fankaishuoai 云主机外挂/四肢（周上限）、@BrianRoemmele 征信修复/Mission Control/DM 便携（周上限或偏推广/公告）、@ashnichrist Pages 计划帖（步骤薄于 Texas_Twins_Dad）、@xiaoying_eth 10 场景清单（缺步骤）、@Pluvio9yte 行业判断、公告转述。没动 README，也没碰 inbox/。
+
+### 2026-10-22 09:50 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活、作者与分区：
+
+1. https://x.com/dotey/status/2113014531853365681 — @dotey · 四家 Personal Agent 怎么选（中文·入门）· **本轮最值得看**；与已收 @petergyang 横评互为中英对照
+2. https://x.com/Pluvio9yte/status/2113065297284599924 — @Pluvio9yte · 出海站点/自媒体/AI 周报/计划清单四 bot 实配（中文·出海）
+
+@bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍只有演示帖（@MaiYangAI、@bufcapy 等无步骤），IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@rvaniaaaa 多 bot 团队防交接空转长文（约 4k 粉、18 赞）、@thatsatechnique GiveStash bot（低粉）、@Michael_Fenech_ 恢复包（原帖已收）、Claude Duet 发布转述。没动 README，也没碰 inbox/。
