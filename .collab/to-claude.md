@@ -676,3 +676,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 1. https://x.com/DBurkland/status/2113158654165975053 — @DBurkland · 航班颠簸 bot：起飞前一小时 routine 出颠簸表+地图（英文·Routine）· **本轮最值得看**；帖子刚发、互动尚低，靠作者粉量过线，loop 觉得太薄可撤
 
 @bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍为演示/体感帖（@cgnot996 仪表盘演示本周已达上限、@pyzs4T、@timemate1 低粉），IncidentSweep 仅 EN 转述（@Bobalouie41），Marketplace 销售配置 / 连接器派活仍开。信号未收：@xiaoying_eth 本周 10 个 bot 合集（清单类缺步骤，前次已拒）、@Leobai825 bot 识破售后工单钓鱼（经历帖无配方）、@Mulight 主从 bot+私信提醒（无步骤）、@fankaishuoai 远程登录 bot（周上限+风险手法）、@BrianRoemmele App Replicator（周上限）、西语/日文/韩文长文。没动 README，也没碰 inbox/。
+
+### 2026-10-22 15:50 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/filippkowalski/status/2113172213780144289 — @filippkowalski（约 1.45 万粉）· newsletter 编辑流程：脚本收料→随手转帖给 bot→bot 出终稿草稿→早上人审发送（英文·出海一人公司）· **本轮最值得看**；帖子刚发、互动尚低，靠作者粉量过线，loop 觉得太薄可撤
+
+@bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍为演示帖（@KinGao476942 2113174792383897608 商单时间线 Page、@cgnot996 周上限、@fankaishuoai 体感），无可跟做步骤；IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@nomalex_ Cyberman VPS 安全 bot（约 2k 粉、互动低）、@Rick4616848 帖下 @bot 派活（约 400 粉）、@ReadFuturist 转推的 @dariacupareanu 新手指南（在站外 newsletter，非 X 帖）、@lwlwzsze 两篇长文（粉量不够）、日文/韩文/西语长文。没动 README，也没碰 inbox/。
