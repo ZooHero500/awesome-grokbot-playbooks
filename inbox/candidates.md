@@ -1766,3 +1766,28 @@ QuinnEckart/digitalocean-grokbot-plugin（空 README）；ikeriano/eltiron-grok-
 ### Skip（本轮）
 
 kerm1it/grok-bot-exts（空仓）；a4sr3s/solutions-likes-grokbot（静态落地页）；smallCattyCat/grokbot-box-backup（个人 box 树备份，已有 company-notes/grok-bot-backup 同类警示仓）；francoCosimo95/claude-grok-bridge / XiaoMa3413/qq-grokbot-bridge / owenservera/grokbot-telemetry（candidates 已列）；替代品 orca/rakazo/OpenMausBot/celesto/5dive/snorlax/Miffan/open-duet；bot 自产站（wop-tracker/easypost/Viktorych/morning-brief）；Midnight-GrokBot-Agent / send21 / pi-adblocker；营销/额度帖交 X 大 V 雷达。
+
+## 2026-10-23 02:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 00:07→02:07（Asia/Shanghai）`gh search` + X `url:github.com`。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| hermeshai/hermesh | https://github.com/hermeshai/hermesh | **云端 Bot 派活到本机编码 agent**：Grok Bot / Muse / ChatGPT 经 MCP（或 CLI）接到自家 Mac/VPS 上的 Claude Code、Codex、Cursor 等；本机 Touch ID 批项目授权、可随时断。Issue→派 Claude→开 PR 的可抄闭环；Apache-2.0，Go 单体+DMG。本窗 X @pofey1 预览帖。本轮最值得看 | Multi-bot / Bridges | `mcp` `claude-code` `codex` `bridge` `touch-id` `apache-2.0` | 0 / Apache-2.0 | **X** @pofey1 + **GitHub**（10-22 本窗新建） |
+| walter-grace/cooks | https://github.com/walter-grace/cooks | **开源销售外联 + MCP**：Nooks 兼容 Sequencing API + 32 工具 MCP（stdio/HTTP），任意 Claude / Grok Bot 跑序列、邮件、任务；自托管 Postgres，MIT。里程碑写到 M5，适合「Bot 管 outbound」配方 | Skills / Ops | `mcp` `sales` `outbound` `self-hosted` `mit` | 0 / MIT | **GitHub**（本窗新建） |
+| antonyfuentesdev/spanish-teacher-bot-template | https://github.com/antonyfuentesdev/spanish-teacher-bot-template | **西语教师 Bot 模板源**：identity + memories + routines + 13 个 SKILL.md（分级/上课/复习/考试/周报）；配 course-pack 仓。可抄「模板仓结构」。License=CC BY-NC 4.0，短评须注明非商业 | Skills / Templates | `template` `skills` `routines` `education` `cc-by-nc` | 0 / CC BY-NC 4.0 | **GitHub**（本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| yanqingcheng/grokbot-actually-good-qa-tester | https://github.com/yanqingcheng/grokbot-actually-good-qa-tester | 探索性 QA skill 包（章程→就绪→会话→带证据报告），可移植 Cursor 等；MIT，本窗仍推 | Skills / QA | **GitHub** |
+| we1jia/AgentDock | https://github.com/we1jia/AgentDock | macOS Liquid Glass 语音拨号盘：一键呼叫/闭麦/挂断切换 Grok Bot 多 Bot、Muse、dot 等；偏客户端入口，19★ MIT | Clients / Multi-bot | **GitHub** |
+| personalagentproxy/proxy | https://github.com/personalagentproxy/proxy | 自托管权限代理：服务连一次、按 agent 细粒度授权+审计；README 点名 Grok Bot。118★ MIT，可作多 Bot 安全底座 | Self-hosted / Security | **GitHub**（本窗更新） |
+| jt-wang/visa-bulletin-push | https://github.com/jt-wang/visa-bulletin-push | 美签排期变动 webhook/MCP → ChatGPT/Grok Bot；CF Worker 可自部署。垂直 Routine 信号 | Routines / Niche | **GitHub** |
+
+### Skip（本轮）
+
+空仓/hackathon（sere-nity/grok-bot-hackathon、lukataylo、JadMzk、aleetreny/spaceXAI、kerm1it/grok-bot-exts、yousafnazir）；游戏（ikeriano、frank-otto/cauldron）；交易/Web3（ZuskiVibeCode、Midnight-GrokBot、pumpdatafun、BreadidChickn、Hobie1Kenobi）；bot 自产站（easypost、Viktorych、wop-tracker、morning-brief 类）；包装/空 README（QuinnEckart/digitalocean、andraetbusiness-code/grokbot-desk）；替代品已列或续观（rome-os/rome、CelestoAI/celesto、Ayuilos/Miffan、snorlax、CodeCaps 配额表）；danielfebrero/grok-bot-cerveau（法文薄 README）；timber-love 个人公司 24 提示（偏私有作战室）；apple-reminders-mcp（通用 MCP 非 Grok 专向）；已列 agent-tincan / ourobot / kiwi-hook / harness-bridge / grok-bot-router / weixin / Tesla 连接器等；营销/额度帖交 X 大 V 雷达。

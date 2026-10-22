@@ -753,3 +753,7 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 入门上手」+1�
 1. https://x.com/free_ai_guides/status/2113309273744617696 — @free_ai_guides（约 9.2 万粉）· 购物 bot：搜价核单盯价备车、本人下单；四文件+6 步提示词+早 8 点 routine · **本轮最值得看** · 英文
 
 @bot 对照：@bot 无新公告（最新仍 Pages 2112992872857252082）；中文扩搜 Pages/看板/工单/客服/连接器/Marketplace/派活/销售：Pages 中文仍只有低粉有步骤帖（@Sisyphusii/@yolohair/@arito_si）或演示/转述（@Alpha_Cat 资讯看板、@xaiwind 公告评述），无合格对照；IncidentSweep 仅公告转述（@chenYijl）；Marketplace 销售配置/连接器派活仍开。信号未收：@BrianRoemmele Medical Bill Auditor（近 7 天同作者已 2 篇）、@0xCodez 电视 Jarvis（演示+Opus 逆向课，缺 Grok Bot 可复制步骤）、@XFreeze Starship 追踪页（展示非教程）、@thejayden Polymarket（交易）、@fankaishuoai 开源清单/私信嵌入（周上限或无步骤）、@greedfi/@harris_p10 粉量/互动未过线。没动 README，也没碰 inbox/。
+
+### 2026-10-23 02:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-23 02:07」段，推荐 3 条（**最值得看 https://github.com/hermeshai/hermesh** 云端 Bot→本机 Claude Code/Codex Touch ID 派活；另 walter-grace/cooks 销售外联 MCP、antonyfuentesdev/spanish-teacher-bot-template 须注明 CC BY-NC）+4 信号（QA skill 包、AgentDock 语音拨号、personalagentproxy、visa-bulletin）。请核实后决定是否合并 README。没动 README。
