@@ -123,6 +123,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [给忙不过来的 bot 配一个助手 bot：浏览器不再排队](https://x.com/WheelerMan/status/2112668934969209226) — @WheelerMan · 2026-10-21 · 踩坑：每个 bot 只有一个浏览器，主 bot 占着网页时其他活只能排队；作者加了第二个 bot 专接需要看网页的活和后台任务，主 bot 就能并行；互动不高但拆分思路清楚 · 英文
 - [My top 10 Grok Bot use cases so far](https://x.com/coreyganim/status/2112663410043470281) — @coreyganim · 2026-10-21 · 长帖：首席参谋 bot 派活给其他 bot，外加周日排周计划、夜间第二大脑审计、Speed to Lead 跟进、X 爆款调研、周度数据同步 Notion 等 10 个 bot；对客户的一律只出草稿、本人点发送；约 610 收藏 · 英文
 - [Hand real work to AI by giving every bot one job: the four-bot team that runs my X account](https://x.com/Zephyr_hg/status/2112876834182541338) — @Zephyr_hg · 2026-10-21 · X 长文：scout / reviewer / voice checker / drafter 四岗各管一件事，用共享文件夹交接不互聊；附六段 brief 模板，以及「从工作文件夹找出第一个值得交出去的活」提示词和试跑翻车记录；末尾有付费 playbook 可忽略 · 英文
+- [How to Build Your First AI Team Using Grok Bot (Full Guide)](https://x.com/eng_khairallah1/status/2113204927405400074) — @eng_khairallah1 · 2026-10-22 · X 长文：别一上来开六个 bot，先搭三个；把「团队」拆成组织架构、共享知识、岗位卡、交接协议、经理 bot、审批与停止条件、routine 节奏、复盘八件事，写的和审的必须分开 · 英文
 
 ### Routine 雷达与额度
 

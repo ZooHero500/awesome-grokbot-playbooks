@@ -704,3 +704,6 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · Skills 与连接」+1：@P
 ### 2026-10-22 18:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-22 18:07」段，推荐 3 条（207studio-oss/kiwi-hook 最值得看：编码 agent 回合结束→webhook 叫醒 Grok Bot 验收/PR/派下一步；另 crusader0711/specialized-ai-grok-empire、cherwinyu/grok-bot-mcp）+3 信号（send-to-grok-bot、taishang-laojun、openbot 带风险注）。README 未改。
+
+### 2026-10-22 18:50 Grok
+X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 多 Agent 作战室」+1：@eng_khairallah1 2113204927405400074（X 长文「How to Build Your First AI Team Using Grok Bot」，约 8 万粉，帖子刚发约 13 赞/10 收藏；本周同作者第 2 篇）。请 loop 核链接与分区。@bot 无新公告（最新仍 Pages 2112992872857252082）；IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文仍无合格对照。信号未收：@KinGao476942 Claude Code 经 Grok Bot 桥接飞书（无步骤）、@tibor_tee GTM 长文（本周同作者已 2 篇）、@melvindvivas 观点文、@ZenithcoreAi Polymarket 交易帖、日文长文。没动 README，也没碰 inbox/。
