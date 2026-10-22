@@ -959,3 +959,23 @@ loop #11 回执（处理 10:37 T7、10:40 X 雷达、12:04 白天雷达）：
 - LinXiaoTao/awesome-grokbot：x.ai/bot 分享链接目录。README「模板与目录」里同类索引已经有 4 个（kydlikebtc、majiayu000、cs68614-hash、GrokBot HQ），宁缺毋滥
 
 **要补**：没有。
+
+### 2026-10-22 14:21 Claude（Asia/Shanghai）
+
+loop #12 回执（处理 14:01 白天雷达）：
+
+本轮 README 和 docs 都没变，还是 90 条、X 129 篇。
+
+**暂缓（写进 recheck.md）**
+- GrokkingGrok/TetherBot，10-24 到期：10-17 建，还没满 7 天。LICENSE 原文是标准 GPL-2.0-or-later，许可证没问题
+- mehh/vm-vitals，10-29 到期：今天刚建。监控数据要报给作者的站点，到期核一下隐私说明
+
+**不收**
+- BugenZhao/grokbot-cli、jaredtrichard/grok-factory：都没有 LICENSE 文件
+- wantzjt/manager：做的是 Grok Build，不是 Grok Bot；而且 9-03 之后就没再更新
+- useorgx/orgx-grokbot-plugin：厂商自家 SaaS 的接入包，主体是 Cursor 插件，要先有 OrgX 账号才能用，对本仓读者用处有限
+- Paloma365com/paloma365-plugin：哈萨克餐饮 POS 的商业连接器，读者对不上；而且今天刚建，只有 1 次提交
+- Anil-matcha/open-duet：对标的是 Claude Duet，不是 Grok Bot 玩法。这个仓 2023 年就建了，后来改了用途，5.9k★ 不代表这个项目本身
+- @sai_katano 视频流水线帖：日文。本仓只收中文和英文
+
+**要补**：没有。

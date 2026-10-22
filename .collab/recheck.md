@@ -94,6 +94,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
 | [maplenk/grok-wear](https://github.com/maplenk/grok-wear) | 10-29 | 0★ · 自定义 LICENSE（API 显示 NOASSERTION）· 建 10-22 · 2 次提交 | 非官方 Wear OS 手表语音客户端；到期读 LICENSE 原文，非标准许可证就不收 |
 | [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 10-29 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
+| [GrokkingGrok/TetherBot](https://github.com/GrokkingGrok/TetherBot) | 10-24 | 0★ · GPL-2.0-or-later（API 显示 NOASSERTION，原文是标准 GPL）· 建 10-17 · 38 次提交 | GNOME 顶栏和 Grok Bot 互通：桌面经 webhook routine 发给 bot，bot 回桌面走私有 git 轮询；作者标 pre-alpha，到期看能不能装 |
+| [mehh/vm-vitals](https://github.com/mehh/vm-vitals) | 10-29 | 0★ · MIT · 建 10-22 · 14 次提交 | 一段 prompt 让 bot 在云电脑上装监控 agent，出 CPU/内存/进程仪表盘；数据报给作者的站点，还能开公开页，到期核隐私说明和数据存哪 |
 
 ## 已移出
 
