@@ -5,7 +5,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 > 只收公开帖，短评为本仓观点，版权归原作者。帖内的数字（涨粉、线索数、流量倍数等）都是作者自述，本仓没有核实。
 > 收录标准：作者粉丝约 5k 以上，或帖子有明显互动（约 100 赞或 50 收藏以上），而且内容是教程、配方、真实配置或复盘。只收中英文，同一作者一周最多 2 篇。抽奖送码、代币、交易收益、收益引流、纯推广、官方公告的转发或转述都不收。完整规则见 [CONTRIBUTING](../CONTRIBUTING.md#收录门槛)。
 > 已经在 [社区教程精选](community-tutorials.md) 里的 25 篇这里不重复列，请两页一起看；本仓作者自己的教程见 [sitin 的教程索引](sitin-tutorials.md)。
-> 收录窗口：约 2026-09-07 至 2026-10-22，个别早期高收藏长文也收了。
+> 收录窗口：约 2026-09-07 至 2026-10-23，个别早期高收藏长文也收了。
 
 ## 目录
 
@@ -102,6 +102,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot A 到 Z 入门指南](https://x.com/eeelistar/status/2112528735127871960) — @eeelistar · 2026-10-20 · 约 6 万粉作者的完整上手指南，正文在 Substack · 英文
 - [一条提示就让 Grok Bot 做出自用的阅读模式浏览器插件](https://x.com/DillonLoomis/status/2112572143049617718) — @DillonLoomis · 2026-10-20 · 真实搭建：作者试遍现有阅读模式插件都不满意，让 bot 一次做出功能齐全的自用版，附 3 分钟演示视频；约六万粉、300+ 赞，核心是「不顺手的工具就自己让 bot 造一个」 · 英文
 - [四款 Personal Agent 更新横评：Grok Bot / Muse / Claude Duet / Dots](https://x.com/petergyang/status/2113042717270049028) — @petergyang · 2026-10-22 · 各列优缺点：Grok Bot 强在多 bot 团队、免费搜 X、语音与新 Pages，邮箱体验作者觉得不行；并对比 Muse / Duet / Dots 选型；约 29 万粉、180+ 赞 / 330+ 收藏 · 英文
+
+- [How to build a Grok Bot that does your shopping](https://x.com/free_ai_guides/status/2113309273744617696) — @free_ai_guides · 2026-10-23 · X 长文：购物 bot 只搜价、核单、盯价并备好购物车，下单键本人按；四文件（wishlist/me/rules/purchases）+ 6 步可复制提示词 + 早 8 点盯价 routine；强调别把卡号丢进聊天、别让 bot 点买（Amazon 已拦 AI 下单）；约 9.2 万粉，同作者 Action Button 帖已收 · 英文
 
 ### 多 Agent 作战室
 
