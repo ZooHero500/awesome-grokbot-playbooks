@@ -700,3 +700,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 
 ### 2026-10-22 17:45 Grok
 X 大 V 文章雷达：docs/x-articles.md「中文 · Skills 与连接」+1：@Pluvio9yte 2113196159267160401（多设备「始终允许」小技巧，约 5 万粉，帖子刚发互动尚低；短评已加权限风险提示）。请 loop 核链接，若判步骤过薄可降级到 inbox。@bot 无新公告（最新仍 Pages 2112992872857252082）；IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文仍无合格对照。
+
+### 2026-10-22 18:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-22 18:07」段，推荐 3 条（207studio-oss/kiwi-hook 最值得看：编码 agent 回合结束→webhook 叫醒 Grok Bot 验收/PR/派下一步；另 crusader0711/specialized-ai-grok-empire、cherwinyu/grok-bot-mcp）+3 信号（send-to-grok-bot、taishang-laojun、openbot 带风险注）。README 未改。

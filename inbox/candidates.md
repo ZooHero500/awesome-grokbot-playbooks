@@ -1670,3 +1670,27 @@ a70win-wq/usegrokbot（站点已在 README）；StanHuanng/agent-skills（个人
 ### Skip（本轮）
 
 5dive-ai/5dive、Kshot3000/Midnight-GrokBot-Agent、andraetbusiness-code/grokbot-desk、taufiq0205/grok-bot-clone（已列）；CelestoAI/celesto、rome-os/rome、chinghauchu/snorlax-bot、NachikethReddyY/agni-bot、Ayuilos/Miffan（替代品/通用平台）；a70win-wq/usegrokbot（README 已有）；ViktorychGroup/ViktorychApp、thebullzone/grokbot-wop-tracker、memelord420p/judgement-day-tracker（bot 自产内容站）；migueltrevinom/crypto-signals-with-grok-bot、send21io/send21-plugin（加密/支付推广）；nehoraiavior/grok-bot-velocity、Perkalars211/grok-bot-timeline、botbikamordehai2-sketch/grok-bots、Jackson1-netizen/grokbot-music、michaelhofsteenge-art/mijn-bots、davidwester89-dot/boekhoudmatch、Bronsonalan/pi-adblocker（空/个人 stub/无 README）；X 本窗仅 Hermes 替代品自荐帖，跳过。
+
+## 2026-10-22 18:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 16:01→18:07（Asia/Shanghai）`gh search`（"Grok Bot" / grokbot / grok-bot 更新）+ X `url:github.com`。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| 207studio-oss/kiwi-hook | https://github.com/207studio-oss/kiwi-hook | **编码 agent 一收工就叫醒 bot**：Codex / Claude Code / DeepSeek Harness 回合结束时 hook 发一条小 JSON 到 Grok Bot webhook routine，bot 检查结果→测试过了就 commit/PR（规则允许才合并），没完就派下一步；并行多会话、共享规则与日志仓。可让 bot 自己建 webhook routine 和 hook 配置。和「Grok 挖料→Claude 审」的跨 agent 接力最贴，本轮最值得看 | Multi-bot / Bridges | `webhook` `routine` `claude-code` `codex` `hooks` | 0 / MIT | **X** @207_studio + **GitHub**（10-22 新建） |
+| crusader0711/specialized-ai-grok-empire | https://github.com/crusader0711/specialized-ai-grok-empire | **家庭/小公司 Grok Bot 团队的制度包（Project SAGE）**：一个 Chief of Staff 做前门、专员分道不重叠；按可逆性分 GREEN/YELLOW/RED，发送/付款/发布/删除每次都要本人批确切内容；缺数据出「gap card」不编；P1–P3 时限、静默时段+紧急破例、早晚报/周月复盘；敏感类数据不进 git 并由 CI 拦。附 charters/templates/skills/ADR。可对照作战室模板 | Multi-bot / War room | `chief-of-staff` `approval-gate` `charters` `quiet-hours` `ci` | 0 / MIT | **GitHub**（10-22 新建） |
+| cherwinyu/grok-bot-mcp | https://github.com/cherwinyu/grok-bot-mcp | **Windows 本机 MCP 桥，把编码任务交给 Grok Bot routine 并用 git diff 验收**：管理员先锁 Git 根、可改文件和测试命令，结果按结构化证据核，不信一句「done」；带离线演示（不登录、不发真 webhook）与简中 README。实验 Beta、非官方，短评注明 | Skills / Bridges | `mcp` `windows` `routine` `handoff` `verification` `中文` | 1 / MIT | **GitHub**（10-17 建，本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| jamespendry/send-to-grok-bot | https://github.com/jamespendry/send-to-grok-bot | Chrome 扩展 + iPhone 快捷指令：给 x.com 每条帖加「发送」按钮，一键把帖子送进 Grok Bot（也支持 Claude/ChatGPT/Codex）；适合 X 素材收集流，需核实现路径与权限 | Clients / X 素材 | **GitHub**（本窗更新，MIT） |
+| liuhaisi2026212-maker/taishang-laojun | https://github.com/liuhaisi2026212-maker/taishang-laojun | 中文短视频选题/钩子/标题技能包，先访谈再炼「底味手册」，附 Bot 版 prompt，跨 Claude/Codex/Grok；偏内容方法论，License=Other | Skills / 中文 / Maybe | **GitHub**（10-22 新建） |
+| nickkostik/openbot | https://github.com/nickkostik/openbot | 在 bot 云电脑上把本地 bot 回合改路由到自有模型账号；默认安装会开临时公网控制 URL（拿到即可操作面板），改动宿主运行时，风险高，只作信号 | Related / Maybe | **GitHub**（本窗更新，MIT） |
+
+### Skip（本轮）
+
+VesperZephyr/OpenBot、XInTheDark/meowbert-ai-agent、yyydddkkk/rakazo（替代品/fork）；Simple-With-Us/CodeCaps（额度菜单栏，非 Grok Bot）；foztrk/grok-bot-tray（Grok Desktop 托盘小工具）；wyttle/tgrok（Telegram 仿 @grok，与 Grok Bot 无关）；artalemagic6-gbot/wallet-dashboard、tamago-labs/wayfind、victormazzei/roopon（加密/销售推广或 bot 自产站）；guanzhenyang/goods-image-studio（bot 做的电商项目，非可复用 bot 配方）；一个自称应保持私有的 bot 工作区快照仓（隐私，不点名）；X 本窗另有 Hermes 替代品自荐与私人任务清单帖，跳过。
