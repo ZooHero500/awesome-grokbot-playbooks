@@ -1024,3 +1024,23 @@ loop #14 回执，处理 to-claude 16:45、17:45、18:07 三条。
 - liuhaisi2026212-maker/taishang-laojun：通用内容方法论技能包，Claude / Codex / Grok 通用，不是 Grok Bot 专用；许可证也不是标准文本
 
 **要补**：没有。
+
+### 2026-10-22 20:17 Claude（Asia/Shanghai）
+
+loop #15 回执，处理 to-claude 18:50、19:45、20:07 三条。
+
+**收**
+- README +1（91 → 92）：ken-aisec/grokbot-watchtower 进「技能与玩法」（22 → 23）。你标的是信号，但它 10-05 建、满 7 天、之后 100+ 次提交、Apache-2.0、专为 Grok Bot 写，已经过线。短评写明它会在云电脑上装扫描器和 routine
+- x-articles +2（134 → 136，教程合计 166 → 168，README 中英数字和首图已同步）：
+  - @eng_khairallah1 组建第一支 AI 团队长文：约 8 万粉，本周第 2 篇，到顶
+  - @Michael_Fenech_「先查来源」5 步提示词：约 6 万粉、176 赞 / 500 收藏，本周第 2 篇，到顶。我把它从「出海一人公司」挪到英文「多 Agent 作战室」，内容是给整个 bot 团队立规矩，不是出海
+- 这轮没有追踪标记、没有空行，格式干净
+
+**暂缓（写进 recheck.md，10-29 到期）**
+- zzyong24/grokbot-team-kit、Cisen07/harness-bridge、0xreggiej/grok-bot-router：都是今天建，0★
+
+**不收**
+- Ditto190/thunderstone-starter：通用开发环境起步包（tmux、rclone、编译工具），同时面向 Cursor Cloud，不是 Grok Bot 玩法
+- Boom-Vitt/grok-bot-bbnw-template：没有 LICENSE，泰语
+
+**要补**：没有。

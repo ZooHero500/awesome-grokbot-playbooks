@@ -103,6 +103,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [cherwinyu/grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-22 | Windows 本机 MCP 桥，把编码任务交给 routine，用 git diff 验收；作者标实验 Beta、非官方 |
 | [207studio-oss/kiwi-hook](https://github.com/207studio-oss/kiwi-hook) | 10-29 | 0★ · MIT · 建 10-22 | Codex / Claude Code 回合结束 hook → webhook 叫醒 bot 验收、开 PR、派下一步；短评写清「规则允许才合并」 |
 | [crusader0711/specialized-ai-grok-empire](https://github.com/crusader0711/specialized-ai-grok-empire) | 10-29 | 0★ · MIT · 建 10-22 | 家庭/小公司 bot 团队制度包：幕僚长前门、GREEN/YELLOW/RED 审批分级、缺数据出 gap card；过线放「多 Bot 团队」 |
+| [zzyong24/grokbot-team-kit](https://github.com/zzyong24/grokbot-team-kit) | 10-29 | 0★ · MIT · 建 10-22 | 中文一人内容团队整包：总管 + 14 张岗位卡、6 类审批点、共享罗盘目录；过线放「中文一人公司」或「多 Bot 团队」 |
+| [Cisen07/harness-bridge](https://github.com/Cisen07/harness-bridge) | 10-29 | 0★ · MIT · 建 10-22 | 云端 bot 经 Tailscale 调度本机 Codex / Claude Code，终态 webhook 回推；短评写明要开 tailnet 和本机常驻服务 |
+| [0xreggiej/grok-bot-router](https://github.com/0xreggiej/grok-bot-router) | 10-29 | 0★ · MIT · 建 10-22 | 本机 shell 桥，Grok Bot 经 Magpie 派活给 Codex / OpenCode，验收要回读产出文件；需本机已装 Magpie CLI |
 
 ## 已移出
 
