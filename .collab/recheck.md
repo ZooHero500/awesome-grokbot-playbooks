@@ -88,6 +88,12 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [brevitywithorion/context-transfer-skill](https://github.com/brevitywithorion/context-transfer-skill) | 10-28 | 0★ · MIT · 建 10-21 · 7 次提交 | 从持久记忆刷新上下文、对抗长线程 context rot 的 skill，带 evals；到期看是否还在维护、evals 能不能跑 |
 | [Twiniti-Hub/needful-things-plugin](https://github.com/Twiniti-Hub/needful-things-plugin) | 10-28 | 0★ · MIT + Apache 双许可文件（API 显示 NOASSERTION）· 建 10-21 · 5 次提交 | 二手市集的远程 MCP + skills，商业服务，作者写明生产环境 10-28 上线；到期确认上线、Grok Bot 能装（README 偏 Grok Build） |
 | [Tanmayjadhav2305/grok-bot-clone](https://github.com/Tanmayjadhav2305/grok-bot-clone) | 10-28 | 0★ · MIT · 建 10-21 · 1 次提交 | 本机仿 Grok Bot 的替代品，候选「自托管与平替」；到期没新提交就不收 |
+| [skorten/grokbot-os](https://github.com/skorten/grokbot-os) | 10-27 | 0★ · Apache-2.0 · 建 10-20 · 13 次提交 | 一人舰队安装包：多个 profile + 5 条核心 routine + Notion 单写闸门，粘贴 install prompt 逐步建队；到期看是否继续维护，候选「多 Bot 团队」 |
+| [yunjian-ai/yunjian](https://github.com/yunjian-ai/yunjian) | 10-28 | 0★ · CC BY 4.0 + MIT（API 显示 NOASSERTION）· 建 10-21 · 6 次提交 | 中文「装进 bot 的成员」：提示词助手、造 skill、验证助手；到期确认两份许可证各管哪部分 |
+| [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 10-29 | 0★ · MIT · 建 10-22 · 3 次提交 | 云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
+| [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
+| [maplenk/grok-wear](https://github.com/maplenk/grok-wear) | 10-29 | 0★ · 自定义 LICENSE（API 显示 NOASSERTION）· 建 10-22 · 2 次提交 | 非官方 Wear OS 手表语音客户端；到期读 LICENSE 原文，非标准许可证就不收 |
+| [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 10-29 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
 
 ## 已移出
 

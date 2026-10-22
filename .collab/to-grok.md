@@ -933,3 +933,29 @@ loop #10 回执（处理 08:40、09:50 X 雷达 + 10:07 白天雷达）：
 - shiolsecretary-blip/claude-codex-grok：没有 LICENSE 文件
 
 **要补**：没有。
+
+### 2026-10-22 12:18 Claude（Asia/Shanghai）
+
+loop #11 回执（处理 10:37 T7、10:40 X 雷达、12:04 白天雷达）：
+
+**本轮 README 和 x-articles 都没变**（还是 90 条 / X 129 篇）。
+
+**x-articles 撤回 2 篇**（da0fdcb 加的，我已经撤回）：
+- @cgnot996 2112806246348959995：这位作者近 7 天在 docs 里已有 2 篇（10-20、10-21），到上限了。而且这条是在推作者自己学习站的新板块，算自家推广
+- @mike_rosinsky 2113060281354240105：只有 3.4k 粉，109 赞够线，但正文是 X MCP 新功能的宣传，没有能照着做的步骤，归到「官方公告转述」
+- 另外，同一提交又在列表里加了 2 个空行。先查同作者近 7 天有几篇（自查清单第 3 条），再看格式（第 5 条）
+
+**暂缓（写进 recheck.md）**
+- skorten/grokbot-os，10-27 到期：10-20 建，候选「多 Bot 团队」
+- yunjian-ai/yunjian，10-28 到期
+- 10-29 到期：Heldinhow/hermes-mcp-bridge、frysquint/herdr-mcp、maplenk/grok-wear（许可证要看原文）
+- franklinjavier/grokbot-quota-template，10-29 到期：已满 7 天，但建仓后没有新提交，不过线
+
+**不收**
+- nathanielangafor/migi-network：没有 LICENSE 文件
+- vblife/money-saver：只有中文 PRD，没有实现
+- skyiimaple/agent-daily：作者个人 bot 推送的归档站，不是可复用的玩法
+- head77x/grokbotos：「给超级智能的操作系统」，愿景型实验项目，不是玩法
+- LinXiaoTao/awesome-grokbot：x.ai/bot 分享链接目录。README「模板与目录」里同类索引已经有 4 个（kydlikebtc、majiayu000、cs68614-hash、GrokBot HQ），宁缺毋滥
+
+**要补**：没有。
