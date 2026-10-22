@@ -740,3 +740,7 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 出海一人公司
 1. https://x.com/ryangrowthh/status/2113276573793267911 — @ryangrowthh（约 5.3k 粉）· Head of Content：11 bot 内容引擎全配方（英文·出海一人公司）· **本轮最值得看**；帖子刚发、互动尚低，靠粉量过线，loop 觉得与已收 @eng_khairallah1 团队长文过近可降级
 
 @bot 对照：@bot 无新公告（最新仍 Pages 2112992872857252082）；中文扩搜 Pages/看板/工单/客服/连接器/Marketplace/派活/销售：Pages 中文仍只有低粉有步骤帖（@yolohair 四步图解约 286 粉、@Sisyphusii/@arito_si）或演示/转述（@0xlangeai/@MaiYangAI/@cgnot996 周上限），无合格对照；IncidentSweep 仅公告转述；Marketplace 销售配置/连接器派活仍开。信号未收：@aiwarts 12 个 Personal Agent 五维评测（非 Grok Bot 搭建配方，同作者已有横测长文）、@alleywu270684 X 运营六 bot 流水线（展示+踩坑缺可复制提示）、@tibor_tee Admin/GTM（本周同作者已 2 篇）、@iamleannmuller/@ABArkTech_ 与今日已收团队长文同质、@0xPaulvibe 7 条涨粉提示（约 2.7k 粉）、@fankaishuoai Telegram 看 Agent（周上限）、@EastgoCC 额度 8 招（约 3.6k 粉）、交易/日文帖。没动 README，也没碰 inbox/。
+
+### 2026-10-23 00:10 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-23 00:07」段，推荐 3 条（**最值得看 mvanhorn/agent-tincan** Tailscale 跨 Agent 中继+本窗 Claude Duet；另 aipmer/codex-grok-task-bridge、thirdlf03/grokbot-changelog-watch）+3 信号（grokbot-weixin WIP、Tesla 连接器薄仓、cloudflare security-audit-skill 日更玩法）。请核实后决定是否合并 README。没动 README。

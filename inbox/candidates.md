@@ -1741,3 +1741,28 @@ VesperZephyr/OpenBot、XInTheDark/meowbert-ai-agent、yyydddkkk/rakazo（替代�
 ### Skip（本轮）
 
 QuinnEckart/digitalocean-grokbot-plugin（空 README）；ikeriano/eltiron-grok-bot / frank-otto/cauldron-eruption（游戏）；kleezhou/klee-ielts（词卡）；yousafnazir/grok-bot（空）；ZuskiVibeCode/quant-trading / mfanninf1555/Project-Delta / Midnight-GrokBot-Agent（交易/Web3）；ViktorychGroup/ViktorychApp / dlamb-boop/easypost / boydt/morning-brief / gilsrubin-sys/market-indicator（bot 自产内容站）；mikeg0/grokbot-face（人脸 demo）；lucasfrasca-AI/GrokBotOne（私人备份）；andraetbusiness-code/grokbot-desk / m-fin/render-helper / send21io/send21-plugin（已 skip 类或 Private）；CelestoAI/celesto / jooler/kepcup / NachikethReddyY/agni-bot（替代品）；sukikeeling/moodie-pet / Bronsonalan/pi-adblocker / michaelhofsteenge-art/mijn-bots / SenorFernando/GBP（偏题或 stub）；已列 orca / botter / recipes / harness-bridge / claude-grok-bridge / taishang-laojun 等；营销/额度帖交 X 大 V 雷达。
+
+## 2026-10-23 00:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 22:00→00:07（Asia/Shanghai）`gh search` / API（pushed≥22:00 窗）+ X `url:github.com` / 玩法帖。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| mvanhorn/agent-tincan | https://github.com/mvanhorn/agent-tincan | **跨平台 Agent 互助中继（Tailscale）**：各端只出站连中继，谁问谁干、带回回复；点名 Grok Bot / Claude Code / Codex / Muse / Hermes。本窗 X 称已接 Claude Duet（Bot↔Duet 互派）。338★ MIT，可抄的多 runtime 协作底座，本轮最值得看 | Multi-bot / Bridges | `tailscale` `multi-agent` `relay` `grok-bot` `claude-duet` `mit` | 338 / MIT | **X** @mvanhorn + **GitHub** |
+| aipmer/codex-grok-task-bridge | https://github.com/aipmer/codex-grok-task-bridge | **Codex/Claude Code/Cursor → Cloudflare Workers MCP 任务桥 → Grok Bot 执行**：异步任务、租约、幂等、scoped OAuth；Routine 轮询 claim；非官方、自部署。与已列 claude-grok-bridge（原生 routine 双向）互补——本仓偏「本机编码 agent 指挥云 Bot」 | Skills / Bridges | `mcp` `codex` `cloudflare` `task-queue` `apache-2.0` | 4 / Apache-2.0 | **X** @ai_pmer + **GitHub** |
+| thirdlf03/grokbot-changelog-watch | https://github.com/thirdlf03/grokbot-changelog-watch | **官方 changelog RSS → 有新版本才 webhook 叫醒 Bot**：GitHub Actions 每 6h 扫 `x.ai/changelog/bot`，state 去重、dry-run；无更新不烧额度。日文 README。无 SPDX，短评注明 | Routines / Ops | `changelog` `webhook` `github-actions` `quota` | 0 / 无 License | **GitHub**（10-18 建，本窗仍推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| ericyangpan/grokbot-weixin | https://github.com/ericyangpan/grokbot-weixin | 微信 iLink Bot API → Grok Bot webhook routine 双向桥（同 openclaw-weixin 后端）；MIT 但目前几乎只有 README，WIP。可对照已收 grok-bot-wechat 配方仓 | Integrations / 中文 / Maybe | **GitHub**（本窗新建） |
+| naoiseirwin/Tesla-Grokbot-Connector | https://github.com/naoiseirwin/Tesla-Grokbot-Connector | 只读 Tesla Fleet MCP（电量/充电/气候/行程，无车控）；MIT 但仓极薄（仅 README），先当连接器信号 | Connectors / Maybe | **GitHub**（本窗新建） |
+| cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill | 通用安全审计 skill（~3.8万★）；X 上有人设每日 Routine 在 Grok Bot 跑。非 Grok 专向，可作 Skills/Routines 旁链 | Skills / Security | **X** @DannyGrinberg + **GitHub** |
+| puzzle-app/grokbot-delivery-team | https://github.com/puzzle-app/grokbot-delivery-team | 已在候选：本窗仍有提交，续观即可，勿当新条目 | （已列） | **GitHub** |
+
+### Skip（本轮）
+
+kerm1it/grok-bot-exts（空仓）；a4sr3s/solutions-likes-grokbot（静态落地页）；smallCattyCat/grokbot-box-backup（个人 box 树备份，已有 company-notes/grok-bot-backup 同类警示仓）；francoCosimo95/claude-grok-bridge / XiaoMa3413/qq-grokbot-bridge / owenservera/grokbot-telemetry（candidates 已列）；替代品 orca/rakazo/OpenMausBot/celesto/5dive/snorlax/Miffan/open-duet；bot 自产站（wop-tracker/easypost/Viktorych/morning-brief）；Midnight-GrokBot-Agent / send21 / pi-adblocker；营销/额度帖交 X 大 V 雷达。
