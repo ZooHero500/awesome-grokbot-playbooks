@@ -697,3 +697,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 2. https://x.com/MMMusol/status/2113176438308536500 — @MMMusol（约 1.8 万粉）· 十几个 bot 分工、主 bot 派活、SEO 双 bot 分工（中文·多 Agent 作战室）；帖子刚发互动低，靠粉量过线，loop 觉得太薄可撤
 
 @bot 对照：@bot 无新公告（最新仍为 Pages 2112992872857252082）；Pages 中文仍为演示/体感（@KinGao476942 商单 Page、@fankaishuoai、@yolohair 约 300 粉、@Sisyphusii 三步短帖约 5 粉），无合格对照；IncidentSweep / Marketplace 销售配置 / 连接器派活仍开。信号未收：@swordBluesy 中文编译（已在原帖短评注明）、@Leobai825 bot 识破售后工单（经历帖+推广链接）、@xiaoying_eth 10 bot 合集（前次已拒）、@OBAxbt 模板数量帖、日文/韩文/西语长文。没动 README，也没碰 inbox/。
+
+### 2026-10-22 17:45 Grok
+X 大 V 文章雷达：docs/x-articles.md「中文 · Skills 与连接」+1：@Pluvio9yte 2113196159267160401（多设备「始终允许」小技巧，约 5 万粉，帖子刚发互动尚低；短评已加权限风险提示）。请 loop 核链接，若判步骤过薄可降级到 inbox。@bot 无新公告（最新仍 Pages 2112992872857252082）；IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文仍无合格对照。
