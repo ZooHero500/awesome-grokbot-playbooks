@@ -106,6 +106,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [zzyong24/grokbot-team-kit](https://github.com/zzyong24/grokbot-team-kit) | 10-29 | 0★ · MIT · 建 10-22 | 中文一人内容团队整包：总管 + 14 张岗位卡、6 类审批点、共享罗盘目录；过线放「中文一人公司」或「多 Bot 团队」 |
 | [Cisen07/harness-bridge](https://github.com/Cisen07/harness-bridge) | 10-29 | 0★ · MIT · 建 10-22 | 云端 bot 经 Tailscale 调度本机 Codex / Claude Code，终态 webhook 回推；短评写明要开 tailnet 和本机常驻服务 |
 | [0xreggiej/grok-bot-router](https://github.com/0xreggiej/grok-bot-router) | 10-29 | 0★ · MIT · 建 10-22 | 本机 shell 桥，Grok Bot 经 Magpie 派活给 Codex / OpenCode，验收要回读产出文件；需本机已装 Magpie CLI |
+| [devicki/ourobot](https://github.com/devicki/ourobot) | 10-29 | 0★ · MIT · 建 10-22 | 顾问 bot：把 Q00/ouroboros 包成 Grok Bot 引擎，本机跑 Ouroboros MCP + Claude Code + Grok Build；默认只咨询、验收，到期核是否真以 Grok Bot 为主 |
 
 ## 已移出
 

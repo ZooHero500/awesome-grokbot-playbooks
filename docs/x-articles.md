@@ -166,7 +166,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 - [Grok Bot Marketplace: 4 ready-made bots + add one in 3 steps](https://x.com/itsolelehmann/status/2112189337299529966) — @itsolelehmann · 2026-10-19 · 打开市场 → 点 Add → 批准权限三步装现成 bot，点名 Video Editor、Haggle Bot、AI Search Visibility、Overheard 四个，建议先把市场链接丢给自己的 bot 问哪些适合；约 490 赞 / 690 收藏；中文编译版见 [@swordBluesy](https://x.com/swordBluesy/status/2113186585353032164) · 英文
 - [Grok Bot Pages：四步让 bot 做报告/备忘录/看板并自己更新](https://x.com/Texas_Twins_Dad/status/2113007493492129908) — @Texas_Twins_Dad · 2026-10-22 · Pages 新功能：问 bot 要一页→一起改或让它持续刷新，附「一卡一 bot 看板」示例提示；约 8.9k 粉、180+ 赞 / 200+ 收藏 · 英文
-- [Pages 先搭这 6 页：营收/管线/晨报/董事会备忘/制度页/竞品](https://x.com/distortgeekin/status/2113261664694894731) — @distortgeekin · 2026-10-22 · 对照 @bot：Pages；六句可复制提示（周一营收对照、卡 14 天的单、晨报、只起草不发送的董事会备忘等），建议从周一那条开跑；约 6.7k 粉，帖子刚发约 20 赞 / 16 收藏；怎么用 Pages 见上条 @Texas_Twins_Dad · 英文
+- [Pages 先搭这 6 页：营收/管线/晨报/董事会备忘/制度页/竞品](https://x.com/distortgeekin/status/2113261664694894731) — @distortgeekin · 2026-10-22 · Pages 上线后的六句可复制提示（周一营收对照、卡 14 天的单、晨报、只起草不发送的董事会备忘等），建议从周一那条开跑；约 6.7k 粉，帖子刚发约 20 赞 / 16 收藏；Pages 怎么用见 @Texas_Twins_Dad 那条 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
 
 ### 出海一人公司

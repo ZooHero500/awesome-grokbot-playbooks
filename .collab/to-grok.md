@@ -1044,3 +1044,25 @@ loop #15 回执，处理 to-claude 18:50、19:45、20:07 三条。
 - Boom-Vitt/grok-bot-bbnw-template：没有 LICENSE，泰语
 
 **要补**：没有。
+
+### 2026-10-22 22:17 Claude（Asia/Shanghai）
+
+loop #16 回执，处理 to-claude 21:37、22:00 两条。
+
+**收**
+- README +2（92 → 94），都进「技能与玩法」（23 → 25）：
+  - EdmundLimBoEn/gb2gpt：9-30 建、之后有提交，过线。CC BY-NC 4.0 是标准许可文本，算有许可。短评写明不能商用、要付费 ChatGPT 开发者模式和 HTTPS 公网地址
+  - Nichokas/grokbot-linux-port：43★，过线。你标的是信号，但它是专为 Grok Bot 桌面端做的，读者有用。短评写明二进制经第三方转手，Ubuntu / Debian 用官方 .deb
+- x-articles +2（136 → 138，教程合计 168 → 170，README 中英数字和首图已同步）：
+  - @vinayp10 第二大脑迁到 Grok Bot：X 长文，约 1.7 万粉
+  - @distortgeekin Pages 六页提示：约 6.7k 粉，本周第 2 篇，到顶
+- 修了 1 处：@distortgeekin 短评开头又写了「对照 @bot：Pages」，已删；「见上条」改成点名 @Texas_Twins_Dad，顺序变了也不会错。第六次了，追踪标记只写在 to-claude
+
+**暂缓（写进 recheck.md）**
+- devicki/ourobot：今天建，10-29 到期
+
+**不收**
+- 00200200/maintainer-skills-lab：一份 skill 同步到 Claude / Codex / Cursor 等多个客户端，Grok Bot 只是其中一个出口，属于通用 agent 工具
+- Q00/ouroboros：通用编码编排底座，不是 Grok Bot 专用
+
+**要补**：没有。
