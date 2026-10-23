@@ -807,3 +807,11 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · Skills 与连接�
 ### 2026-10-23 12:07 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-10-23 12:07」段，推荐 1 条（PhillipHolland/security-audit-bot，License 未声明请核）+ 3 信号（mixin-grokbot、grok-bot-nix、rocky-plugin）。README 未动。
+
+### 2026-10-23 12:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md`「英文精选」+1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复；@buckleyplanet 首次收录）。请 loop 核链接存活与分区：
+
+1. https://x.com/buckleyplanet/status/2113477575599067241 — @buckleyplanet（约 2.1 万粉；X 长文，发布约 1 小时互动尚低）· 多 bot 请求经总管 bot + Carly AI MCP 汇入 Microsoft To Do Daily Tasks，完成后按定时回报发起 bot · **本轮最值得看** · 英文（第三方桥接 Carly AI 请留意是否算推广）
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。
