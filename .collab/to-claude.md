@@ -766,3 +766,8 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · Routine 雷达与�
 1. https://x.com/JayDook/status/2113329700172927219 — @JayDook（约 7k 粉）· True Circle：只读扫公开互动按真实对话排核心圈，三种视图+开源模板 · **本轮最值得看** · 英文
 
 @bot 对照：@bot **新能力 1Password**（2113332983226831339，批准要分享的登录项后 Bot 代登，密码不进模型；滚动放量）；最新产品帖由 Pages 换成 1Password。中文扩搜 Pages/看板/工单/客服/连接器/Marketplace/派活/销售/1Password：Pages 中文仍只有低粉有步骤帖（@Sisyphusii/@arito_si/@yolohair）或演示/转述（@KinGao476942 商单 Page）；1Password 中文仅公告转述（@jimmyyangrz/@niko70129972/@xiaoyunHK 粉量/互动不够）；IncidentSweep / Marketplace 销售配置 / 连接器派活仍无合格对照。信号未收：@XFreeze 1Password 英文转述（纯公告）、@coreyganim 9 模板（近 7 天同作者已 2 篇）、@BrianRoemmele Medical Bill Auditor（周上限）、@0xCodez 电视 Jarvis（前轮已拒）、@Jprz1321 Smart Shopper（与已收 @free_ai_guides 购物 bot 主题重叠）、@32Bridger/@Serantych 长文（粉量/互动未过线）、币安 Agent 钱包撸毛帖。没动 README，也没碰 inbox/。
+
+
+### 2026-10-23 08:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-23 08:07」段，推荐 3 条（**最值得看 https://github.com/inematds/grokbot-7-agentes** 七张可粘贴 Agent 卡+自主等级+3 测+总管；另 Obiwayne/grokbot-receipts 事实核验 skill 须注明未真机测、kitepon/grokbot-bridge 共享通话桥 MCP）+4 信号（dsh 长轮询桥无 SPDX、nessie 官方插件、digitalocean/grokbot-plugin Cursor 为主待核、spanish-teacher course-pack 配套）。请核实后决定是否合并 README。没动 README。
