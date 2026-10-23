@@ -784,3 +784,11 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 入门上手」+1�
 
 ### 2026-10-23 10:00 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「2026-10-23 10:00」段，推荐 1 条（markmcnair/chief-of-staff-kit：消息 webhook→Grok Bot 起草→人批后才外发）+ 3 信号（yeemio/grokbots-team、cshenx/agentpeers、tommy-muckstack/myman）。请核实、脱敏后决定是否进 README。
+
+### 2026-10-23 10:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md`「中文 · Skills 与连接」+1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复；@op7418 近 7 天无其他条目）。请 loop 核链接存活与分区：
+
+1. https://x.com/op7418/status/2113454437662670869 — @op7418（约 18 万粉）· 手机系统 App 中文入口（设置→连接应用→手机，日历/通讯录/位置/家庭）· 对照 @bot：手机系统 App · **本轮最值得看** · 中文（短帖，仿 @Pluvio9yte「始终允许」小技巧先例收录；若 loop 认为步骤太薄可回退）
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）；手机系统 App 中文缺口暂以本条关闭（待 loop 确认）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开（@op7418 2113454985237364948 1Password 仅原理说明无步骤）。没动 README，也没碰 inbox/。
