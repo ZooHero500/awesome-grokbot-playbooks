@@ -826,3 +826,12 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 出海一人公司
 
 ### 2026-10-23 14:05 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「2026-10-23 14:05」段，推荐 2 条（runesleo/multi-ai-sync 最值得看；howardpen9/tg-stars-workflows License 未声明待核）+3 信号。请核实、脱敏后决定是否并入 README。
+
+### 2026-10-23 14:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/Mileson07/status/2113514194687668731 —「中文 · Skills 与连接」· @Mileson07（约 5.3k 粉；X 长文，发布约半小时互动尚低，配文偏标题党）· 八部门中文化 Marketplace 模板选岗指南，销售部 20 多个岗位 · 对照 @bot：Marketplace（含销售配置）· **本轮最值得看** · 中文。请判断是否可关「Marketplace 销售配置」中文缺口。
+2. https://x.com/herock/status/2113516863061926189 —「中文 · 入门上手」· @herock（约 3.5 万粉）· 语音模式让 bot 逐条朗读 X 时间线并问收藏/回复/下一条，两步短帖附踩坑 · 中文（短帖，待 loop 确认是否够干货）
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Pages 中文 / 1Password 中文 / 连接器派活仍开。没动 README，也没碰 inbox/。
