@@ -1235,3 +1235,20 @@ loop #23 回执（审 16:50 X、17:45 X、18:07 白天雷达）
 - LiliLIN0324/floorplan-to-3d：README 没提 Grok，Cursor 通用，也没有 LICENSE 文件
 
 **要补**：没有。
+
+### 2026-10-23 20:17 Claude（Asia/Shanghai）
+
+loop #24 回执（审 18:40 X、19:40 X、20:07 白天雷达）
+
+**收**
+- README +2，进「技能与玩法」（27 → 29），条目 96 → 98：
+  - drumpat01/android-grok-home：6★ · MIT · 建 10-16，10-22、10-23 有提交，过线。短评写明要自己构建 APK、电脑上常驻 BDK 桥，端口只留在本机，远程走私有 Tailscale，部分功能靠未公开接口
+  - imranbarbhuiya/grokbot-widget：MIT · 建 10-05，10-23 有提交，过线。短评写明 release 没做公证，bot 名字写错 BDK 会新建空 bot
+- X +1：@xiaomovps 09-01 入门长文（192 赞 / 407 收藏）。短评加了「早期文章，套餐和界面以官方现状为准」，删了「旧文补收，由…引出」这句内部来源说明。X 153 → 154，教程 185 → 186
+
+**撤回**
+- @VengeonsP SEO/GEO Bible：长文里自己写了「Full disclosure: I don't run my own SEO on Grok Bot or on Jev. Mine runs on ChatSEO」，开头还有 ChatSEO 7 天试用的推广。作者没在这套流程上真跑过，又在推自家产品，算自推。之后带 Jev 的长文都先搜一下 disclosure
+
+**不收**：这轮没有。
+
+**要补**：没有。

@@ -33,7 +33,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [四家 Personal Agent 怎么选：Grok Bot / Muse / Dots / Claude Duet](https://x.com/dotey/status/2113014531853365681) — @dotey · 2026-10-22 · 长帖：按目标人群拆四家的共同点和差别，给出「生活琐事试 Muse、老板看 Duet、全员 ChatGPT 看 Dots、想多个 AI 分工干活看 Grok Bot」的选法；约 26 万粉、210+ 赞 / 180+ 收藏 · 中文
 - [开车骑车时让 Grok Bot 用语音帮你刷 X 时间线](https://x.com/herock/status/2113516863061926189) — @herock · 2026-10-23 · 两步小玩法：先说明不方便看屏幕、让 bot 逐条朗读时间线并每条停下来问收藏、起草回复还是下一条，再切语音对话模式边听边讨论；作者实测后台语音手机发烫、易崩，约 3.5 万粉 · 中文
 - [在推文下回复 @bot 派调研活，出门用 X Chat 跟进，再存成 Skill + Routine](https://x.com/Mulight/status/2113548359294161124) — @Mulight · 2026-10-23 · 给出可直接复制的 @bot 派活提示词（查融资、代币分配、团队、社区讨论，出中文报告附来源），讲清公开回复只确认接单、完整结果回 Grok Bot 会话看，想在 X 里收结果走 X Chat 私信；流程跑顺后存 Skill 再设 Routine 定时跑；约 1.8 万粉，币圈语境，调研项目不等于投资建议 · 中文
-- [Grok Bot 从 0 到 1：用云电脑和插件搭一个能干活的 X 助手](https://x.com/xiaomovps/status/2094596141765857596) — @xiaomovps · 2026-09-01 · X 长文：从 Mac 安装、Grok 账号登录、认识对话/插件/云电脑，到让 bot 装 WARP 时先排除内网和控制通道、补齐 X 开发者账号/Default Project/App 再重连插件，最后给一条只读验证提示词；免费 API 额度数字是作者个人实测，非官方统一；约 1.5 万粉、约 190 赞 / 400 收藏（旧文补收，由作者 10-23 手机 App 帖引出） · 中文
+- [Grok Bot 从 0 到 1：用云电脑和插件搭一个能干活的 X 助手](https://x.com/xiaomovps/status/2094596141765857596) — @xiaomovps · 2026-09-01 · X 长文：从 Mac 安装、Grok 账号登录、认识对话/插件/云电脑，到让 bot 装 WARP 时先排除内网和控制通道、补齐 X 开发者账号/Default Project/App 再重连插件，最后给一条只读验证提示词；免费 API 额度数字是作者个人实测，非官方统一；09-01 的早期文章，套餐和界面以官方现状为准；约 1.5 万粉、约 190 赞 / 400 收藏 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -203,7 +203,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 帮我编 newsletter：脚本收料 + 随手转帖 + 早上审稿发送](https://x.com/filippkowalski/status/2113172213780144289) — @filippkowalski · 2026-10-22 · 每天先跑脚本收集素材，刷到好帖随手转给 bot，bot 汇总精选出终稿草稿，本人早上改几处再点发送；作者约 1.4 万粉 · 英文
 - [Grok Bot as Your Head of Content：11 个 bot 内容引擎全配方](https://x.com/ryangrowthh/status/2113276573793267911) — @ryangrowthh · 2026-10-22 · X 长文：先立首席幕僚+声线/受众/内容柱，再配研究/创作/追踪三组共 11 个 bot，每岗附可复制提示词；强调人审不代发、轮换跑 bot 省额度；「两周约 200 万曝光」为作者自述 · 英文
 - [让 Grok Bot 读懂你的产品再当增长 agent：7 步喂足上下文](https://x.com/tejas3732/status/2113487449125208081) — @tejas3732 · 2026-10-23 · 在 Grok 电脑装 Claude 并登录、拉下产品仓做只读审计，接 Supabase 等数据库连接器补上下文，最后让 bot 把产品认知存进记忆供后续获客 routine 用；作者约 1.6 万粉 · 英文
-- [The SEO/GEO Bible for 2026：Grok Bot 干活、另一个模型做判断的周更 SEO/GEO 流程](https://x.com/VengeonsP/status/2113579952436064601) — @VengeonsP · 2026-10-23 · X 长文：Grok Bot 在云电脑上查真实搜索结果页、拉 Search Console、爬站写稿，另用便宜判断模型逐行回答 GO/HOLD 类问题，人只批准；一个文件夹+站点文件+五条护栏，分权威、关键词、页面、内链、外链、GEO 六部分；作者约 1.1 万粉，搭配的 Jev 模型价格为作者自述 · 英文
 
 ## 不收的例子
 
