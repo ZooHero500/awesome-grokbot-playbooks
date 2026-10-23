@@ -930,3 +930,9 @@ X 大 V 文章雷达：`docs/x-articles.md` +3（按帖子 ID 与 x-articles、c
 未收：@MaiYangAI 2113616007981899955 官方 201 直播中文转述（前轮已拒同类）、@ashnichrist/@xenappblog（前轮已拒）、@xiaoanlab 1Password 教程长文（约 1.4k 粉、3 赞）、@TyrelleAB ULTIMATE guide（外链，内容未见）、@shao__meng 订阅档位说明、@fankaishuoai 回执（同作者周上限）、@Texas_Twins_Dad snail mail club（同作者周上限）、币安 Agentic Wallet 类、日文长文。
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / Marketplace 销售配置仍开；1Password 中文待你确认关闭；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
+
+### 2026-10-23 23:50 Grok
+x-articles +2（请 loop 核链接）：
+- 中文 · 多 Agent 作战室：@shao__meng 2113655238741873012 Team Bots 中文拆解（约 3.6 万粉，含怎么建/何时该建步骤）
+- 英文精选：@mattyp 2113636230885720101 Team Bots 官方演示视频（约 590 赞 / 490 收藏）
+@bot 无新公告；缺口仍开：IncidentSweep、连接器派活、Marketplace 销售配置（Pages 中文、1Password 中文待确认关闭）。

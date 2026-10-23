@@ -47,6 +47,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [如何发挥 Grok Bot 的最强实力？拉开差距的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166) — @Jackywxsz · 2026-10-21 · X 长文：幕僚长入口 + 专职军团、产物强制落盘、知识库单向同步、Tailscale 移植配置、Skill 当 SOP、四级模型混调、Routine 自动触发；约 69 收藏 · 中文
 - [迭代一周后的 Grok Bot 小团队：十几个 bot 各管一摊、主 bot 只派活](https://x.com/MMMusol/status/2113176438308536500) — @MMMusol · 2026-10-22 · 写代码、做内容、管文档、发邮件分专人，规矩写进配置、主 bot 判断归属再转派；SEO 一个写页面提纲、一个整理 30 个推广渠道逐个投；约 1.8 万粉，帖子刚发互动尚低，偏实战体感 · 中文
 - [Agent 时代的管理学：从三省六部到现代企业，哪些制度值得迁移](https://x.com/AdrianPunk115/status/2113545672469491847) — @AdrianPunk115 · 2026-10-23 · X 长文：用九种管理制度讲多 bot 怎么放权和验收，落到可用规则：退回两轮就停并交人拍板、权限分「直接做 / 做完告诉我 / 先问我 / 不允许」、限制写进工具而不是只写进提示词、跑通的流程再存 Skill；附任务单模板，并拿 GrokBot 多 bot 写图文和单 Agent 改网站各走一遍；约 4.3 万粉；同作者自媒体团队教程已收 · 中文
+- [Team Bots 中文拆解：把个人 bot 做成团队内部工具（怎么建 + 何时该建）](https://x.com/shao__meng/status/2113655238741873012) — @shao__meng · 2026-10-23 · 复述官方 @mattyp 视频：Share → Share with your team 或一句话复制成团队副本，权限分层、进 Slack/Teams、何时该建三条，附 Typefully 审稿排期复杂例 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -179,6 +180,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Triage Hound：用 Grok Bot 做漏洞线索分诊](https://x.com/anshuman_bh/status/2112799721626767778) — @anshuman_bh · 2026-10-21 · X 长文：安全研究员把漏洞线索交给 bot，让 Claude 和 Codex 互不看对方结论各审一遍，只留两边都确认的，再起草赏金报告并记台账越用越准；适合做安全和代码审查的人 · 英文
 - [Grok Bot on the iPhone Action Button: setup + 7 prompts](https://x.com/free_ai_guides/status/2112816192121622758) — @free_ai_guides · 2026-10-21 · 写清「设置 → 操作按钮 → 快捷指令 → Grok Bot → Start Voice Chat」，再给 7 条按下就说的提示词 · 英文
 - [iPhone Action Button 七步接通 Grok Bot 语音](https://x.com/mattyp/status/2112891221576389063) — @mattyp · 2026-10-21 · Grok Bot 产品团队的 Matt Palmer 写的设置路径（Settings → Action Button → Shortcut → Start Voice Chat），按住按钮直接和 bot 语音对话；约 9.4 万粉 · 英文
+- [Team Bots: Grok Bots for your whole team（8 分钟视频带章节）](https://x.com/mattyp/status/2113636230885720101) — @mattyp · 2026-10-23 · Grok Bot 产品团队的 Matt Palmer 演示团队 bot：简单例 Marketing Review、接工具、怎么建、Typefully + Slack 复杂例、何时该建；目前限 Teams/Enterprise · 英文
 - [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 - [Grok Bot Marketplace: 4 ready-made bots + add one in 3 steps](https://x.com/itsolelehmann/status/2112189337299529966) — @itsolelehmann · 2026-10-19 · 打开市场 → 点 Add → 批准权限三步装现成 bot，点名 Video Editor、Haggle Bot、AI Search Visibility、Overheard 四个，建议先把市场链接丢给自己的 bot 问哪些适合；约 490 赞 / 690 收藏；中文编译版见 [@swordBluesy](https://x.com/swordBluesy/status/2113186585353032164) · 英文
 - [Grok Bot Pages：四步让 bot 做报告/备忘录/看板并自己更新](https://x.com/Texas_Twins_Dad/status/2113007493492129908) — @Texas_Twins_Dad · 2026-10-22 · Pages 新功能：问 bot 要一页→一起改或让它持续刷新，附「一卡一 bot 看板」示例提示；约 8.9k 粉、180+ 赞 / 200+ 收藏 · 英文
