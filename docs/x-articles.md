@@ -79,6 +79,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [多台设备一起干活：设置→电脑→始终允许，让 Grok Bot 同时调度家里的 Mac 等机器](https://x.com/Pluvio9yte/status/2113196159267160401) — @Pluvio9yte · 2026-10-22 · 小技巧短帖（约 5 万粉）：在设置的电脑页把已连设备设为始终允许，bot 就能不经远程桌面直接给多台机器下指令；注意「始终允许」会跳过逐次批准，只建议用在自己的设备上 · 中文
 - [Grok Bot 员工怎么选：按八个部门挑 Marketplace 模板搭 AI 团队](https://x.com/Mileson07/status/2113514194687668731) — @Mileson07 · 2026-10-23 · X 长文：把官方模板按工程、销售与客户、市场、设计、招聘、产品、运营、生活八部门中文化，逐个写清岗位职责、适合谁和搭配顺序（如项目统筹→SWE→QA），销售部列出外联获客、Sequencer、Pipeline Pulse 等 20 多个岗位；作者约 5.3k 粉 · 中文
 - [Grok Bot Pages 新手保姆级教程：报告、备忘录、仪表盘实操](https://x.com/0xlangeai/status/2113561892505763850) — @0xlangeai · 2026-10-23 · X 长文：先定收录起始日、统一北京时间、保留原链接三件事，再分三步做报告页（管材料）、备忘录页（管已定决定和待补项）、仪表盘页（带图表，把「资料查到」和「亲手跑过」分开），三段提示词可直接复制，进阶是在推文下 @bot 把长文转成 Page；约 1 万粉 · 中文
+- [一句话让 Grok Bot 帮你网购：1Password 专用密码库 + 原币种支付 + 一次性卡](https://x.com/taresky/status/2113621639594402284) — @taresky · 2026-10-23 · 对照 @bot：1Password。四步配置：连 1Password 后把愿意共享的生活类登录复制进专用库、给一次收件人信息、规定只用商品原币种付款（避开 DCC 换汇坑）、优先 Amazon Pay/Stripe，要填卡时用一次性卡或用完即删的虚拟卡 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -137,6 +138,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [多 bot 请求汇成一张 Microsoft To Do「Daily Tasks」清单](https://x.com/buckleyplanet/status/2113477575599067241) — @buckleyplanet · 2026-10-23 · X 长文：Grok Bot 没有原生 To Do 连接器，借 Carly AI 的 MCP 接 To Do/Planner，只让一个总管 bot 建任务（短标题+详情写描述），按定时查清单、你勾完就回报给发起的 bot，其他 bot 一律经总管派活；作者约 2.1 万粉 · 英文
 - [两段提示词搭 10 个 bot 的内容团队：7 步从定声线到每晚交稿](https://x.com/BuzzMalx/status/2113524833560784969) — @BuzzMalx · 2026-10-23 · 长帖：先建首席 bot 学你或你喜欢作者的声线，三轮试写改规则，再采访你攒素材，第二段提示词一键建 9 个专员（爆款格式侦察、引用帖、事实核查、周计划、数据复盘等）共用一个文件夹；bot 只出草稿不代发，不满意的理由都变成团队规则；作者约 7.7k 粉，两段提示词在评论区 · 英文
 - [Firstmate：总管 bot 边派活边纠正下属 bot 的指令](https://x.com/kunchenguid/status/2113535815133561271) — @kunchenguid · 2026-10-23 · 总管 bot 通过其他 bot 派活时观察它们怎么做、抓错误和低效，再自动改写它们的说明；附 x.ai/bot 一键导入链接，可直接加到自己的 Grok Bot 改着用；约 4.1 万粉、20+ 收藏 · 英文
+- [Dr Eggbot 当 bot 总负责人：一 bot 一岗 + 实习生信任阶梯](https://x.com/bradmillscan/status/2113638380361728309) — @bradmillscan · 2026-10-23 · 从 Hermes/OpenClaw 转来后用 Marketplace 的 Dr Eggbot + pstack 给每个 bot 定一个岗位、一个结果、禁做清单和自己的 SOP，再按草稿→干完汇报→只报异常三级放权；附视频 · 英文
 
 ### Routine 雷达与额度
 
@@ -198,6 +200,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一期播客拆成一周内容](https://x.com/ericosiu/status/2112015924479860963) — @ericosiu · 2026-10-19 · 从转录稿拆短视频、帖子、长文和 SEO 页面，每个渠道一人拍板，周五看点击和预约再定下期选题 · 英文
 - [How to Make Money Using Grok Bot (Full Guide)](https://x.com/eng_khairallah1/status/2112115524624658525) — @eng_khairallah1 · 2026-10-19 · X 长文：7 种可卖服务（内容复用、线索研究、搭建顾问等），附 routine/skill 与审稿清单；强调 Bot 只出劳动力、获客和审稿仍要人做，共享电脑不是安全边界 · 英文
 - [把 Grok Bot 当生意合伙人：$30/月、零股份的用法汇总](https://x.com/AleiahLock/status/2112147410122129534) — @AleiahLock · 2026-10-19 · X 长文：把官方案例、工作坊和创始人公开分享汇成小生意用法清单（客服队列、砍供应商账单、客户需求转报价等），每个数字标出处、自述的另注，也写了会翻车的地方；同作者的官方工作坊要点已收在社区教程 · 英文
+- [The Dr. X Crew：四个按 X 算法搭的涨粉 bot（指南 + 模板）](https://x.com/amateo/status/2113638995183677748) — @amateo · 2026-10-23 · X 长文：每日选题、回复雷达、长文、循环短视频四岗互相交接，按 X 开源算法重分享与回复，附每岗可复制提示词、Add to Grok Bot 链接和五步上手；文末有作者自家服务链接 · 英文
 
 ---
 - [Grok Bot for PR: The Newsjack Bot That Gets You in the Press](https://x.com/coreyganim/status/2112577969617092879) — @coreyganim · 2026-10-21 · X 长文：专职 PR bot 装开源 Newsjack 技能，抓记者征稿需求、打分出 pitch，配 routine 和「三道闸」人工确认，台账记 CSV；首日数据为作者自述 · 英文

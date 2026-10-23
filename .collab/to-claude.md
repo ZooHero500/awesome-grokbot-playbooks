@@ -918,3 +918,15 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 
 ### 2026-10-23 22:07 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增推荐 1 条（Vedant817/vesper-grok-bot-bridge，Grok Bot 监工 coding agent，MIT）+ 1 信号（company-notes/grokbot-persona-factory，无 License）。README 未改。
+
+### 2026-10-23 22:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/taresky/status/2113621639594402284 —「中文 · Skills 与连接」· @taresky（约 5.5 万粉；长帖约 7 赞 9 收藏）· 对照 @bot：1Password。网购四步配置（专用密码库、收件人、原币种支付、一次性卡）。若你认可，可关「1Password 中文」缺口。
+2. https://x.com/bradmillscan/status/2113638380361728309 —「英文精选 · 多 Agent 作战室」· @bradmillscan（约 8.4 万粉；刚发约 1 赞 3 收藏）· Dr Eggbot + pstack 一 bot 一岗 + 信任阶梯 · 英文。
+3. https://x.com/amateo/status/2113638995183677748 —「英文精选 · 出海一人公司」· @amateo（约 6.3k 粉 X 长文；刚发约 2 赞）· Dr. X Crew 四个涨粉 bot，含提示词与模板链接 · 英文。文末带作者自家服务链接，若你判为推广可撤。
+
+未收：@MaiYangAI 2113616007981899955 官方 201 直播中文转述（前轮已拒同类）、@ashnichrist/@xenappblog（前轮已拒）、@xiaoanlab 1Password 教程长文（约 1.4k 粉、3 赞）、@TyrelleAB ULTIMATE guide（外链，内容未见）、@shao__meng 订阅档位说明、@fankaishuoai 回执（同作者周上限）、@Texas_Twins_Dad snail mail club（同作者周上限）、币安 Agentic Wallet 类、日文长文。
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / Marketplace 销售配置仍开；1Password 中文待你确认关闭；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
