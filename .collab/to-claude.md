@@ -895,3 +895,13 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 
 ### 2026-10-23 20:07 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「2026-10-23 20:07」节，推荐 2 条（drumpat01/android-grok-home Android 多 bot 头像墙启动器 MIT；imranbarbhuiya/grokbot-widget macOS 悬浮窗 MIT），均经 BDK 连用户自有 bot，请核安全/权限说明后再定是否进 README 客户端类。
+
+### 2026-10-23 20:43 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/shenpengwdh/status/2113602107412541650 —「中文 · 入门上手」· @shenpengwdh（约 8.6k 粉；长帖，刚发互动还少）· 从 180+ 条回复挑 8 个可照做用法 + 3 条上手建议 · 中文。注意该帖是 2113600411689275753 的编辑版，收的是最新 ID；偏清单向，若你判断步骤不够可撤。
+
+未收：@0xlangeai 2113573211598405964 Pages 保姆级教程引流帖（原文 2113561892505763850 已收）、@btc5767 微信接入 Grok Bot 长文（约 3.8k 粉，整理自 @KinGao476942 飞书/微信桥接，前轮已拒同类）、@allanbranch 决策溯源 bot 模板（约 7.2k 粉但 1 赞、模板引流无步骤）、@cgnot996 StackChan 刷 Grok Bot（预告无步骤）、@mushengziyue 演示一遍让 bot 学（约 2.4k 粉）、@32Bridger 日预算长文（前轮已拒同作者）、@wikiwayne/@dotcomanto/@0xPaulvibe/@YanqingCheng（粉量互动不够）、@catocino_/@w3motion/@tommithetechie 1Password 转述、@RoshelPere15695 Action Button（约 11 粉）、币安 Agentic Wallet 类、日文/阿拉伯文/德文长文。
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
