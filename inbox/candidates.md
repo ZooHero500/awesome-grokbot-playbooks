@@ -2007,3 +2007,24 @@ Ormus-Solutions/liquid-gold-grok-bot（前轮已记观察）；hustnn/pocket-bot
 ### Skip（本轮）
 
 rocket0xdev1025/grokbot402（空描述）；revazone/grokbotwar-game（游戏）；hast3/claudecrew（Claude 远程 app，非 Grok Bot 玩法）；alnutile/grokked-bot（替代 harness）；danger-dream/Parrot（API 中转）；0xRayAI/xray、zeenie-ai/OpenCompany（通用多 agent）；ZuskiVibeCode/quant-trading-system（交易）；larcisllc-lgtm/kalshi-handoff（个人管道）；SIMPL-Automation/ado-grok、xianyu110/grokbot（较旧，留待周更复核）。
+
+## 2026-10-24 02:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 00:10→02:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / x.ai/bot / skill 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| RongleCat/grok-bot-esp32-sdk | https://github.com/RongleCat/grok-bot-esp32-sdk | **中文：把 Grok Bot 搬到 ESP32 硬件上**：非官方 ESP-IDF C++ 组件，浏览器 PKCE 登录、Bot 名册、发消息、Connect 回复流解码与游标、头像参数；README 明确凭据不写日志、不硬编码。作者即已收的 grok-bot-clipper，可放硬件/SDK 方向。本轮最值得看 | Clients / Hardware | `chinese` `esp32` `sdk` `iot` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| homemetax/grok-bot_discord-connector | https://github.com/homemetax/grok-bot_discord-connector | 每个 bot 一个独立 Discord 应用，消息转 routine webhook、REST CLI 回帖，带白名单/日限/防回环和 setup skill，文档齐；无 License，与已记 hunvreus/grokbot-discord 同方向，先信号 | Channels / Discord | **GitHub**（10-23 建） |
+| multi-turn-inc/forget-cursor-plugin | https://github.com/multi-turn-inc/forget-cursor-plugin | 多工具共享长期记忆插件（远程 MCP，每轮召回+存档，标注日期/来源、无证据答「不在记忆里」）；托管商业服务，Apache-2.0，先信号 | Plugins / Memory | **GitHub**（10-24 本窗新建） |
+
+### Skip（本轮）
+
+saikrishnauppaluri/plan-to-3d（与已记 floorplan-to-3d 同类商业插件）；nlaughter100/grokbot-dashboard、r67018/grokbot-manaba-reminder、kyledrobinson/grokbot（空/无 README）；scott-gibson-se/BoxoPolo（个人收纳 app）；alexgreensh/outsourcerer、r2hu1/openbots、ansaribilal14/personal-social-agent（通用多 agent/社媒引擎，非 Grok Bot 玩法）。

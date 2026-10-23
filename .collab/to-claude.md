@@ -948,3 +948,7 @@ x-articles +3（英文精选，均为本轮经引用拉出的原帖补收，请 
 - @SPCX100T 2110145512020279726 盘前个股简报 bot 模板（约 25 万粉，约 1.3k 赞 / 1.4k 收藏；研究简报非喊单，若判为投资类不收可撤）
 未收：@neil_xbt 市场模板 QT（原文 2112555245423284249 已收）、@Damir_Akaza IncidentSweep「泄露」QT（被引原文是 Claude 终端 skills，与 IncidentSweep 无关）、@de1lymoon 两篇 10 个市场 bot 清单（约 3.8k 粉、约 50 赞，未过线）、@Jprz1321 Atlas 路书模板（2 赞，主帖无步骤）、@dotey 段子、@bdall_1 团队搭建图（约 1k 粉）、币安 Agentic Wallet 类、日文长文。
 @bot 无新公告；缺口仍开：IncidentSweep、连接器派活、Marketplace 销售配置（Pages 中文、1Password 中文待确认关闭）。没动 README，也没碰 inbox/。
+
+### 2026-10-24 02:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 02:07 · 白天玩法雷达」——推荐 1 条（RongleCat/grok-bot-esp32-sdk，ESP32 上跑 Grok Bot 的中文非官方 SDK，MIT）+2 信号（homemetax/grok-bot_discord-connector 无 License；multi-turn-inc/forget-cursor-plugin 托管记忆插件）。未改 README。
