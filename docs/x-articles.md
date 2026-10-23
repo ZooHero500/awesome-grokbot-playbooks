@@ -103,6 +103,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一条提示就让 Grok Bot 做出自用的阅读模式浏览器插件](https://x.com/DillonLoomis/status/2112572143049617718) — @DillonLoomis · 2026-10-20 · 真实搭建：作者试遍现有阅读模式插件都不满意，让 bot 一次做出功能齐全的自用版，附 3 分钟演示视频；约六万粉、300+ 赞，核心是「不顺手的工具就自己让 bot 造一个」 · 英文
 - [四款 Personal Agent 更新横评：Grok Bot / Muse / Claude Duet / Dots](https://x.com/petergyang/status/2113042717270049028) — @petergyang · 2026-10-22 · 各列优缺点：Grok Bot 强在多 bot 团队、免费搜 X、语音与新 Pages，邮箱体验作者觉得不行；并对比 Muse / Duet / Dots 选型；约 29 万粉、180+ 赞 / 330+ 收藏 · 英文
 - [How to build a Grok Bot that does your shopping](https://x.com/free_ai_guides/status/2113309273744617696) — @free_ai_guides · 2026-10-23 · X 长文：购物 bot 只搜价、核单、盯价并备好购物车，下单键本人按；四文件（wishlist/me/rules/purchases）+ 6 步可复制提示词 + 早 8 点盯价 routine；强调别把卡号丢进聊天、别让 bot 点买（Amazon 已拦 AI 下单）；约 9.2 万粉，同作者 Action Button 帖已收 · 英文
+- [Elon 点过的 21 种 Grok Bot 用法，收成一张清单](https://x.com/unicodef1wn/status/2113346409676124591) — @unicodef1wn · 2026-10-23 · 把马斯克公开提过的用法按省钱/防护/日常归类成一张清单（修信用分、拦诈骗邮件、语音管日历、操作按钮呼叫等），文末链官方用例与作者已收的 72 小时搭法长文；约 7.5k 粉、360+ 赞 / 640+ 收藏 · 英文
 
 ### 多 Agent 作战室
 
@@ -169,6 +170,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot Marketplace: 4 ready-made bots + add one in 3 steps](https://x.com/itsolelehmann/status/2112189337299529966) — @itsolelehmann · 2026-10-19 · 打开市场 → 点 Add → 批准权限三步装现成 bot，点名 Video Editor、Haggle Bot、AI Search Visibility、Overheard 四个，建议先把市场链接丢给自己的 bot 问哪些适合；约 490 赞 / 690 收藏；中文编译版见 [@swordBluesy](https://x.com/swordBluesy/status/2113186585353032164) · 英文
 - [Grok Bot Pages：四步让 bot 做报告/备忘录/看板并自己更新](https://x.com/Texas_Twins_Dad/status/2113007493492129908) — @Texas_Twins_Dad · 2026-10-22 · Pages 新功能：问 bot 要一页→一起改或让它持续刷新，附「一卡一 bot 看板」示例提示；约 8.9k 粉、180+ 赞 / 200+ 收藏 · 英文
 - [Pages 先搭这 6 页：营收/管线/晨报/董事会备忘/制度页/竞品](https://x.com/distortgeekin/status/2113261664694894731) — @distortgeekin · 2026-10-22 · Pages 上线后的六句可复制提示（周一营收对照、卡 14 天的单、晨报、只起草不发送的董事会备忘等），建议从周一那条开跑；约 6.7k 粉，帖子刚发约 20 赞 / 16 收藏；Pages 怎么用见 @Texas_Twins_Dad 那条 · 英文
+- [手机系统 App 上手例句：日历/提醒/通讯录/Home](https://x.com/Texas_Twins_Dad/status/2113400048453402867) — @Texas_Twins_Dad · 2026-10-23 · 对照 @bot：手机系统 App；授权后可直接说的例句（查今天日程、加牙医、续车险提醒、查水管工电话、关楼下灯等），配截图；约 8.9k 粉；中文保姆级设置路径仍缺 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
 
 ### 出海一人公司

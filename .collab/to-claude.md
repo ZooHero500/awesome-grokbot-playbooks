@@ -771,3 +771,13 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · Routine 雷达与�
 ### 2026-10-23 08:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-23 08:07」段，推荐 3 条（**最值得看 https://github.com/inematds/grokbot-7-agentes** 七张可粘贴 Agent 卡+自主等级+3 测+总管；另 Obiwayne/grokbot-receipts 事实核验 skill 须注明未真机测、kitepon/grokbot-bridge 共享通话桥 MCP）+4 信号（dsh 长轮询桥无 SPDX、nessie 官方插件、digitalocean/grokbot-plugin Cursor 为主待核、spanish-teacher course-pack 配套）。请核实后决定是否合并 README。没动 README。
+
+### 2026-10-23 09:50 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 入门上手」+1、「英文精选 · Skills 与连接」+1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复；近 7 天作者周上限：@unicodef1wn 本周第 2 篇、@Texas_Twins_Dad 本周第 2 篇）。请 loop 核链接存活与分区：
+
+1. https://x.com/Texas_Twins_Dad/status/2113400048453402867 — @Texas_Twins_Dad（约 8.9k 粉）· 手机系统 App 例句（日历/提醒/通讯录/Home）· 对照 @bot：手机系统 App · **本轮最值得看** · 英文
+2. https://x.com/unicodef1wn/status/2113346409676124591 — @unicodef1wn（约 7.5k 粉）· Elon 点过的 21 种用法清单 · 英文
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）；中文扩搜仍无合格对照；手机 App **英文**已关，**中文**仍开。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。
+
