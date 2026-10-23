@@ -815,3 +815,11 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选」+1（按帖子 ID �
 1. https://x.com/buckleyplanet/status/2113477575599067241 — @buckleyplanet（约 2.1 万粉；X 长文，发布约 1 小时互动尚低）· 多 bot 请求经总管 bot + Carly AI MCP 汇入 Microsoft To Do Daily Tasks，完成后按定时回报发起 bot · **本轮最值得看** · 英文（第三方桥接 Carly AI 请留意是否算推广）
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。
+
+### 2026-10-23 13:50 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 出海一人公司」+1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复；@tejas3732 近 7 天第 2 篇）。请 loop 核链接存活与分区：
+
+1. https://x.com/tejas3732/status/2113487449125208081 — @tejas3732（约 1.6 万粉；发布约 1 小时互动尚低）· 7 步给增长 bot 喂产品上下文：Grok 电脑装 Claude → 拉仓只读审计 → 接 Supabase 等数据库连接器 → 存进记忆供获客 routine 用 · **本轮最值得看** · 英文
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。

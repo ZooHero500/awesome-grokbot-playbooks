@@ -193,6 +193,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 帮我编 newsletter：脚本收料 + 随手转帖 + 早上审稿发送](https://x.com/filippkowalski/status/2113172213780144289) — @filippkowalski · 2026-10-22 · 每天先跑脚本收集素材，刷到好帖随手转给 bot，bot 汇总精选出终稿草稿，本人早上改几处再点发送；作者约 1.4 万粉 · 英文
 - [Grok Bot as Your Head of Content：11 个 bot 内容引擎全配方](https://x.com/ryangrowthh/status/2113276573793267911) — @ryangrowthh · 2026-10-22 · X 长文：先立首席幕僚+声线/受众/内容柱，再配研究/创作/追踪三组共 11 个 bot，每岗附可复制提示词；强调人审不代发、轮换跑 bot 省额度；「两周约 200 万曝光」为作者自述 · 英文
 - [多 bot 请求汇成一张 Microsoft To Do「Daily Tasks」清单](https://x.com/buckleyplanet/status/2113477575599067241) — @buckleyplanet · 2026-10-23 · X 长文：Grok Bot 没有原生 To Do 连接器，借 Carly AI 的 MCP 接 To Do/Planner，只让一个总管 bot 建任务（短标题+详情写描述），按定时查清单、你勾完就回报给发起的 bot，其他 bot 一律经总管派活；作者约 2.1 万粉 · 英文
+- [让 Grok Bot 读懂你的产品再当增长 agent：7 步喂足上下文](https://x.com/tejas3732/status/2113487449125208081) — @tejas3732 · 2026-10-23 · 在 Grok 电脑装 Claude 并登录、拉下产品仓做只读审计，接 Supabase 等数据库连接器补上下文，最后让 bot 把产品认知存进记忆供后续获客 routine 用；作者约 1.6 万粉 · 英文
 
 ## 不收的例子
 
