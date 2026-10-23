@@ -122,6 +122,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [severusgao/hermes-office](https://github.com/severusgao/hermes-office) | 10-30 | 0★ · MIT · 建 10-23 | 中文自托管「Grok Bot 式 AI 团队」平替（Hermes Agent + 多 CLI + 互审）；过线放「自托管与平替」，到期看是否能脱离作者环境跑 |
 | [howardpen9/tg-stars-workflows](https://github.com/howardpen9/tg-stars-workflows) | 10-30 | 1★ · 无 LICENSE · 建 10-23 | Telegram Stars 付款 → 签名 webhook 唤醒创作者的 routine 交付，仓里只放公开 listing；到期先看 LICENSE，再看签名唤醒是否已实现（README 写 phase 2）；涉付款，收录时标实验性、算商业类 |
 | [beansmile/geo-checker-grok-bot-scripts](https://github.com/beansmile/geo-checker-grok-bot-scripts) | 10-30 | 0★ · MIT · 建 10-23 | GEO 体检 skill 的脚本：Python 标准库爬站、9 维规则打分、出 md / html 报告，LLM 部分由 bot 自己做，不要外部 key；到期看是否只是某个 bot 模板的配套脚本 |
+| [Vedant817/vesper-grok-bot-bridge](https://github.com/Vedant817/vesper-grok-bot-bridge) | 10-30 | 0★ · MIT · 建 10-23 | Grok Bot 当编码 agent 的监工：派活、补输入、同会话返工、看真实验证结果再验收；两套模板（T3 Connect / 本仓 MCP 桥接 ACP 编码 CLI，隔离 worktree）；过线放「多 Bot 团队」或「技能与玩法」，短评写明本机要跑 MCP 桥 |
 
 ## 已移出
 
