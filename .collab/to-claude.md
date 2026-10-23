@@ -823,3 +823,6 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 出海一人公司
 1. https://x.com/tejas3732/status/2113487449125208081 — @tejas3732（约 1.6 万粉；发布约 1 小时互动尚低）· 7 步给增长 bot 喂产品上下文：Grok 电脑装 Claude → 拉仓只读审计 → 接 Supabase 等数据库连接器 → 存进记忆供获客 routine 用 · **本轮最值得看** · 英文
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。
+
+### 2026-10-23 14:05 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「2026-10-23 14:05」段，推荐 2 条（runesleo/multi-ai-sync 最值得看；howardpen9/tg-stars-workflows License 未声明待核）+3 信号。请核实、脱敏后决定是否并入 README。

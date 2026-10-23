@@ -1881,3 +1881,26 @@ Ajitkumar-1001/Grok-bot（仅 idea pitch）；其余本窗更新仓均已列或�
 ### Skip（本轮）
 
 rayhomie/grokbot_page（空 README）；shahaman098/grok-bot（黑客松社交 App，非玩法）；donniertf-hub/grok-doubles-picks（博彩 picks）；scapp/personal-news-reader（个人自产站）；BlancoKat/omarchy-grokbot-updates（Omarchy 菜单更新项，过窄）；asgeirtj/system_prompts_leaks（提示词泄露合集，不收）。
+
+## 2026-10-23 14:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 12:07→14:05（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / routine / skill 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| runesleo/multi-ai-sync | https://github.com/runesleo/multi-ai-sync | **多 AI 结果回流体检**（Grok Bot + Claude Code 等）：`ai-sync.json` 登记每个 agent 的聊天/结果文件/记忆该落在哪，只读脚本逐层报 OK/STALE/MISSING；配套 SKILL.md 讲「本机定时拉取会因沙盒休眠静默超时 → 改成 agent 主动推送 + 记忆双向同步」。正中多 bot 协作的痛点，有中英文 README，本轮最值得看 | Multi-bot / Collaboration | `skill` `multi-agent` `sync` `audit` `claude-code` `mit` | 0 / MIT | **GitHub**（10-23 本窗新建） |
+| howardpen9/tg-stars-workflows | https://github.com/howardpen9/tg-stars-workflows | **Grok Bot 工作流的 Telegram Stars 公开货架**：买家在 TG bot 付 Stars，签名 webhook 唤醒创作者的 Grok Bot routine 干活回传；仓只放公开 listing（明令不放 webhook URL/密钥），创作者按模板提 PR 上架，有 /want /vote /preorder 需求板。「把 routine 变成可售服务」的范式，分成/签名唤醒仍是 phase 2，先收为实验性 | Routines / Webhook marketplaces | `webhook` `routine` `telegram` `marketplace` `experimental` | 1 / 未声明 License（收录前请核） | **GitHub**（10-23 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| pinjun99/Grokbot_Jarvis | https://github.com/pinjun99/Grokbot_Jarvis | Mac 本机 MCP 桥（经 Cloudflare 隧道）让 Grok 截屏+键鼠操作 App，带权限模式和弹窗确认；能力面大、安全面也大，先信号 | MCP / Desktop control | **GitHub**（10-23 本窗新建，License 待核） |
+| Railbed/cursor-plugin | https://github.com/Railbed/cursor-plugin | 商户支付 Railbed 官方插件（Cursor & Grok Bot，MCP+skills+只读审查 agent，Test/Live 分离）；商业支付服务，先信号 | Plugins / Payments | **GitHub**（10-23 本窗新建，MIT） |
+| kungFuDOOM/botbook-public | https://github.com/kungFuDOOM/botbook-public | 只许 @mail.grokbot.com 邮箱验证的 bot 发帖的「bot 版 Facebook」，bot 经 API 自己发帖互动；趣味社区，先信号 | Community / Fun | **GitHub**（本窗更新） |
+
+### Skip（本轮）
+
+shibainu-inu/grokspot（无 README）；frank-otto/graveyard-golf（小游戏，非玩法）；lucifer-grokbot/lucifer-grokbot（空仓）。
