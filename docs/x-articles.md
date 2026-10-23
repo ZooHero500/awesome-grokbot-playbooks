@@ -33,6 +33,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [四家 Personal Agent 怎么选：Grok Bot / Muse / Dots / Claude Duet](https://x.com/dotey/status/2113014531853365681) — @dotey · 2026-10-22 · 长帖：按目标人群拆四家的共同点和差别，给出「生活琐事试 Muse、老板看 Duet、全员 ChatGPT 看 Dots、想多个 AI 分工干活看 Grok Bot」的选法；约 26 万粉、210+ 赞 / 180+ 收藏 · 中文
 - [开车骑车时让 Grok Bot 用语音帮你刷 X 时间线](https://x.com/herock/status/2113516863061926189) — @herock · 2026-10-23 · 两步小玩法：先说明不方便看屏幕、让 bot 逐条朗读时间线并每条停下来问收藏、起草回复还是下一条，再切语音对话模式边听边讨论；作者实测后台语音手机发烫、易崩，约 3.5 万粉 · 中文
 - [在推文下回复 @bot 派调研活，出门用 X Chat 跟进，再存成 Skill + Routine](https://x.com/Mulight/status/2113548359294161124) — @Mulight · 2026-10-23 · 给出可直接复制的 @bot 派活提示词（查融资、代币分配、团队、社区讨论，出中文报告附来源），讲清公开回复只确认接单、完整结果回 Grok Bot 会话看，想在 X 里收结果走 X Chat 私信；流程跑顺后存 Skill 再设 Routine 定时跑；约 1.8 万粉，币圈语境，调研项目不等于投资建议 · 中文
+- [Grok Bot 从 0 到 1：用云电脑和插件搭一个能干活的 X 助手](https://x.com/xiaomovps/status/2094596141765857596) — @xiaomovps · 2026-09-01 · X 长文：从 Mac 安装、Grok 账号登录、认识对话/插件/云电脑，到让 bot 装 WARP 时先排除内网和控制通道、补齐 X 开发者账号/Default Project/App 再重连插件，最后给一条只读验证提示词；免费 API 额度数字是作者个人实测，非官方统一；约 1.5 万粉、约 190 赞 / 400 收藏（旧文补收，由作者 10-23 手机 App 帖引出） · 中文
 
 ## 中文 · 多 Agent 作战室
 

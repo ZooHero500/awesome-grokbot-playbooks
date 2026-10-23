@@ -882,3 +882,13 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 未收：@Passenger0522 跨境 1+10 总管原帖（约 2.9k 粉，文末带促销码，按广告拒）、@diamai_ 工程师用法长文（约 965 粉）、@dotcomanto 100+ bot 长文（约 2.4k 粉、0 赞）、@rvaniaaaa 并行 6 bot（约 4.1k 粉、1 赞）、@catocino_/@sammygurus 1Password 英文转述（无新步骤）、@miles_mazy/@xaiwind/@LiuweijiaVip 转发蓝哥 Pages 文、币安 Agent ID/Wallet 类、日文/德文长文。
 
 @bot 对照：@bot 今日无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
+
+### 2026-10-23 19:40 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/xiaomovps/status/2094596141765857596 —「中文 · 入门上手」· @xiaomovps（约 1.5 万粉；X 长文，约 190 赞 / 400 收藏）· 09-01 旧文补收：安装登录 → 插件/云电脑 → WARP 先排除内网 → 补 X 开发者账号/项目/App → 只读验证提示词 · 中文。由作者 10-23 手机 App 帖 2113552625534943545 引出；240 美元额度为作者实测，短评已注明。部分早期信息（套餐名单）可能已过时，请判断是否加时效提醒。
+
+未收：@runes_leo 2113558547124682822 多 AI 结果回流踩坑（约 2.3 万粉，干货够，但近 7 天同作者已 2 条；仓 runesleo/multi-ai-sync 已在 inbox）、@xiaomovps 2113552625534943545 手机 6 个 App 能力清单（无设置步骤，手机 App 中文已由 @op7418 关缺口）、@turingou 2113555519466311874 两口子 bot 互传消息（约 19 万粉/190 赞，但无步骤，实为作者自家产品 Yobiru）、@steferretto 总管 bot 派 6 bot（0 赞，指南未出）、@YanqingCheng 模板工程踩坑（约 410 粉）、@CainArch/@dotcomanto/@wikiwayne 长文（粉量互动不够）、@JingMing_LandAI Marketplace 社媒经理体感、币安 Agent Wallet/Mint 类、日文长文。
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
