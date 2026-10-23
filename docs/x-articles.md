@@ -209,6 +209,9 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 帮我编 newsletter：脚本收料 + 随手转帖 + 早上审稿发送](https://x.com/filippkowalski/status/2113172213780144289) — @filippkowalski · 2026-10-22 · 每天先跑脚本收集素材，刷到好帖随手转给 bot，bot 汇总精选出终稿草稿，本人早上改几处再点发送；作者约 1.4 万粉 · 英文
 - [Grok Bot as Your Head of Content：11 个 bot 内容引擎全配方](https://x.com/ryangrowthh/status/2113276573793267911) — @ryangrowthh · 2026-10-22 · X 长文：先立首席幕僚+声线/受众/内容柱，再配研究/创作/追踪三组共 11 个 bot，每岗附可复制提示词；强调人审不代发、轮换跑 bot 省额度；「两周约 200 万曝光」为作者自述 · 英文
 - [让 Grok Bot 读懂你的产品再当增长 agent：7 步喂足上下文](https://x.com/tejas3732/status/2113487449125208081) — @tejas3732 · 2026-10-23 · 在 Grok 电脑装 Claude 并登录、拉下产品仓做只读审计，接 Supabase 等数据库连接器补上下文，最后让 bot 把产品认知存进记忆供后续获客 routine 用；作者约 1.6 万粉 · 英文
+- [How to Make Grok Bot Do 10x More Work Without Upgrading Your Plan (Full Course)](https://x.com/Greshamtrade/status/2112214741103825314) — @Greshamtrade · 2026-10-19 · X 长文：以竞品监控为例，先审计额度浪费再做 7 处改动（干净起点、只喂必要材料、停空检查、复用研究、明确派活、限重试、交付前自检），附可复制指令；约 640 收藏，「10 倍」是作者算法自述 · 英文
+- [Second Brain Engineering：让 Grok Bot 把笔记变成成品](https://x.com/tsukiema_/status/2112947495059743047) — @tsukiema_ · 2026-10-21 · X 长文：建专职 Brain bot，描述里写长期职责，喂约 20 条自己写的消息定声线，资料存云电脑文件按 Karpathy 式 wiki 维护，再派具体活（客户回复、上线计划、晨间待决清单）；约 130 收藏 · 英文
+- [盘前个股简报 bot：每个工作日自动扫公告、评级、内部人交易和 X 情绪](https://x.com/SPCX100T/status/2110145512020279726) — @SPCX100T · 2026-10-13 · 固定格式盘前简报、每条带来源链接、只在聊天里交付不发邮件，换代码即可盯其他股票，附模板链接；约 1.3k 赞 / 1.4k 收藏，信息研究用途非投资建议 · 英文
 
 ## 不收的例子
 
