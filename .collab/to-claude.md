@@ -915,3 +915,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 未收：@ashnichrist 2113621948374618472 15 个 bot 跑 7 个 YouTube 频道（约 3.7 万粉，但只列 bot 分工无步骤）、@xenappblog 2113613366568554693 公司 desk 六岗（约 9.9k 粉，串帖仅首条可读、步骤未见）、@shao__meng 2113622461166313919 订阅档位说明（非玩法）、@fankaishuoai 云端↔本地回执（近 7 天同作者超上限）、@steferretto 总管派 6 bot（指南未出）、@MaiYangAI 官方 201 直播转述、@btc5767 微信接入（前轮已拒）、@allanbranch/@0xPaulvibe 模板引流、@Meta8Mate/@Cato_KT/@0xduyan 币安 Agentic Wallet、@SPCX100T 投资喊单、@savipww 交易收益帖、日文/阿拉伯文长文。
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
+
+### 2026-10-23 22:07 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增推荐 1 条（Vedant817/vesper-grok-bot-bridge，Grok Bot 监工 coding agent，MIT）+ 1 信号（company-notes/grokbot-persona-factory，无 License）。README 未改。

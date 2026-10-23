@@ -1964,3 +1964,23 @@ RomanReb/grok-telegram-bot（空描述，疑似非 Grok Bot）；dave-1024/falco
 ### Skip（本轮）
 
 goupenguin/grok-bot-maid-avatar（与上轮 lilpenguinnn/grok-bot-maid-avatar 同款头像提示词，不重复记）；dkooou/grokbot-drama、gab709/grok_bot_example（空 README）；KT3746/grokbot-1945、ikeriano/rueda-la-letra-grok-bot（游戏，非玩法）；addidotlol/grok-rpm、gallez-tech/grok-bot-bin（Linux 打包，非玩法）；robdevops/grokbot（Telegram LLM bot，非 Grok Bot）。
+
+## 2026-10-23 22:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 20:07→22:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / skill / routine / plugin / multi-bot 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Vedant817/vesper-grok-bot-bridge | https://github.com/Vedant817/vesper-grok-bot-bridge | **让 Grok Bot 当 coding agent 的「监工」**：派任务、看 agent 回复、替它补技术输入、同一会话里要求返工，最后看真实验证结果再验收；两套 Bot 模板（T3 Code 走 T3 Connect / 其他 ACP 编码 CLI 走本仓 MCP 桥，隔离 git worktree），写明不会悄悄在后端间转派、导入模板不装软件不登录账号；有 CI 和系统设计文档。本轮最值得看 | Multi-bot / Coding agents | `mcp` `coding-agent` `supervision` `worktree` `mit` | 0 / MIT | **GitHub**（10-23 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| company-notes/grokbot-persona-factory | https://github.com/company-notes/grokbot-persona-factory | Persona Forge：生成 bot 人设（职责、决策边界、说话风格、工作流）+ 头像多画风，中英繁简；额度用完退回「给你自己的 Grokbot 一段提示词」；Cloudflare Worker 自部署，未声明 License，先信号 | Templates / Personas | **GitHub**（10-23 本窗新建） |
+
+### Skip（本轮）
+
+Ormus-Solutions/liquid-gold-grok-bot（前轮已记观察）；hustnn/pocket-bots（自建多 bot 框架、驱动其他 CLI，非 Grok Bot 玩法）；mariotoffia/grokbot-backup、Adambkr/Grokbot、brucksh0t/born-hood-grokbot-preview（个人/空仓）；OpenSelfHosting/skills（通用编码 skill 合集）；aijorgenson/grokbot-nixos（打包）。
