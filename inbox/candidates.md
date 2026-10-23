@@ -1926,3 +1926,26 @@ shibainu-inu/grokspot（无 README）；frank-otto/graveyard-golf（小游戏，
 ### Skip（本轮）
 
 Wifikir/WifikirMail（无说明的私人工作仓）；danimoya/grok-bot-arch、shibainu-inu/grokspot（前轮已记）。
+
+## 2026-10-23 18:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 16:07→18:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / skill / routine 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Olivia295/grokbot-team-monitor-UI | https://github.com/Olivia295/grokbot-team-monitor-UI | **多 bot 团队「监控室」**：把 Grok Bot 团队画成一间办公室，看每个 bot 在干嘛、谁把活交给谁、卡在哪、一条任务从你发消息到最终回复走了几跳；本地只读、Python 零依赖、中英双语、有在线 demo（真实数据有标注）。正中多 bot 作战室可视化，本轮最值得看 | Multi-bot / Observability | `multi-agent` `dashboard` `read-only` `zh` `mit` | 1 / MIT | **GitHub**（10-18 建，本窗更新） |
+| devrecated/grokbot-management-console | https://github.com/devrecated/grokbot-management-console | **routine 总控台**：一页看所有 bot 的 routine 和每次运行，可暂停/改时间/改提示词、一键全停，看 box 负载与日志，routine 坏了发邮件；Next.js + Postgres（Vercel/Neon 免费档），有假数据 demo。需在 box 放脚本回传，部署前自查权限 | Routines / Management | `routine` `dashboard` `nextjs` `self-host` `mit` | 1 / MIT | **GitHub**（10-20 建，本窗更新） |
+| beansmile/geo-checker-grok-bot-scripts | https://github.com/beansmile/geo-checker-grok-bot-scripts | **GEO（生成式引擎优化）体检 skill 运行时**：Python 标准库爬站 → 9 维规则打分 → 出 report.md/html，LLM 补充由 bot 自己做、无需外部 key。「脚本做苦力、bot 做判断」的又一实例，出海站长可直接用 | Skills / SEO & GEO | `skill` `geo` `seo` `python` `mit` | 0 / MIT | **GitHub**（10-23 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| meeting-ai/memo-grok-bot-plugin | https://github.com/meeting-ai/memo-grok-bot-plugin | Meeting.ai 官方 Grok Bot 插件（远程 MCP：入会记录、纪要、Visual Notes）；商业服务，先信号 | Plugins / Meetings | **GitHub**（Apache-2.0） |
+| LiliLIN0324/floorplan-to-3d | https://github.com/LiliLIN0324/floorplan-to-3d | 中文平面图转 3D skill：识别结构→人确认比例→再挤出，「确认前不报米数」的人在环设计可参考；垂直场景，先信号 | Skills / Vertical | **GitHub**（10-23 本窗新建，README 称 MIT 但无 LICENSE 元数据） |
+
+### Skip（本轮）
+
+RomanReb/grok-telegram-bot（空描述，疑似非 Grok Bot）；dave-1024/falconfpga（FPGA 项目，非玩法）。
