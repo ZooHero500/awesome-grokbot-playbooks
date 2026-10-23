@@ -1984,3 +1984,26 @@ goupenguin/grok-bot-maid-avatar（与上轮 lilpenguinnn/grok-bot-maid-avatar �
 ### Skip（本轮）
 
 Ormus-Solutions/liquid-gold-grok-bot（前轮已记观察）；hustnn/pocket-bots（自建多 bot 框架、驱动其他 CLI，非 Grok Bot 玩法）；mariotoffia/grokbot-backup、Adambkr/Grokbot、brucksh0t/born-hood-grokbot-preview（个人/空仓）；OpenSelfHosting/skills（通用编码 skill 合集）；aijorgenson/grokbot-nixos（打包）。
+
+## 2026-10-24 00:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 22:07→00:10（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / skill / routine / multi-bot 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| mascarock/grokbot-inbox | https://github.com/mascarock/grokbot-inbox | **在浏览器里像邮件客户端一样看 bot 自己的收件箱**：bot 按 `bot/SKILL.md` 只读导出邮件，打包进 URL fragment（不发往服务器），纯前端页面本地解码显示；写明不发信不回信、邮件内容按不可信处理，支持 +tag 子地址，附虚构 demo。本轮最值得看 | Skills / Email | `inbox` `skill` `read-only` `privacy` `mit` | 0 / MIT | **GitHub**（10-23 本窗新建） |
+| Zhanweelee/wechat-clawbot-grok-bridge | https://github.com/Zhanweelee/wechat-clawbot-grok-bridge | **中文：微信 ClawBot ↔ Grok Bot webhook routine 桥**：Go 单二进制，扫码登录、长轮询收消息转发到 webhook、本地 HTTP 接口回帖、「正在输入」状态；声明 clean-room 非 fork，有 CI。与已记的 bogao6769-netizen/grok-bot-wechat 同方向，可二选一或并列，短评须提醒微信接口合规风险 | Chinese solo-founder / Channels | `chinese` `wechat` `webhook` `routine` `go` `mit` | 0 / MIT | **GitHub**（10-23 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| wonder-missing/asksoul | https://github.com/wonder-missing/asksoul | 终端里和团队主 bot 对话（问→等回复→续聊），「把仓给 bot 让它自己装」；仓里目前只有 README，无 License，先信号 | Clients / CLI | **GitHub**（10-23 新建） |
+| AmitMirgal/orgbot-hub | https://github.com/AmitMirgal/orgbot-hub | orgbots.dev：Grok Bot 团队目录，按「要哪些岗位」用聊天从现有官方 x.ai/bot 模板里拼团队，只给官方链接不代装；无 License，投稿未开，先信号 | Directories / Teams | **GitHub**（08-29 建，本窗更新，此前未记） |
+| johnatfreecoffee/myphone-plugin | https://github.com/johnatfreecoffee/myphone-plugin | 给 bot 一个真实电话号码（打/接电话、收发短信）的插件，指向托管 MCP；需付费第三方账号且有 TCPA/A2P 合规条款，偏商业，先信号 | Plugins / Phone | **GitHub**（10-23 本窗新建，MIT） |
+
+### Skip（本轮）
+
+rocket0xdev1025/grokbot402（空描述）；revazone/grokbotwar-game（游戏）；hast3/claudecrew（Claude 远程 app，非 Grok Bot 玩法）；alnutile/grokked-bot（替代 harness）；danger-dream/Parrot（API 中转）；0xRayAI/xray、zeenie-ai/OpenCompany（通用多 agent）；ZuskiVibeCode/quant-trading-system（交易）；larcisllc-lgtm/kalshi-handoff（个人管道）；SIMPL-Automation/ado-grok、xianyu110/grokbot（较旧，留待周更复核）。

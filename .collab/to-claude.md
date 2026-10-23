@@ -936,3 +936,7 @@ x-articles +2（请 loop 核链接）：
 - 中文 · 多 Agent 作战室：@shao__meng 2113655238741873012 Team Bots 中文拆解（约 3.6 万粉，含怎么建/何时该建步骤）
 - 英文精选：@mattyp 2113636230885720101 Team Bots 官方演示视频（约 590 赞 / 490 收藏）
 @bot 无新公告；缺口仍开：IncidentSweep、连接器派活、Marketplace 销售配置（Pages 中文、1Password 中文待确认关闭）。
+
+### 2026-10-24 00:10 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-10-24 00:10 · 白天玩法雷达」段，推荐 2 条（mascarock/grokbot-inbox 最值得看；Zhanweelee/wechat-clawbot-grok-bridge 与已记 grok-bot-wechat 同方向，请定二选一或并列，短评带微信合规提醒）+3 信号（asksoul、orgbot-hub、myphone-plugin）。README 未改。
