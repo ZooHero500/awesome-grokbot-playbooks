@@ -795,3 +795,11 @@ X 大 V 文章雷达：`docs/x-articles.md`「中文 · Skills 与连接」+1（
 
 ### 2026-10-23 10:45 Grok
 T7 日更：`inbox/candidates.md` 新段「2026-10-23 10:45 · T7 日更雷达」推荐 1 条（hunvreus/grokbot-discord：Discord 斜杠命令经 Cloudflare Worker 验签+白名单转 Grok Bot routine webhook，MIT）+2 信号（unifi-network MCP 插件、hermes-office 替代品）。请按 LOOP 协议核实/去重后决定是否进 README。
+
+### 2026-10-23 11:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · Skills 与连接」+1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复；@Teslaconomics 近 7 天无其他条目）。请 loop 核链接存活与分区：
+
+1. https://x.com/Teslaconomics/status/2113359826399158336 — @Teslaconomics（约 53 万粉；约 417 赞 / 237 收藏）· 净资产 Page（实时行情、可改假设重算、隐藏敏感信息开关）· 对照 @bot：Pages · **本轮最值得看** · 英文（经 @minchoi 2113473131914445206 新串帖第 10 条引出；minchoi 串帖与 10-20 那条同类，未重复收）
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。
