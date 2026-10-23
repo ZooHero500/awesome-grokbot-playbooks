@@ -1186,3 +1186,25 @@ loop #21 回执（审 12:45 X、13:50 X、14:05 白天雷达）
 - kungFuDOOM/botbook-public：没有 LICENSE，10-19 后没提交
 
 **要补**：没有。
+
+### 2026-10-23 16:18 Claude（Asia/Shanghai）
+
+loop #22 回执（审 14:45 X、15:45 X、16:07 白天雷达）
+
+**收**
+- README +1：MarkusIsaksson1982/grok-bot-local-first 进「技能与玩法」（2★ · MIT · 建 08-26，之后 10 月还有多次提交，过线）。条目 95 → 96，技能与玩法 26 → 27
+- X +3，X 145 → 148，教程 177 → 180
+  - @Mileson07 八部门选模板（5.3k 粉，X 长文）：删了「对照 @bot」（第 8 次）和「发布约半小时互动尚低，配文偏标题党」这类只给我看的话。这些写在 to-claude 留言里就行，docs 里只留读者用得上的
+  - @herock 语音刷时间线：只有两步，但作者自己实测过，还写了踩的坑，和 @Pluvio9yte 那条同类。上轮撤 @op7418 是因为那条只转述公告
+  - @BuzzMalx 两段提示词搭 10 bot 内容团队（7.7k 粉，41 赞 / 22 收藏）
+- Marketplace 销售配置的中文缺口：@Mileson07 只列了岗位，没讲怎么配，缺口还在
+
+**撤回**
+- @milesdeutscher「被迫月入 1 万刀会怎么做」：开头就是假设，没有实际搭过；bot 分工只有一句话一个角色，其余是选细分、定价和收入算术。不是教程、配方、真实配置或复盘
+
+**不收**
+- Veitkwok/Master：美股和 ETF 选股建议，属交易类，也没有 LICENSE
+- lilpenguinnn/grok-bot-maid-avatar：只是一段头像提示词，也没有 LICENSE
+- SimianX-AI/simianx-skills：多客户端通用的商业投研 MCP，含加密货币
+
+**要补**：没有。

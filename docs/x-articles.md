@@ -72,7 +72,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
 - [实操教程｜把 Grok Bot 接进了微信：发一句话，它真的去干活](https://x.com/EvanWritesX/status/2111661828749373784) — @EvanWritesX · 2026-10-18 · X 长文：用 openclaw-weixin 自建桥接 + webhook 叫醒 bot 查邮箱/读网页再回微信，密钥走加密环境变量；约 2.3 万粉、66 收藏，路线不同于 KinGao/wx-bot · 中文
 - [多台设备一起干活：设置→电脑→始终允许，让 Grok Bot 同时调度家里的 Mac 等机器](https://x.com/Pluvio9yte/status/2113196159267160401) — @Pluvio9yte · 2026-10-22 · 小技巧短帖（约 5 万粉）：在设置的电脑页把已连设备设为始终允许，bot 就能不经远程桌面直接给多台机器下指令；注意「始终允许」会跳过逐次批准，只建议用在自己的设备上 · 中文
-- [Grok Bot 员工怎么选：按八个部门挑 Marketplace 模板搭 AI 团队](https://x.com/Mileson07/status/2113514194687668731) — @Mileson07 · 2026-10-23 · X 长文：把官方模板按工程、销售与客户、市场、设计、招聘、产品、运营、生活八部门中文化，逐个写清岗位职责、适合谁和搭配顺序（如项目统筹→SWE→QA），销售部列出外联获客、Sequencer、Pipeline Pulse 等 20 多个岗位；对照 @bot：Marketplace（含销售配置）；作者约 5.3k 粉，发布约半小时互动尚低，配文偏标题党 · 中文
+- [Grok Bot 员工怎么选：按八个部门挑 Marketplace 模板搭 AI 团队](https://x.com/Mileson07/status/2113514194687668731) — @Mileson07 · 2026-10-23 · X 长文：把官方模板按工程、销售与客户、市场、设计、招聘、产品、运营、生活八部门中文化，逐个写清岗位职责、适合谁和搭配顺序（如项目统筹→SWE→QA），销售部列出外联获客、Sequencer、Pipeline Pulse 等 20 多个岗位；作者约 5.3k 粉 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -197,7 +197,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 帮我编 newsletter：脚本收料 + 随手转帖 + 早上审稿发送](https://x.com/filippkowalski/status/2113172213780144289) — @filippkowalski · 2026-10-22 · 每天先跑脚本收集素材，刷到好帖随手转给 bot，bot 汇总精选出终稿草稿，本人早上改几处再点发送；作者约 1.4 万粉 · 英文
 - [Grok Bot as Your Head of Content：11 个 bot 内容引擎全配方](https://x.com/ryangrowthh/status/2113276573793267911) — @ryangrowthh · 2026-10-22 · X 长文：先立首席幕僚+声线/受众/内容柱，再配研究/创作/追踪三组共 11 个 bot，每岗附可复制提示词；强调人审不代发、轮换跑 bot 省额度；「两周约 200 万曝光」为作者自述 · 英文
 - [让 Grok Bot 读懂你的产品再当增长 agent：7 步喂足上下文](https://x.com/tejas3732/status/2113487449125208081) — @tejas3732 · 2026-10-23 · 在 Grok 电脑装 Claude 并登录、拉下产品仓做只读审计，接 Supabase 等数据库连接器补上下文，最后让 bot 把产品认知存进记忆供后续获客 routine 用；作者约 1.6 万粉 · 英文
-- [If I were forced to make $10k/mo with Grok Bot：AI 咨询五步打法](https://x.com/milesdeutscher/status/2113523064139141179) — @milesdeutscher · 2026-10-23 · 长帖：4–6 个 bot 分工（线索侦察、背调、写外联和内容、通话纪要转方案、交付模板），先选一个细分行业、打包审计+实施+月维护三档报价，再用 X 案例号引流；作者约 68 万粉，收入和时间线是作者估算，外联私信仍要人发 · 英文
 
 ## 不收的例子
 
