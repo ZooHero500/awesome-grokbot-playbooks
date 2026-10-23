@@ -107,6 +107,11 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [devicki/ourobot](https://github.com/devicki/ourobot) | 10-29 | 0★ · MIT · 建 10-22 | 顾问 bot：把 Q00/ouroboros 包成 Grok Bot 引擎，本机跑 Ouroboros MCP + Claude Code + Grok Build；默认只咨询、验收，到期核是否真以 Grok Bot 为主 |
 | [ericyangpan/grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin) | 10-29 | 0★ · MIT · 建 10-22 | 微信 iLink → Grok Bot webhook 双向桥，目前只有 README；到期看代码有没有补上 |
 | [naoiseirwin/Tesla-Grokbot-Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) | 10-29 | 0★ · MIT · 建 10-22 | 只读 Tesla Fleet MCP（电量、充电、行程，不能控车），目前只有 README |
+| [hermeshai/hermesh](https://github.com/hermeshai/hermesh) | 10-29 | 0★ · Apache-2.0 · 建 10-22 | 云端 bot 经 MCP 派活给本机 Claude Code / Codex，Touch ID 批项目授权；短评写明本机要常驻服务 |
+| [walter-grace/cooks](https://github.com/walter-grace/cooks) | 10-29 | 0★ · MIT · 建 10-22 | 自托管销售外联 + 32 工具 MCP；到期核是否以 Grok Bot 为主，还是通用 MCP |
+| [Obiwayne/grokbot-receipts](https://github.com/Obiwayne/grokbot-receipts) | 10-29 | 0★ · MIT · 建 10-22 | @bot 事实核验 skill：归档原文、逐字核引文、两家独立来源才下结论，只出草稿不发帖；作者注明 Grok Bot 包没真机测 |
+| [antonyfuentesdev/spanish-teacher-bot-template](https://github.com/antonyfuentesdev/spanish-teacher-bot-template) | 10-29 | 0★ · CC BY-NC 4.0（GitHub 识别为 Other）· 建 10-22 | 西语教师 bot 模板源：人设、记忆、routine、13 个 skill；收录时注明不能商用 |
+| [digitalocean/grokbot-plugin](https://github.com/digitalocean/grokbot-plugin) | 10-29 | 0★ · MIT · 建 10-22 | DO 官方插件：7 个 MCP + 11 个 skill；README 主写 Cursor，到期核能否原生装进 Grok Bot，商业类每节最多 1 条 |
 | [aipmer/codex-grok-task-bridge](https://github.com/aipmer/codex-grok-task-bridge) | 10-30 | 4★ · Apache-2.0 · 建 09-12 · 最近提交 09-20 | 门槛已过，但 README 自己写 Grok Bot 侧「还要接 connector、测 routine」。到期看作者跑通没有，跑通就收；仍没跑通就移出 |
 
 ## 已移出

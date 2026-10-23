@@ -1090,3 +1090,33 @@ loop #17 回执，处理 to-claude 22:41、10-23 00:10 两条，以及 recheck 1
 - cloudflare/security-audit-skill：通用 skill，不是 Grok Bot 专用
 
 **要补**：没有。
+
+### 2026-10-23 08:18 Claude（Asia/Shanghai）
+
+loop #18 回执，处理 to-claude 10-23 00:41、02:07、02:38、08:07 四条。02:07 那条到时已过凌晨 2 点，挪到这轮一起审。
+
+**收**
+- x-articles +2（139 → 141，教程合计 171 → 173，README 中英数字和首图已同步）：
+  - @free_ai_guides 购物 bot 长文：约 9.2 万粉，本周第 2 篇，到顶
+  - @JayDook True Circle：约 7k 粉，附开源模板，算真实配置
+- 修了 1 处：两条之间又多了一个空行，已删
+- README 这轮没有新条目
+
+**暂缓（写进 recheck.md，10-29 到期）**
+- hermeshai/hermesh、walter-grace/cooks、Obiwayne/grokbot-receipts、antonyfuentesdev/spanish-teacher-bot-template、digitalocean/grokbot-plugin：都是 10-22 建
+  - spanish-teacher 的 LICENSE 是 CC BY-NC 4.0，GitHub 显示成 Other，收录时注明不能商用
+  - digitalocean 到期要核两件事：能不能原生装进 Grok Bot；同一节里商业类条目已有几条
+
+**不收**
+- inematds/grokbot-7-agentes、SilasSolivagus/dsh-grokbot-bridge：没有 LICENSE。7-agentes 内容不错，作者补上 LICENSE 后可以再推
+- personalagentproxy/proxy（118★）：通用 agent 权限代理，README 里 Claude 出现 12 次、Grok 3 次
+- we1jia/AgentDock（19★）：多家 AI 的语音拨号盘，ChatGPT dot、Copilot、Devin 和 Grok Bot 并列
+- yanqingcheng/grokbot-actually-good-qa-tester：正文是通用 QA skill，Grok Bot 模板链接还写着 TODO。上线后可以再推
+- kitepon/grokbot-bridge：只有日文 README，和作者自己的 BellTeam 环境绑定很深
+- nessielabs/nessie-grokbot：厂商 SaaS 接入包，要 Nessie 账号并开 Cloud Sync，和 orgx 同理
+- jt-wang/visa-bulletin-push：美签排期提醒，题材太窄，Grok Bot 只是推送目标之一
+- 信号里的 spanish-teacher-course-pack：配套课件，不单独收
+
+**留意**：@bot 发了 1Password 新能力。中文目前只有公告转述，有合格的上手帖再推。
+
+**要补**：没有。

@@ -102,7 +102,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot A 到 Z 入门指南](https://x.com/eeelistar/status/2112528735127871960) — @eeelistar · 2026-10-20 · 约 6 万粉作者的完整上手指南，正文在 Substack · 英文
 - [一条提示就让 Grok Bot 做出自用的阅读模式浏览器插件](https://x.com/DillonLoomis/status/2112572143049617718) — @DillonLoomis · 2026-10-20 · 真实搭建：作者试遍现有阅读模式插件都不满意，让 bot 一次做出功能齐全的自用版，附 3 分钟演示视频；约六万粉、300+ 赞，核心是「不顺手的工具就自己让 bot 造一个」 · 英文
 - [四款 Personal Agent 更新横评：Grok Bot / Muse / Claude Duet / Dots](https://x.com/petergyang/status/2113042717270049028) — @petergyang · 2026-10-22 · 各列优缺点：Grok Bot 强在多 bot 团队、免费搜 X、语音与新 Pages，邮箱体验作者觉得不行；并对比 Muse / Duet / Dots 选型；约 29 万粉、180+ 赞 / 330+ 收藏 · 英文
-
 - [How to build a Grok Bot that does your shopping](https://x.com/free_ai_guides/status/2113309273744617696) — @free_ai_guides · 2026-10-23 · X 长文：购物 bot 只搜价、核单、盯价并备好购物车，下单键本人按；四文件（wishlist/me/rules/purchases）+ 6 步可复制提示词 + 早 8 点盯价 routine；强调别把卡号丢进聊天、别让 bot 点买（Amazon 已拦 AI 下单）；约 9.2 万粉，同作者 Action Button 帖已收 · 英文
 
 ### 多 Agent 作战室
