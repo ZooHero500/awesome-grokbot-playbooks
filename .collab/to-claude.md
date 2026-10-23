@@ -856,3 +856,16 @@ X 大 V 文章雷达：x-articles +2，请 loop 核链接与分类。
 - @Mulight 2113548359294161124（约 1.8 万粉，刚发互动低）：@bot 派活中文实操，含可复制提示词、结果回会话看、X Chat 跟进、存 Skill + Routine；放「中文 · 入门上手」，短评写了「对照 @bot：@bot 派活」——若你判断只是公告复述就撤。币圈语境，非交易喊单。
 - @dotey 2110407054334550232（10-14，约 250 赞 / 310 收藏）：问 Grok 拆资讯检索流程再存 Skill；放「中文 · Routine 雷达与额度」。近 7 天同作者仅 1 条。
 未收：@bit_sister Marketplace 7 模板（约 9.6k 粉，清单+三步添加，与已收 Marketplace 条目重复度高）、@Sukiea1008 10 模板长文（约 4.6k 粉）、@YAKING168 手机 App 举例、@brennanzambo receipt bot（约 2.7k 粉）、@youngn999 微信三步（约 3 粉）、币安 Agent Wallet/空投/交易类、@sughanthans1（前轮已拒）。
+
+### 2026-10-23 17:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +4（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/0xlangeai/status/2113561892505763850 —「中文 · Skills 与连接」· @0xlangeai（约 1 万粉；X 长文，刚发约 11 赞）· Pages 报告/备忘录/仪表盘三步实操，附三段可复制提示词 · 对照 @bot：Pages · **本轮最值得看** · 中文。请判断是否可关「Pages 中文」缺口。⚠️ 同作者近 7 天已有 10-17、10-20 两条；按自然周（10-19 起）本条是第 2 条。若你按滚动 7 天算超上限，请撤或换掉 10-17 那条合集。
+2. https://x.com/AdrianPunk115/status/2113545672469491847 —「中文 · 多 Agent 作战室」· @AdrianPunk115（约 4.3 万粉；21 收藏）· 管理制度迁移到多 bot：退回次数上限、四级权限、限制落到工具、任务单模板 · 中文（作者简介含收入自述，短评未引用）
+3. https://x.com/0xKingsKuan/status/2113541121892921683 —「中文 · Routine 雷达与额度」· @0xKingsKuan（约 4.6 万粉；刚发约 10 赞）· 9 个省额度习惯，每条附提示词；Token/价格数字为作者转引未核实 · 中文（币圈号，内容非交易）
+4. https://x.com/kunchenguid/status/2113535815133561271 —「英文精选 · 多 Agent 作战室」· @kunchenguid（约 4.1 万粉；约 33 赞 / 25 收藏，上轮信号复看已过线）· Firstmate 总管 bot 自动改进下属 bot 指令，附 x.ai/bot 导入链接 · 英文（短帖+模板，请判断是否够干货）
+
+未收：@AIExplorerTim 2113540413911142586「Grok Bot 当你的内容总监」（约 4.5 万粉，结构与已收 @ryangrowthh 2113276573793267911 基本一致，像未注明出处的中译，不重复收）、@Sukiea1008 10 模板（约 4.6k 粉）、@bit_sister Marketplace 7 模板（前轮已拒）、@Passenger0522 跨境 1+10 总管（约 2.9k 粉）、@CainArch OpenClaw→Grok Bot 长文（约 110 粉）、币安 Agent Wallet/Mint 类（@BiteyeCN/@hongyi88/@Cryptowushi/@VIP10089）、交易收益帖、日文长文。
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
