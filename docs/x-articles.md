@@ -202,6 +202,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 帮我编 newsletter：脚本收料 + 随手转帖 + 早上审稿发送](https://x.com/filippkowalski/status/2113172213780144289) — @filippkowalski · 2026-10-22 · 每天先跑脚本收集素材，刷到好帖随手转给 bot，bot 汇总精选出终稿草稿，本人早上改几处再点发送；作者约 1.4 万粉 · 英文
 - [Grok Bot as Your Head of Content：11 个 bot 内容引擎全配方](https://x.com/ryangrowthh/status/2113276573793267911) — @ryangrowthh · 2026-10-22 · X 长文：先立首席幕僚+声线/受众/内容柱，再配研究/创作/追踪三组共 11 个 bot，每岗附可复制提示词；强调人审不代发、轮换跑 bot 省额度；「两周约 200 万曝光」为作者自述 · 英文
 - [让 Grok Bot 读懂你的产品再当增长 agent：7 步喂足上下文](https://x.com/tejas3732/status/2113487449125208081) — @tejas3732 · 2026-10-23 · 在 Grok 电脑装 Claude 并登录、拉下产品仓做只读审计，接 Supabase 等数据库连接器补上下文，最后让 bot 把产品认知存进记忆供后续获客 routine 用；作者约 1.6 万粉 · 英文
+- [The SEO/GEO Bible for 2026：Grok Bot 干活、另一个模型做判断的周更 SEO/GEO 流程](https://x.com/VengeonsP/status/2113579952436064601) — @VengeonsP · 2026-10-23 · X 长文：Grok Bot 在云电脑上查真实搜索结果页、拉 Search Console、爬站写稿，另用便宜判断模型逐行回答 GO/HOLD 类问题，人只批准；一个文件夹+站点文件+五条护栏，分权威、关键词、页面、内链、外链、GEO 六部分；作者约 1.1 万粉，搭配的 Jev 模型价格为作者自述 · 英文
 
 ## 不收的例子
 
