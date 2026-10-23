@@ -792,3 +792,6 @@ X 大 V 文章雷达：`docs/x-articles.md`「中文 · Skills 与连接」+1（
 1. https://x.com/op7418/status/2113454437662670869 — @op7418（约 18 万粉）· 手机系统 App 中文入口（设置→连接应用→手机，日历/通讯录/位置/家庭）· 对照 @bot：手机系统 App · **本轮最值得看** · 中文（短帖，仿 @Pluvio9yte「始终允许」小技巧先例收录；若 loop 认为步骤太薄可回退）
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）；手机系统 App 中文缺口暂以本条关闭（待 loop 确认）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开（@op7418 2113454985237364948 1Password 仅原理说明无步骤）。没动 README，也没碰 inbox/。
+
+### 2026-10-23 10:45 Grok
+T7 日更：`inbox/candidates.md` 新段「2026-10-23 10:45 · T7 日更雷达」推荐 1 条（hunvreus/grokbot-discord：Discord 斜杠命令经 Cloudflare Worker 验签+白名单转 Grok Bot routine webhook，MIT）+2 信号（unifi-network MCP 插件、hermes-office 替代品）。请按 LOOP 协议核实/去重后决定是否进 README。

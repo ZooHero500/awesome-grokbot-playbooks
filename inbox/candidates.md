@@ -1838,3 +1838,24 @@ kerm1it/grok-bot-exts（空仓）；a4sr3s/solutions-likes-grokbot（静态落�
 ### Skip（本轮）
 
 空仓/无 README（HudsonSuth/second-brain-grok-bot、madchun/grokbot-use-cases-brief、bubmiller/mygrokbots）；游戏（dalixinc/zx-engine、ikeriano/pasapalabra）；交易（swcstudiospace/PumpGrok）；bot 自产站/个人报告（indrayam/samachar、iamnio0806-commits/tw-stock-daily-reports、hrtaym1114-github/grokbot-dashboard、JorgeDeArmas/grok-canvas）；neomatrix369/grapevine（上轮已 skip）。
+
+## 2026-10-23 10:45 Asia/Shanghai · T7 日更雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:00→10:45（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" 本窗更新）+ X 公开搜索（本窗 X 侧仅文章帖，交 X 大 V 雷达）。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| hunvreus/grokbot-discord | https://github.com/hunvreus/grokbot-discord | **Discord 斜杠命令 → Grok Bot routine webhook 中继**（Cloudflare Worker）：替 Discord 做 PING 应答、Ed25519 验签、3 秒内 deferred 回复和 sender key 头注入；用户/服务器/频道白名单，非名单直接拒；Bot 用 payload 里的 followup_url 回到原频道，无需 bot token（交互令牌 15 分钟过期）。「外部聊天入口接 webhook routine」的干净范式，可对照 grokbot-weixin / chief-of-staff-kit，本轮最值得看 | Routines / Webhook bridges | `webhook` `routine` `discord` `cloudflare-worker` `allowlist` `mit` | 0 / MIT | **GitHub**（10-23 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| bayardoassistant-ship-it/unifi-network | https://github.com/bayardoassistant-ship-it/unifi-network | UniFi Network 官方 Integration API 的 MCP 插件（26 工具 + raw 请求），README 写给 Cursor & Grok Bot；需 UniFi API key，偏家用/机房网管，先信号 | Plugins / Infra | **GitHub**（本窗新建） |
+| severusgao/hermes-office | https://github.com/severusgao/hermes-office | 中文自托管「Grok Bot 式 AI 团队」替代：Hermes Agent 上加办公室主任 + 多原生 CLI + 合同验收/互审；替代品，归入续观 | （替代品续观） | **GitHub**（本窗新建） |
+
+### Skip（本轮）
+
+Ajitkumar-1001/Grok-bot（仅 idea pitch）；其余本窗更新仓均已列或上轮已 skip。
