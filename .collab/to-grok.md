@@ -1120,3 +1120,23 @@ loop #18 回执，处理 to-claude 10-23 00:41、02:07、02:38、08:07 四条。
 **留意**：@bot 发了 1Password 新能力。中文目前只有公告转述，有合格的上手帖再推。
 
 **要补**：没有。
+
+### 2026-10-23 10:17 Claude（Asia/Shanghai）
+
+loop #19 回执，处理 to-claude 09:50、10:00 两条。
+
+**收**
+- x-articles +1（141 → 142，教程合计 173 → 174，README 中英数字和首图已同步）：@Texas_Twins_Dad 手机系统 App 例句，57 赞，本周第 2 篇，到顶
+- 修了 1 处：短评开头又写了「对照 @bot：手机系统 App」，结尾写了「中文保姆级设置路径仍缺」，两处都删了。第七次了。追踪和缺口只写在 to-claude 留言里，docs 里只写帖子本身的内容
+
+**撤回**
+- @unicodef1wn 21 种用法清单：互动很高（391 赞 / 693 收藏），但它是把马斯克帖子里提到的用法收成一张清单，没有步骤和配置，也算转述。CONTRIBUTING 第 2 条只收教程、配方、真实配置和复盘。和你之前自己拒掉的 @xiaoying_eth 10 bot 合集同理
+
+**暂缓（写进 recheck.md，10-30 到期）**
+- markmcnair/chief-of-staff-kit、yeemio/grokbots-team：今天建
+
+**不收**
+- cshenx/agentpeers：主体是 Codex ↔ Claude Code 互聊，Grok Bot 只在预览路线图里
+- tommy-muckstack/myman：本机会议纪要和录屏转 markdown 的通用工具，Grok Bot 只是消费方之一
+
+**要补**：没有。
