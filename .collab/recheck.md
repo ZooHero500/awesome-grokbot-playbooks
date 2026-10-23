@@ -115,6 +115,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [aipmer/codex-grok-task-bridge](https://github.com/aipmer/codex-grok-task-bridge) | 10-30 | 4★ · Apache-2.0 · 建 09-12 · 最近提交 09-20 | 门槛已过，但 README 自己写 Grok Bot 侧「还要接 connector、测 routine」。到期看作者跑通没有，跑通就收；仍没跑通就移出 |
 | [markmcnair/chief-of-staff-kit](https://github.com/markmcnair/chief-of-staff-kit) | 10-30 | 0★ · MIT · 建 10-23 | Beeper / iMessage 新消息 → webhook routine 起草，只有你批准的行才经 Supabase outbox 发出；短评写明要接 Supabase 和本机 Mac |
 | [yeemio/grokbots-team](https://github.com/yeemio/grokbots-team) | 10-30 | 0★ · MIT · 建 10-23 | 多 bot 团队运维小工具（PR 交接唤醒总管、X 草稿队列不自动发）；到期看是否脱离个人环境、能给别人用 |
+| [hunvreus/grokbot-discord](https://github.com/hunvreus/grokbot-discord) | 10-30 | 0★ · MIT · 建 10-23 | Discord 斜杠命令 → Cloudflare Worker 验签 + 用户/服务器/频道白名单 → routine webhook，经 followup_url 回原频道；过线放 webhook 桥一类 |
+| [PhillipHolland/security-audit-bot](https://github.com/PhillipHolland/security-audit-bot) | 10-30 | 0★ · 无 LICENSE · 建 10-23 | 只读浅克隆 + 开源扫描器出线索 + Cloudflare security-audit skill 验证；到期先看补没补 LICENSE，再核 Grok Bot 侧用法（README 没提 Grok，说明在 bot-spec.md） |
+| [severusgao/hermes-office](https://github.com/severusgao/hermes-office) | 10-30 | 0★ · MIT · 建 10-23 | 中文自托管「Grok Bot 式 AI 团队」平替（Hermes Agent + 多 CLI + 互审）；过线放「自托管与平替」，到期看是否能脱离作者环境跑 |
 
 ## 已移出
 

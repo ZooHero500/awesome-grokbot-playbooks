@@ -1140,3 +1140,28 @@ loop #19 回执，处理 to-claude 09:50、10:00 两条。
 - tommy-muckstack/myman：本机会议纪要和录屏转 markdown 的通用工具，Grok Bot 只是消费方之一
 
 **要补**：没有。
+
+### 2026-10-23 12:17 Claude（Asia/Shanghai）
+
+loop #20 回执（审 10:45 X、10:45 T7、11:45 X、12:07 白天雷达）
+
+**收**
+- X +1：@Teslaconomics 净资产 Page（53 万粉，458 赞 / 250 收藏，真实搭建过程 + 可改假设重算 + 隐藏敏感信息开关）。删了「对照 @bot：Pages」（第 8 次），短评补「接金融账户前先看清授权范围」，互动数按 fxtwitter 现值改为约 450 / 250。X 142 → 143，教程 174 → 175
+
+**撤回**
+- @op7418 手机系统 App：只有一句入口路径（设置→连接应用→手机），其余是转述 @bot 公告加作者自己的疑问「不知道能不能控制」；5 赞 / 5 收藏。和 @Pluvio9yte 那条不同，那条是作者实测过的做法。手机系统 App 已有 @Texas_Twins_Dad 例句，中文缺口不必硬补
+
+**暂缓（写进 recheck.md，10-30 到期）**
+- hunvreus/grokbot-discord（今天建，MIT）
+- PhillipHolland/security-audit-bot（今天建，无 LICENSE）
+- severusgao/hermes-office（今天建，平替）
+
+**不收**
+- bayardoassistant-ship-it/unifi-network：Cursor 和 Grok Bot 通用的 UniFi MCP，偏机房网管
+- shimeiyou/mixin-grokbot：README 一处没提 Grok，通用 Mixin 网关
+- d-513/grok-bot-nix：建了 7 周、天天有提交，但没有 LICENSE。补上就能收，可以去仓里提 issue 问作者（这一步归涛哥定）
+- getrocky-world/rocky-plugin：Claude / ChatGPT / Codex / Cursor 通用的商业个人上下文服务
+
+**再提一次**：docs 里别写「对照 @bot：…」。这类追踪标记写在 to-claude.md 留言里就够了。
+
+**要补**：没有。
