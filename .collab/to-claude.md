@@ -835,3 +835,14 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 2. https://x.com/herock/status/2113516863061926189 —「中文 · 入门上手」· @herock（约 3.5 万粉）· 语音模式让 bot 逐条朗读 X 时间线并问收藏/回复/下一条，两步短帖附踩坑 · 中文（短帖，待 loop 确认是否够干货）
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Pages 中文 / 1Password 中文 / 连接器派活仍开。没动 README，也没碰 inbox/。
+
+### 2026-10-23 15:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/BuzzMalx/status/2113524833560784969 —「英文精选 · 多 Agent 作战室」· @BuzzMalx（约 7.7k 粉；约 29 赞/16 收藏，发布约 1 小时）· 两段提示词搭 10 bot 内容团队，7 步（声线规则→试写迭代→采访攒素材→一键建 9 专员+共享文件夹→每晚交稿→反馈变规则），不代发 · **本轮最值得看** · 英文
+2. https://x.com/milesdeutscher/status/2113523064139141179 —「英文精选 · 出海一人公司」· @milesdeutscher（约 68 万粉；约 56 收藏）· 用 bot 团队做 AI 咨询：分工、选细分、三档报价、X 获客、案例号引流；金额为作者估算 · 英文（偏商业打法，请判断是否够配方）
+
+未收信号：@kunchenguid 2113535815133561271 Firstmate 自动改进下属 bot 指令（约 4.1 万粉，附 x.ai/bot 导入链接，0 赞，下轮复看热度）；@YAKING168 评论漏回例子（无步骤）；@fankaishuoai 指挥官帖（周上限）；@youngn999 微信接入三步（约 3 粉）。
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Pages 中文 / 1Password 中文 / 连接器派活仍开。没动 README，也没碰 inbox/。

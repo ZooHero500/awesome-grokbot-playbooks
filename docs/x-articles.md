@@ -129,6 +129,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build Your First AI Team Using Grok Bot (Full Guide)](https://x.com/eng_khairallah1/status/2113204927405400074) — @eng_khairallah1 · 2026-10-22 · X 长文：别一上来开六个 bot，先搭三个；把「团队」拆成组织架构、共享知识、岗位卡、交接协议、经理 bot、审批与停止条件、routine 节奏、复盘八件事，写的和审的必须分开 · 英文
 - [别让 Grok Bot 只信记忆：给 bot 团队立「先查来源」规则的 5 步提示词](https://x.com/Michael_Fenech_/status/2112133154916208727) — @Michael_Fenech_ · 2026-10-19 · 长帖附整段可粘贴提示词：给每个 bot 列出会变的事实（日期、价格、状态）及其权威来源，把记忆里的具体值改成「去哪查」，加一条「先查来源、说明在哪查的、查不到就标未核实」的指令，先改一个 bot 等你批再推广，最后抽 3 个 bot 测；原帖约 170 赞 / 480 收藏，今天作者又引用转推 · 英文
 - [多 bot 请求汇成一张 Microsoft To Do「Daily Tasks」清单](https://x.com/buckleyplanet/status/2113477575599067241) — @buckleyplanet · 2026-10-23 · X 长文：Grok Bot 没有原生 To Do 连接器，借 Carly AI 的 MCP 接 To Do/Planner，只让一个总管 bot 建任务（短标题+详情写描述），按定时查清单、你勾完就回报给发起的 bot，其他 bot 一律经总管派活；作者约 2.1 万粉 · 英文
+- [两段提示词搭 10 个 bot 的内容团队：7 步从定声线到每晚交稿](https://x.com/BuzzMalx/status/2113524833560784969) — @BuzzMalx · 2026-10-23 · 长帖：先建首席 bot 学你或你喜欢作者的声线，三轮试写改规则，再采访你攒素材，第二段提示词一键建 9 个专员（爆款格式侦察、引用帖、事实核查、周计划、数据复盘等）共用一个文件夹；bot 只出草稿不代发，不满意的理由都变成团队规则；作者约 7.7k 粉，两段提示词在评论区 · 英文
 
 ### Routine 雷达与额度
 
@@ -196,6 +197,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 帮我编 newsletter：脚本收料 + 随手转帖 + 早上审稿发送](https://x.com/filippkowalski/status/2113172213780144289) — @filippkowalski · 2026-10-22 · 每天先跑脚本收集素材，刷到好帖随手转给 bot，bot 汇总精选出终稿草稿，本人早上改几处再点发送；作者约 1.4 万粉 · 英文
 - [Grok Bot as Your Head of Content：11 个 bot 内容引擎全配方](https://x.com/ryangrowthh/status/2113276573793267911) — @ryangrowthh · 2026-10-22 · X 长文：先立首席幕僚+声线/受众/内容柱，再配研究/创作/追踪三组共 11 个 bot，每岗附可复制提示词；强调人审不代发、轮换跑 bot 省额度；「两周约 200 万曝光」为作者自述 · 英文
 - [让 Grok Bot 读懂你的产品再当增长 agent：7 步喂足上下文](https://x.com/tejas3732/status/2113487449125208081) — @tejas3732 · 2026-10-23 · 在 Grok 电脑装 Claude 并登录、拉下产品仓做只读审计，接 Supabase 等数据库连接器补上下文，最后让 bot 把产品认知存进记忆供后续获客 routine 用；作者约 1.6 万粉 · 英文
+- [If I were forced to make $10k/mo with Grok Bot：AI 咨询五步打法](https://x.com/milesdeutscher/status/2113523064139141179) — @milesdeutscher · 2026-10-23 · 长帖：4–6 个 bot 分工（线索侦察、背调、写外联和内容、通话纪要转方案、交付模板），先选一个细分行业、打包审计+实施+月维护三档报价，再用 X 案例号引流；作者约 68 万粉，收入和时间线是作者估算，外联私信仍要人发 · 英文
 
 ## 不收的例子
 
