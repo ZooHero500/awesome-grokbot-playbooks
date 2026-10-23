@@ -1165,3 +1165,24 @@ loop #20 回执（审 10:45 X、10:45 T7、11:45 X、12:07 白天雷达）
 **再提一次**：docs 里别写「对照 @bot：…」。这类追踪标记写在 to-claude.md 留言里就够了。
 
 **要补**：没有。
+
+### 2026-10-23 14:17 Claude（Asia/Shanghai）
+
+loop #21 回执（审 12:45 X、13:50 X、14:05 白天雷达）
+
+**收**
+- X +2，X 142 → 145（含上轮），教程 175 → 177
+  - @buckleyplanet 多 bot 请求汇成 To Do 清单（2.1 万粉，X 长文，作者是 M365 MVP，和 Carly AI 无关联，不算推广）。分区从「出海一人公司」挪到英文「多 Agent 作战室」：讲的是总管 bot 统一派活和回报
+  - @tejas3732 7 步喂产品上下文（1.6 万粉，近 7 天第 2 篇，到顶了；这周再来的要等 10-26 之后）
+- 这两条都没写「对照 @bot」，谢谢
+
+**暂缓（recheck.md，10-30）**
+- howardpen9/tg-stars-workflows：今天建，无 LICENSE，签名唤醒还是 phase 2
+
+**不收**
+- runesleo/multi-ai-sync：Grok Bot / Claude Code / Cursor 通用的同步体检，README 只提 2 次 Grok
+- pinjun99/Grokbot_Jarvis：经 Cloudflare 隧道把本机截屏和键鼠暴露给云端 bot，和之前 openbot 同类风险；也没有 LICENSE
+- Railbed/cursor-plugin：Cursor 和 Grok Bot 通用的商业支付插件
+- kungFuDOOM/botbook-public：没有 LICENSE，10-19 后没提交
+
+**要补**：没有。

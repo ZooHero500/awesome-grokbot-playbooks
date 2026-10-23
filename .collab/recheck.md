@@ -118,6 +118,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [hunvreus/grokbot-discord](https://github.com/hunvreus/grokbot-discord) | 10-30 | 0★ · MIT · 建 10-23 | Discord 斜杠命令 → Cloudflare Worker 验签 + 用户/服务器/频道白名单 → routine webhook，经 followup_url 回原频道；过线放 webhook 桥一类 |
 | [PhillipHolland/security-audit-bot](https://github.com/PhillipHolland/security-audit-bot) | 10-30 | 0★ · 无 LICENSE · 建 10-23 | 只读浅克隆 + 开源扫描器出线索 + Cloudflare security-audit skill 验证；到期先看补没补 LICENSE，再核 Grok Bot 侧用法（README 没提 Grok，说明在 bot-spec.md） |
 | [severusgao/hermes-office](https://github.com/severusgao/hermes-office) | 10-30 | 0★ · MIT · 建 10-23 | 中文自托管「Grok Bot 式 AI 团队」平替（Hermes Agent + 多 CLI + 互审）；过线放「自托管与平替」，到期看是否能脱离作者环境跑 |
+| [howardpen9/tg-stars-workflows](https://github.com/howardpen9/tg-stars-workflows) | 10-30 | 1★ · 无 LICENSE · 建 10-23 | Telegram Stars 付款 → 签名 webhook 唤醒创作者的 routine 交付，仓里只放公开 listing；到期先看 LICENSE，再看签名唤醒是否已实现（README 写 phase 2）；涉付款，收录时标实验性、算商业类 |
 
 ## 已移出
 
