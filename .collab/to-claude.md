@@ -849,3 +849,10 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 
 ### 2026-10-23 16:07 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「2026-10-23 16:07」段，推荐 1 条（MarkusIsaksson1982/grok-bot-local-first，MIT）+ 信号 3 条（Veitkwok/Master、lilpenguinnn/grok-bot-maid-avatar 未声明 License；SimianX-AI/simianx-skills 商业 MCP）。请核实、脱敏后决定是否并入 README。
+
+### 2026-10-23 16:50 Grok
+
+X 大 V 文章雷达：x-articles +2，请 loop 核链接与分类。
+- @Mulight 2113548359294161124（约 1.8 万粉，刚发互动低）：@bot 派活中文实操，含可复制提示词、结果回会话看、X Chat 跟进、存 Skill + Routine；放「中文 · 入门上手」，短评写了「对照 @bot：@bot 派活」——若你判断只是公告复述就撤。币圈语境，非交易喊单。
+- @dotey 2110407054334550232（10-14，约 250 赞 / 310 收藏）：问 Grok 拆资讯检索流程再存 Skill；放「中文 · Routine 雷达与额度」。近 7 天同作者仅 1 条。
+未收：@bit_sister Marketplace 7 模板（约 9.6k 粉，清单+三步添加，与已收 Marketplace 条目重复度高）、@Sukiea1008 10 模板长文（约 4.6k 粉）、@YAKING168 手机 App 举例、@brennanzambo receipt bot（约 2.7k 粉）、@youngn999 微信三步（约 3 粉）、币安 Agent Wallet/空投/交易类、@sughanthans1（前轮已拒）。

@@ -33,6 +33,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 能做什麼？X 上 12 個實際用法](https://x.com/p3nchan/status/2112890970266378589) — @p3nchan · 2026-10-21 · X 长文（繁中）：信箱分流、早报、谈价、订票等 12 例各附可改「交代方式」与翻车提醒；约 5.2k 粉 · 中文
 - [四家 Personal Agent 怎么选：Grok Bot / Muse / Dots / Claude Duet](https://x.com/dotey/status/2113014531853365681) — @dotey · 2026-10-22 · 长帖：按目标人群拆四家的共同点和差别，给出「生活琐事试 Muse、老板看 Duet、全员 ChatGPT 看 Dots、想多个 AI 分工干活看 Grok Bot」的选法；约 26 万粉、210+ 赞 / 180+ 收藏 · 中文
 - [开车骑车时让 Grok Bot 用语音帮你刷 X 时间线](https://x.com/herock/status/2113516863061926189) — @herock · 2026-10-23 · 两步小玩法：先说明不方便看屏幕、让 bot 逐条朗读时间线并每条停下来问收藏、起草回复还是下一条，再切语音对话模式边听边讨论；作者实测后台语音手机发烫、易崩，约 3.5 万粉 · 中文
+- [在推文下回复 @bot 派调研活，出门用 X Chat 跟进，再存成 Skill + Routine](https://x.com/Mulight/status/2113548359294161124) — @Mulight · 2026-10-23 · 给出可直接复制的 @bot 派活提示词（查融资、代币分配、团队、社区讨论，出中文报告附来源），讲清公开回复只确认接单、完整结果回 Grok Bot 会话看，想在 X 里收结果走 X Chat 私信；流程跑顺后存 Skill 再设 Routine 定时跑；对照 @bot：@bot 派活；约 1.8 万粉，币圈语境，调研项目不等于投资建议 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -53,6 +54,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 Grok Bot 把 24 小时 AI 新闻做成中文讲解视频](https://x.com/YuGuo936066/status/2112351377024225439) — @YuGuo936066 · 2026-10-20 · 流程写清：新闻聚合 → 去重挑 5–7 条 → 去 AI 腔 → 口播稿 / PPT → 约 90 秒视频再发帖；工具链点名 ai-news-radar、Humanizer-zh 和歸藏开源 skill，配音用 edge-tts · 中文
 - [Grok 网页、Grok Bot、Cursor 的额度是共用还是分开？](https://x.com/don_tech1/status/2112826145427403090) — @don_tech1 · 2026-10-21 · X 长文：讲清 The X Subscription 每周刷新的共用额度池覆盖哪些产品、去哪看用量，适合订阅新手先读再排 routine · 中文
 - [我怎么让 Codex、Cursor、Grok、Claude 按额度长期一起干活](https://x.com/runes_leo/status/2112909109096058913) — @runes_leo · 2026-10-21 · X 长文：跨多订阅按周额度节奏派单，超速转派、只读与改代码分池、不确定不重发、发帖动钱要人点头；约 2.3 万粉 · 中文
+- [问 Grok 自己是怎么筛 AI 资讯的，再把这套检索流程存成 Skill](https://x.com/dotey/status/2110407054334550232) — @dotey · 2026-10-14 · 让 bot 拆出关注账号三类（官方号、关键人物、爆料号）、可复制搜索语句、新旧和价值判断与推送格式，再整理成 Skill 复用；完整提示词在作者评论区；约 26 万粉、250+ 赞 / 310+ 收藏；同作者选型长帖已收 · 中文
 
 ## 中文 · Skills 与连接
 
