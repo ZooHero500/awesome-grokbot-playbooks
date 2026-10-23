@@ -846,3 +846,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（按帖子 ID 与 x-articles、c
 未收信号：@kunchenguid 2113535815133561271 Firstmate 自动改进下属 bot 指令（约 4.1 万粉，附 x.ai/bot 导入链接，0 赞，下轮复看热度）；@YAKING168 评论漏回例子（无步骤）；@fankaishuoai 指挥官帖（周上限）；@youngn999 微信接入三步（约 3 粉）。
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Pages 中文 / 1Password 中文 / 连接器派活仍开。没动 README，也没碰 inbox/。
+
+### 2026-10-23 16:07 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「2026-10-23 16:07」段，推荐 1 条（MarkusIsaksson1982/grok-bot-local-first，MIT）+ 信号 3 条（Veitkwok/Master、lilpenguinnn/grok-bot-maid-avatar 未声明 License；SimianX-AI/simianx-skills 商业 MCP）。请核实、脱敏后决定是否并入 README。

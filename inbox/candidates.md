@@ -1904,3 +1904,25 @@ rayhomie/grokbot_page（空 README）；shahaman098/grok-bot（黑客松社交 A
 ### Skip（本轮）
 
 shibainu-inu/grokspot（无 README）；frank-otto/graveyard-golf（小游戏，非玩法）；lucifer-grokbot/lucifer-grokbot（空仓）。
+
+## 2026-10-23 16:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 14:05→16:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / routine / skill 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| MarkusIsaksson1982/grok-bot-local-first | https://github.com/MarkusIsaksson1982/grok-bot-local-first | **省额度的「本地优先」套件**：确定性活交给 Python 3.12 标准库 worker（`grokkit.py` 跑一个 worker、只吐一行 JSON），JSON 要求判断时 bot 才花一轮；附 tasks.json 注册表、返回格式 schema、Linux/Windows 安装脚本和 smoke 测试，另有 enablement kit 做 skill-lint（查 frontmatter、个人路径、凭据）。「bot 只做判断、脚本做苦力」的范式，本轮最值得看 | Skills / Cost & efficiency | `skill` `local-first` `python` `skill-lint` `mit` | 2 / MIT | **GitHub**（本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Veitkwok/Master | https://github.com/Veitkwok/Master | 中文美股/ETF 研究技能包：install.sh 装进技能库 + 5 类 routine 模板（KOL 选股→估值/陷阱→持仓对照→建议卡），写明不自动下单、审批分级、预放行固定命令；依赖外部模型 key、金融向，先信号 | Skills / Finance | **GitHub**（10-23 本窗新建，未声明 License） |
+| lilpenguinnn/grok-bot-maid-avatar | https://github.com/lilpenguinnn/grok-bot-maid-avatar | 中文「一键给名下所有 bot 换统一风格头像」提示词：同母版锁姿势、按职能分配发色/徽章，出总览图 QA 后**先问再换**；趣味向但「先展示再确认」流程可参考，先信号 | Fun / Avatars | **GitHub**（10-23 本窗新建，未声明 License） |
+| SimianX-AI/simianx-skills | https://github.com/SimianX-AI/simianx-skills | 商业投研服务的 skill + 远程 MCP（8 agent 研究委员会、实时新闻流，点名支持 Grok Bot）；商业服务，先信号 | MCP / Finance | **GitHub**（本窗更新，MIT） |
+
+### Skip（本轮）
+
+Wifikir/WifikirMail（无说明的私人工作仓）；danimoya/grok-bot-arch、shibainu-inu/grokspot（前轮已记）。
