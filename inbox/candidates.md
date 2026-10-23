@@ -1859,3 +1859,25 @@ kerm1it/grok-bot-exts（空仓）；a4sr3s/solutions-likes-grokbot（静态落�
 ### Skip（本轮）
 
 Ajitkumar-1001/Grok-bot（仅 idea pitch）；其余本窗更新仓均已列或上轮已 skip。
+
+## 2026-10-23 12:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:45→12:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" 等本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| PhillipHolland/security-audit-bot | https://github.com/PhillipHolland/security-audit-bot | **给 Grok Bot 用的「安全审计 Bot」配方**：先确认仓是你的或有授权，只读浅克隆（禁 hooks、不跑项目代码），开源扫描器出线索，再交 Cloudflare security-audit skill（钉 commit+校验哈希）逐条验证，报告过 lint 拦截密钥/高熵串；全量审计耗额度会先问。「扫描器只给线索、skill 验证才算发现」的分层范式，本轮最值得看 | Skills / Security bots | `skill` `security-audit` `cloudflare` `read-only` `授权确认` | 0 / 未声明 License（收录前请核） | **GitHub**（10-23 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| shimeiyou/mixin-grokbot | https://github.com/shimeiyou/mixin-grokbot | Mixin Messenger Bot 常驻网关：持 Blaze WebSocket、解密后以 JSON 投到你的 Agent/webhook（落盘队列、重试、去重），回复走自带 CLI；附件目录白名单防注入乱传文件。README 未点名 Grok Bot（仓名含），可对照 grokbot-discord / grokbot-weixin，先信号 | Routines / Webhook bridges | **GitHub**（10-23 本窗新建，MIT） |
+| d-513/grok-bot-nix | https://github.com/d-513/grok-bot-nix | 非官方 Nix flake 在 Linux 跑 Grok Bot 桌面端，Action 每 6 小时自动更新 .deb 钉版；安装向工具，可放 Setup/Community | Setup / Linux | **GitHub**（本窗更新，未声明 License） |
+| getrocky-world/rocky-plugin | https://github.com/getrocky-world/rocky-plugin | Rocky 个人「世界模型」MCP 插件（支持 Grok Bot），首次读取/外发都要在手机上点同意；商业服务 + Mac App，先信号 | MCP / Personal context | **GitHub**（本窗更新，MIT） |
+
+### Skip（本轮）
+
+rayhomie/grokbot_page（空 README）；shahaman098/grok-bot（黑客松社交 App，非玩法）；donniertf-hub/grok-doubles-picks（博彩 picks）；scapp/personal-news-reader（个人自产站）；BlancoKat/omarchy-grokbot-updates（Omarchy 菜单更新项，过窄）；asgeirtj/system_prompts_leaks（提示词泄露合集，不收）。

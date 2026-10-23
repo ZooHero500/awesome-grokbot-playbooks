@@ -803,3 +803,7 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · Skills 与连接�
 1. https://x.com/Teslaconomics/status/2113359826399158336 — @Teslaconomics（约 53 万粉；约 417 赞 / 237 收藏）· 净资产 Page（实时行情、可改假设重算、隐藏敏感信息开关）· 对照 @bot：Pages · **本轮最值得看** · 英文（经 @minchoi 2113473131914445206 新串帖第 10 条引出；minchoi 串帖与 10-20 那条同类，未重复收）
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。
+
+### 2026-10-23 12:07 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-10-23 12:07」段，推荐 1 条（PhillipHolland/security-audit-bot，License 未声明请核）+ 3 信号（mixin-grokbot、grok-bot-nix、rocky-plugin）。README 未动。
