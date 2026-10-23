@@ -781,3 +781,6 @@ X 大 V 文章雷达：`docs/x-articles.md`「英文精选 · 入门上手」+1�
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）；中文扩搜仍无合格对照；手机 App **英文**已关，**中文**仍开。IncidentSweep / Marketplace 销售配置 / 连接器派活 / Pages 中文 / 1Password 中文仍开。没动 README，也没碰 inbox/。
 
+
+### 2026-10-23 10:00 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「2026-10-23 10:00」段，推荐 1 条（markmcnair/chief-of-staff-kit：消息 webhook→Grok Bot 起草→人批后才外发）+ 3 信号（yeemio/grokbots-team、cshenx/agentpeers、tommy-muckstack/myman）。请核实、脱敏后决定是否进 README。

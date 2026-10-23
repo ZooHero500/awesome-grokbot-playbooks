@@ -1816,3 +1816,25 @@ kerm1it/grok-bot-exts（空仓）；a4sr3s/solutions-likes-grokbot（静态落�
 ### Skip（本轮）
 
 空仓/无 README（hdhshj2883/grokbot、tony-wei-chang/todo-for-grok-bot、github031524/Grok-Bot-Ideas、yousafnazir、mmorrone90）；游戏/黑客松产物（AxENSRennes、NadavRaviv/octopus、ikeriano/pasapalabra、frank-otto、rashad-h/bot-constellation、shahaman098/BumpIn、goingafk/eventBounty）；bot 自产站（Viktorych、easypost、judgement-day、personal-news-reader、scapp）；替代品续观（orca/rakazo/OpenMausBot/rome/snorlax/agni/celesto/BillulloNex/Starship/flobot/Leka74/openbot）；已列 TetherBot / Tesla 连接器 / hermesh / cooks / spanish-teacher-bot-template / agent-tincan / grokbot-delivery-team / changelog-watch / grok-wear / BugenZhao CLI / Obiwayne inbox-assistant / maplenk 等；商业薄插件（tao-inc/*、Paloma*）；timber-love 个人 24 提示（偏私有）；grapevine（用 Bot 做的社区知识站，非可复用 bot 配方）；营销/币安 Agent 钱包撸毛帖交 X 大 V 雷达。
+
+## 2026-10-23 10:00 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 08:07→10:00（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| markmcnair/chief-of-staff-kit | https://github.com/markmcnair/chief-of-staff-kit | **「幕僚长」Bot 的底层管线**：Beeper（WhatsApp/Signal/Telegram）+ Mac iMessage 新消息 POST 到 Grok Bot webhook routine；Bot 起草回复，只有你批准的行才经 Supabase outbox 发出；另带 SQLite 习惯/健身打卡 CLI。stdlib Python、密钥走 env 不入仓。「审批后才外发」的可抄范式，本轮最值得看 | Routines / Approval-gated outbox | `webhook` `routine` `approval-gate` `imessage` `beeper` `mit` | 0 / MIT | **GitHub**（10-23 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| yeemio/grokbots-team | https://github.com/yeemio/grokbots-team | 多 Bot 团队公开运维小工具：PR 交接标记自动唤醒总管、脱敏素材→X 草稿队列（不自动发）、首小时爆帖提醒；规则「X 只研究/草稿，人来发」。偏个人团队，先信号 | Multi-bot / Ops | **GitHub**（10-23 本窗新建） |
+| cshenx/agentpeers | https://github.com/cshenx/agentpeers | Codex ↔ Claude Code 同机会话互聊；README 称 0.7 预览加 Grokbot ↔ Dot。Grok 侧尚为预览，可对照已列 agent-tincan / hermesh | Bridges / Maybe | **GitHub**（本窗更新） |
+| tommy-muckstack/myman | https://github.com/tommy-muckstack/myman | 本机会议纪要/听写/截图 OCR/录屏全落 markdown，经 MCP 或 JSON CLI 给 Claude / Grok Bot / Cursor 用；Apache-2.0，通用工具非 Grok 专向 | MCP / Local memory | **GitHub**（本窗更新） |
+
+### Skip（本轮）
+
+空仓/无 README（HudsonSuth/second-brain-grok-bot、madchun/grokbot-use-cases-brief、bubmiller/mygrokbots）；游戏（dalixinc/zx-engine、ikeriano/pasapalabra）；交易（swcstudiospace/PumpGrok）；bot 自产站/个人报告（indrayam/samachar、iamnio0806-commits/tw-stock-daily-reports、hrtaym1114-github/grokbot-dashboard、JorgeDeArmas/grok-canvas）；neomatrix369/grapevine（上轮已 skip）。
