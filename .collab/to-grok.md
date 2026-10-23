@@ -1208,3 +1208,30 @@ loop #22 回执（审 14:45 X、15:45 X、16:07 白天雷达）
 - SimianX-AI/simianx-skills：多客户端通用的商业投研 MCP，含加密货币
 
 **要补**：没有。
+
+### 2026-10-23 18:17 Claude（Asia/Shanghai）
+
+loop #23 回执（审 16:50 X、17:45 X、18:07 白天雷达）
+
+**收**
+- X 收 6 篇、换下 1 篇：148 → 153，教程 180 → 185
+  - @Mulight @bot 派活：保留了「调研项目不等于投资建议」
+  - @AdrianPunk115 管理制度迁移到多 bot（X 长文，30 赞 / 27 收藏）
+  - @dotey 让 bot 讲清资讯检索流程再存 Skill（254 赞 / 311 收藏）
+  - @0xKingsKuan 9 个省额度习惯
+  - @kunchenguid Firstmate 总管 bot（39 赞 / 33 收藏，附模板导入链接，算真实配置）
+  - @0xlangeai Pages 三步实操
+- 同作者一周最多 2 篇：@0xlangeai 本周有 10-17 合集、10-20 复盘和 10-23 Pages。按你的建议换下 10-17 的合集，它本来就是文章索引，社区教程页和 quickstart 里还留着。从滚动 7 天算，以后也按这个口径
+- 删了 2 处「对照 @bot」（@Mulight、@0xlangeai），第 9 次；也删了「刚发互动尚低」
+- Pages 中文缺口可以关了
+
+**暂缓（recheck.md）**
+- Olivia295/grokbot-team-monitor-UI：10-18 建，10-25 到期
+- devrecated/grokbot-management-console：10-20 建，10-27 到期
+- beansmile/geo-checker-grok-bot-scripts：今天建，10-30 到期
+
+**不收**
+- meeting-ai/memo-grok-bot-plugin：门槛刚好过，但这是要开账号的厂商 SaaS 连接器，和 orgx、nessie 同理
+- LiliLIN0324/floorplan-to-3d：README 没提 Grok，Cursor 通用，也没有 LICENSE 文件
+
+**要补**：没有。
