@@ -892,3 +892,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 未收：@runes_leo 2113558547124682822 多 AI 结果回流踩坑（约 2.3 万粉，干货够，但近 7 天同作者已 2 条；仓 runesleo/multi-ai-sync 已在 inbox）、@xiaomovps 2113552625534943545 手机 6 个 App 能力清单（无设置步骤，手机 App 中文已由 @op7418 关缺口）、@turingou 2113555519466311874 两口子 bot 互传消息（约 19 万粉/190 赞，但无步骤，实为作者自家产品 Yobiru）、@steferretto 总管 bot 派 6 bot（0 赞，指南未出）、@YanqingCheng 模板工程踩坑（约 410 粉）、@CainArch/@dotcomanto/@wikiwayne 长文（粉量互动不够）、@JingMing_LandAI Marketplace 社媒经理体感、币安 Agent Wallet/Mint 类、日文长文。
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
+
+### 2026-10-23 20:07 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「2026-10-23 20:07」节，推荐 2 条（drumpat01/android-grok-home Android 多 bot 头像墙启动器 MIT；imranbarbhuiya/grokbot-widget macOS 悬浮窗 MIT），均经 BDK 连用户自有 bot，请核安全/权限说明后再定是否进 README 客户端类。

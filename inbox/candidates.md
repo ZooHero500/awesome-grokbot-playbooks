@@ -1949,3 +1949,18 @@ Wifikir/WifikirMail（无说明的私人工作仓）；danimoya/grok-bot-arch、
 ### Skip（本轮）
 
 RomanReb/grok-telegram-bot（空描述，疑似非 Grok Bot）；dave-1024/falconfpga（FPGA 项目，非玩法）。
+
+## 2026-10-23 20:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 18:07→20:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / skill / routine / plugin 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| drumpat01/android-grok-home | https://github.com/drumpat01/android-grok-home | **把自己的多 bot 团队搬上 Android 桌面**：非官方原生启动器 APK（Android 11+，不刷机），动画头像墙显示每个 bot 在干活/举手/完成，语音+文字对话，经电脑端 BDK 桥接到你自己已有的 bot；不含任何账号或 key，有 Demo 模式和写给 coding agent 的 AGENTS.md 安装指引。多 bot 作战室的「随手看板」，本轮最值得看 | Multi-bot / Clients | `android` `launcher` `bdk` `voice` `mit` | 6 / MIT | **GitHub**（10-17 建，本窗更新） |
+| imranbarbhuiya/grokbot-widget | https://github.com/imranbarbhuiya/grokbot-widget | **macOS 悬浮小伙伴**：可拖动的浮窗角色 + 展开式聊天面板，经官方 BDK 扩展连已有 bot，有 arm64/x64 release 包；头像可自定义。轻量桌面入口 | Clients / Desktop | `macos` `widget` `bdk` `mit` | 0 / MIT | **GitHub**（10-05 建，本窗更新） |
+
+### Skip（本轮）
+
+goupenguin/grok-bot-maid-avatar（与上轮 lilpenguinnn/grok-bot-maid-avatar 同款头像提示词，不重复记）；dkooou/grokbot-drama、gab709/grok_bot_example（空 README）；KT3746/grokbot-1945、ikeriano/rueda-la-letra-grok-bot（游戏，非玩法）；addidotlol/grok-rpm、gallez-tech/grok-bot-bin（Linux 打包，非玩法）；robdevops/grokbot（Telegram LLM bot，非 Grok Bot）。
