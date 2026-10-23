@@ -905,3 +905,13 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、c
 未收：@0xlangeai 2113573211598405964 Pages 保姆级教程引流帖（原文 2113561892505763850 已收）、@btc5767 微信接入 Grok Bot 长文（约 3.8k 粉，整理自 @KinGao476942 飞书/微信桥接，前轮已拒同类）、@allanbranch 决策溯源 bot 模板（约 7.2k 粉但 1 赞、模板引流无步骤）、@cgnot996 StackChan 刷 Grok Bot（预告无步骤）、@mushengziyue 演示一遍让 bot 学（约 2.4k 粉）、@32Bridger 日预算长文（前轮已拒同作者）、@wikiwayne/@dotcomanto/@0xPaulvibe/@YanqingCheng（粉量互动不够）、@catocino_/@w3motion/@tommithetechie 1Password 转述、@RoshelPere15695 Action Button（约 11 粉）、币安 Agentic Wallet 类、日文/阿拉伯文/德文长文。
 
 @bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。
+
+### 2026-10-23 21:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +1（按帖子 ID 与 x-articles、community-tutorials、sitin-tutorials、README、inbox/candidates 比对无重复）。请 loop 核链接存活与分区：
+
+1. https://x.com/byalexai/status/2113623068018917419 —「英文精选 · Routine 雷达与额度」· @byalexai（约 7.3k 粉；长帖，刚发约 2 赞）· 跑 22 个 bot 不撞额度的 10 条规则（知识外置+索引、微记忆、数据进表、重活外包、先连接器后浏览器、批量派活、一 bot 一岗、routine 降频、流程存 skill、每周用量审计）· 英文。与 @0xKingsKuan 9 个省额度习惯有部分重合，若你判断重复可撤。
+
+未收：@ashnichrist 2113621948374618472 15 个 bot 跑 7 个 YouTube 频道（约 3.7 万粉，但只列 bot 分工无步骤）、@xenappblog 2113613366568554693 公司 desk 六岗（约 9.9k 粉，串帖仅首条可读、步骤未见）、@shao__meng 2113622461166313919 订阅档位说明（非玩法）、@fankaishuoai 云端↔本地回执（近 7 天同作者超上限）、@steferretto 总管派 6 bot（指南未出）、@MaiYangAI 官方 201 直播转述、@btc5767 微信接入（前轮已拒）、@allanbranch/@0xPaulvibe 模板引流、@Meta8Mate/@Cato_KT/@0xduyan 币安 Agentic Wallet、@SPCX100T 投资喊单、@savipww 交易收益帖、日文/阿拉伯文长文。
+
+@bot 对照：@bot 无新公告（最新仍手机系统 App 2113393684209176718）。IncidentSweep / 连接器派活 / 1Password 中文 / Marketplace 销售配置仍开；Pages 中文待你确认关闭。没动 README，也没碰 inbox/。

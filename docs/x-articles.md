@@ -155,6 +155,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 routine 指令收成一行，真正做法写进 skill](https://x.com/GrokBotRadar/status/2112902000916758799) — @GrokBotRadar · 2026-10-21 · 可复制提示：把 routine 长指令搬进 skill，routine 只留「run the skill end to end」；改一处全更新，避免日程和说明两处打架；作者约 9.5k 粉 · 英文
 - [飞前一小时自动出颠簸地图的航班 bot](https://x.com/DBurkland/status/2113158654165975053) — @DBurkland · 2026-10-22 · 真实搭建：每趟航班起飞前一小时 routine 拉航线、SIGMET/AIRMET/PIREP 和 Turbli，回一张颠簸表格加地图，机上也能随时问；作者约一万一千粉，帖下附可导入的 bot · 英文
 - [True Circle：用 Grok Bot 按真实对话排出你的核心圈层](https://x.com/JayDook/status/2113329700172927219) — @JayDook · 2026-10-23 · 只读扫近 15/30/60 天公开帖、回复与提及，按真实对话分组打分；三种视图（常聊/粉丝含潜水点赞/互关来回），可换主题或自述；开源模板可装；约 7k 粉，帖子刚发互动尚低 · 英文
+- [跑 22 个 bot 不撞额度上限的 10 条规则](https://x.com/byalexai/status/2113623068018917419) — @byalexai · 2026-10-23 · 长帖：知识放 bot 外只按索引取单文件、记忆只存长期事实、会增长的数据进表格、重活交给已付费的编码工具、先连接器后浏览器、一条消息批量派三件事、一 bot 一岗、routine 降频、成熟流程存 skill、每周五看用量砍无效 routine；作者约 7.3k 粉，刚发互动还少 · 英文
 
 ### Skills 与连接
 
