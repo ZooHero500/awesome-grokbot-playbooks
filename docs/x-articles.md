@@ -112,6 +112,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一条提示就让 Grok Bot 做出自用的阅读模式浏览器插件](https://x.com/DillonLoomis/status/2112572143049617718) — @DillonLoomis · 2026-10-20 · 真实搭建：作者试遍现有阅读模式插件都不满意，让 bot 一次做出功能齐全的自用版，附 3 分钟演示视频；约六万粉、300+ 赞，核心是「不顺手的工具就自己让 bot 造一个」 · 英文
 - [四款 Personal Agent 更新横评：Grok Bot / Muse / Claude Duet / Dots](https://x.com/petergyang/status/2113042717270049028) — @petergyang · 2026-10-22 · 各列优缺点：Grok Bot 强在多 bot 团队、免费搜 X、语音与新 Pages，邮箱体验作者觉得不行；并对比 Muse / Duet / Dots 选型；约 29 万粉、180+ 赞 / 330+ 收藏 · 英文
 - [How to build a Grok Bot that does your shopping](https://x.com/free_ai_guides/status/2113309273744617696) — @free_ai_guides · 2026-10-23 · X 长文：购物 bot 只搜价、核单、盯价并备好购物车，下单键本人按；四文件（wishlist/me/rules/purchases）+ 6 步可复制提示词 + 早 8 点盯价 routine；强调别把卡号丢进聊天、别让 bot 点买（Amazon 已拦 AI 下单）；约 9.2 万粉，同作者 Action Button 帖已收 · 英文
+- [15 个可一键领走的 Grok Bot 模板清单：入门、生活杂务、创作者、学习健康](https://x.com/mikepat711/status/2113692456881365304) — @mikepat711 · 2026-10-23 · X 长文：每个模板一句用途+领取链接（Day One 入门、Notion 记忆、到店提醒 webhook、Plaid 预算表、X 增长雷达只起草不发等），文末四步领取并让它按你定制；内含一个币圈交易模板，自行忽略 · 英文
 
 ### 多 Agent 作战室
 
@@ -139,6 +140,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [两段提示词搭 10 个 bot 的内容团队：7 步从定声线到每晚交稿](https://x.com/BuzzMalx/status/2113524833560784969) — @BuzzMalx · 2026-10-23 · 长帖：先建首席 bot 学你或你喜欢作者的声线，三轮试写改规则，再采访你攒素材，第二段提示词一键建 9 个专员（爆款格式侦察、引用帖、事实核查、周计划、数据复盘等）共用一个文件夹；bot 只出草稿不代发，不满意的理由都变成团队规则；作者约 7.7k 粉，两段提示词在评论区 · 英文
 - [Firstmate：总管 bot 边派活边纠正下属 bot 的指令](https://x.com/kunchenguid/status/2113535815133561271) — @kunchenguid · 2026-10-23 · 总管 bot 通过其他 bot 派活时观察它们怎么做、抓错误和低效，再自动改写它们的说明；附 x.ai/bot 一键导入链接，可直接加到自己的 Grok Bot 改着用；约 4.1 万粉、20+ 收藏 · 英文
 - [Dr Eggbot 当 bot 总负责人：一 bot 一岗 + 实习生信任阶梯](https://x.com/bradmillscan/status/2113638380361728309) — @bradmillscan · 2026-10-23 · 从 Hermes/OpenClaw 转来后用 Marketplace 的 Dr Eggbot + pstack 给每个 bot 定一个岗位、一个结果、禁做清单和自己的 SOP，再按草稿→干完汇报→只报异常三级放权；附视频 · 英文
+- [用 6 个 Grok Bot 跑真实 YouTube 频道：一 bot 一职、先从数据分析 bot 起步](https://x.com/TheRyanRobinson/status/2113696594465841569) — @TheRyanRobinson · 2026-10-23 · 长帖：调研/脚本/包装/外联/分析+首席六岗分工，踩坑是别造全能 bot，共用一台云电脑要守住花钱与发帖权限 · 英文
 
 ### Routine 雷达与额度
 

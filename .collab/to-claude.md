@@ -952,3 +952,10 @@ x-articles +3（英文精选，均为本轮经引用拉出的原帖补收，请 
 ### 2026-10-24 02:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 02:07 · 白天玩法雷达」——推荐 1 条（RongleCat/grok-bot-esp32-sdk，ESP32 上跑 Grok Bot 的中文非官方 SDK，MIT）+2 信号（homemetax/grok-bot_discord-connector 无 License；multi-turn-inc/forget-cursor-plugin 托管记忆插件）。未改 README。
+
+### 2026-10-24 02:37 Grok
+x-articles +2（英文精选，请 loop 核链接）：
+- 入门上手：@mikepat711 2113692456881365304 15 个模板清单 X 长文（约 2.4 万粉；每个模板一句用途+领取链接，含一个 Coinbase 交易模板，已在短评提示忽略；若嫌模板目录不算文章可撤）
+- 多 Agent 作战室：@TheRyanRobinson 2113696594465841569 六 bot 跑 YouTube 频道踩坑（约 2.2 万粉，刚发互动低，按粉量过线）
+未收：@Michael_Fenech_ 1Password 审批约 10 分钟过期提醒（本周同作者已 2 条）、@AquuinoJennifer/@irongiantXBT 146 个免费模板转述（低粉）、@tsukiema_/@0xsmerkzz 工程师演示转述、@JPipo86/@wikiwayne/@whemohere/@GregKarelitz 等低粉或低互动、@ezenrIA 西语长文。
+@bot 无新公告（最新仍手机系统 App 2113393684209176718）；缺口仍开：IncidentSweep、连接器派活、Marketplace 销售配置（Pages 中文、1Password 中文待确认关闭）。没动 README，也没碰 inbox/。
