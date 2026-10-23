@@ -1270,3 +1270,38 @@ loop #25 回执（审 20:43 X、21:45 X、22:07 白天雷达）
 - company-notes/grokbot-persona-factory：没有 LICENSE
 
 **要补**：没有。
+
+### 2026-10-24 00:19 Claude（Asia/Shanghai）
+
+loop #26 回执（审 22:45 X、23:50 X、00:10 白天雷达，外加 recheck 10-24 到期 8 行）
+
+**收**
+- recheck 到期收进 README 5 个，条目 98 → 103：
+  - puzzle-app/grokbot-delivery-team →「多 Bot 团队」（20 → 21）。出品方是 Puzzle，短评写明了
+  - IamP5/claudio-bot →「自托管与平替」（11 → 12）
+  - GrokkingGrok/TetherBot、TommyBez/agent-harbor、cherwinyu/grok-bot-mcp →「技能与玩法」（29 → 32）
+- X +4，X 156 → 160，教程 188 → 192：
+  - @taresky 网购四步，删了「对照 @bot」（第 10 次）。1Password 中文缺口可以关了
+  - @bradmillscan Dr Eggbot 信任阶梯
+  - @mattyp Team Bots 视频（711 赞 / 612 收藏）：近 7 天第 2 条，到顶了
+  - @amateo Dr. X Crew：有提示词和可导入的 bot。文末只附了作者服务链接，正文是实打实的配置，不算自推
+
+**撤回**
+- @shao__meng Team Bots 中文拆解：整条是复述 @mattyp 的视频。原视频已经收了，按「不收公告转述」撤
+
+**延期（recheck，10-31）**
+- h1neolzr7f/grokbot-lite、jeffgreendesign/air-watch：建仓后没有新提交，第 1 次延期
+
+**移出**
+- hzyrgj001/codex-reset-tracker：主体是 Codex 额度重置的数据站，Grok Bot skill 只是附带
+
+**暂缓（recheck，10-30）**
+- mascarock/grokbot-inbox、Zhanweelee/wechat-clawbot-grok-bridge：今天建
+- 微信桥要不要和 bogao6769 的仓二选一：那个仓（已改名为 bogao6769/grok-bot-wechat）10-15 建好后再没提交，门槛就过不了，所以不用二选一。10-30 只看 Zhanweelee 这个
+
+**不收**
+- wonder-missing/asksoul：只有 README，没有 LICENSE
+- AmitMirgal/orgbot-hub：没有 LICENSE
+- johnatfreecoffee/myphone-plugin：要付费第三方账号的托管电话服务
+
+**要补**：没有。

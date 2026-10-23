@@ -16,10 +16,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
 |---|---|---|---|
 | [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-30 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 10-23 复查：建仓后仍没有新提交，顺延一次（第 1 次） |
-| [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
-| [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-17 |  |
-| [puzzle-app/grokbot-delivery-team](https://github.com/puzzle-app/grokbot-delivery-team) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-17 |  |
-| [IamP5/claudio-bot](https://github.com/IamP5/claudio-bot) | 10-24 | 0★ · MIT · 建 10-17 · 最近提交 10-21 | 用 Claude Code 在本机复刻 Grok Bot 式常驻 bot，过线放「自托管与平替」 |
+| [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-31 | 0★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；原计划过线放「自托管与平替」 |
+| [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-31 | 1★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；空气质量只读告警模板仓 |
 | [AgwaB/grok-bot-agents](https://github.com/AgwaB/grok-bot-agents) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
 | [FelixIsaac/cmux-orbit](https://github.com/FelixIsaac/cmux-orbit) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-19 |  |
 | [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
@@ -80,7 +78,6 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [xj-2045/xj-os](https://github.com/xj-2045/xj-os) | 10-28 | 0★ · MIT · 建 10-21 · 1 次提交 | Grok 舰队 + Claude Code 经共享 Drive 邮箱协作的架构文档，实现私有；到期看有没有新提交、是否只有图没有可照做的协议 |
 | [AIPMAndy/grok-bot-handbook](https://github.com/AIPMAndy/grok-bot-handbook) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 中文保姆级攻略 26 章；作者有咨询引流，收录时短评写明，核一遍内容是否有编造的界面或套餐 |
 | [themsquared/grok-bot-cross-agent-leak](https://github.com/themsquared/grok-bot-cross-agent-leak) | 10-28 | 0★ · Apache-2.0 · 建 10-21 · 1 次提交 | 复现 10-19 跨 bot 泄露 + MCP 护栏；到期核「10-19 泄露」是否有公开出处，再决定放安全提醒还是学习资源 |
-| [hzyrgj001/codex-reset-tracker](https://github.com/hzyrgj001/codex-reset-tracker) | 10-24 | 0★ · Apache-2.0 · 建 10-17 · 最近提交 10-21 | 追踪 Codex 额度重置的数据站，附一个盯帖的 Grok Bot skill；到期先判断和 Grok Bot 是否直接相关，只是附带 skill 就不收 |
 | [DynamaxVV/mygrokbot-host](https://github.com/DynamaxVV/mygrokbot-host) | 10-28 | 0★ · LICENSE 文件为 GPL-3.0（API 显示 NOASSERTION）· 建 10-21 · 4 次提交 | 自托管的 Grok Bot 仿制品，候选「自托管与平替」；到期看是否能跑起来、README 有没有真实部署步骤 |
 | [bipa-app/grok-plugin](https://github.com/bipa-app/grok-plugin) | 10-28 | 0★ · MIT · 建 10-21 · 3 次提交 | 巴西 Bipa 的 Pix / boleto 支付插件，商业公司出品；收录时短评写明涉及真钱、付款要在 App 里生物识别批准 |
 | [brevitywithorion/context-transfer-skill](https://github.com/brevitywithorion/context-transfer-skill) | 10-28 | 0★ · MIT · 建 10-21 · 7 次提交 | 从持久记忆刷新上下文、对抗长线程 context rot 的 skill，带 evals；到期看是否还在维护、evals 能不能跑 |
@@ -92,15 +89,12 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
 | [maplenk/grok-wear](https://github.com/maplenk/grok-wear) | 10-29 | 0★ · 自定义 LICENSE（API 显示 NOASSERTION）· 建 10-22 · 2 次提交 | 非官方 Wear OS 手表语音客户端；到期读 LICENSE 原文，非标准许可证就不收 |
 | [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 10-29 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
-| [GrokkingGrok/TetherBot](https://github.com/GrokkingGrok/TetherBot) | 10-24 | 0★ · GPL-2.0-or-later（API 显示 NOASSERTION，原文是标准 GPL）· 建 10-17 · 38 次提交 | GNOME 顶栏和 Grok Bot 互通：桌面经 webhook routine 发给 bot，bot 回桌面走私有 git 轮询；作者标 pre-alpha，到期看能不能装 |
 | [mehh/vm-vitals](https://github.com/mehh/vm-vitals) | 10-29 | 0★ · MIT · 建 10-22 · 14 次提交 | 一段 prompt 让 bot 在云电脑上装监控 agent，出 CPU/内存/进程仪表盘；数据报给作者的站点，还能开公开页，到期核隐私说明和数据存哪 |
-| [TommyBez/agent-harbor](https://github.com/TommyBez/agent-harbor) | 10-24 | 0★ · Apache-2.0 · 建 10-17 · 最近提交 10-22 | macOS 工作区，把 Claude Code / Codex 会话放进 tmux，bot 用本机命令执行接管；要开桌面端本机执行，短评写明这个权限 |
 | [Olivia295/grokbot-team-monitor-UI](https://github.com/Olivia295/grokbot-team-monitor-UI) | 10-25 | 1★ · MIT · 建 10-18 | 把 bot 团队画成一间办公室：谁在干嘛、谁交活给谁、卡在哪、一条任务走了几跳；本地只读、零依赖、中英双语；过线放「多 Bot 团队」 |
 | [devrecated/grokbot-management-console](https://github.com/devrecated/grokbot-management-console) | 10-27 | 1★ · MIT · 建 10-20 | routine 总控台：一页看所有 bot 的 routine 和运行记录，可暂停、改时间、改提示词、一键全停，routine 坏了发邮件；Next.js + Postgres 自部署，要在云电脑放脚本回传，短评写清权限面 |
 | [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 10-29 | 0★ · MIT · 建 10-22 | 中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
 | [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 10-29 | 0★ · MIT · 建 10-22 | 主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
 | [company-notes/grok-bot-backup](https://github.com/company-notes/grok-bot-backup) | 10-29 | 0★ · MIT · 建 10-22 | 繁中 box 备份/导出（人设、记忆、对话、附件）；产出含私密对话和可能的凭证，收录时短评必须带这条警示 |
-| [cherwinyu/grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) | 10-24 | 1★ · MIT · 建 10-17 · 最近提交 10-22 | Windows 本机 MCP 桥，把编码任务交给 routine，用 git diff 验收；作者标实验 Beta、非官方 |
 | [207studio-oss/kiwi-hook](https://github.com/207studio-oss/kiwi-hook) | 10-29 | 0★ · MIT · 建 10-22 | Codex / Claude Code 回合结束 hook → webhook 叫醒 bot 验收、开 PR、派下一步；短评写清「规则允许才合并」 |
 | [crusader0711/specialized-ai-grok-empire](https://github.com/crusader0711/specialized-ai-grok-empire) | 10-29 | 0★ · MIT · 建 10-22 | 家庭/小公司 bot 团队制度包：幕僚长前门、GREEN/YELLOW/RED 审批分级、缺数据出 gap card；过线放「多 Bot 团队」 |
 | [zzyong24/grokbot-team-kit](https://github.com/zzyong24/grokbot-team-kit) | 10-29 | 0★ · MIT · 建 10-22 | 中文一人内容团队整包：总管 + 14 张岗位卡、6 类审批点、共享罗盘目录；过线放「中文一人公司」或「多 Bot 团队」 |
@@ -123,9 +117,13 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [howardpen9/tg-stars-workflows](https://github.com/howardpen9/tg-stars-workflows) | 10-30 | 1★ · 无 LICENSE · 建 10-23 | Telegram Stars 付款 → 签名 webhook 唤醒创作者的 routine 交付，仓里只放公开 listing；到期先看 LICENSE，再看签名唤醒是否已实现（README 写 phase 2）；涉付款，收录时标实验性、算商业类 |
 | [beansmile/geo-checker-grok-bot-scripts](https://github.com/beansmile/geo-checker-grok-bot-scripts) | 10-30 | 0★ · MIT · 建 10-23 | GEO 体检 skill 的脚本：Python 标准库爬站、9 维规则打分、出 md / html 报告，LLM 部分由 bot 自己做，不要外部 key；到期看是否只是某个 bot 模板的配套脚本 |
 | [Vedant817/vesper-grok-bot-bridge](https://github.com/Vedant817/vesper-grok-bot-bridge) | 10-30 | 0★ · MIT · 建 10-23 | Grok Bot 当编码 agent 的监工：派活、补输入、同会话返工、看真实验证结果再验收；两套模板（T3 Connect / 本仓 MCP 桥接 ACP 编码 CLI，隔离 worktree）；过线放「多 Bot 团队」或「技能与玩法」，短评写明本机要跑 MCP 桥 |
+| [mascarock/grokbot-inbox](https://github.com/mascarock/grokbot-inbox) | 10-30 | 0★ · MIT · 建 10-23 | bot 按 skill 只读导出自己的邮件，打包进 URL fragment，纯前端本地解码显示，不发信不回信；过线放「技能与玩法」 |
+| [Zhanweelee/wechat-clawbot-grok-bridge](https://github.com/Zhanweelee/wechat-clawbot-grok-bridge) | 10-30 | 0★ · MIT · 建 10-23 | 微信 ClawBot ↔ webhook routine 的 Go 单文件桥，扫码登录、长轮询转发、本地接口回帖；过线放「中文一人公司」，短评提醒微信接口合规风险 |
 
 ## 已移出
 
+- 10-24 收进 README：puzzle-app/grokbot-delivery-team、IamP5/claudio-bot、GrokkingGrok/TetherBot、TommyBez/agent-harbor、cherwinyu/grok-bot-mcp（都满 7 天，之后有提交）
+- 10-24 移出：hzyrgj001/codex-reset-tracker，主体是 Codex 额度重置数据站，Grok Bot skill 只是附带
 - 10-23 收进 README：jamespendry/send-to-grok-bot（满 7 天，之后每天有提交）
 - 10-23 移出：Anonyfox/lfm，通用落地页 CLI，Claude Code / Codex / Cursor 等都能用，Grok Bot 只是其中一个入口
 - 10-22 收进 README：Liu-zhongxian/zongzhu-bot（219★）
