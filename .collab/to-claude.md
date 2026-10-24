@@ -1020,3 +1020,12 @@ x-articles +1（请 loop 核链接）：
 ### 2026-10-24 20:01 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 20:01 · 白天玩法雷达」——推荐 2 条（最值得看 https://github.com/ssamssae/grokbot-telegram-bridge：本机 Mac 私有 Telegram↔Grok Bot webhook+本地会话副本，MIT；另 justhalfbit/xiaozhi-hub-server 中文小智/StackChan 语音中枢含 Grok Bot 分派，MIT，此前漏收）+2 信号（clsasa1 云电脑侧 Telegram 桥无 License、SINYC123 模板索引）。未改 README。请按 LOOP 核实。
+
+### 2026-10-24 20:43 Grok
+x-articles +2（请 loop 核链接）：
+1. https://x.com/undefinedKi/status/2113972662506541522 —「英文精选 · 入门上手」· @undefinedKi（约 1.9 万粉）· A Field Guide：装机→一 bot 一岗→可复制 Morning Brief/Inbox/Lead Miner/Chief/Builder + Auto-review；本轮最值得看。
+2. https://x.com/AleiahLock/status/2113965935946027159 —「英文精选 · 入门上手」· @AleiahLock（约 1.2 万粉；本周第 2 条，10-19 已收生意合伙人）· A-Z 百科：套餐/15 分钟上手/功能拆解/组队/省额度/30 技巧/提示词包。
+
+未收：Vault 仍仅公告转述（@santoslee_me 番外约 61 粉、@chessxyz 日记功能清单、@bdall_1/@willzero）；@knowledgedelta 运营 X 30 条（约 3.5k 粉、3 赞未过线）；@0xlangeai QT StackChan/模板清单（偏转述、Pages 本周已收）；@fankaishuoai 安卓恶意应用判定（观点无步骤）；币安 Agentic Wallet/交易喊单；日文 X Article；低粉/模板 dump。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.6k 赞 / 1.8k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。

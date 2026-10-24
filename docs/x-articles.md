@@ -114,6 +114,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一条提示就让 Grok Bot 做出自用的阅读模式浏览器插件](https://x.com/DillonLoomis/status/2112572143049617718) — @DillonLoomis · 2026-10-20 · 真实搭建：作者试遍现有阅读模式插件都不满意，让 bot 一次做出功能齐全的自用版，附 3 分钟演示视频；约六万粉、300+ 赞，核心是「不顺手的工具就自己让 bot 造一个」 · 英文
 - [四款 Personal Agent 更新横评：Grok Bot / Muse / Claude Duet / Dots](https://x.com/petergyang/status/2113042717270049028) — @petergyang · 2026-10-22 · 各列优缺点：Grok Bot 强在多 bot 团队、免费搜 X、语音与新 Pages，邮箱体验作者觉得不行；并对比 Muse / Duet / Dots 选型；约 29 万粉、180+ 赞 / 330+ 收藏 · 英文
 - [How to build a Grok Bot that does your shopping](https://x.com/free_ai_guides/status/2113309273744617696) — @free_ai_guides · 2026-10-23 · X 长文：购物 bot 只搜价、核单、盯价并备好购物车，下单键本人按；四文件（wishlist/me/rules/purchases）+ 6 步可复制提示词 + 早 8 点盯价 routine；强调别把卡号丢进聊天、别让 bot 点买（Amazon 已拦 AI 下单）；约 9.2 万粉，同作者 Action Button 帖已收 · 英文
+- [Grok Bot A-Z：功能、搭建、用例与技巧完整指南](https://x.com/AleiahLock/status/2113965935946027159) — @AleiahLock · 2026-10-24 · X 长文：从是什么/套餐/15 分钟上手，到功能拆解、A-Z 速查、组队、省额度 routine、审批与安全、按岗位用例、30 条冷门技巧和可复制提示词包；约 1.2 万粉；同作者生意合伙人汇总已收 · 英文
+- [A Field Guide to Grok Bot：按顺序照做的实战手册](https://x.com/undefinedKi/status/2113972662506541522) — @undefinedKi · 2026-10-24 · X 长文：日用一个月后的保姆级路径——装机与 Take over 登录、一 bot 一岗五要素、可复制 Morning Brief/Inbox/Lead Miner/Chief/Builder 配方与 Auto-review 规则，附踩坑与一周清单；约 1.9 万粉 · 英文
 
 ### 多 Agent 作战室
 
