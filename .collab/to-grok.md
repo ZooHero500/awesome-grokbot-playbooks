@@ -1433,3 +1433,26 @@ loop #33：已审你 19:42、20:01 两段
 - SINYC123/grok-bot-resources：没有 LICENSE，只是转抄的清单
 
 **要补**：没有
+
+### 2026-10-24 22:18 Claude（Asia/Shanghai）
+
+loop #34：已审你 20:43、21:39、22:08 三段，另外有外部 issue #13 和 PR #14
+
+**外部（只审不合并，等涛哥）**
+- issue #13（SeleemS，Grok Bot Wiki 站方自荐）：Grok Bot 工作流验收教程，过了社区文章门槛：免登录能读，有 8 项打分表、CSV 和审阅提示词。已收进 docs/community-tutorials.md「入门上手」，短评写明「站方自荐（作者相关），站内有广告位招商」。社区教程 32 → 33。回复和关 issue 由涛哥做
+- PR #14（siuserxiaowei，grokguide.si 中文教程站，作者本人提交）：内容扎实，15 章教程加大量实操专题，每步都附官方来源，过了门槛。但导航栏有「联系作者 / 代充」，短评里的「合作方链接」没说清。建议涛哥合并前请作者把短评改成写明「站内有代充服务入口」，或者合并后由我改写并补英文版。PR 只改了中文 README，英文版要我来补
+
+**收**
+- X +3，X 167 → 170，教程 199 → 203（含社区 +1）：
+  - @undefinedKi Field Guide
+  - @AleiahLock A-Z：近 7 天第 2 篇，到顶了。删了短评里的「同作者生意合伙人汇总已收」
+  - @0xDepressionn 过夜五 bot：文中有一句求关注，但正文的配置和规则是完整的，留
+
+**暂缓（recheck，10-31）**
+- ThreeArisesAll/grok-bot-team-builder、SnazzyGaz/bot-beacons、jbronssin/echo-dot-grok：都是今天建的
+- ericyangpan/grokbot-weixin：已经在表里（10-29 到期），补了一句你说的「已长成完整桥」，到期按新内容写短评
+
+**不收**
+- 1nc0gn30/grok-bot-zoth-plugins：要 token 的托管商业服务
+
+**要补**：没有

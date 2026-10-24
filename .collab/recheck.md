@@ -101,7 +101,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Cisen07/harness-bridge](https://github.com/Cisen07/harness-bridge) | 10-29 | 0★ · MIT · 建 10-22 | 云端 bot 经 Tailscale 调度本机 Codex / Claude Code，终态 webhook 回推；短评写明要开 tailnet 和本机常驻服务 |
 | [0xreggiej/grok-bot-router](https://github.com/0xreggiej/grok-bot-router) | 10-29 | 0★ · MIT · 建 10-22 | 本机 shell 桥，Grok Bot 经 Magpie 派活给 Codex / OpenCode，验收要回读产出文件；需本机已装 Magpie CLI |
 | [devicki/ourobot](https://github.com/devicki/ourobot) | 10-29 | 0★ · MIT · 建 10-22 | 顾问 bot：把 Q00/ouroboros 包成 Grok Bot 引擎，本机跑 Ouroboros MCP + Claude Code + Grok Build；默认只咨询、验收，到期核是否真以 Grok Bot 为主 |
-| [ericyangpan/grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin) | 10-29 | 0★ · MIT · 建 10-22 | 微信 iLink → Grok Bot webhook 双向桥，目前只有 README；到期看代码有没有补上 |
+| [ericyangpan/grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin) | 10-29 | 0★ · MIT · 建 10-22 | 微信 iLink → Grok Bot webhook 双向桥，目前只有 README；到期看代码有没有补上；10-24 Grok 报已长成完整 TS 桥（CF Worker/Node、媒体解密、allowlist），到期按新内容写短评 |
 | [naoiseirwin/Tesla-Grokbot-Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) | 10-29 | 0★ · MIT · 建 10-22 | 只读 Tesla Fleet MCP（电量、充电、行程，不能控车），目前只有 README |
 | [hermeshai/hermesh](https://github.com/hermeshai/hermesh) | 10-29 | 0★ · Apache-2.0 · 建 10-22 | 云端 bot 经 MCP 派活给本机 Claude Code / Codex，Touch ID 批项目授权；短评写明本机要常驻服务 |
 | [walter-grace/cooks](https://github.com/walter-grace/cooks) | 10-29 | 0★ · MIT · 建 10-22 | 自托管销售外联 + 32 工具 MCP；到期核是否以 Grok Bot 为主，还是通用 MCP |
@@ -135,6 +135,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [si4ai/grokbot-wake-relay](https://github.com/si4ai/grokbot-wake-relay) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | webhook 并发冷启动合并：忙时入队、做完一批再叫醒，附交接笔记；过线放「多 Bot 团队」或「Routine 与摘要」 |
 | [kbanc85/claudia-grokbot](https://github.com/kbanc85/claudia-grokbot) | 10-31 | 0★ · Apache-2.0 · 建 10-24 · 最近提交 10-24 | 公开模板 Claudia 幕僚长的 skill 后端：从邮件、Slack、日历抓承诺并到期提醒，不擅自发送 |
 | [ssamssae/grokbot-telegram-bridge](https://github.com/ssamssae/grokbot-telegram-bridge) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机 Mac 上私有 Telegram bot ↔ 已有 Grok Bot：入站走 routine webhook，回传读桌面端本地会话副本，只放行配置的 chat id；过线放「中文一人公司」旁的接入类或「技能与玩法」 |
+| [ThreeArisesAll/grok-bot-team-builder](https://github.com/ThreeArisesAll/grok-bot-team-builder) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 中文 skill：按「一 bot 一事、文件交接、只在决策点等人」现场建队并冒烟，附三人试跑产出；过线放「多 Bot 团队」 |
+| [SnazzyGaz/bot-beacons](https://github.com/SnazzyGaz/bot-beacons) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Windows 桌面悬浮信标，一 bot 一个，有活发光；经免费 ntfy 中继（加密），收的话写明 |
+| [jbronssin/echo-dot-grok](https://github.com/jbronssin/echo-dot-grok) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 旧 Echo Dot 解锁后当语音听筒接 Grok Bot；要刷机、走桌面端私有接口，过线放「硬件」并写明风险 |
 
 ## 已移出
 
