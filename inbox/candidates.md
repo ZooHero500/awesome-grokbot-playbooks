@@ -2219,3 +2219,28 @@ ssamssae 以外的交易仓 joaaoazul/grok-bot；Wifikir/WifikirMail（私人空
 ### Skip（本轮）
 
 george988/kindle-courier（无 License，模板 skill 分发）；xl17773188101-design/fmcat-grok-bot-guide（无 License，个人学习落盘 bot.fmcat.top）；ikeriano/pasapalabra-3d-grok-bot（游戏）；stevenc81/claude-plugins specialists（Claude 插件受 Grok 记忆启发，非 Grok Bot 玩法）；SpaceXAI 1h 课程营销、kelvoroz/Greshamtrade 模板 dump、币安 Wallet、低粉 X Article；@leerob 功能建议。已列 ssamssae telegram / video-mcp / wake-relay / stackchan / broom 等不重推。
+
+## 2026-10-25 00:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 22:07→00:10（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24 + 晚窗新建）+ X `search_posts_all`×3（github/playbook/skills/中文玩法；本窗多为功能建议、模板 dump、HarnessRouter 旧仓营销，可复用仓以 GitHub 为主）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| rystedtcreative/grokbot-omalauncher-widget | https://github.com/rystedtcreative/grokbot-omalauncher-widget | **Android Omalauncher 主屏挂件：一眼看 Grok Bot 列表+未读点、点开进聊**：setup bot「Omaha」引导装 widget kit→私有 GitHub feed（index.json+头像）→手机只读 deploy key；禁聊天贴 token/密码；含 CI/checksum/SECURITY。本窗最值得看（10-24 早建、此前漏收，本窗仍在更新） | Clients / Mobile | `android` `omalauncher` `widget` `feed` `setup-bot` `mit` | 0 / MIT | **GitHub**（10-24 建，本窗更新；漏收补入） |
+| andreolf/grokbot-plugins | https://github.com/andreolf/grokbot-plugins | **second-brain：多 agent 共用 git 备份的 Obsidian vault 记忆**：每 agent 只写 `Agents/<name>/`、显式 path add、rebase+重试；兼容 Grok Bot / Cursor / Claude / Hermes。仓根无 SPDX，插件目录自带 MIT LICENSE，短评须注明 | Multi-bot / Memory | `obsidian` `git` `shared-memory` `plugin` `mit-plugin` | 0 / 插件 MIT（仓根无 License） | **GitHub**（10-24 本窗新建） |
+| alexsergivan/kwant | https://github.com/alexsergivan/kwant | **自托管多 bot 一体二进制**（Rust+React）：spaces、@mention 交接、审批卡、routines、多账号额度轮换；对标 Grok Bot / Dots / Cue / Duet。Apache-2.0；今日 X 雷达帖带出，此前漏收 | Self-hosted / Multi-bot | `self-hosted` `multi-bot` `routines` `approvals` `apache-2.0` | ~2 / Apache-2.0 | **X** @Ga_Vasques + **GitHub**（10-22 建，漏收） |
+| hnn22/lesgooo-grok-plugin | https://github.com/hnn22/lesgooo-grok-plugin | **好友凑局 Skill+远程 MCP**：空闲窗口比对、地点投票、清单与分账（不转账）；无 API key/OAuth，走 `lesgooo.fun/mcp`；Marketplace 待上架、仓为插件源。垂直社交向 | Skills / Vertical MCP | `skill` `mcp` `group-planning` `plugin` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| serenakeyitan/agent-org-chart | https://github.com/serenakeyitan/agent-org-chart | 可移植组织图目录（工程/市场/支持等），写明兼容 Grok Bot；~35★ MIT；模板 dump 常引用，此前未进 candidates，先信号 | Multi-bot / Templates | **X** dump 帖 + **GitHub**（9-22 建，漏收信号） |
+| codarwang/grokbot-web | https://github.com/codarwang/grokbot-web | 非官方双语模板目录站（Astro/CF Pages），强调 tested 非 scraped；无 License、偏脚手架，先信号 | Templates / Directory | **GitHub**（10-24 本窗新建） |
+| HappyMonkeyAI/mcp-daw | https://github.com/HappyMonkeyAI/mcp-daw | 通用 MCP 音乐编曲（JSON song→WAV/MP3）；作者称用 Grok Bot 搭出，非 Bot 专属协议，先信号 | Plugins / Media MCP | **X** @HappyMonkeyAI + **GitHub**（10-24 本窗新建，MIT） |
+
+### Skip（本轮）
+
+q98765tw/TodoApi-GrokBot（用 Bot 带练的 Todo demo，非玩法）；george988/kindle-courier（上轮已 skip）；HarnessRouter/harnessrouter（3333★ 旧仓，本窗营销帖非新玩法）；udhaykumarbala/cleanyourtv-app（与已信号 vibeyourtv 同向）；tim164863-hue/grokbot-office / 1nc0gn30 zoth / SnazzyGaz/bot-beacons / ThreeArisesAll team-builder（已列）；SpaceXAI/模板 dump、币安/交易、@leerob 功能建议、低粉 X Article。X 本窗无其它新增独立可复用仓。
