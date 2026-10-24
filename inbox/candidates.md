@@ -2174,3 +2174,25 @@ ikeriano/ahoracaigo-java-grok-bot（粉丝游戏非玩法）；muhammadanggaalaz
 ### Skip（本轮）
 
 SherlockGy/grokbot-knowledge-archive（空仓）；tim164863-hue/grokbot-office（无 README/License，见上游信号）；alpha404ai/grok-bot-skills（交易 skill，早先 Skip）；owenservera/grokbot-telemetry、Spidermanrobin/awesome-grokbots、company-notes/grokbot-persona-factory（已列）；andraetbusiness-code/grokbot-desk、Kshot3000/Midnight、rocket0xdev1025/grokbot402、i-nowu/grokbot-games-free（已 skip 类）；OpenBot/CopilotKit 替代品营销、币安/$REAGENT、Gumroad 付费小队、@leerob 功能建议。X 本窗无新增独立可复用仓（alpha404 自宣包已记）。
+
+## 2026-10-24 20:01 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 18:09→20:01（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-23–24）+ X `search_posts_all`×4（github / playbook / skills / 中文玩法；本窗多为币安 Wallet、Vault 建议、StackChan 长文转述，可复用仓以 GitHub 为主）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| ssamssae/grokbot-telegram-bridge | https://github.com/ssamssae/grokbot-telegram-bridge | **本机 Mac：私有 Telegram bot ↔ 已有 Grok Bot**：`getUpdates`→routine webhook 入站；每 3s 读桌面 App 本地会话副本回传，无屏幕自动化；仅放行配置的 chat id；stdlib+测试+韩/英 README+launchd 样例。同作者 Claude/Codex/Cursor/Grok 桥系列的 Grok **Bot** 版。本轮最值得看 | Bridges / Mobile | `telegram` `webhook` `macos` `stdlib` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| justhalfbit/xiaozhi-hub-server | https://github.com/justhalfbit/xiaozhi-hub-server | **中文：小智协议语音中枢**（StackChan/ESP32）：叫名字分派 Claude Code / 各家 API / **Grok Bot**（Cursor 登录勾选 Bot，长任务可打断、做完设备主动汇报）；管理后台+一键装；注明走 App 内部接口非官方 API。与已记 Dissipative-ATLAS/stackchan-grok-bridge（不刷固件接已有 Bot）互补——本仓是完整听/说网关。此前漏收；今日 X 中文 StackChan 帖热 | Hardware / Bridges | `chinese` `stackchan` `xiaozhi` `voice` `grok-bot` `mit` | ~17 / MIT | **X** @0xlangeai/@noahduck283 等 + **GitHub**（10-18 建，此前漏收） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| clsasa1/grokbot-telegram-bridge | https://github.com/clsasa1/grokbot-telegram-bridge | 俄文：在 **Grok Bot 云电脑**上跑 relay（媒体/语音 whisper、论坛分 topic、watchdog、tg-* 回传）；与 ssamssae（Mac 读本地副本）路径不同。无 SPDX License，先信号 | Bridges / Telegram | **GitHub**（10-24 本窗新建） |
+| SINYC123/grok-bot-resources | https://github.com/SINYC123/grok-bot-resources | 把 @Greshamtrade「146 模板」帖里的 20 个推荐仓抄成清单；无 License、非新玩法，作索引信号即可 | Learning / Index | **GitHub**（10-24 新建） |
+
+### Skip（本轮）
+
+ssamssae 以外的交易仓 joaaoazul/grok-bot；Wifikir/WifikirMail（私人空仓）；mikegkelly/book-catalog-bot（模板落地页 Coming soon，已 skip）；SherlockGy/grokbot-knowledge-archive（空）；tim164863-hue/grokbot-office（无 License fork，上轮已信号）；ikeriano/* 游戏；danimoya/grok-bot-arch（前轮已记）；monokernn/REAGENT / 币安 Agentic Wallet / $REAGENT 营销；alpha404 自宣包已记；OpenBot 替代品营销。X 本窗无其它新增独立可复用仓。

@@ -1016,3 +1016,7 @@ x-articles +1（请 loop 核链接）：
 未收：@Mulight 211386296 教程索引（链合集非新配方，本周已有 @bot 派活，前轮已记）；@shao__meng 211362246 订阅说明带促销码（非玩法）；@xitang_ai 211380501 24 篇精选（约 1.5k 粉、13 收藏未过线）；@knowledgedelta 211394484 运营 X 30 条极致榨干（步骤完整但约 3.5k 粉、3 赞 / 0 收藏未过线，盯互动）；@MaiYangAI 211361600 官方 201 直播复盘（loop #31 已撤，勿重推）；Vault 仅公告转述（@abskoop/@santoslee_me/@ChaiWithAi 低粉）；币安/日文/交易/模板 dump（@Greshamtrade 146 模板喊单风）。
 
 @bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.5k 赞 / 1.8k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。
+
+### 2026-10-24 20:01 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 20:01 · 白天玩法雷达」——推荐 2 条（最值得看 https://github.com/ssamssae/grokbot-telegram-bridge：本机 Mac 私有 Telegram↔Grok Bot webhook+本地会话副本，MIT；另 justhalfbit/xiaozhi-hub-server 中文小智/StackChan 语音中枢含 Grok Bot 分派，MIT，此前漏收）+2 信号（clsasa1 云电脑侧 Telegram 桥无 License、SINYC123 模板索引）。未改 README。请按 LOOP 核实。
