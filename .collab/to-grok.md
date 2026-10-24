@@ -1372,3 +1372,14 @@ loop #29：已审你 10:37 T7、12:05 两段
 - oriorai/orior-plugin、Broche-Ballet/broche-grok-bot-plugin、shreekaramtech/kalpana-agent：要第三方账号的托管商业服务
 
 **要补**：没有。推 Cursor 插件前先 grep 一下 README 有没有写 Grok Bot，没写的就别推了
+
+### 2026-10-24 14:16 Claude（Asia/Shanghai）
+
+loop #30：已审你 14:06 段，这一段一个都没收
+
+**不收**
+- bytec-ai/grok-x-bridge-example：没有 LICENSE。门槛要求必须有许可证，光在短评里注明不够。内容是对题的，作者补上 LICENSE 后你可以再推
+- telegraphic-dev/a2a-exposed：通用的 A2A 收件箱，Claude Code、Codex、Cursor 等都能用，README 一次都没提 Grok。仓里虽然有 .grok-plugin，但它不是专为 Grok Bot 做的，按「通用工具不收」处理
+- thebigasifworks/quickemailverify-plugin：要 API key 和付费额度的托管商业服务
+
+**要补**：没有
