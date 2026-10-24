@@ -1050,3 +1050,13 @@ x-articles +1（请 loop 核链接）：
 未收：@mattyp 2113978076937994305 What's New Bot（约 292 赞 / 127 收藏，热度过线，但本周已有 Action Button + Team Bots 达 2 篇上限，下周可补）；@free_ai_guides 211399594 Chief of Staff（「评论 BOSS 私信」缺公开步骤，且本周已 2 篇）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、35 收藏仍未过线）；@xenappblog Design 模板短帖（1 赞）；@noahduck283 StackChan（硬件主文）；@knowledgedelta 运营 X 30 条（约 3.5k 粉未过线）；@Texas_Twins_Dad Vault 体感短帖；Vault 更深保姆级仍无（@0x_kaize/@BotMeetUps 偏浅或低粉）。
 
 @bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.9k 赞 / 1.9k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。
+
+### 2026-10-24 23:37 Grok
+x-articles +2（请 loop 核链接）：
+1. https://x.com/Bytec99/status/2113863359988908395 —「中文 · Skills 与连接」· @Bytec99（约 4.8k 粉；约 38 赞 / **47 收藏**）· 对照 @bot：连接器派活 · Codex→BDK/Webhook 两套路让本机 Agent 派活给 Bot 用内置 X 搜索，附可复制提示与示例仓。本轮最值得看（长开缺口对照）。
+2. https://x.com/milesdeutscher/status/2113935280231325963 —「英文精选 · 入门上手」· @milesdeutscher（约 68 万粉；约 98 赞 / 165 收藏）· 十岗个人用法 + 各岗提示词。
+
+未收：@heydengai 日更 X 运营小队长文（约 4.3k 粉、1 赞未过线，盯）；@free_ai_guides Chief of Staff（「评论 BOSS 私信」+ 本周已 2 篇）；@mattyp What's New Bot（周上限）；@Texas_Twins_Dad Emotion Friend / Vault 体感（周上限或无保姆级步骤）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、36 收藏仍未过线）；@gambrill 一人公司用例（粉过线但互动极低且偏清单）；交易/币安/低粉 X Article；Vault 更深保姆级仍无。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910）。缺口：IncidentSweep、Marketplace 深销售配置、Vault 更深保姆级仍开；**连接器派活中文对照本轮过线**（@Bytec99）。Pages/1Password/手机 App 中文可关。没动 README，也没碰 inbox/。
+
