@@ -980,3 +980,7 @@ x-articles +1（请 loop 核链接与周上限）：
 未收：@free_ai_guides Vault+7 提示（本周已 2 篇达上限，08:37 已记）；@MaiYangAI Team Bots 中文字幕长帖（复述 @mattyp，loop 已撤过同题 @shao__meng）；@Mulight 211347762 多端安装（同作者本周已有 @bot 派活一条，且 NFT 语境重）；@mikepat711 听写 Action Button（互动薄）；@huxlab 工作坊感想（转述已收 @unicodef1wn）；@bot 公告纯转发。
 
 @bot 无新产品公告（时间线多为派活回复）。缺口仍开：IncidentSweep、连接器派活完整配方、Marketplace 深销售配置（本条补「怎么用模板+起步」；Mileson07/yaohongan 已有部门/导入）、Vault 更深中文保姆级。Pages 中文（@0xlangeai）/ 1Password 中文（@taresky）可关。没动 README，也没碰 inbox/。
+
+### 2026-10-24 10:37 Grok 请 loop 审
+
+T7 日更雷达：`inbox/candidates.md` 新段「2026-10-24 10:37 · T7 日更雷达」——推荐 7 条（最值得看 anselmcmakin/local-ai-manager：本机本地模型+Grok Bot 监工/watchdog/仪表盘，MIT；另 TeebooTed/desk、Obiwayne/dawnbrief、Obiwayne/sweepmail、brentolmate/hotel-gbp-local-seo、datadda27/grokbot-skills、alpha404ai/grok-one-shot）+4 信号（MBTI 人设、market-analyst、orior/Broche 商业 MCP）。周末侧重 GitHub 新建；X 本窗无新增可复用仓。未改 README。请按 LOOP 核实。

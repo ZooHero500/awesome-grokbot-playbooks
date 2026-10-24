@@ -2050,3 +2050,32 @@ saikrishnauppaluri/plan-to-3d（与已记 floorplan-to-3d 同类商业插件）�
 ### Skip（本轮）
 
 drewsephski/kith（替代品）；ofs100private/GrokBot、Chaoc2624/grokbot-backup、lhbzk/botAI_rd4x、ikeriano/pasapalabra-sb3-grok-bot（空描述/无 README）；duvida13/GROK-BOT（个人求职）；davidfweiser/NetworkSentinel、XiaJianbing150/x-ai-news-bot、jonathanchw/nextjs-boilerplate（非 Grok Bot 玩法）。
+
+## 2026-10-24 10:37 Asia/Shanghai · T7 日更雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。周末窗口约近 24h（Asia/Shanghai 10-23 10:35→10-24 10:37）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-23 + updated≥2026-10-24）+ X `search_posts_all`（github.com / playbook / template / skills；本窗 X 侧多为 x.ai/bot 模板与功能建议，无新增可复用 GitHub 仓，交 X 大 V 雷达）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| anselmcmakin/local-ai-manager | https://github.com/anselmcmakin/local-ai-manager | **本机跑本地模型、Grok Bot 当监工**：模板装钉版脚本（硬件扫描 / 作业队列 worker / 60s watchdog / 127.0.0.1 仪表盘，含 Pause/Game Mode 卸 VRAM），只绑本机、containment.json 白名单、webhook 只报事实不问自重启；标准库为主、有测试。与 stampede / vesper 同向但偏「本地推理运维」。本轮最值得看 | Skills / Local AI | `local-ai` `ollama` `watchdog` `dashboard` `tailscale` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| TeebooTed/desk | https://github.com/TeebooTed/desk | **本机单文件项目看板 + Message bot**：file:// 打开，按项目（非看板列）看进度；经本地 relay 把消息打到 Grok Bot webhook routine，另有 Bot 模板让 Bot 写 status.json / live.json 并建「Desk refresh」routine。附 install.sh 与布局/同步文档 | Clients / Dashboards | `dashboard` `webhook` `routine` `local-first` `mit` | 0 / MIT | **GitHub**（10-23 建，此前日更漏收） |
+| Obiwayne/dawnbrief | https://github.com/Obiwayne/dawnbrief | **早 7 点一日简报**：日历+空档、需处理邮件、Miniflux/RSSHub 新闻、Top3、可跳过会议（仅建议）；只读、不过额度 70% 则缩写。附本机 `dawnbrief preview`（ICS+Takeout+feeds）先看再授权。同作者 inbox-assistant / receipts，Grok 包作者称尚未真机测，短评须注明 | Routines / Digests | `routine` `calendar` `email` `rss` `preview` `mit` | 0 / MIT | **GitHub**（10-23 建，此前漏收） |
+| Obiwayne/sweepmail | https://github.com/Obiwayne/sweepmail | **Gmail 清理 skill + 本机干跑**：按发件人分组提议 trash/unsubscribe，人批后再分批 500；周 routine 保洁；`sweepmail check` 只读吃 Takeout 出报告。同 dawnbrief 作者，Grok 包未真机测须注明 | Skills / Email | `gmail` `skill` `dry-run` `takeout` `mit` | 0 / MIT | **GitHub**（10-23 建，此前漏收） |
+| brentolmate/hotel-gbp-local-seo | https://github.com/brentolmate/hotel-gbp-local-seo | **酒店 Google 商家资料 + 本地 SEO 技能包**：审计、月计划、中英西语评价/客服草稿、地图竞品缺口、弱站重建计划；只读公开信息+草稿，不改 GBP/不发帖/不联系外人。可作垂直行业 skill 范例 | Skills / Vertical SEO | `gbp` `local-seo` `hotel` `draft-only` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| datadda27/grokbot-skills | https://github.com/datadda27/grokbot-skills | **公开模板的「活 skills」仓**：ticket-watch / portal-tracker 等，模板 Bot 每次跑前从此仓拉最新 skill，修一次全用户受益。与 dallintwatts/grokbot-skills（首次对话校验安装）互补，可并列 | Skills / Distribution | `skill` `live-update` `templates` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| alpha404ai/grok-one-shot | https://github.com/alpha404ai/grok-one-shot | **一次做完少返工**：目标+完成定义 → ≤5 步计划 → 单遍执行 → 自检；不确定只问一题；周五按重试次数晋升模板。可复制 prompt + templates/，轻量可抄 | Skills / Playbooks | `prompt` `one-shot` `self-check` `mit` | 0 / MIT | **GitHub**（10-23 建，此前漏收） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| TomCruiseTorpedo/MBTI | https://github.com/TomCruiseTorpedo/MBTI | 16 型人设提示（韩式小谈语境），写明兼容 Muse / Grok Bot 等；人设玩具向，先信号 | Templates / Personas | **GitHub**（10-23 新建，Apache-2.0） |
+| alpha404ai/grok-market-analyst | https://github.com/alpha404ai/grok-market-analyst | 读 X/新闻/财报抽可核验主张并自评分+周复盘，声明不交易；同作者 one-shot，投资语境先信号 | Routines / Research | **GitHub**（10-23 新建，MIT） |
+| oriorai/orior-plugin | https://github.com/oriorai/orior-plugin | 一致人脸角色图/视频 MCP（Grok Bot / Cursor），仓仅 manifest+skills；托管商业+OAuth，先信号 | Plugins / Media | **GitHub**（10-23 新建，MIT） |
+| Broche-Ballet/broche-grok-bot-plugin | https://github.com/Broche-Ballet/broche-grok-bot-plugin | 芭蕾课表搜索 MCP（会员工具需登录）；垂直会员场景，先信号 | Plugins / Vertical | **GitHub**（10-23 新建，MIT） |
+
+### Skip（本轮）
+
+ronnarit09-hub/Grokbot-backup、mariotoffia/grokbot-backup、nlaughter100/grokbot-dashboard、rocket0xdev1025/grokbot402、Adambkr/Grokbot、brucksh0t/born-hood-grokbot-preview、ikeriano/*-sb3-grok-bot、qcteslaguy/qcteslaguy.github.io、jimmie01/jimmie01.github.io（礼物模板站）、PhillipHolland/ibot（iPod/MusicKit 页，非玩法）、fuzzynet/bot-open（仅开聊天链）、gab709/grok_bot_example、hast3/claudecrew（Claude 远程，非 Grok）、saikrishnauppaluri/sai-bots / plan-to-3d（已记同类）、Railbed/railbed-cursor-plugin（与已记 Railbed/cursor-plugin 同向商业支付）、bayardo-ship-it/unifi-network（与已记 bayardoassistant-ship-it/unifi-network 同向）、已列 stampede / vesper / mascarock inbox / esp32-sdk / hunvreus discord / multi-ai-sync / yeemio / grokspot / maid-avatar / persona-factory 等。X 本窗多为 x.ai/bot 模板分享与 @leerob 功能建议，无新 GitHub 可复用仓。
