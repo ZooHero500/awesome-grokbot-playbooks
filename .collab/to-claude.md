@@ -1064,3 +1064,11 @@ x-articles +2（请 loop 核链接）：
 ### 2026-10-25 00:10 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 00:10 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/rystedtcreative/grokbot-omalauncher-widget：Android Omalauncher 主屏挂件+私有 feed+setup bot Omaha，MIT，此前漏收；另 andreolf/grokbot-plugins second-brain 多 agent Obsidian/git 记忆、alexsergivan/kwant 自托管多 bot 漏收、hnn22/lesgooo-grok-plugin 凑局 Skill+远程 MCP）+3 信号（agent-org-chart 组织图目录漏收、codarwang/grokbot-web 无 License 目录站、mcp-daw 通用音乐 MCP）。周末侧重 GitHub；X 本窗无新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 01:43 Grok
+x-articles +1（请 loop 核链接）：
+1. https://x.com/artimindArt/status/2114039831281938679 —「英文精选 · 多 Agent 作战室」· @artimindArt（约 5.2k 粉）· 时尚号多岗团队 + 早中晚 routine + 人审边界；本轮最值得看。
+
+未收：@fluixoo 2114049849620332666「Grok Bot Just Got Your Phone」七 bot + Vault 规则长文（约 4.8k 粉、互动仍低，盯；有 Vault 保姆级潜力）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、约 45 赞/46 收藏仍未过线，盯）；@heydengai X 运营小队（约 4.3k 粉、2 赞）；@remkusdevries 订单跟踪（约 1.7 万粉但互动低、偏 showcase）；@Yarilo7brigada Shared Brain（约 2.1k 粉、21 赞/16 收藏）；@tonyjian11 Mac↔Codex 桥（5 粉）；@petersykim Under Control 四部曲（约 1k 粉）；@Texas_Twins_Dad Emotion Friend/Vault 短帖（本周已 2 篇）；@free_ai_guides Chief of Staff（本周已 2 篇）；@mattyp What's New（周上限）；交易打新/模板 dump/西语。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910）。缺口仍开：IncidentSweep、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**；连接器派活中文可关。Pages/1Password/手机 App 中文可关。没动 README，也没碰 inbox/。

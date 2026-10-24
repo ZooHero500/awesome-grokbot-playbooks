@@ -5,7 +5,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 > 只收公开帖，短评为本仓观点，版权归原作者。帖内的数字（涨粉、线索数、流量倍数等）都是作者自述，本仓没有核实。
 > 收录标准：作者粉丝约 5k 以上，或帖子有明显互动（约 100 赞或 50 收藏以上），而且内容是教程、配方、真实配置或复盘。只收中英文，同一作者一周最多 2 篇。抽奖送码、代币、交易收益、收益引流、纯推广、官方公告的转发或转述都不收。完整规则见 [CONTRIBUTING](../CONTRIBUTING.md#收录门槛)。
 > 已经在 [社区教程精选](community-tutorials.md) 里的 25 篇这里不重复列，请两页一起看；本仓作者自己的教程见 [sitin 的教程索引](sitin-tutorials.md)。
-> 收录窗口：约 2026-09-07 至 2026-10-24，个别早期高收藏长文也收了。
+> 收录窗口：约 2026-09-07 至 2026-10-25，个别早期高收藏长文也收了。
 
 ## 目录
 
@@ -147,6 +147,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Dr Eggbot 当 bot 总负责人：一 bot 一岗 + 实习生信任阶梯](https://x.com/bradmillscan/status/2113638380361728309) — @bradmillscan · 2026-10-23 · 从 Hermes/OpenClaw 转来后用 Marketplace 的 Dr Eggbot + pstack 给每个 bot 定一个岗位、一个结果、禁做清单和自己的 SOP，再按草稿→干完汇报→只报异常三级放权；附视频 · 英文
 - [用 6 个 Grok Bot 跑真实 YouTube 频道：一 bot 一职、先从数据分析 bot 起步](https://x.com/TheRyanRobinson/status/2113696594465841569) — @TheRyanRobinson · 2026-10-23 · 长帖：调研/脚本/包装/外联/分析+首席六岗分工，踩坑是别造全能 bot，共用一台云电脑要守住花钱与发帖权限 · 英文
 - [过夜五 bot 夜班：一岗一职 + Opus 5.5 写代码、Reviewer 清晨验收](https://x.com/0xDepressionn/status/2113984485137990129) — @0xDepressionn · 2026-10-24 · X 长文：Reviewer/Scout/Coder/Metrics/Lead 五岗、不可逆动作一律草稿、最慢可接受节奏排程，代码走终端 Claude Code 夜分支绝不碰 main；约 4.6 万粉 · 英文
+- [用一队 Grok Bot 跑 AI 时尚号：Director/Listening/Trends/Analytics 等分工 + 早中晚 routine](https://x.com/artimindArt/status/2114039831281938679) — @artimindArt · 2026-10-25 · X 长文：每岗独立聊天与记忆，早 8 点生产、日间定时发帖、夜间一页战报；人只写提示词、定镜和对外发言，附铁皮夹克五轮翻车（模型换错导致皮肤不对）与系统写死教训；约 5.2k 粉 · 英文
 
 ### Routine 雷达与额度
 
