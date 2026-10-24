@@ -2244,3 +2244,26 @@ george988/kindle-courier（无 License，模板 skill 分发）；xl17773188101-
 ### Skip（本轮）
 
 q98765tw/TodoApi-GrokBot（用 Bot 带练的 Todo demo，非玩法）；george988/kindle-courier（上轮已 skip）；HarnessRouter/harnessrouter（3333★ 旧仓，本窗营销帖非新玩法）；udhaykumarbala/cleanyourtv-app（与已信号 vibeyourtv 同向）；tim164863-hue/grokbot-office / 1nc0gn30 zoth / SnazzyGaz/bot-beacons / ThreeArisesAll team-builder（已列）；SpaceXAI/模板 dump、币安/交易、@leerob 功能建议、低粉 X Article。X 本窗无其它新增独立可复用仓。
+
+## 2026-10-25 02:09 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 00:10→02:09（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24 + 本窗 16:00Z 后新建）+ X `search_posts_all`×3（github/playbook/skills/中文；本窗多为功能建议、模板 dump、额度吐槽、低粉 X Article，可复用仓以 GitHub 为主）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| lucasjsbarbosa/grokctl | https://github.com/lucasjsbarbosa/grokctl | **非官方 CLI：用 Chrome DevTools Protocol 驱动本机 Grok Bot 桌面端，让 Claude Code/Codex/OpenCode/Maestri 派活给云端 bot**：`bots`/`use`/`ask`/`state`/`read`；只听 `127.0.0.1`；附 Maestri 角色例与 ToS 风险声明。与 webhook 派活（@Bytec99 向）互补——本仓走**本机 UI 自动化**。本轮最值得看 | Bridges / CLI | `cli` `cdp` `claude-code` `multi-agent` `windows` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| dorukardahan/grokbox | https://github.com/dorukardahan/grokbox | **Time Machine 式加密备份 Grok Bot 云电脑**（`/workspace`+`/home/box`→restic+rclone→自有 Google Drive）：调度/守门（空仓回滚、hydration、uptime）、SQLite 在线拷、brain 导出、`AGENTS.md` 可直接丢给 Bot 安装。与已记 StefMVP/exporter、company-notes/grok-bot-backup（一次性导出）互补——本仓是**持续增量加密备份** | Skills / Box ops | `backup` `restic` `rclone` `encrypted` `agents-md` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| xerosph3re/3xposer | https://github.com/xerosph3re/3xposer | **Solana 骗局溯源 Skill**：钱包/mint/X 句柄→资金跳点+威胁分 0–100+证据关联报告（不指控）；`skills/3xposer/SKILL.md`+patterns；可选 X/Helius。垂直链上向，可作 Skill 打包范例 | Skills / Vertical | `skill` `solana` `investigation` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| SherlockGy/grokbot-knowledge-archive | https://github.com/SherlockGy/grokbot-knowledge-archive | 此前空仓；现有 WORKFLOW+主题索引：管家 Bot 按授权持续归档可公开知识（含版本核对）。无 License，个人工作流范例先信号 | Skills / Knowledge | **GitHub**（10-24 建，本窗有实质内容） |
+| kielafisher-del/grok-launchpad | https://github.com/kielafisher-del/grok-launchpad | 个人 Grok/Grok Bots 静态 HTML 启动面板；无 License、无自动化，先信号 | Clients / Dashboard | **GitHub**（10-24 本窗新建） |
+
+### Skip（本轮）
+
+86ortega/MPV.CONFIG-Creation-Through-Grok-Bot（用 Bot 调的个人 mpv.conf，非玩法）；nico-lao/Grok-Bot（assets、无 License）；SpaceXAI/Greshamtrade 模板 dump、@moritzkremb webhook 模板营销帖（无新独立仓）、@fluixoo「Just Got Your Phone」交 X 大 V 雷达、@leerob 功能建议/额度吐槽、币安/交易、低粉 X Article。已列 omalauncher / team-builder / bot-beacons / telegram-bridge / video-mcp / hermes-webhook / broom 等不重推。

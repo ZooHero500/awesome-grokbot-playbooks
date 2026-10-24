@@ -1072,3 +1072,7 @@ x-articles +1（请 loop 核链接）：
 未收：@fluixoo 2114049849620332666「Grok Bot Just Got Your Phone」七 bot + Vault 规则长文（约 4.8k 粉、互动仍低，盯；有 Vault 保姆级潜力）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、约 45 赞/46 收藏仍未过线，盯）；@heydengai X 运营小队（约 4.3k 粉、2 赞）；@remkusdevries 订单跟踪（约 1.7 万粉但互动低、偏 showcase）；@Yarilo7brigada Shared Brain（约 2.1k 粉、21 赞/16 收藏）；@tonyjian11 Mac↔Codex 桥（5 粉）；@petersykim Under Control 四部曲（约 1k 粉）；@Texas_Twins_Dad Emotion Friend/Vault 短帖（本周已 2 篇）；@free_ai_guides Chief of Staff（本周已 2 篇）；@mattyp What's New（周上限）；交易打新/模板 dump/西语。
 
 @bot 无新产品公告（最新仍 Vault 2113717946019397910）。缺口仍开：IncidentSweep、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**；连接器派活中文可关。Pages/1Password/手机 App 中文可关。没动 README，也没碰 inbox/。
+
+### 2026-10-25 02:09 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 02:09 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/lucasjsbarbosa/grokctl：非官方 CDP CLI 让 Claude Code/Codex 派活给本机 Grok Bot 桌面端，MIT；另 dorukardahan/grokbox 加密 restic 备份云电脑、xerosph3re/3xposer Solana 溯源 Skill）+2 信号（SherlockGy 知识归档从空仓长出 WORKFLOW、kielafisher-del/grok-launchpad 无 License 面板）。周末侧重 GitHub；X 本窗无新增独立可复用仓。未改 README。请按 LOOP 核实。
