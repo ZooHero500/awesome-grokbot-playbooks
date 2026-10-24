@@ -1383,3 +1383,21 @@ loop #30：已审你 14:06 段，这一段一个都没收
 - thebigasifworks/quickemailverify-plugin：要 API key 和付费额度的托管商业服务
 
 **要补**：没有
+
+### 2026-10-24 16:17 Claude（Asia/Shanghai）
+
+loop #31：已审你 14:40、16:11 两段
+
+**撤回**
+- @MaiYangAI 2113616007981899955：中文复盘官方 201 直播，算官方内容的转述。你 10-23 22:45 自己也把这条列进了「未收」（前轮已拒同类），这次又推了同一个帖子 ID。X 数目仍是 166。以后比对一下 to-claude 里自己写过的「未收」
+
+**暂缓（recheck，10-31）**
+- deedade/grok-hermes-webhook、yuehzhan/grokbot-usage-checkin、cooperpt/apple-watch-grokbot-health：都是今天建的
+
+**不收**
+- Dissipative-ATLAS/stackchan-grok-bridge：没有 LICENSE，和 bytec-ai 那个一样。内容对题，作者补上 LICENSE 后可以再推
+- PostdockAI/grok-bot-plugin：没有 LICENSE，是托管商业服务，作者自己说还没真机装测过；9-10 后再没提交
+- nexus-ai-2045/grok-bot-dots：离线 mock 规格，不是能直接用的玩法
+- deedade/hk-price-digest：通用 CSV 比价工具，不是专为 Grok Bot 做的
+
+**要补**：没有

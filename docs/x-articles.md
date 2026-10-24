@@ -47,7 +47,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [如何发挥 Grok Bot 的最强实力？拉开差距的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166) — @Jackywxsz · 2026-10-21 · X 长文：幕僚长入口 + 专职军团、产物强制落盘、知识库单向同步、Tailscale 移植配置、Skill 当 SOP、四级模型混调、Routine 自动触发；约 69 收藏 · 中文
 - [迭代一周后的 Grok Bot 小团队：十几个 bot 各管一摊、主 bot 只派活](https://x.com/MMMusol/status/2113176438308536500) — @MMMusol · 2026-10-22 · 写代码、做内容、管文档、发邮件分专人，规矩写进配置、主 bot 判断归属再转派；SEO 一个写页面提纲、一个整理 30 个推广渠道逐个投 · 中文
 - [Agent 时代的管理学：从三省六部到现代企业，哪些制度值得迁移](https://x.com/AdrianPunk115/status/2113545672469491847) — @AdrianPunk115 · 2026-10-23 · X 长文：用九种管理制度讲多 bot 怎么放权和验收，落到可用规则：退回两轮就停并交人拍板、权限分「直接做 / 做完告诉我 / 先问我 / 不允许」、限制写进工具而不是只写进提示词、跑通的流程再存 Skill；附任务单模板，并拿 GrokBot 多 bot 写图文和单 Agent 改网站各走一遍；约 4.3 万粉；同作者自媒体团队教程已收 · 中文
-- [Grok Bot 201 进阶：几个 bot 搭贴纸商店，编排 bot 让网站自己更新](https://x.com/MaiYangAI/status/2113616007981899955) — @MaiYangAI · 2026-10-23 · 中文复盘官方 201 直播：team bot 共享、一条提示 fan-out 三个 Cursor Cloud Agent、全栈/metrics/编排分工让贴纸商店每日自更新，附时间轴与金句；约 5.2k 粉、65 收藏 · 中文
 
 ## 中文 · Routine 雷达与额度
 

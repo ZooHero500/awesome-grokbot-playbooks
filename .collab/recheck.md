@@ -128,6 +128,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [alpha404ai/grok-cost-cutter](https://github.com/alpha404ai/grok-cost-cutter) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 省额度 prompt：触发优先、预检、缓存、日硬顶；和 grok-bot-local-first、额度体检配方对照看是否有新东西 |
 | [anselmcmakin/local-ai-manager](https://github.com/anselmcmakin/local-ai-manager) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机本地模型运维，Grok Bot 当监工（watchdog、仪表盘、只绑 127.0.0.1）；作者同已收的 Personal Chef |
 | [datadda27/grokbot-skills](https://github.com/datadda27/grokbot-skills) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 公开模板每次运行前拉最新 skill；和已收的 dallintwatts/grokbot-skills 思路相反（一个钉版本一个追最新），收的话写明供应链风险 |
+| [deedade/grok-hermes-webhook](https://github.com/deedade/grok-hermes-webhook) | 10-31 | 1★ · MIT · 建 10-24 · 最近提交 10-24 | Grok Bot → 本机 Hermes 的最小 webhook 契约（HMAC 验签后再解析），v0.1 只到验收；和已收的 Hermes 桥对照看有没有新东西 |
+| [yuehzhan/grokbot-usage-checkin](https://github.com/yuehzhan/grokbot-usage-checkin) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机额度/打卡仪表盘，数据不出本机；过线放「Routine 与摘要」额度管理 |
+| [cooperpt/apple-watch-grokbot-health](https://github.com/cooperpt/apple-watch-grokbot-health) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 中文：Apple Watch 健康数据 → 快捷指令 → webhook → bot 出睡眠小结；仓里只有 README；健康数据敏感，收的话写明 |
 
 ## 已移出
 
