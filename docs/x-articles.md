@@ -73,7 +73,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [邮箱 plus 别名分流：不同来源触发不同 routine](https://x.com/MaiYangAI/status/2110606555578335572) — @MaiYangAI · 2026-10-15 · bot 自带邮箱支持 plus 别名，+newsletters/+receipts/+travel 分地址收信，再建只听某个别名的 routine 做摘要或整理账单；哪个别名开始收垃圾邮件就知道是谁泄露的；作者约 5k 粉 · 中文
 - [iPhone 操作按钮一键唤起 Grok Bot 语音：四步设置](https://x.com/cgnot996/status/2112328304170828230) — @cgnot996 · 2026-10-20 · 设置里搜「操作按钮」→ 快捷指令 → Grok Bot → 开始语音聊天，四步可跟做并配截图，作者约 8.9k 粉；同作者新手指南已收 · 中文
 - [别人把 Grok Bot 都调好了，53 个模板点一下就复制来用，我按场景分好了七类](https://x.com/yaohongan2025/status/2112348685778489753) — @yaohongan2025 · 2026-10-20 · X 长文：讲清 Add to Grok Bot→预览→Add Bot、密钥不随模板走，按七类筛了 53 个可装模板并点名描述里藏指令/下陌生代码的坑；作者约 0.8k 粉但约 172 赞 / 427 收藏 · 中文
-- [还在手搓 bot？官方 Marketplace 10 个模板导入就能用（附起步五步）](https://x.com/Sukiea1008/status/2113544871197933660) — @Sukiea1008 · 2026-10-23 · X 长文：按造 bot/写代码、设计内容、增长生意挑出 10 个官方模板并写清人在哪一步把关；讲为何先用模板（范围收窄、审批线画好、改比写易），附主管+专员结构和 5 步起步顺序，以及 github.com/doublesq97-ui/bot-team-playbook；约 4.6k 粉但约 57 赞 / 108 收藏 · 对照 @bot：Marketplace · 中文
+- [还在手搓 bot？官方 Marketplace 10 个模板导入就能用（附起步五步）](https://x.com/Sukiea1008/status/2113544871197933660) — @Sukiea1008 · 2026-10-23 · X 长文：按造 bot/写代码、设计内容、增长生意挑出 10 个官方模板并写清人在哪一步把关；讲为何先用模板（范围收窄、审批线画好、改比写易），附主管+专员结构和 5 步起步顺序，以及 github.com/doublesq97-ui/bot-team-playbook；约 108 收藏 · 中文
 - [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
 - [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
 - [实操教程｜把 Grok Bot 接进了微信：发一句话，它真的去干活](https://x.com/EvanWritesX/status/2111661828749373784) — @EvanWritesX · 2026-10-18 · X 长文：用 openclaw-weixin 自建桥接 + webhook 叫醒 bot 查邮箱/读网页再回微信，密钥走加密环境变量；约 2.3 万粉、66 收藏，路线不同于 KinGao/wx-bot · 中文
@@ -81,7 +81,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 员工怎么选：按八个部门挑 Marketplace 模板搭 AI 团队](https://x.com/Mileson07/status/2113514194687668731) — @Mileson07 · 2026-10-23 · X 长文：把官方模板按工程、销售与客户、市场、设计、招聘、产品、运营、生活八部门中文化，逐个写清岗位职责、适合谁和搭配顺序（如项目统筹→SWE→QA），销售部列出外联获客、Sequencer、Pipeline Pulse 等 20 多个岗位；作者约 5.3k 粉 · 中文
 - [Grok Bot Pages 新手保姆级教程：报告、备忘录、仪表盘实操](https://x.com/0xlangeai/status/2113561892505763850) — @0xlangeai · 2026-10-23 · X 长文：先定收录起始日、统一北京时间、保留原链接三件事，再分三步做报告页（管材料）、备忘录页（管已定决定和待补项）、仪表盘页（带图表，把「资料查到」和「亲手跑过」分开），三段提示词可直接复制，进阶是在推文下 @bot 把长文转成 Page；约 1 万粉 · 中文
 - [一句话让 Grok Bot 帮你网购：1Password 专用密码库 + 原币种支付 + 一次性卡](https://x.com/taresky/status/2113621639594402284) — @taresky · 2026-10-23 · 四步配置：连 1Password 后把愿意共享的生活类登录复制进专用库、给一次收件人信息、规定只用商品原币种付款（避开 DCC 换汇坑）、优先 Amazon Pay/Stripe，要填卡时用一次性卡或用完即删的虚拟卡 · 中文
-- [Vault 保险库：设置里存登录/卡片，还可从 Chrome 或 1Password 导入](https://x.com/indie_maker_fox/status/2113789986868981964) — @indie_maker_fox · 2026-10-24 · 设置里找到 Vault，可手填登录/银行卡/联系人，也可从 Chrome 或 1Password 导入；官方演示称密码不会给 Bot 看、只在对应站填；约 1.7 万粉 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -186,9 +185,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Use the Grok Bot Marketplace Once and Get a Team That Works While You Sleep](https://x.com/neil_xbt/status/2112555245423284249) — @neil_xbt · 2026-10-20 · X 长文 10 步：先写岗位再逛市场、加前读 bot 页面的连接器与审批、模板不带 MCP/密钥要自己补、Auto-review 先于 routine、一周记分卡决定去留，附 7 段提示词 · 英文
 - [Grok Bot Marketplace: 4 ready-made bots + add one in 3 steps](https://x.com/itsolelehmann/status/2112189337299529966) — @itsolelehmann · 2026-10-19 · 打开市场 → 点 Add → 批准权限三步装现成 bot，点名 Video Editor、Haggle Bot、AI Search Visibility、Overheard 四个，建议先把市场链接丢给自己的 bot 问哪些适合；约 490 赞 / 690 收藏；中文编译版见 [@swordBluesy](https://x.com/swordBluesy/status/2113186585353032164) · 英文
 - [Grok Bot Pages：四步让 bot 做报告/备忘录/看板并自己更新](https://x.com/Texas_Twins_Dad/status/2113007493492129908) — @Texas_Twins_Dad · 2026-10-22 · Pages 新功能：问 bot 要一页→一起改或让它持续刷新，附「一卡一 bot 看板」示例提示；约 8.9k 粉、180+ 赞 / 200+ 收藏 · 英文
-- [Pages 先搭这 6 页：营收/管线/晨报/董事会备忘/制度页/竞品](https://x.com/distortgeekin/status/2113261664694894731) — @distortgeekin · 2026-10-22 · Pages 上线后的六句可复制提示（周一营收对照、卡 14 天的单、晨报、只起草不发送的董事会备忘等），建议从周一那条开跑；约 6.7k 粉，帖子刚发约 20 赞 / 16 收藏；Pages 怎么用见 @Texas_Twins_Dad 那条 · 英文
+- [Pages 先搭这 6 页：营收/管线/晨报/董事会备忘/制度页/竞品](https://x.com/distortgeekin/status/2113261664694894731) — @distortgeekin · 2026-10-22 · Pages 上线后的六句可复制提示（周一营收对照、卡 14 天的单、晨报、只起草不发送的董事会备忘等），建议从周一那条开跑；约 6.7k 粉、约 20 赞 / 16 收藏；Pages 怎么用见 @Texas_Twins_Dad 那条 · 英文
 - [手机系统 App 上手例句：日历/提醒/通讯录/Home](https://x.com/Texas_Twins_Dad/status/2113400048453402867) — @Texas_Twins_Dad · 2026-10-23 · 手机系统 App 授权后可直接说的例句（查今天日程、加牙医、续车险提醒、查水管工电话、关楼下灯等），配截图；约 8.9k 粉 · 英文
-- [Vault：个人资料→设置→Vault，一次存登录/地址/卡号](https://x.com/Texas_Twins_Dad/status/2113721070834622570) — @Texas_Twins_Dad · 2026-10-24 · 写清路径 Profile → Settings → Vault，bot 购物/订票/登录时自动填，附演示视频；约 9k 粉、约 100 赞 / 50 收藏 · 英文
 - [把所有账户的净资产做成一张活的 Page](https://x.com/Teslaconomics/status/2113359826399158336) — @Teslaconomics · 2026-10-23 · 接好各类账户后用大白话让 Bot 建一张净资产 Page：实时行情、收支与卡账单汇总，可改假设值即时重算，另加「隐藏敏感信息」开关方便演示，后续改动直接发消息让 Bot 更新；约 53 万粉，约 450 赞 / 250 收藏；接金融账户前先看清授权范围 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
 

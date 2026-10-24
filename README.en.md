@@ -28,7 +28,7 @@
 | **106** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
-| **196** | curated community tutorials and X articles ([32 tutorials](docs/community-tutorials.md) + [164 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
+| **198** | curated community tutorials and X articles ([32 tutorials](docs/community-tutorials.md) + [166 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
 | **2 AIs** | maintain it: Grok Bot scouts daily, Claude Code verifies and writes reviews, a human makes the calls. The full log is public in [`.collab/`](.collab/README.md) |
 
 Compared with the English ecosystem index [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot), which is broad, this repo focuses on **solo founders, multi-bot war rooms, radar routines and copy-paste recipes**. Quality over quantity.
@@ -61,7 +61,7 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
-- **10-24** Added three: [grokbot-executive-team](https://github.com/meir-bot/grokbot-executive-team), an exec bot team built from one prompt; [grokbot-skills](https://github.com/dallintwatts/grokbot-skills), which installs a template's skills and checks their sha256; and the Chinese directory [Grok Bot Hub](https://github.com/ddhjy/grok-bot-hub); articles from top X creators grew to 164
+- **10-24** Added three: [grokbot-executive-team](https://github.com/meir-bot/grokbot-executive-team), an exec bot team built from one prompt; [grokbot-skills](https://github.com/dallintwatts/grokbot-skills), which installs a template's skills and checks their sha256; and the Chinese directory [Grok Bot Hub](https://github.com/ddhjy/grok-bot-hub); articles from top X creators grew to 166
 - **10-24** Five rechecked repos added: the 13-bot consulting delivery team [grokbot-delivery-team](https://github.com/puzzle-app/grokbot-delivery-team), the Claude Code alternative [ClaudioBot](https://github.com/IamP5/claudio-bot), the GNOME top-bar bridge [TetherBot](https://github.com/GrokkingGrok/TetherBot), the local session workspace [Agent Harbor](https://github.com/TommyBez/agent-harbor) and the Windows coding handoff bridge [grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp)
 - **10-23** Added two home-screen clients: the Android avatar-wall launcher [Android Grok Home](https://github.com/drumpat01/android-grok-home) and the macOS floating companion [Grokbot Widget](https://github.com/imranbarbhuiya/grokbot-widget)
 
@@ -227,7 +227,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [GrokBotGuide](https://github.com/JeffShanCha/grokbotguide) - A community-built Grok Bot handbook in Chinese and English, online at grokbotguide.ai: learning path, quick start, advanced skills and routines, role cards and "Grok Bot × tools" case studies, each page marked with sources, check date and content level. Unofficial. Code MIT, content CC BY-SA 4.0. Tags: `chinese` `guide` `learning`
 - [sitin's Grok Bot tutorials](docs/sitin-tutorials.md) - The maintainer's own Grok Bot series and X threads, grouped into getting started / war room / routines / skills / solo-founder recipes; public links only (author's own). (Chinese) Tags: `chinese` `tutorials` `author`
 - [Community Grok Bot tutorials](docs/community-tutorials.md) - 32 tutorials and articles by other creators, mostly from X plus followable posts from blogs and other platforms, Chinese and English, grouped into getting started, war room, routines and usage, skills, solo-founder and indexes; each checked for liveness and date. (Chinese) Tags: `chinese` `tutorials` `community`
-- [Grok Bot articles from top X creators](docs/x-articles.md) - 164 long-form X articles and threads in Chinese and English, grouped into getting started, war room, routines and usage, skills, and solo-founder; only tutorials and real setups with genuine traction, and any numbers are the authors' own claims. (Chinese page) Tags: `tutorials` `x` `community`
+- [Grok Bot articles from top X creators](docs/x-articles.md) - 166 long-form X articles and threads in Chinese and English, grouped into getting started, war room, routines and usage, skills, and solo-founder; only tutorials and real setups with genuine traction, and any numbers are the authors' own claims. (Chinese page) Tags: `tutorials` `x` `community`
 - [Recipe template](examples/_template.md) - Format to follow before submitting a recipe: scenario / input / steps / prompt / output / pitfalls. (Chinese) Tags: `template` `learning`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
