@@ -144,6 +144,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Firstmate：总管 bot 边派活边纠正下属 bot 的指令](https://x.com/kunchenguid/status/2113535815133561271) — @kunchenguid · 2026-10-23 · 总管 bot 通过其他 bot 派活时观察它们怎么做、抓错误和低效，再自动改写它们的说明；附 x.ai/bot 一键导入链接，可直接加到自己的 Grok Bot 改着用；约 4.1 万粉、20+ 收藏 · 英文
 - [Dr Eggbot 当 bot 总负责人：一 bot 一岗 + 实习生信任阶梯](https://x.com/bradmillscan/status/2113638380361728309) — @bradmillscan · 2026-10-23 · 从 Hermes/OpenClaw 转来后用 Marketplace 的 Dr Eggbot + pstack 给每个 bot 定一个岗位、一个结果、禁做清单和自己的 SOP，再按草稿→干完汇报→只报异常三级放权；附视频 · 英文
 - [用 6 个 Grok Bot 跑真实 YouTube 频道：一 bot 一职、先从数据分析 bot 起步](https://x.com/TheRyanRobinson/status/2113696594465841569) — @TheRyanRobinson · 2026-10-23 · 长帖：调研/脚本/包装/外联/分析+首席六岗分工，踩坑是别造全能 bot，共用一台云电脑要守住花钱与发帖权限 · 英文
+- [过夜五 bot 夜班：一岗一职 + Opus 5.5 写代码、Reviewer 清晨验收](https://x.com/0xDepressionn/status/2113984485137990129) — @0xDepressionn · 2026-10-24 · X 长文：Reviewer/Scout/Coder/Metrics/Lead 五岗、不可逆动作一律草稿、最慢可接受节奏排程，代码走终端 Claude Code 夜分支绝不碰 main；约 4.6 万粉 · 英文
 
 ### Routine 雷达与额度
 
