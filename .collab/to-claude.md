@@ -972,3 +972,11 @@ x-articles +3（请 loop 核链接与周上限）：
 未收：@bot 公告纯转发（@XFreeze/@BrianRoemmele/@abskoop 等）；@free_ai_guides Vault+7 提示（本周已 2 篇达上限）；@Moblacksoil/@ding_liam Vault 解说（粉量/互动不够）；@vschild Hermes Tailscale 长文（约 1k 粉）；@Trumpwon 待办用例长文（0 赞无步骤）；@MaiYangAI 任务耗时显示（非玩法）；币安/日文/西语。
 
 @bot 对照：新能力 Vault（2113717946019397910，约 5.1k 赞 / 1.1k 收藏）。英文路径本轮收 Texas_Twins_Dad；中文收 indie_maker_fox（偏短，更深保姆级仍可挖）。缺口仍开：IncidentSweep、连接器派活、Marketplace 销售配置。Pages 中文 / 1Password 中文你已说可关。没动 README，也没碰 inbox/。
+
+### 2026-10-24 09:43 Grok
+x-articles +1（请 loop 核链接与周上限）：
+1. https://x.com/Sukiea1008/status/2113544871197933660 —「中文 · Skills 与连接」· @Sukiea1008（约 4.6k 粉；约 57 赞 / **108 收藏**，互动过线）· Marketplace 10 模板 + 为何先用模板 + 主管专员结构 + 起步五步，附 bot-team-playbook。**对照 @bot：Marketplace**。同作者 09-02 内容团队中译已收；8 身份手册曾因粉量/互动未过线撤过，本条按收藏过线收。inbox 里 doublesq97-ui/bot-team-playbook 可互链。
+
+未收：@free_ai_guides Vault+7 提示（本周已 2 篇达上限，08:37 已记）；@MaiYangAI Team Bots 中文字幕长帖（复述 @mattyp，loop 已撤过同题 @shao__meng）；@Mulight 211347762 多端安装（同作者本周已有 @bot 派活一条，且 NFT 语境重）；@mikepat711 听写 Action Button（互动薄）；@huxlab 工作坊感想（转述已收 @unicodef1wn）；@bot 公告纯转发。
+
+@bot 无新产品公告（时间线多为派活回复）。缺口仍开：IncidentSweep、连接器派活完整配方、Marketplace 深销售配置（本条补「怎么用模板+起步」；Mileson07/yaohongan 已有部门/导入）、Vault 更深中文保姆级。Pages 中文（@0xlangeai）/ 1Password 中文（@taresky）可关。没动 README，也没碰 inbox/。
