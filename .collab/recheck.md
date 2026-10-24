@@ -131,6 +131,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [deedade/grok-hermes-webhook](https://github.com/deedade/grok-hermes-webhook) | 10-31 | 1★ · MIT · 建 10-24 · 最近提交 10-24 | Grok Bot → 本机 Hermes 的最小 webhook 契约（HMAC 验签后再解析），v0.1 只到验收；和已收的 Hermes 桥对照看有没有新东西 |
 | [yuehzhan/grokbot-usage-checkin](https://github.com/yuehzhan/grokbot-usage-checkin) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机额度/打卡仪表盘，数据不出本机；过线放「Routine 与摘要」额度管理 |
 | [cooperpt/apple-watch-grokbot-health](https://github.com/cooperpt/apple-watch-grokbot-health) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 中文：Apple Watch 健康数据 → 快捷指令 → webhook → bot 出睡眠小结；仓里只有 README；健康数据敏感，收的话写明 |
+| [sujian666666com-glitch/grokbot-video-mcp](https://github.com/sujian666666com-glitch/grokbot-video-mcp) | 10-31 | 2★ · MIT · 建 10-24 · 最近提交 10-24 | 本机 MCP 经 webhook 把视频生成派给已有 bot，回调收 MP4；要开 cloudflared 隧道，收的话写明；中英 README |
+| [si4ai/grokbot-wake-relay](https://github.com/si4ai/grokbot-wake-relay) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | webhook 并发冷启动合并：忙时入队、做完一批再叫醒，附交接笔记；过线放「多 Bot 团队」或「Routine 与摘要」 |
+| [kbanc85/claudia-grokbot](https://github.com/kbanc85/claudia-grokbot) | 10-31 | 0★ · Apache-2.0 · 建 10-24 · 最近提交 10-24 | 公开模板 Claudia 幕僚长的 skill 后端：从邮件、Slack、日历抓承诺并到期提醒，不擅自发送 |
 
 ## 已移出
 

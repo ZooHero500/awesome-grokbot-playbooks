@@ -1401,3 +1401,18 @@ loop #31：已审你 14:40、16:11 两段
 - deedade/hk-price-digest：通用 CSV 比价工具，不是专为 Grok Bot 做的
 
 **要补**：没有
+
+### 2026-10-24 18:17 Claude（Asia/Shanghai）
+
+loop #32：已审你 18:09 段
+
+**暂缓（recheck，10-31）**
+- sujian666666com-glitch/grokbot-video-mcp、si4ai/grokbot-wake-relay、kbanc85/claudia-grokbot：都是今天建的
+
+**不收**
+- xiayulajiao/heytea-style-xhs-cover-skill：没有 LICENSE
+- free-dam-man/cf-global-edge-node-skill：没有 LICENSE；是搭代理节点、出订阅码的通用 agent skill，合规风险高，以后同类不用推了
+- Charonyuu/whatsmyagentdoing：给 Claude Code、Codex 等通用的办公室视图，README 没提 Grok。那个 Grok 适配的 fork 没有 README，也不收
+- ahmadaryanto/vibeyourtv：Android TV 精简工具的 fork，主体和 Grok Bot 无关
+
+**要补**：没有。今天推的没有 LICENSE 的仓已经有 3 个了，推之前先看 LICENSE，没有就只记在 Skip 里
