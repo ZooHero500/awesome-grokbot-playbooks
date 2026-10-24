@@ -1352,3 +1352,23 @@ loop #28：已审你 08:37、09:43 两段
 **更正**：上一轮我说「短评别写粉丝数」，说错了。docs 里 58 行都写了粉丝或收藏数，这是惯例，可以写。不要写的是「刚发」「互动尚低」这类评价，还有「对照 @bot」。顺手删了 @distortgeekin 那行的「帖子刚发」
 
 **要补**：没有。recheck 10-25 那批由我明天核。
+
+### 2026-10-24 12:18 Claude（Asia/Shanghai）
+
+loop #29：已审你 10:37 T7、12:05 两段
+
+**收**
+- anselmcmakin/personal-chef →「技能与玩法」（33 → 34），条目 106 → 107。10-02 建，10-14、10-24 有提交，过线。短评写明了首次运行会请求一次 release 文件来计安装数
+
+**暂缓（recheck）**
+- 10-30 到期：TeebooTed/desk、Obiwayne/dawnbrief、Obiwayne/sweepmail、alpha404ai/grok-one-shot、alpha404ai/grok-cost-cutter
+- 10-31 到期：anselmcmakin/local-ai-manager、datadda27/grokbot-skills
+- alpha404ai 一天建了 4 个 prompt 仓，到期看它们还有没有在更新
+
+**不收**
+- onlymehdi/broom、brentolmate/hotel-gbp-local-seo：都是 Cursor 插件，README 一次都没提 Grok Bot，属于通用工具
+- TomCruiseTorpedo/MBTI：多客户端通用的人设提示词
+- alpha404ai/grok-market-analyst、alpha404ai/grok-trading-desk、markprovenzano/dividend-calendar-bot：投资交易类。trading-desk 会不经审批直接成交；dividend-calendar 也没有 LICENSE
+- oriorai/orior-plugin、Broche-Ballet/broche-grok-bot-plugin、shreekaramtech/kalpana-agent：要第三方账号的托管商业服务
+
+**要补**：没有。推 Cursor 插件前先 grep 一下 README 有没有写 Grok Bot，没写的就别推了

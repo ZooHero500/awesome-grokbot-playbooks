@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-106-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-107-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **106** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **107** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **198** | curated community tutorials and X articles ([32 tutorials](docs/community-tutorials.md) + [166 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
@@ -61,9 +61,9 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
-- **10-24** Added three: [grokbot-executive-team](https://github.com/meir-bot/grokbot-executive-team), an exec bot team built from one prompt; [grokbot-skills](https://github.com/dallintwatts/grokbot-skills), which installs a template's skills and checks their sha256; and the Chinese directory [Grok Bot Hub](https://github.com/ddhjy/grok-bot-hub); articles from top X creators grew to 166
+- **10-24** Added the family dinner-planning template [Personal Chef](https://github.com/anselmcmakin/personal-chef): a week of dinners planned around allergies and budget, with recipe cards, a grocery list and a filled Walmart cart waiting for you to check out; articles from top X creators grew to 166
+- **10-24** Added three: [grokbot-executive-team](https://github.com/meir-bot/grokbot-executive-team), an exec bot team built from one prompt; [grokbot-skills](https://github.com/dallintwatts/grokbot-skills), which installs a template's skills and checks their sha256; and the Chinese directory [Grok Bot Hub](https://github.com/ddhjy/grok-bot-hub)
 - **10-24** Five rechecked repos added: the 13-bot consulting delivery team [grokbot-delivery-team](https://github.com/puzzle-app/grokbot-delivery-team), the Claude Code alternative [ClaudioBot](https://github.com/IamP5/claudio-bot), the GNOME top-bar bridge [TetherBot](https://github.com/GrokkingGrok/TetherBot), the local session workspace [Agent Harbor](https://github.com/TommyBez/agent-harbor) and the Windows coding handoff bridge [grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp)
-- **10-23** Added two home-screen clients: the Android avatar-wall launcher [Android Grok Home](https://github.com/drumpat01/android-grok-home) and the macOS floating companion [Grokbot Widget](https://github.com/imranbarbhuiya/grokbot-widget)
 
 Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md).
 
@@ -71,7 +71,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 
 - [Official & SDK](#-official--sdk) (5) - official docs, marketplace, SDKs and CLIs
 - [Templates & directories](#-templates--directories) (11) - template libraries, bot-share indexes and use-case sites; check here first
-- [Skills & Playbooks](#-skills--playbooks) (33) - skills, MCP, single templates, copy-paste profiles
+- [Skills & Playbooks](#-skills--playbooks) (34) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (22) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (7) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (4) - global support, WeChat, Chinese configs
@@ -142,6 +142,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Agent Harbor](https://github.com/TommyBez/agent-harbor) - A macOS workspace that keeps Claude Code and Codex sessions alive in dedicated tmux sessions: you watch, take over or resume them in the desktop app, and Grok Bot drives the same controller through the desktop app's local command execution, with no public server. That means letting the bot run commands on your computer; it is an early experimental release, so try it on an authorized test project first. Tags: `claude-code` `codex` `tmux` `macos`
 - [grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) - A local MCP bridge for Windows: hand one scoped coding task to a Grok Bot routine exactly once, then verify it with Git diffs and frozen evidence instead of a "done" reply. An administrator fixes the Git root, allowed files and test command first; an offline demo runs without any account. Marked experimental beta and unofficial by the author; has a Chinese README. Tags: `mcp` `windows` `coding` `routine`
 - [grokbot-skills](https://github.com/dallintwatts/grokbot-skills) - A workaround for template imports that don't carry skills: on first chat the bot asks "Want me to finish setting up?", and on yes it downloads its skills from a pinned commit, checks each file's sha256 and size against `PINS.txt`, and installs nothing that doesn't match. The repo holds the skills for two templates, Second Opinion Council and Fleet Doctor; the pinning approach carries over to any template you distribute. MIT. Tags: `skills` `templates` `sha256`
+- [Personal Chef](https://github.com/anselmcmakin/personal-chef) - A weekly family dinner-planning template, [one-click import](https://x.ai/bot/gMrnNpgylgu11PImcWTdy): six setup questions (who's eating, allergies, hard no's, budget, cook time, ZIP), then a Saturday routine plans the week with allergies as hard rules and reworks any over-budget plan. It produces printable recipe cards and one grocery list grouped by store section, then fills a Walmart cart in the bot's browser; you sign in and check out, and the bot never pays or changes an address. The skills are instructions only, no code; on first run the bot fetches one release asset from the repo as an anonymous install counter. MIT. Tags: `template` `routine` `family` `shopping`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 

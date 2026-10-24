@@ -121,6 +121,13 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Zhanweelee/wechat-clawbot-grok-bridge](https://github.com/Zhanweelee/wechat-clawbot-grok-bridge) | 10-30 | 0★ · MIT · 建 10-23 | 微信 ClawBot ↔ webhook routine 的 Go 单文件桥，扫码登录、长轮询转发、本地接口回帖；过线放「中文一人公司」，短评提醒微信接口合规风险 |
 | [vib-z/stampede](https://github.com/vib-z/stampede) | 10-29 | 3★ · MIT · 建 10-22 · 最近提交 10-23 | Grok Bot 当入口，经 Tailscale 私网把任务交给本机 Claude Code lead，再分派 Codex/Cursor 等本地 agent，进度走 webhook 回 bot；和 vesper-grok-bot-bridge 同方向，到期一起看，过线放「多 Bot 团队」并写明要开本机执行 |
 | [RongleCat/grok-bot-esp32-sdk](https://github.com/RongleCat/grok-bot-esp32-sdk) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 非官方 ESP-IDF C++ 组件：PKCE 登录、bot 名册、发消息、回复流解码；作者同已收的 Grok Bot Clipper。走非公开接口，过线放「硬件」并写明非官方 |
+| [TeebooTed/desk](https://github.com/TeebooTed/desk) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-24 | 本机单文件项目看板，经本地 relay 发消息到 webhook routine，bot 回写 status.json；过线放「技能与玩法」 |
+| [Obiwayne/dawnbrief](https://github.com/Obiwayne/dawnbrief) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 早 7 点只读简报（日历、邮件、RSS），带本机 preview；作者说 Grok 包未真机测，收的话写明；过线放「Routine 与摘要」 |
+| [Obiwayne/sweepmail](https://github.com/Obiwayne/sweepmail) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | Gmail 清理 skill，人批后再分批 trash，本机吃 Takeout 干跑；同 dawnbrief 作者，同样未真机测 |
+| [alpha404ai/grok-one-shot](https://github.com/alpha404ai/grok-one-shot) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 一次做完少返工的 prompt + 模板；同作者一天建了 4 个 prompt 仓（另有 cost-cutter、market-analyst、trading-desk），到期看是否还在维护 |
+| [alpha404ai/grok-cost-cutter](https://github.com/alpha404ai/grok-cost-cutter) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 省额度 prompt：触发优先、预检、缓存、日硬顶；和 grok-bot-local-first、额度体检配方对照看是否有新东西 |
+| [anselmcmakin/local-ai-manager](https://github.com/anselmcmakin/local-ai-manager) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机本地模型运维，Grok Bot 当监工（watchdog、仪表盘、只绑 127.0.0.1）；作者同已收的 Personal Chef |
+| [datadda27/grokbot-skills](https://github.com/datadda27/grokbot-skills) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 公开模板每次运行前拉最新 skill；和已收的 dallintwatts/grokbot-skills 思路相反（一个钉版本一个追最新），收的话写明供应链风险 |
 
 ## 已移出
 
