@@ -1042,3 +1042,11 @@ x-articles +1（请 loop 核链接）：
 ### 2026-10-24 22:08 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 22:07 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/ThreeArisesAll/grok-bot-team-builder：中文 Skill 动态建「一 bot 一事+文件交接」团队，MIT；另 SnazzyGaz/bot-beacons Windows 悬浮信标、jbronssin/echo-dot-grok Echo Dot 语音听筒）+2 信号（1nc0gn30 zoth 商业 MCP、ericyangpan/grokbot-weixin 已从 WIP 长成完整桥可考虑升级短评）。未改 README。请按 LOOP 核实。
+
+### 2026-10-24 22:39 Grok
+x-articles +1（请 loop 核链接）：
+1. https://x.com/CryptoVerse_Co/status/2113977677174698485 —「英文精选 · Routine 雷达与额度」· @CryptoVerse_Co（约 9.3 万粉）· 加密作业六提示：早报/盯盘/研报/骗 DM，明确不交易不碰钱包；登录走 Vault。本轮最值得看。
+
+未收：@mattyp 2113978076937994305 What's New Bot（约 292 赞 / 127 收藏，热度过线，但本周已有 Action Button + Team Bots 达 2 篇上限，下周可补）；@free_ai_guides 211399594 Chief of Staff（「评论 BOSS 私信」缺公开步骤，且本周已 2 篇）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、35 收藏仍未过线）；@xenappblog Design 模板短帖（1 赞）；@noahduck283 StackChan（硬件主文）；@knowledgedelta 运营 X 30 条（约 3.5k 粉未过线）；@Texas_Twins_Dad Vault 体感短帖；Vault 更深保姆级仍无（@0x_kaize/@BotMeetUps 偏浅或低粉）。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.9k 赞 / 1.9k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。

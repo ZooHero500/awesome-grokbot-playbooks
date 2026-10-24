@@ -164,6 +164,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [飞前一小时自动出颠簸地图的航班 bot](https://x.com/DBurkland/status/2113158654165975053) — @DBurkland · 2026-10-22 · 真实搭建：每趟航班起飞前一小时 routine 拉航线、SIGMET/AIRMET/PIREP 和 Turbli，回一张颠簸表格加地图，机上也能随时问；作者约一万一千粉，帖下附可导入的 bot · 英文
 - [True Circle：用 Grok Bot 按真实对话排出你的核心圈层](https://x.com/JayDook/status/2113329700172927219) — @JayDook · 2026-10-23 · 只读扫近 15/30/60 天公开帖、回复与提及，按真实对话分组打分；三种视图（常聊/粉丝含潜水点赞/互关来回），可换主题或自述；开源模板可装 · 英文
 - [跑 22 个 bot 不撞额度上限的 10 条规则](https://x.com/byalexai/status/2113623068018917419) — @byalexai · 2026-10-23 · 长帖：知识放 bot 外只按索引取单文件、记忆只存长期事实、会增长的数据进表格、重活交给已付费的编码工具、先连接器后浏览器、一条消息批量派三件事、一 bot 一岗、routine 降频、成熟流程存 skill、每周五看用量砍无效 routine；作者约 7.3k 粉 · 英文
+- [加密作业 bot：早报 / 盯盘 / 研报 / 骗 DM 检查，绝不碰钱包](https://x.com/CryptoVerse_Co/status/2113977677174698485) — @CryptoVerse_Co · 2026-10-24 · 六段可复制提示：安全规则、7:30 早报 routine、BTC 异动才喊、代币研报必须引源、骗 DM 只看红旗不开链、Page 盯盘；登录进 Vault、交易所 API 只读、审批卡常开；约 9.3 万粉 · 英文
 
 ### Skills 与连接
 
