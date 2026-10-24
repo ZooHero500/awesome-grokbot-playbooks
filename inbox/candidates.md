@@ -2103,3 +2103,24 @@ ronnarit09-hub/Grokbot-backup、mariotoffia/grokbot-backup、nlaughter100/grokbo
 ### Skip（本轮）
 
 qcteslaguy/qcteslaguy.github.io、jimmie01/jimmie01.github.io（T7 已 skip）；PhillipHolland/ibot（iPod 页）；fuzzynet/bot-open（仅开聊天链）；doggy8088/grok-bot-learn（RongleCat 繁中镜像，上游已列）；afaraha8403/balabot（自托管多 agent，硬依赖 TypeSafe Jev 付费 API）；D1-2004/eino-employee-loop（Eino 框架「类 Grok Bot」决策环，非 Grok Bot 玩法）；已列 TetherBot / money-saver / BotFleet / Retasc / sweepmail / local-ai-manager / desk / hotel-gbp / datadda27 skills / Broche / orior / MBTI / market-analyst / one-shot / pumpfun / howardpen9 tg-stars 等。X 本窗多为 @leerob 功能建议、TermiX 营销、币安 Agent，无新 GitHub 可复用仓。
+
+## 2026-10-24 14:06 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 12:05→14:06（Asia/Shanghai）`gh search`（grokbot / "Grok Bot" / grok created≥2026-10-24 + updated≥2026-10-24）+ X `search_posts_all`（github / playbook / skills / routine / A2A；本窗多为功能建议与 X Article，可复用仓以 GitHub 为主）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| bytec-ai/grok-x-bridge-example | https://github.com/bytec-ai/grok-x-bridge-example | **中文：让本机/Codex 经 Cloudflare Worker 派「搜 X」活给 Grok Bot**：Agent→Worker/D1→Bot webhook→内置 X 工具检索→脚本回传结果；脱敏副本含 `GROK_SETUP.md` 粘贴说明、Python 领取回传、本地 CLI、协议 schema 与握手先于搜索；写明只读不发帖、凭证不落聊天。与已记 mascarock inbox（只读看邮件）同属「外挂桥」，本轮最值得看。无 SPDX License，短评须注明 | Bridges / X research | `chinese` `webhook` `cloudflare` `x-search` `codex` `example` | 0 / 无 License | **GitHub**（10-24 本窗新建） |
+| telegraphic-dev/a2a-exposed | https://github.com/telegraphic-dev/a2a-exposed | **给任意 Agent（含 Grok Bot）挂公网 A2A 收件箱**：Cloudflare Worker 出 Agent Card + JSON-RPC，入站变任务，webhook 叫醒 agent（也可轮询）；带 `.grok-plugin`、skills 与自托管/托管双路径。与已记 Rladmsrl/a2a-bridge（把 Bot routine **变成** A2A 服务）方向互补：本仓是「Bot 当 A2A 对等节点收派活」。作者今日 X 提 Grok Bot 用例，此前漏收补入 | Multi-bot / Interop | `a2a` `webhook` `cloudflare` `plugin` `mit` | 1 / MIT | **X** @telegraphic_dev + **GitHub**（10-08 建，此前漏收） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| thebigasifworks/quickemailverify-plugin | https://github.com/thebigasifworks/quickemailverify-plugin | 邮箱核验/洗名单托管 MCP（Grok Bot/Cursor），Apache-2.0；需 API key+额度，偏商业，先信号 | Plugins / Email | **GitHub**（10-24 本窗新建） |
+
+### Skip（本轮）
+
+mikegkelly/book-catalog-bot（模板落地页，领取链仍 Coming soon）；jakeitegsy/grok-pstack（Grok Build CLI 插件，非 Grok Bot）；pandashugo2025/grok-desk（Polymarket 纸盘交易）；saikrishnauppaluri/sai-bots（展示站，T7 已 skip）；Kshot3000/Midnight-GrokBot-Agent / andraetbusiness-code/grokbot-desk / boydt/morning-brief / fuzzynet/bot-open / qcteslaguy / jimmie01（已 skip 类）；已列 broom / cost-cutter / personal-chef / desk / local-ai-manager / stampede / a2a-bridge / persona-factory / mascarock inbox 等。X 本窗多为 @leerob 功能建议、TermiX 营销、币安 Agent、低粉 X Article，无新增可复用 GitHub 仓交玩法雷达以外。
