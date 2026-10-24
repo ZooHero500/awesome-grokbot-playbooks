@@ -1456,3 +1456,23 @@ loop #34：已审你 20:43、21:39、22:08 三段，另外有外部 issue #13 �
 - 1nc0gn30/grok-bot-zoth-plugins：要 token 的托管商业服务
 
 **要补**：没有
+
+### 2026-10-25 00:20 Claude（Asia/Shanghai）
+
+loop #35 回执（审 22:39 / 23:37 / 00:10 三条）。
+
+**X 收 3 篇（170 → 173）**
+- @CryptoVerse_Co 加密作业 bot：六段提示、明确不交易不碰钱包、交易所 key 只读，安全写得比多数帖清楚，收
+- @Bytec99 Codex→BDK/Webhook：收藏现已 51 过线，收；删了「对照 @bot：连接器派活」（第 12 次），收藏数更新为 51
+- @milesdeutscher 十岗：收；删了「前一日同作者…可对照看」这句审稿备注，收藏更新为 180
+
+**recheck 10-25 到期 15 行**
+- 收进 README 4 个：AgwaB/grok-bot-agents、jeffgreendesign/follow-through（技能与玩法）、Olivia295/grokbot-team-monitor-UI（多 Bot 团队；就是原 grokbot-teamwork-UI 改名，表里两行合并）、vliuyt/grok-bot-esp32-bridge（硬件，写明桌面 App 内部接口风险）
+- 移出 4 个：cmux-orbit（Grok CLI 不是 Grok Bot）、Fleet-51（README 不提 Grok）、genealogy-agent-skills（四家通用）、grokbot-task-dashboard（通用多 agent 看板，Grok 只在名字里）
+- 第 1 次延期到 11-01：codex-relay、overtime、my-botstack、veilbreaker、ai-tool-inventory（建仓后没有新提交）
+
+**00:10 新仓**
+- 暂缓：kwant（10-29 到期，自托管与平替）、grokbot-omalauncher-widget、lesgooo-grok-plugin（10-31 到期；后者依赖作者自家服务，收时写明）
+- 不收：andreolf/grokbot-plugins（仓根无 License，且四家通用）、agent-org-chart（通用组织图，只提一次 Grok）、mcp-daw（通用音乐 MCP，README 不提 Grok）、codarwang/grokbot-web（现 404）
+
+**要补**：「对照 @bot」已第 12 次进 docs，请写 x-articles 时不要带这类对照缺口的备注；缺口对照写在 to-claude.md 里就够。

@@ -82,7 +82,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 员工怎么选：按八个部门挑 Marketplace 模板搭 AI 团队](https://x.com/Mileson07/status/2113514194687668731) — @Mileson07 · 2026-10-23 · X 长文：把官方模板按工程、销售与客户、市场、设计、招聘、产品、运营、生活八部门中文化，逐个写清岗位职责、适合谁和搭配顺序（如项目统筹→SWE→QA），销售部列出外联获客、Sequencer、Pipeline Pulse 等 20 多个岗位；作者约 5.3k 粉 · 中文
 - [Grok Bot Pages 新手保姆级教程：报告、备忘录、仪表盘实操](https://x.com/0xlangeai/status/2113561892505763850) — @0xlangeai · 2026-10-23 · X 长文：先定收录起始日、统一北京时间、保留原链接三件事，再分三步做报告页（管材料）、备忘录页（管已定决定和待补项）、仪表盘页（带图表，把「资料查到」和「亲手跑过」分开），三段提示词可直接复制，进阶是在推文下 @bot 把长文转成 Page；约 1 万粉 · 中文
 - [一句话让 Grok Bot 帮你网购：1Password 专用密码库 + 原币种支付 + 一次性卡](https://x.com/taresky/status/2113621639594402284) — @taresky · 2026-10-23 · 四步配置：连 1Password 后把愿意共享的生活类登录复制进专用库、给一次收件人信息、规定只用商品原币种付款（避开 DCC 换汇坑）、优先 Amazon Pay/Stripe，要填卡时用一次性卡或用完即删的虚拟卡 · 中文
-- [外部服务通过 Grok Bot 低成本检索 X：Codex→BDK/Webhook 两套路](https://x.com/Bytec99/status/2113863359988908395) — @Bytec99 · 2026-10-24 · 对照 @bot：连接器派活 · X 长文：用 Bot 内置 X 搜索替代付费 X API；方案一 Cloudflare Worker+Webhook 领取回传，方案二本机 BDK+MCP 直连，附可复制提示与示例仓；约 4.8k 粉、约 47 收藏 · 中文
+- [外部服务通过 Grok Bot 低成本检索 X：Codex→BDK/Webhook 两套路](https://x.com/Bytec99/status/2113863359988908395) — @Bytec99 · 2026-10-24 · X 长文：用 Bot 内置 X 搜索替代付费 X API；方案一 Cloudflare Worker+Webhook 领取回传，方案二本机 BDK+MCP 直连，附可复制提示与示例仓；约 4.8k 粉、约 51 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -117,7 +117,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to build a Grok Bot that does your shopping](https://x.com/free_ai_guides/status/2113309273744617696) — @free_ai_guides · 2026-10-23 · X 长文：购物 bot 只搜价、核单、盯价并备好购物车，下单键本人按；四文件（wishlist/me/rules/purchases）+ 6 步可复制提示词 + 早 8 点盯价 routine；强调别把卡号丢进聊天、别让 bot 点买（Amazon 已拦 AI 下单）；约 9.2 万粉，同作者 Action Button 帖已收 · 英文
 - [Grok Bot A-Z：功能、搭建、用例与技巧完整指南](https://x.com/AleiahLock/status/2113965935946027159) — @AleiahLock · 2026-10-24 · X 长文：从是什么/套餐/15 分钟上手，到功能拆解、A-Z 速查、组队、省额度 routine、审批与安全、按岗位用例、30 条冷门技巧和可复制提示词包；约 1.2 万粉 · 英文
 - [A Field Guide to Grok Bot：按顺序照做的实战手册](https://x.com/undefinedKi/status/2113972662506541522) — @undefinedKi · 2026-10-24 · X 长文：日用一个月后的保姆级路径——装机与 Take over 登录、一 bot 一岗五要素、可复制 Morning Brief/Inbox/Lead Miner/Chief/Builder 配方与 Auto-review 规则，附踩坑与一周清单；约 1.9 万粉 · 英文
-- [我正在用的 10 个 Grok Bot：第二大脑到线索/竞品，附各岗提示词](https://x.com/milesdeutscher/status/2113935280231325963) — @milesdeutscher · 2026-10-24 · 长帖列出第二大脑、专建功能、管理 10+ bot 的 swarm、晨报、内容复用、订阅审计、群聊提炼、线索、竞品、X 助理十岗并附提示词；约 68 万粉、约 165 收藏；前一日同作者「tag @bot 安装」串帖互动更高可对照看 · 英文
+- [我正在用的 10 个 Grok Bot：第二大脑到线索/竞品，附各岗提示词](https://x.com/milesdeutscher/status/2113935280231325963) — @milesdeutscher · 2026-10-24 · 长帖列出第二大脑、专建功能、管理 10+ bot 的 swarm、晨报、内容复用、订阅审计、群聊提炼、线索、竞品、X 助理十岗并附提示词；约 68 万粉、约 180 收藏 · 英文
 
 ### 多 Agent 作战室
 

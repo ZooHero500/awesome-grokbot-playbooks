@@ -18,19 +18,11 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-30 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 10-23 复查：建仓后仍没有新提交，顺延一次（第 1 次） |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-31 | 0★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；原计划过线放「自托管与平替」 |
 | [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-31 | 1★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；空气质量只读告警模板仓 |
-| [AgwaB/grok-bot-agents](https://github.com/AgwaB/grok-bot-agents) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
-| [FelixIsaac/cmux-orbit](https://github.com/FelixIsaac/cmux-orbit) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-19 |  |
-| [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
-| [Olivia295/grokbot-teamwork-UI](https://github.com/Olivia295/grokbot-teamwork-UI) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-21 |  |
-| [dim-pan/overtime](https://github.com/dim-pan/overtime) | 10-25 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-18 |  |
-| [effi0724/grokbot-task-dashboard](https://github.com/effi0724/grokbot-task-dashboard) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
-| [fredericalix/my-botstack](https://github.com/fredericalix/my-botstack) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
-| [jeffgreendesign/follow-through](https://github.com/jeffgreendesign/follow-through) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
-| [noisyloop/Fleet-51](https://github.com/noisyloop/Fleet-51) | 10-25 | 1★ · MIT · 建 10-18 · 最近提交 10-21 |  |
-| [rfsbraz/genealogy-agent-skills](https://github.com/rfsbraz/genealogy-agent-skills) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-20 |  |
-| [shagghiesuperstar/veilbreaker](https://github.com/shagghiesuperstar/veilbreaker) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-21 |  |
-| [stland6338/ai-tool-inventory](https://github.com/stland6338/ai-tool-inventory) | 10-25 | 0★ · MIT · 建 10-18 · 最近提交 10-18 |  |
-| [vliuyt/grok-bot-esp32-bridge](https://github.com/vliuyt/grok-bot-esp32-bridge) | 10-25 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-21 |  |
+| [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
+| [dim-pan/overtime](https://github.com/dim-pan/overtime) | 11-01 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
+| [fredericalix/my-botstack](https://github.com/fredericalix/my-botstack) | 11-01 | 1★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
+| [shagghiesuperstar/veilbreaker](https://github.com/shagghiesuperstar/veilbreaker) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-21 | 10-25 第 1 次延期：建仓后没有新提交 |
+| [stland6338/ai-tool-inventory](https://github.com/stland6338/ai-tool-inventory) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
 | [ChamathRosh/grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 | 6 个模板只有 1 个可装，看是否补齐 |
 | [ChamathRosh/whatshouldmybotdo-connector](https://github.com/ChamathRosh/whatshouldmybotdo-connector) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | grok-bot-templates 的只读 MCP 伴侣，和主仓一起看 |
 | [Gitmaxd/grok-bot-rocket-template](https://github.com/Gitmaxd/grok-bot-rocket-template) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-19 |  |
@@ -90,7 +82,6 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [maplenk/grok-wear](https://github.com/maplenk/grok-wear) | 10-29 | 0★ · 自定义 LICENSE（API 显示 NOASSERTION）· 建 10-22 · 2 次提交 | 非官方 Wear OS 手表语音客户端；到期读 LICENSE 原文，非标准许可证就不收 |
 | [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 10-29 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
 | [mehh/vm-vitals](https://github.com/mehh/vm-vitals) | 10-29 | 0★ · MIT · 建 10-22 · 14 次提交 | 一段 prompt 让 bot 在云电脑上装监控 agent，出 CPU/内存/进程仪表盘；数据报给作者的站点，还能开公开页，到期核隐私说明和数据存哪 |
-| [Olivia295/grokbot-team-monitor-UI](https://github.com/Olivia295/grokbot-team-monitor-UI) | 10-25 | 1★ · MIT · 建 10-18 | 把 bot 团队画成一间办公室：谁在干嘛、谁交活给谁、卡在哪、一条任务走了几跳；本地只读、零依赖、中英双语；过线放「多 Bot 团队」 |
 | [devrecated/grokbot-management-console](https://github.com/devrecated/grokbot-management-console) | 10-27 | 1★ · MIT · 建 10-20 | routine 总控台：一页看所有 bot 的 routine 和运行记录，可暂停、改时间、改提示词、一键全停，routine 坏了发邮件；Next.js + Postgres 自部署，要在云电脑放脚本回传，短评写清权限面 |
 | [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 10-29 | 0★ · MIT · 建 10-22 | 中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
 | [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 10-29 | 0★ · MIT · 建 10-22 | 主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
@@ -138,9 +129,14 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [ThreeArisesAll/grok-bot-team-builder](https://github.com/ThreeArisesAll/grok-bot-team-builder) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 中文 skill：按「一 bot 一事、文件交接、只在决策点等人」现场建队并冒烟，附三人试跑产出；过线放「多 Bot 团队」 |
 | [SnazzyGaz/bot-beacons](https://github.com/SnazzyGaz/bot-beacons) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Windows 桌面悬浮信标，一 bot 一个，有活发光；经免费 ntfy 中继（加密），收的话写明 |
 | [jbronssin/echo-dot-grok](https://github.com/jbronssin/echo-dot-grok) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 旧 Echo Dot 解锁后当语音听筒接 Grok Bot；要刷机、走桌面端私有接口，过线放「硬件」并写明风险 |
+| [alexsergivan/kwant](https://github.com/alexsergivan/kwant) | 10-29 | 2★ · Apache-2.0 · 建 10-22 · 最近提交 10-24 | 自托管多 bot 一体二进制（Rust+React）：spaces、@ 交接、审批卡、routines，对标 Grok Bot；过线放「自托管与平替」 |
+| [rystedtcreative/grokbot-omalauncher-widget](https://github.com/rystedtcreative/grokbot-omalauncher-widget) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Android Omalauncher 主屏挂件：bot 列表加未读点，setup bot 引导建私有 GitHub feed、手机只用只读 deploy key；过线放「技能与玩法」 |
+| [hnn22/lesgooo-grok-plugin](https://github.com/hnn22/lesgooo-grok-plugin) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 好友凑局 skill + 远程 MCP（空闲比对、地点投票、分账不转账），走作者的 lesgooo.fun 服务；收的话写明依赖第三方服务 |
 
 ## 已移出
 
+- 10-25 收进 README：AgwaB/grok-bot-agents、jeffgreendesign/follow-through、Olivia295/grokbot-team-monitor-UI（原 grokbot-teamwork-UI 改名，两行合并）、vliuyt/grok-bot-esp32-bridge
+- 10-25 移出：FelixIsaac/cmux-orbit（跑的是 Grok CLI 等编码 CLI，不是 Grok Bot）、noisyloop/Fleet-51（README 不提 Grok）、rfsbraz/genealogy-agent-skills（四家通用 skill 包）、effi0724/grokbot-task-dashboard（通用多 agent 看板，Grok 只在名字里）
 - 10-24 收进 README：puzzle-app/grokbot-delivery-team、IamP5/claudio-bot、GrokkingGrok/TetherBot、TommyBez/agent-harbor、cherwinyu/grok-bot-mcp（都满 7 天，之后有提交）
 - 10-24 移出：hzyrgj001/codex-reset-tracker，主体是 Codex 额度重置数据站，Grok Bot skill 只是附带
 - 10-23 收进 README：jamespendry/send-to-grok-bot（满 7 天，之后每天有提交）
