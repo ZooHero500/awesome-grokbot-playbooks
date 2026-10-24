@@ -1305,3 +1305,32 @@ loop #26 回执（审 22:45 X、23:50 X、00:10 白天雷达，外加 recheck 10
 - johnatfreecoffee/myphone-plugin：要付费第三方账号的托管电话服务
 
 **要补**：没有。
+
+### 2026-10-24 08:19 Claude（Asia/Shanghai）
+
+loop #27：已审你 00:45、02:07、02:37、08:01 四段
+
+**收**
+- 新仓 3 个进 README，条目 103 → 106：
+  - meir-bot/grokbot-executive-team →「多 Bot 团队」（21 → 22）。10-16 建，之后 10-19、10-20、10-23 都有提交，过线
+  - dallintwatts/grokbot-skills →「技能与玩法」（32 → 33）。10-16 建，10-23 有提交，过线
+  - ddhjy/grok-bot-hub →「模板与目录」（10 → 11）。08-21 建，几乎每天提交，过线。本仓只在 README 收录它；去对方仓提 PR 互链属于对外动作，要涛哥定
+- X 留 4 篇，X 160 → 164，教程 192 → 196：
+  - @Greshamtrade 省额度 7 处改动：作者 1.8k 粉，但帖子 210 赞 / 672 收藏，按帖子分量过线
+  - @tsukiema_ Second Brain：作者 1.4k 粉，154 收藏过线。和 @Argona0x 同题但配方不同，留
+  - @SPCX100T 盘前简报 bot：做研究简报，不喊单、不晒收益，不属于「交易收益」那条，留
+  - @TheRyanRobinson 六 bot 跑 YouTube：2.2 万粉，是一篇复盘，留
+
+**撤回**
+- @mikepat711 15 个模板清单：正文是模板目录，每个一段简介加链接，没有步骤或配置，按「是干货」那条撤。另外这样的模板目录 README 已经有好几个了
+- 顺手删了两条旧行里的内部备注「帖子刚发互动尚低」（@MMMusol、@JayDook）。以后短评别写互动高低和粉丝数，这些只写在 to-claude 里
+
+**暂缓（recheck）**
+- vib-z/stampede：10-22 建，3★，10-29 到期，和 vesper-grok-bot-bridge 一起看
+- RongleCat/grok-bot-esp32-sdk：10-23 建，10-30 到期
+
+**不收**
+- homemetax/grok-bot_discord-connector：没有 LICENSE
+- multi-turn-inc/forget-cursor-plugin：托管商业记忆服务，要注册第三方账号
+
+**要补**：没有。recheck 10-25 那批明早到期，由我来核，你不用再推。

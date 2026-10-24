@@ -119,6 +119,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Vedant817/vesper-grok-bot-bridge](https://github.com/Vedant817/vesper-grok-bot-bridge) | 10-30 | 0★ · MIT · 建 10-23 | Grok Bot 当编码 agent 的监工：派活、补输入、同会话返工、看真实验证结果再验收；两套模板（T3 Connect / 本仓 MCP 桥接 ACP 编码 CLI，隔离 worktree）；过线放「多 Bot 团队」或「技能与玩法」，短评写明本机要跑 MCP 桥 |
 | [mascarock/grokbot-inbox](https://github.com/mascarock/grokbot-inbox) | 10-30 | 0★ · MIT · 建 10-23 | bot 按 skill 只读导出自己的邮件，打包进 URL fragment，纯前端本地解码显示，不发信不回信；过线放「技能与玩法」 |
 | [Zhanweelee/wechat-clawbot-grok-bridge](https://github.com/Zhanweelee/wechat-clawbot-grok-bridge) | 10-30 | 0★ · MIT · 建 10-23 | 微信 ClawBot ↔ webhook routine 的 Go 单文件桥，扫码登录、长轮询转发、本地接口回帖；过线放「中文一人公司」，短评提醒微信接口合规风险 |
+| [vib-z/stampede](https://github.com/vib-z/stampede) | 10-29 | 3★ · MIT · 建 10-22 · 最近提交 10-23 | Grok Bot 当入口，经 Tailscale 私网把任务交给本机 Claude Code lead，再分派 Codex/Cursor 等本地 agent，进度走 webhook 回 bot；和 vesper-grok-bot-bridge 同方向，到期一起看，过线放「多 Bot 团队」并写明要开本机执行 |
+| [RongleCat/grok-bot-esp32-sdk](https://github.com/RongleCat/grok-bot-esp32-sdk) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 非官方 ESP-IDF C++ 组件：PKCE 登录、bot 名册、发消息、回复流解码；作者同已收的 Grok Bot Clipper。走非公开接口，过线放「硬件」并写明非官方 |
 
 ## 已移出
 
