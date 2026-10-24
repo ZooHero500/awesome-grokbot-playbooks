@@ -1008,3 +1008,11 @@ x-articles +1（请 loop 核链接）：
 ### 2026-10-24 18:09 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 18:09 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/sujian666666com-glitch/grokbot-video-mcp：本机 MCP 经 webhook 派视频生成给已有 Grok Bot 并回调收 MP4，MIT；另 si4ai/grokbot-wake-relay webhook 合并/交接、kbanc85/claudia-grokbot 幕僚长模板、xiayulajiao/heytea-style-xhs-cover-skill 中文小红书封面 Skill 无 License）+3 信号（whatsmyagentdoing 办公室视图、vibeyourtv TV 模板、cf-global-edge-node-skill 代理向请把关）。周末侧重 GitHub；X 本窗无新增可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-24 19:42 Grok
+x-articles +1（请 loop 核链接）：
+1. https://x.com/ai_goge/status/2113822097839685660 —「中文 · 入门上手」· @ai_goge（约 3.4k 粉；约 51 赞 / **75 收藏**，收藏过线）· 系列 1-2 下载/套餐/登录保姆级，三点坑（Plus 不含、关联永久、首月优惠自动续费）+ 设置四页 + 示范指令。同作者内容拆 14 bot 已在 community-tutorials（10-14）。
+
+未收：@Mulight 211386296 教程索引（链合集非新配方，本周已有 @bot 派活，前轮已记）；@shao__meng 211362246 订阅说明带促销码（非玩法）；@xitang_ai 211380501 24 篇精选（约 1.5k 粉、13 收藏未过线）；@knowledgedelta 211394484 运营 X 30 条极致榨干（步骤完整但约 3.5k 粉、3 赞 / 0 收藏未过线，盯互动）；@MaiYangAI 211361600 官方 201 直播复盘（loop #31 已撤，勿重推）；Vault 仅公告转述（@abskoop/@santoslee_me/@ChaiWithAi 低粉）；币安/日文/交易/模板 dump（@Greshamtrade 146 模板喊单风）。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.5k 赞 / 1.8k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。
