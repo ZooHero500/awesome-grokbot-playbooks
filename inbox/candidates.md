@@ -2124,3 +2124,28 @@ qcteslaguy/qcteslaguy.github.io、jimmie01/jimmie01.github.io（T7 已 skip）�
 ### Skip（本轮）
 
 mikegkelly/book-catalog-bot（模板落地页，领取链仍 Coming soon）；jakeitegsy/grok-pstack（Grok Build CLI 插件，非 Grok Bot）；pandashugo2025/grok-desk（Polymarket 纸盘交易）；saikrishnauppaluri/sai-bots（展示站，T7 已 skip）；Kshot3000/Midnight-GrokBot-Agent / andraetbusiness-code/grokbot-desk / boydt/morning-brief / fuzzynet/bot-open / qcteslaguy / jimmie01（已 skip 类）；已列 broom / cost-cutter / personal-chef / desk / local-ai-manager / stampede / a2a-bridge / persona-factory / mascarock inbox 等。X 本窗多为 @leerob 功能建议、TermiX 营销、币安 Agent、低粉 X Article，无新增可复用 GitHub 仓交玩法雷达以外。
+
+## 2026-10-24 16:11 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 14:06→16:11（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24 + 关键词交叉）+ X `search_posts_all`×3（github/playbook/skills；本窗多为 TermiX 营销、@leerob 功能建议、低粉 X Article，无新增可复用 GitHub 仓）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Dissipative-ATLAS/stackchan-grok-bridge | https://github.com/Dissipative-ATLAS/stackchan-grok-bridge | **中文：StackChan 原厂语音把明确转交的问题交给已有 Grok Bot，结果用原厂音色朗读**：Mac 中转 + Cloudflare 回调信箱（不必开公网端口），`until_result` 自动续查；实机长任务约 173s/18 次续查只提交 1 次。与已记 fredericalix/my-botstack（自刷固件全栈）、RongleCat/esp32-sdk 互补——本仓**不刷固件**接已有 Bot。本轮最值得看。无 SPDX License，短评须注明 | Hardware / Bridges | `chinese` `stackchan` `webhook` `cloudflare` `voice` `bridge` | 0 / 无 License | **GitHub**（10-24 本窗新建） |
+| deedade/grok-hermes-webhook | https://github.com/deedade/grok-hermes-webhook | **Grok Bot→本机 Hermes 最小 webhook 契约**：非空 `task` + 对 raw body 做 HMAC-SHA256 后再解析 JSON，返回 202 accepted；stdlib 接收 stub、零真实密钥入库、CI。与已记 jamesonedge/grokbot-hermes-bridge、Heldinhow/hermes-mcp-bridge 同方向但更薄，可作可复制合同参考；v0.1 只到验收、不跑作业 | Bridges / Hermes | `hermes` `webhook` `hmac` `contract` `mit` | 1 / MIT | **GitHub**（10-24 本窗新建） |
+| yuehzhan/grokbot-usage-checkin | https://github.com/yuehzhan/grokbot-usage-checkin | **本机用量/打卡/搜索仪表盘**：周额度累计与日用量%、工作打卡、按日检索「谁做了什么花了多少」；数据不出本机，推荐跑在 Grok Bot 的 Linux 云电脑上；含 PNG HUD 与可选 Grok Build `/usage` 读取。可作额度可视化工具 | Tools / Usage | `usage` `dashboard` `local` `quota` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| cooperpt/apple-watch-grokbot-health | https://github.com/cooperpt/apple-watch-grokbot-health | **中文保姆级：Apple Watch/健康→快捷指令→webhook→Grok Bot 睡眠与活动小结**：开微信触发同步；原始 sleep_stage_values+durations 服务端汇总深度/核心/REM/清醒；配置只用占位符，禁提交真实密钥与健康导出。仓仅 README+LICENSE，可复制 playbook | Skills / Health | `chinese` `health` `shortcuts` `webhook` `playbook` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| nexus-ai-2045/grok-bot-dots | https://github.com/nexus-ai-2045/grok-bot-dots | 日文：离线实验用 Grok Bot/dot 签名回调与收件箱规格模型（mock、无实网、非生产）；MIT+测试齐全，先信号 | Bridges / Spec | **GitHub**（10-24 本窗新建） |
+| deedade/hk-price-digest | https://github.com/deedade/hk-price-digest | 本地 CSV 比港超价格→md/json，标注可供 Grok Bot 等任意 agent 读；非 Bot 专属协议，垂直工具先信号 | Tools / Vertical | **GitHub**（10-24 本窗新建，MIT） |
+| PostdockAI/grok-bot-plugin | https://github.com/PostdockAI/grok-bot-plugin | 托管 myagent MCP：一 Bot 一地址，webhook 仅作叫醒、消息走 MCP 收件箱；无 License、自称尚未真机装测，商业托管先信号（此前漏收） | Plugins / Inbox | **Web** + **GitHub**（9-10 建，漏收） |
+
+### Skip（本轮）
+
+ikeriano/ahoracaigo-java-grok-bot（粉丝游戏非玩法）；muhammadanggaalazura-commits/xauusd-ai-bot（交易电报）；TermiX Agent Skills 营销帖、币安 Agentic Wallet 教程、Gumroad 付费小队手册、低粉额度 X Article；@leerob 功能建议（Cells/PSK、用量图、routine 失败告警）；已列 broom / grok-x-bridge / a2a-exposed / stampede / esp32-sdk / my-botstack / hermes-mcp-bridge / grokbot-hermes-bridge / twhit223/grok-bot-cos 等。

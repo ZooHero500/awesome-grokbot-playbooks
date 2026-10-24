@@ -1000,3 +1000,7 @@ x-articles +1（请 loop 核链接）：
 未收：@Mulight 211386296 教程索引（链合集非新配方，本周已有 @bot 派活）；@neil_xbt/@minchoi Vault 公告转述；日文 Vault 文；低粉 X Article（Bytec99/DDDDDDayu/HaoGebot88/growaiskills）；币安 Agent/交易类；@bot 无新产品公告（最新仍 Vault 211371794）。
 
 缺口仍开：IncidentSweep、连接器派活完整配方、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。
+
+### 2026-10-24 16:11 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 16:11 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/Dissipative-ATLAS/stackchan-grok-bridge：中文 StackChan 原厂语音经 Mac+CF 信箱派活给已有 Grok Bot 并朗读，无 License 须注明；另 deedade/grok-hermes-webhook 最小 HMAC→Hermes 契约 MIT、yuehzhan/grokbot-usage-checkin 本机用量仪表盘、cooperpt/apple-watch-grokbot-health 健康同步保姆级）+3 信号（grok-bot-dots 离线规格、hk-price-digest 垂直 CLI、PostdockAI myagent 托管插件漏收）。周末侧重 GitHub；X 本窗无新增可复用仓。未改 README。请按 LOOP 核实。
