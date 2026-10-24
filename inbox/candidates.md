@@ -2149,3 +2149,28 @@ mikegkelly/book-catalog-bot（模板落地页，领取链仍 Coming soon）；ja
 ### Skip（本轮）
 
 ikeriano/ahoracaigo-java-grok-bot（粉丝游戏非玩法）；muhammadanggaalazura-commits/xauusd-ai-bot（交易电报）；TermiX Agent Skills 营销帖、币安 Agentic Wallet 教程、Gumroad 付费小队手册、低粉额度 X Article；@leerob 功能建议（Cells/PSK、用量图、routine 失败告警）；已列 broom / grok-x-bridge / a2a-exposed / stampede / esp32-sdk / my-botstack / hermes-mcp-bridge / grokbot-hermes-bridge / twhit223/grok-bot-cos 等。
+
+## 2026-10-24 18:09 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 16:11→18:09（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24 + updated≥2026-10-24）+ X `search_posts_all`×2（github/playbook/skills；本窗多为功能建议、交易 skill 营销、低粉链，可复用仓以 GitHub 为主）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| sujian666666com-glitch/grokbot-video-mcp | https://github.com/sujian666666com-glitch/grokbot-video-mcp | **本机 MCP→已有会生成视频的 Grok Bot webhook**：stdio MCP（5 工具）提交文案/最多 5 张参考图→cloudflared 隧道唤醒 Bot 生视频→鉴权回调收 MP4（可去声、校验分辨率时长）；本地 setup_form 存 webhook/key（0600），含中英 README、routine 说明与 CI。不走单独计费的 xAI 视频 API。本轮最值得看 | Bridges / Media MCP | `mcp` `video` `webhook` `cloudflare` `bilingual` `mit` | 2 / MIT | **GitHub**（10-24 本窗新建） |
+| si4ai/grokbot-wake-relay | https://github.com/si4ai/grokbot-wake-relay | **Webhook 风暴止损：合并重叠冷启动 + 交接笔记**：实测 5 POST≈1s 内全开并行；`relay.py` 空闲直转、忙时入队、`/done` 后一批带 `pending_count` 与上轮 note；`notify_on_exit.py` 后台 job 退出再叫醒空闲 Bot。stdlib+MIT+实测数字，可作多 Bot webhook 队形参考 | Bridges / Routines | `webhook` `relay` `coalesce` `handoff` `stdlib` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| kbanc85/claudia-grokbot | https://github.com/kbanc85/claudia-grokbot | **公开模板「Claudia 幕僚长」托管后端**：抓邮件/Slack/日历里的承诺→到期前提醒→晨报/日终复盘/周复盘；CSV ledger + Brain Page + 自更新 MANIFEST；从不擅自发信/发帖。附 x.ai/bot 领取链与 FOR-BOTS 操作手册。Apache-2.0 | Templates / Chief of Staff | `template` `routine` `ledger` `promises` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-24 本窗新建） |
+| xiayulajiao/heytea-style-xhs-cover-skill | https://github.com/xiayulajiao/heytea-style-xhs-cover-skill | **中文：喜茶风小红书记号笔封面 Skill**：白底留白+拙朴手写字+蓝重点；须整仓安装（含 `assets/approved-cover.png`），附粘贴给 Grok Bot 的安装/调用指令。无 SPDX License，短评须注明；与喜茶品牌无隶属 | Skills / Chinese content | `chinese` `xiaohongshu` `skill` `cover` `no-license` | 0 / 无 License | **GitHub**（10-24 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Charonyuu/whatsmyagentdoing | https://github.com/Charonyuu/whatsmyagentdoing | 本机 Claude Code/Codex/Gemini 等活会话等距办公室视图（~51★ MIT）；Grok 适配 fork tim164863-hue/grokbot-office 无 README，先信号上游 | Clients / Dashboards | **GitHub**（10-23 建，本窗活跃） |
+| ahmadaryanto/vibeyourtv | https://github.com/ahmadaryanto/vibeyourtv | Android/Google TV Wi-Fi debloat + 类 Apple TV 主页；附 x.ai/bot 与 grok-bot-skill；fork CleanYourTV，印尼文为主，垂直硬件先信号 | Templates / Hardware | **X** @orpheuskaze + **GitHub** |
+| free-dam-man/cf-global-edge-node-skill | https://github.com/free-dam-man/cf-global-edge-node-skill | 通用 Agent（含 Grok Bot）一句话在 Cloudflare 搭免费节点并出订阅码；~124★，偏代理/自建节点，合规与是否进清单请 Claude 把关 | Skills / Infra | **X** @adorerlemex + **GitHub** |
+
+### Skip（本轮）
+
+SherlockGy/grokbot-knowledge-archive（空仓）；tim164863-hue/grokbot-office（无 README/License，见上游信号）；alpha404ai/grok-bot-skills（交易 skill，早先 Skip）；owenservera/grokbot-telemetry、Spidermanrobin/awesome-grokbots、company-notes/grokbot-persona-factory（已列）；andraetbusiness-code/grokbot-desk、Kshot3000/Midnight、rocket0xdev1025/grokbot402、i-nowu/grokbot-games-free（已 skip 类）；OpenBot/CopilotKit 替代品营销、币安/$REAGENT、Gumroad 付费小队、@leerob 功能建议。X 本窗无新增独立可复用仓（alpha404 自宣包已记）。

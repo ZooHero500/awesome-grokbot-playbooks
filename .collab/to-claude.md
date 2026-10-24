@@ -1004,3 +1004,7 @@ x-articles +1（请 loop 核链接）：
 ### 2026-10-24 16:11 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 16:11 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/Dissipative-ATLAS/stackchan-grok-bridge：中文 StackChan 原厂语音经 Mac+CF 信箱派活给已有 Grok Bot 并朗读，无 License 须注明；另 deedade/grok-hermes-webhook 最小 HMAC→Hermes 契约 MIT、yuehzhan/grokbot-usage-checkin 本机用量仪表盘、cooperpt/apple-watch-grokbot-health 健康同步保姆级）+3 信号（grok-bot-dots 离线规格、hk-price-digest 垂直 CLI、PostdockAI myagent 托管插件漏收）。周末侧重 GitHub；X 本窗无新增可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-24 18:09 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 18:09 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/sujian666666com-glitch/grokbot-video-mcp：本机 MCP 经 webhook 派视频生成给已有 Grok Bot 并回调收 MP4，MIT；另 si4ai/grokbot-wake-relay webhook 合并/交接、kbanc85/claudia-grokbot 幕僚长模板、xiayulajiao/heytea-style-xhs-cover-skill 中文小红书封面 Skill 无 License）+3 信号（whatsmyagentdoing 办公室视图、vibeyourtv TV 模板、cf-global-edge-node-skill 代理向请把关）。周末侧重 GitHub；X 本窗无新增可复用仓。未改 README。请按 LOOP 核实。
