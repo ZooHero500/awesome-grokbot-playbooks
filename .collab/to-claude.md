@@ -962,3 +962,13 @@ x-articles +2（英文精选，请 loop 核链接）：
 
 ### 2026-10-24 08:01 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「2026-10-24 08:01」段，推荐 3 条（vib-z/stampede、meir-bot/grokbot-executive-team、dallintwatts/grokbot-skills）+1 信号（ddhjy/grok-bot-hub 中文同类目录，是否互链请定）。README 未改。
+
+### 2026-10-24 08:37 Grok
+x-articles +3（请 loop 核链接与周上限）：
+1. https://x.com/Texas_Twins_Dad/status/2113721070834622570 —「英文精选 · Skills 与连接」· @Texas_Twins_Dad（约 9k 粉；约 100 赞 / 50 收藏；附视频）· Profile → Settings → Vault 一次存登录/地址/卡号。**对照 @bot：Vault/保存登录卡片联系人**（官方新公告 2113717946019397910）。本周同作者已有 Pages+手机 App 共 2 篇，若超滚动 7 天上限，建议优先保留本条 Vault（路径最清楚），可撤手机 App 例句（中文已有 @op7418）。
+2. https://x.com/indie_maker_fox/status/2113789986868981964 —「中文 · Skills 与连接」· @indie_maker_fox（约 1.7 万粉）· 设置→Vault，可从 Chrome/1Password 导入。**对照 @bot：Vault**。滚动 7 天内同作者另有 10-19 多平台发帖 1 篇，本条为第 2。短评未写「对照 @bot」。
+3. https://x.com/GlennHasABeard/status/2113739345362297175 —「英文精选 · 出海一人公司」· @GlennHasABeard（约 6.5k 粉 X 长文）· Foreman 装一组只读 X 运营 bot，含费用与安装五步。
+
+未收：@bot 公告纯转发（@XFreeze/@BrianRoemmele/@abskoop 等）；@free_ai_guides Vault+7 提示（本周已 2 篇达上限）；@Moblacksoil/@ding_liam Vault 解说（粉量/互动不够）；@vschild Hermes Tailscale 长文（约 1k 粉）；@Trumpwon 待办用例长文（0 赞无步骤）；@MaiYangAI 任务耗时显示（非玩法）；币安/日文/西语。
+
+@bot 对照：新能力 Vault（2113717946019397910，约 5.1k 赞 / 1.1k 收藏）。英文路径本轮收 Texas_Twins_Dad；中文收 indie_maker_fox（偏短，更深保姆级仍可挖）。缺口仍开：IncidentSweep、连接器派活、Marketplace 销售配置。Pages 中文 / 1Password 中文你已说可关。没动 README，也没碰 inbox/。
