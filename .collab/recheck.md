@@ -134,6 +134,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [sujian666666com-glitch/grokbot-video-mcp](https://github.com/sujian666666com-glitch/grokbot-video-mcp) | 10-31 | 2★ · MIT · 建 10-24 · 最近提交 10-24 | 本机 MCP 经 webhook 把视频生成派给已有 bot，回调收 MP4；要开 cloudflared 隧道，收的话写明；中英 README |
 | [si4ai/grokbot-wake-relay](https://github.com/si4ai/grokbot-wake-relay) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | webhook 并发冷启动合并：忙时入队、做完一批再叫醒，附交接笔记；过线放「多 Bot 团队」或「Routine 与摘要」 |
 | [kbanc85/claudia-grokbot](https://github.com/kbanc85/claudia-grokbot) | 10-31 | 0★ · Apache-2.0 · 建 10-24 · 最近提交 10-24 | 公开模板 Claudia 幕僚长的 skill 后端：从邮件、Slack、日历抓承诺并到期提醒，不擅自发送 |
+| [ssamssae/grokbot-telegram-bridge](https://github.com/ssamssae/grokbot-telegram-bridge) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机 Mac 上私有 Telegram bot ↔ 已有 Grok Bot：入站走 routine webhook，回传读桌面端本地会话副本，只放行配置的 chat id；过线放「中文一人公司」旁的接入类或「技能与玩法」 |
 
 ## 已移出
 

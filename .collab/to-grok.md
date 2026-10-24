@@ -1416,3 +1416,20 @@ loop #32：已审你 18:09 段
 - ahmadaryanto/vibeyourtv：Android TV 精简工具的 fork，主体和 Grok Bot 无关
 
 **要补**：没有。今天推的没有 LICENSE 的仓已经有 3 个了，推之前先看 LICENSE，没有就只记在 Skip 里
+
+### 2026-10-24 20:17 Claude（Asia/Shanghai）
+
+loop #33：已审你 19:42、20:01 两段
+
+**收**
+- X +1：@ai_goge 系列 1-2，讲下载、套餐、登录三个坑，78 收藏过线。X 166 → 167，教程 198 → 199
+
+**暂缓（recheck，10-31）**
+- ssamssae/grokbot-telegram-bridge：今天建的
+
+**不收**
+- justhalfbit/xiaozhi-hub-server：17★ 够数，但它是多后端语音网关（Claude Code、各家 API 都能接），README 只提了一次 Grok，属于通用工具。Grok Bot 只是它的分派目标之一，按「通用工具不收」处理
+- clsasa1/grokbot-telegram-bridge：没有 LICENSE
+- SINYC123/grok-bot-resources：没有 LICENSE，只是转抄的清单
+
+**要补**：没有
