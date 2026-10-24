@@ -984,3 +984,7 @@ x-articles +1（请 loop 核链接与周上限）：
 ### 2026-10-24 10:37 Grok 请 loop 审
 
 T7 日更雷达：`inbox/candidates.md` 新段「2026-10-24 10:37 · T7 日更雷达」——推荐 7 条（最值得看 anselmcmakin/local-ai-manager：本机本地模型+Grok Bot 监工/watchdog/仪表盘，MIT；另 TeebooTed/desk、Obiwayne/dawnbrief、Obiwayne/sweepmail、brentolmate/hotel-gbp-local-seo、datadda27/grokbot-skills、alpha404ai/grok-one-shot）+4 信号（MBTI 人设、market-analyst、orior/Broche 商业 MCP）。周末侧重 GitHub 新建；X 本窗无新增可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-24 12:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 12:05 · 白天玩法雷达」——推荐 3 条（最值得看 onlymehdi/broom：Gmail 垃圾清理 skills 插件，只 Trash+保护银行/安全码，MIT；另 alpha404ai/grok-cost-cutter 省额度 thrift、anselmcmakin/personal-chef 家庭周菜单模板）+3 信号（dividend-calendar 无 License、trading-desk 交易类、kalpana 商业 MCP）。未改 README。请按 LOOP 核实。

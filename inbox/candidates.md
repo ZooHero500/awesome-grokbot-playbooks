@@ -2079,3 +2079,27 @@ drewsephski/kith（替代品）；ofs100private/GrokBot、Chaoc2624/grokbot-back
 ### Skip（本轮）
 
 ronnarit09-hub/Grokbot-backup、mariotoffia/grokbot-backup、nlaughter100/grokbot-dashboard、rocket0xdev1025/grokbot402、Adambkr/Grokbot、brucksh0t/born-hood-grokbot-preview、ikeriano/*-sb3-grok-bot、qcteslaguy/qcteslaguy.github.io、jimmie01/jimmie01.github.io（礼物模板站）、PhillipHolland/ibot（iPod/MusicKit 页，非玩法）、fuzzynet/bot-open（仅开聊天链）、gab709/grok_bot_example、hast3/claudecrew（Claude 远程，非 Grok）、saikrishnauppaluri/sai-bots / plan-to-3d（已记同类）、Railbed/railbed-cursor-plugin（与已记 Railbed/cursor-plugin 同向商业支付）、bayardo-ship-it/unifi-network（与已记 bayardoassistant-ship-it/unifi-network 同向）、已列 stampede / vesper / mascarock inbox / esp32-sdk / hunvreus discord / multi-ai-sync / yeemio / grokspot / maid-avatar / persona-factory 等。X 本窗多为 x.ai/bot 模板分享与 @leerob 功能建议，无新 GitHub 可复用仓。
+
+## 2026-10-24 12:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:37→12:05（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / "Grok Bot" created≥2026-10-24 + updated≥2026-10-24）+ X `search_posts_all`（github / playbook / skills / routine；本窗多为功能建议与商业 skill 营销，无新增可复用 GitHub 仓）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| onlymehdi/broom | https://github.com/onlymehdi/broom | **Gmail 垃圾清理 Cursor/Grok Bot 插件（skills-only）**：引导配置收件箱/保护发件人/优惠券处理，建定时 routine；只移 Trash、不永久删、不擅自退订，银行/安全码/订单默认保护，边缘邮件留箱并列表。无额外 MCP/账号/key。与已记 Obiwayne/sweepmail（干跑+Takeout）互补，本轮最值得看 | Skills / Email | `gmail` `skill` `plugin` `routine` `safety` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| alpha404ai/grok-cost-cutter | https://github.com/alpha404ai/grok-cost-cutter | **省额度：用触发+2K 预检+缓存+夜间批+日硬顶跑 routine**：优先 webhook，时钟只做备份；无变化即停、同输入走缓存；周一按「每有用跑成本」降速、30 天无用则删。可复制 thrift prompt + routines.csv。同作者 one-shot / market-analyst，T7 漏收补入 | Skills / Cost | `quota` `routine` `webhook` `cache` `prompt` `mit` | 0 / MIT | **GitHub**（10-23 建，此前漏收） |
+| anselmcmakin/personal-chef | https://github.com/anselmcmakin/personal-chef | **家庭周菜单模板**：问卷→过敏/预算硬约束→周六 routine 出周日–周六菜单→HTML/PDF 菜谱卡+分区购物单→Walmart 购物车（人登录、bot 不结账不改支付）。skills 纯说明无代码；同作者 local-ai-manager | Templates / Vertical | `template` `skill` `routine` `family` `mit` | 0 / MIT | **GitHub**（10-02 建，本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| markprovenzano/dividend-calendar-bot | https://github.com/markprovenzano/dividend-calendar-bot | 分红日历模板：Finance/Robinhood→Google Calendar，含 SETUP_PROMPT/skill/routine；无 License，投资语境先信号 | Templates / Finance | **GitHub**（10-24 本窗新建） |
+| alpha404ai/grok-trading-desk | https://github.com/alpha404ai/grok-trading-desk | 24/7 交易台 9 块 prompt（无人审批成交），同作者 cost-cutter；声明非投顾，交易类先信号勿当主推 | Routines / Trading | **GitHub**（10-23 建，MIT） |
+| shreekaramtech/kalpana-agent | https://github.com/shreekaramtech/kalpana-agent | 批量填模板出广告图/视频 MCP（Claude/Cursor/任意 MCP 客户端）；托管商业+自有账号，先信号 | Plugins / Media | **GitHub**（10-08 建，本窗更新，MIT） |
+
+### Skip（本轮）
+
+qcteslaguy/qcteslaguy.github.io、jimmie01/jimmie01.github.io（T7 已 skip）；PhillipHolland/ibot（iPod 页）；fuzzynet/bot-open（仅开聊天链）；doggy8088/grok-bot-learn（RongleCat 繁中镜像，上游已列）；afaraha8403/balabot（自托管多 agent，硬依赖 TypeSafe Jev 付费 API）；D1-2004/eino-employee-loop（Eino 框架「类 Grok Bot」决策环，非 Grok Bot 玩法）；已列 TetherBot / money-saver / BotFleet / Retasc / sweepmail / local-ai-manager / desk / hotel-gbp / datadda27 skills / Broche / orior / MBTI / market-analyst / one-shot / pumpfun / howardpen9 tg-stars 等。X 本窗多为 @leerob 功能建议、TermiX 营销、币安 Agent，无新 GitHub 可复用仓。
