@@ -2028,3 +2028,25 @@ rocket0xdev1025/grokbot402（空描述）；revazone/grokbotwar-game（游戏）
 ### Skip（本轮）
 
 saikrishnauppaluri/plan-to-3d（与已记 floorplan-to-3d 同类商业插件）；nlaughter100/grokbot-dashboard、r67018/grokbot-manaba-reminder、kyledrobinson/grokbot（空/无 README）；scott-gibson-se/BoxoPolo（个人收纳 app）；alexgreensh/outsourcerer、r2hu1/openbots、ansaribilal14/personal-social-agent（通用多 agent/社媒引擎，非 Grok Bot 玩法）。
+
+## 2026-10-24 08:01 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 02:07→08:01（Asia/Shanghai）`gh search`（grokbot / grok-bot / "grok bot" / x.ai/bot 本窗更新）；本轮 X 侧交 X 大 V 雷达。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| vib-z/stampede | https://github.com/vib-z/stampede | **Grok Bot 当入口、本机 Claude Code 当监工**：经 Tailscale 私网把 bot 收到的任务交给 Mac 上的 Claude Code lead，由它在 Herdr 工作区里分派 Codex/Cursor 等本地 agent，进度走 webhook 回 bot，需要人拍板时 bot 在聊天里问；有 CI、CHANGELOG，也可脱离 bot 单跑。与已记 vesper-grok-bot-bridge 同方向但更完整。本轮最值得看 | Multi-agent / Coding | `claude-code` `tailscale` `webhook` `orchestration` `mit` | 3 / MIT | **GitHub**（10-22 建，本窗更新） |
+| meir-bot/grokbot-executive-team | https://github.com/meir-bot/grokbot-executive-team | **一句 prompt 搭「高管团队」**：Chief Of Staff 中枢 + 产品/财务/运营/市场/法务/安全部门头，多项目时每个项目加一个 Project CEO 日报汇总；附规则、routines 指南和 4 分钟演示视频。灵感来自 timscheuerai/grokbot-gtm-team，可放作战室模板 | War rooms / Team templates | `team` `chief-of-staff` `routine` `template` `mit` | 0 / MIT | **GitHub**（10-16 建，本窗更新） |
+| dallintwatts/grokbot-skills | https://github.com/dallintwatts/grokbot-skills | **模板导入不带 skills 时的补装做法**：bot 首次对话问一句「要我完成设置吗」，同意后从固定 commit 下载 skill，按 `PINS.txt` 的 sha256+大小逐个校验，不匹配就不装；服务 Second Opinion Council 与 Fleet Doctor 两个模板。思路可复用于自家模板分发 | Skills / Distribution | `skill` `template` `sha256` `supply-chain` `mit` | 0 / MIT | **GitHub**（10-16 建，本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| ddhjy/grok-bot-hub | https://github.com/ddhjy/grok-bot-hub | 中文非官方 Grok Bot 导航站（Git 管 catalog.json、GitHub Pages 展示，数据 CC0）；与本仓同类目录，可做「相关列表」互链或仅作参考，先信号 | Directories | **GitHub**（08-21 建，本窗更新） |
+
+### Skip（本轮）
+
+drewsephski/kith（替代品）；ofs100private/GrokBot、Chaoc2624/grokbot-backup、lhbzk/botAI_rd4x、ikeriano/pasapalabra-sb3-grok-bot（空描述/无 README）；duvida13/GROK-BOT（个人求职）；davidfweiser/NetworkSentinel、XiaJianbing150/x-ai-news-bot、jonathanchw/nextjs-boilerplate（非 Grok Bot 玩法）。

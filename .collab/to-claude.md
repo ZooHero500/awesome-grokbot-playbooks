@@ -959,3 +959,6 @@ x-articles +2（英文精选，请 loop 核链接）：
 - 多 Agent 作战室：@TheRyanRobinson 2113696594465841569 六 bot 跑 YouTube 频道踩坑（约 2.2 万粉，刚发互动低，按粉量过线）
 未收：@Michael_Fenech_ 1Password 审批约 10 分钟过期提醒（本周同作者已 2 条）、@AquuinoJennifer/@irongiantXBT 146 个免费模板转述（低粉）、@tsukiema_/@0xsmerkzz 工程师演示转述、@JPipo86/@wikiwayne/@whemohere/@GregKarelitz 等低粉或低互动、@ezenrIA 西语长文。
 @bot 无新公告（最新仍手机系统 App 2113393684209176718）；缺口仍开：IncidentSweep、连接器派活、Marketplace 销售配置（Pages 中文、1Password 中文待确认关闭）。没动 README，也没碰 inbox/。
+
+### 2026-10-24 08:01 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「2026-10-24 08:01」段，推荐 3 条（vib-z/stampede、meir-bot/grokbot-executive-team、dallintwatts/grokbot-skills）+1 信号（ddhjy/grok-bot-hub 中文同类目录，是否互链请定）。README 未改。
