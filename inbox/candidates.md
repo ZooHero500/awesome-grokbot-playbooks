@@ -2196,3 +2196,26 @@ SherlockGy/grokbot-knowledge-archive（空仓）；tim164863-hue/grokbot-office�
 ### Skip（本轮）
 
 ssamssae 以外的交易仓 joaaoazul/grok-bot；Wifikir/WifikirMail（私人空仓）；mikegkelly/book-catalog-bot（模板落地页 Coming soon，已 skip）；SherlockGy/grokbot-knowledge-archive（空）；tim164863-hue/grokbot-office（无 License fork，上轮已信号）；ikeriano/* 游戏；danimoya/grok-bot-arch（前轮已记）；monokernn/REAGENT / 币安 Agentic Wallet / $REAGENT 营销；alpha404 自宣包已记；OpenBot 替代品营销。X 本窗无其它新增独立可复用仓。
+
+## 2026-10-24 22:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 20:01→22:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24）+ X `search_posts_all`×4 + `get_posts_by_ids`×1（github/playbook/skills/url:github；本窗多为 Vault/模板 dump/功能建议，可复用仓以 GitHub 为主）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| ThreeArisesAll/grok-bot-team-builder | https://github.com/ThreeArisesAll/grok-bot-team-builder | **中文 Skill：把反复大活拆成「一 bot 一事、文件交接、只在决策点等人」的团队并建好跑通第一轮**：`SKILL.md` 七原则+八步（值不值得搭→问方案→人确认→建 bot/共享目录/`HANDOFF.md`→冒烟→交付名单口令）；附 `examples/ai-tools-weekly/` 三人试跑真实产出。与已收 doublesq97-ui/bot-team-playbook（静态提示词包）、meir-bot/executive-team 互补——本仓是**可粘贴 Skill 动态建队**。本轮最值得看 | Multi-bot / Skills | `chinese` `skill` `multi-bot` `handoff` `war-room` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| SnazzyGaz/bot-beacons | https://github.com/SnazzyGaz/bot-beacons | **Windows 桌面悬浮信标：一 bot 一小人偶，有活发光/一键 ping/气泡回复**：bot 侧 `beaconctl.py` + 加密经免费 ntfy 中继；配对码+DPAPI 存钥；不抢焦点、可藏仍排队；给 Bot「set this up」读 SETUP.md 自装。仅 Windows 10/11，.NET Framework 自带编译。桌面「一眼看谁举手」类客户端 | Clients / Desktop | `windows` `desktop` `notify` `webhook` `ntfy` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| jbronssin/echo-dot-grok | https://github.com/jbronssin/echo-dot-grok | **2016 Echo Dot 当 Wi-Fi 听筒打给已有 Grok Bot 语音 agent**：firebreak 解锁→Wi-Fi→本机 Mac 登桌面端 mint+bridge；Unmute 开通话、Mute 打断/挂断。声明走 App 私有 API、仅测 RS03QR/Fire OS 5.5.5.4；含 `AGENTS.md`。硬件向、门槛高，可作语音入口配方 | Hardware / Voice | `echo-dot` `voice` `bridge` `macos` `hardware` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 1nc0gn30/grok-bot-zoth-plugins | https://github.com/1nc0gn30/grok-bot-zoth-plugins | Connect Apps 多插件包：zoth-relay MCP 远程机器 + Zoth Studio skills；MIT 但商业托管（NullAI），需 token，先信号 | Plugins / Marketplace | **GitHub**（10-24 本窗新建） |
+| ericyangpan/grokbot-weixin | https://github.com/ericyangpan/grokbot-weixin | 此前 candidates 记 WIP；现已有完整 TS 桥（CF Worker/Node、媒体解密、allowlist、历史），MIT。与已收 grok-bot-wechat / Zhanweelee wechat-clawbot 同向，是否升级短评请 Claude 定；本窗仅信号不重推 | Chinese / Bridges | **X** @ericyangpan + **GitHub**（10-22 建，本窗有人实测帖） |
+
+### Skip（本轮）
+
+george988/kindle-courier（无 License，模板 skill 分发）；xl17773188101-design/fmcat-grok-bot-guide（无 License，个人学习落盘 bot.fmcat.top）；ikeriano/pasapalabra-3d-grok-bot（游戏）；stevenc81/claude-plugins specialists（Claude 插件受 Grok 记忆启发，非 Grok Bot 玩法）；SpaceXAI 1h 课程营销、kelvoroz/Greshamtrade 模板 dump、币安 Wallet、低粉 X Article；@leerob 功能建议。已列 ssamssae telegram / video-mcp / wake-relay / stackchan / broom 等不重推。
