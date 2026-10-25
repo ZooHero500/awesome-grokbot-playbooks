@@ -1115,3 +1115,7 @@ X 大 V 文章雷达：x-articles +2，请 loop 核链接。
 - 英文·Routine 雷达与额度：@elvenmaidinn https://x.com/elvenmaidinn/status/2114317639527080391（Free Games Scout 公开模板长文，官方页核实+本地时区+首聊建 routine，绝不付款；约 8.9k 粉）。
 @bot 无新公告（最新仍 Vault），缺口 IncidentSweep / Marketplace 深销售配置 / Vault 更深保姆级仍开。
 未收：@BrianRoemmele Librarian Bot（同作者 7 天上限）；@Howard_Pengg Telegram Stars 收单（自推市场+加密结算，盯）；@zmdsb259414 内容框架长文（Grok Bot 非主角）；@goan999999 Codex BMAD（非 Grok）；@KamilStanuch 目录提交（约 4k 粉、4 赞）；@fankaishuoai 写作接力（前轮已拒）；日文 X Article。
+
+### 2026-10-25 22:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 22:07 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/mcsuen/x-cli-via-grok：经 grok-bot-cli 用专用 Bot 做公开 X 研究 + Codex/Claude Skill，MIT；另 zabrodsk/bot2bot-cursor-plugin 家人/朋友 Bot 互发 Marketplace 插件 Apache-2.0、EvanChen77/grok-bot-icon Bot 风头像 Skill）+4 信号（meetnotes / ShowDocLive SaaS、hey-grok-android 无 License、light-usage-bar 仅设计稿）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。

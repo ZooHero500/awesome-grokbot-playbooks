@@ -2412,3 +2412,28 @@ sulalala2000-bot/Grok-bot-backup（个人备份空仓）；j-DavidM/Apps（个�
 ### Skip（本轮）
 
 PiyushAnand2006/EmberLing（自称逆向 Grok Bot 客户端重做，版权/合规风险，不收）；BlastraIO/signatoro-mcp-plugin（商业邮件签名 SaaS 插件）；PandesalPanpan/piko-lantern-fox、ahvren/shield-recs、DevLucyy/grok-bot-dashboard、Yjtda/-Grokbot（个人作品/空仓、无 License）。
+
+## 2026-10-25 22:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 18:05→22:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24/25 + topic）+ X `search_posts_all`×3（github·playbook·skills / github.com 链 / 中文玩法；本窗多为额度文、模板营销、官方 guides 转发，**可复用仓以 GitHub 为主**）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| mcsuen/x-cli-via-grok | https://github.com/mcsuen/x-cli-via-grok | **用 Grok Bot 做公开 X 研究的 CLI+薄 Skill**：专用「X Research」Bot 复用、请求隔离路由；经非官方 grok-bot-cli 调桌面端（不直接打 X API）；skill 可装到 Codex/Claude Code，脚本自包含无第三方依赖。本轮最值得看 | Skills / X research | `x-research` `cli` `skill` `grok-bot-cli` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建） |
+| zabrodsk/bot2bot-cursor-plugin | https://github.com/zabrodsk/bot2bot-cursor-plugin | **家人/朋友 Bot 互发消息的 Marketplace 插件**：hosted MCP + skill；门铃 routine 叫醒、邀请双边确认、话题白名单问答；明文 quick connect 可切私密端到端加密。消息不当命令执行。Apache-2.0（插件仓；服务为 bot2bot.link） | Bridges / Multi-bot | `bot2bot` `mcp` `marketplace` `doorbell` `e2ee` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-25 本窗新建） |
+| EvanChen77/grok-bot-icon | https://github.com/EvanChen77/grok-bot-icon | **把人/角色参考图转成 Grok Bot 风 2D 头像的 Agent Skill**：胶囊黑眼、无口鼻、低头倾斜等硬约束 + 多图歧义/跟进改图示例；可丢进 Codex/Claude skills。纯视觉配方、MIT | Skills / Visual | `icon` `skill` `avatar` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| AabhasA/meetnotes-cursor-plugin | https://github.com/AabhasA/meetnotes-cursor-plugin | MeetNotes 会议纪要 hosted MCP listing（Grok Bot/Cursor）；依赖商业账号，先信号 | Plugins / SaaS | **GitHub**（10-25 新建） |
+| ShowDocLive/showdoclive-plugin | https://github.com/ShowDocLive/showdoclive-plugin | 演出 ShowDoc 实况 playbook MCP（172 工具）；需 Pro/Team，先信号 | Plugins / SaaS | **GitHub**（本窗推） |
+| fush1ft/hey-grok-android | https://github.com/fush1ft/hey-grok-android | 本机「Hey Grok」唤醒词打开 Grok Bot（openWakeWord）；**无 License**、README 极薄，先信号 | Clients / Android | **GitHub**（10-25 新建） |
+| ColdTbrew/light-usage-bar | https://github.com/ColdTbrew/light-usage-bar | 低开销 macOS 额度菜单栏（含 Grok Bot）设计稿；**尚无可执行产物、无 License**，先信号勿与 QuotAI/cgbarstat 混收 | Tools / Usage | **GitHub**（10-25 新建） |
+
+### Skip（本轮）
+
+Chatinker/GrokBot-myskills（个人半调案卷 skill、无 License）；q98765tw/TodoApi-GrokBot（用 Bot 带练的 Todo demo，已 skip）；Simple-With-Us/CodeCaps（额度菜单栏，candidates 已 skip）；ahvren/shield-recs / PandesalPanpan/piko-lantern-fox / EmberLing（已 skip）；galleonlabs/hypergrok-trading-desk（交易台）；Reactively/PressReacher-MCP（商业媒体名单）；kepcup / sugabots / clickaa / amajorai/ryu（替代品/自托管平台，已列模式）；marketplace 模板 dump、额度/省钱文、官方 18 guides 转发。已列 grok-bot-backup / hermes-webhook / unfinished-botness / yobiru / browser-fleet / grok-bot-cli 等不重推。
