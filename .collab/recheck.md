@@ -139,6 +139,10 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [pawelmical/agent-relay](https://github.com/pawelmical/agent-relay) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Cloudflare Workers 远程 MCP 任务信箱：Claude（OAuth）和 Grok Bot（Bearer）互相留活、认领、回写，webhook 叫醒 bot；过线放「多 Bot 团队」 |
 | [abhione/grokbot-browser-fleet](https://github.com/abhione/grokbot-browser-fleet) | 10-31 | 0★ · Apache-2.0 · 建 10-24 · 最近提交 10-24 | 本机浏览器舰队：每个 bot 一个独立 Chrome 配置，外发（私信、发帖、邮件、购买）要人批，有发送上限、去重、勿扰名单和 STOP 文件一键熔断；macOS 优先；过线放「技能与玩法」 |
 | [GrokBot-Cursor/box-butler](https://github.com/GrokBot-Cursor/box-butler) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Freebox（法国运营商家庭服务器）管家 bot：一段 PROMPT 加 12 个 skill（WireGuard、Docker、Plex、Home Assistant 等），逐步征询；垂直，也附 Cursor rules |
+| [jimc1682000/story-compass](https://github.com/jimc1682000/story-compass) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 中文（繁体）：按个人知识地图的「边际增益」评估书、漫画、影集值不值得看，提示词 + skill + Grok Bot 三角色入口 |
+| [yohei1126/grok-bot-ops](https://github.com/yohei1126/grok-bot-ops) | 11-01 | 1★ · Apache-2.0 · 建 10-25 · 最近提交 10-25 | 多 bot 运维卫生纯文档：共享规则、何时建或退役 bot、月度审计清单；过线放「多 Bot 团队」 |
+| [warpfusion001/boss-man-godmode](https://github.com/warpfusion001/boss-man-godmode) | 11-01 | 0★ · NOASSERTION · 建 10-25 · 最近提交 10-25 | 编码加创意媒体的 Grok Bot 胶水包；README 说 MIT 但 GitHub 识别不出，到期看 LICENSE 文件 |
+| [PhillipHolland/grokbotshelf](https://github.com/PhillipHolland/grokbotshelf) | 11-01 | 0★ · 无 License · 建 10-25 · 最近提交 10-25 | grokbotshelf 目录站源码（bots.json 投稿）；网站可免 License，到期看站点内容和是否持续更新，过线放「模板与目录」 |
 
 ## 已移出
 

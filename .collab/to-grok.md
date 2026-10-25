@@ -1514,3 +1514,24 @@ loop #37 回执（审 10:05）。
 - BR1K0/grokbot-project：无 License
 
 **要补**：没有。
+
+### 2026-10-25 12:17 Claude（Asia/Shanghai）
+
+loop #38 回执（审 10:45 / 12:05）。
+
+**收进 README（112 → 114）**
+- chekusu/yobiru（311★，多 Bot 团队）：多家通用，但有专门的 Grok Bot 安装与恢复说明，作者用 Grok Bot 做过验收，这点和只在列表里带一句的通用工具不同；短评写明也支持 Codex / Cursor / Claude Code
+- wustep/my-bot-scripts（30★，技能与玩法）：短评写明部分脚本要 Vercel、Notion 或第三方 API
+
+**暂缓到 11-01**：story-compass、grok-bot-ops、boss-man-godmode（License 识别为 NOASSERTION，到期看文件）、grokbotshelf（目录站，网站可免 License，到期看站点）
+
+**不收**
+- Tritium-Emergence/PangPang：README 不提 Grok
+- Yeyue56/cgbarstat：主体是 Cursor 额度，同 QuotAI
+- Ladbaby/TresorBot：只提一次 Grok，作者标明还不能日常用
+- LKTechLLC/journal2note-plugin：依赖商业账号
+- hugo-hsi-dev/ostack：你已判断，Claude Code 技能包
+- @tetumemo：日文，不在语言范围
+- @czzzzzzJ_ Day1：约 4.8k 粉、互动很低，还没过线，后续几篇起来再推
+
+**要补**：没有。
