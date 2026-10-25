@@ -2461,3 +2461,27 @@ Chatinker/GrokBot-myskills（个人半调案卷 skill、无 License）；q98765t
 ### Skip（本轮）
 
 BurggraafJ/grok-minecraft（无 License，荷兰语 Minecraft 自建服）；george988/read-and-decide（无 License）；devionjohnson/family-bots-forum（无 License，个人 Q&A）；PiyushAnand2006/EmberLing（逆向客户端，上轮已 skip）；nidao003/homebot（无关空仓）；Chatinker/GrokBot-myskills / hey-grok-android / light-usage-bar（已信号或 skip）；币安/交易、日文 Siri Shortcuts 教程转述（非中英仓）、marketplace 模板 dump。已列 x-cli-via-grok / bot2bot / grok-bot-backup / hermes-webhook / stackchan-grok-bridge / unfinished-botness 等不重推。
+
+## 2026-10-26 02:06 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 00:01→2026-10-26 02:06（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-18/24/25 + topic）+ WebSearch 补漏。深夜/周一凌晨侧重 GitHub；X 本窗轻扫交 X 大 V 雷达。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Jascenn/agent-task-panel | https://github.com/Jascenn/agent-task-panel | **macOS 悬浮面板聚合多 Agent 任务状态**：Codex / Claude Code / Cue / Grok Bot 实时 running·done·idle，菜单栏常驻计数，结束系统通知，点卡片跳回对应 agent；读本机会话文件（含 Grok Bot `sand-client-persistence`），有 DMG release 与中英 README。本轮最值得看 | Tools / Desktop status | `macos` `menubar` `multi-agent` `status` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建） |
+| GlennHasABeard/foreman | https://github.com/GlennHasABeard/foreman | **只读 X 运营小队模板**：Foreman 一键建整队或单装 Follow Audit / Follow Finder / Reply Queue 等 7 个 bot；统一 X OAuth（Read only）、花费台账与日上限，从不发帖/点赞/取关。可抄「只读+人审」护栏与费用估算 | Multi-bot / X ops | `x-api` `read-only` `crew` `spend-cap` `mit` | 0 / MIT | **GitHub**（10-22 建，本窗仍推） |
+| dwinter3/grokbot-face | https://github.com/dwinter3/grokbot-face | **Pixel Tablet 全屏胶囊眼桌面伴 + 屏保**：本机摄像头/麦克风反应（帧不落盘）、离线「Hey Grok Bot」唤醒打开官方 App、时钟/小游戏/AI 新闻条；无 Gradle 构建，默认可无 INTERNET。与已 skip 的 mikeg0/grokbot-face 人脸 demo 不同——本仓是完整 tablet launcher | Clients / Hardware | `android` `pixel-tablet` `wake-word` `screensaver` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建） |
+| lugovelb/chief-glasses-open | https://github.com/lugovelb/chief-glasses-open | **Meta Ray-Ban Display / 浏览器上看 Bot 回复**：加密 feed，一键 Yes/No/Later；作者标明用 Grok Bot 测过，也可接 Codex/Claude。GitHub Pages 模板自托管，消息 scramble。可穿戴入口样板 | Clients / Wearables | `ray-ban` `glasses` `encrypted` `approval` `mit` | ~3 / MIT | **GitHub**（10-21 建，本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| brandlll-lee/domos | https://github.com/brandlll-lee/domos | 自托管「类 Grok Bot」同伴（Pi/Codex/Claude Code 引擎）；**License pending**，先信号勿当平替收录 | Self-hosted / Early | **GitHub**（本窗仍推） |
+| jqlong17/grokbot-agent-loop | https://github.com/jqlong17/grokbot-agent-loop | DeepSeek Harness 可打断 agent-loop 插件，**致敬命名、非 Grok Bot 本体**；MIT，作 Inspired-by 信号 | Learning / Inspired-by | **GitHub**（10-25 本窗新建） |
+
+### Skip（本轮）
+
+wcccheryl/grok-icon-study（无 License，前端动效学习 demo）；danirukun/open-venue-db（黑客松场馆产品，非 Bot 玩法）；ahvren/shield-recs / BurggraafJ/grok-minecraft（无 License，上轮已 skip）；PiyushAnand2006/EmberLing（逆向客户端，已 skip）；Menziess/bot-widget（主对接 OpenBot，已 skip）；exa-pub/grokbot-cli 空 README；marketplace/SaaS dump、币安/交易。已列 Homebot / grok-bot-bridge / GrokChan / mcp-correo / x-cli-via-grok / bot2bot / grok-bot-backup / hermes-webhook / otis / me-layouts / stampede / usage-checkin / root-agent / AgentMindCloud 等不重推。

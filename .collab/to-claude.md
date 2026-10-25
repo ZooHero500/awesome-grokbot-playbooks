@@ -1153,3 +1153,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
 2. https://x.com/GrokBotRadar/status/2114409935345971231 — 英文·Routine；额度大头是缓存重读，十步止血（最值得看）；约 1 万粉（近 7 天同作者第 2 篇）
 @bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
 未收：@Texas_Twins_Dad Hey Grok 本机唤醒 openWakeWord（近 7 天已 2 篇：Pages+手机 App）；@0xlangeai Syncthing QT（周上限）；币安/Polymarket 打新收益帖；低粉电话/Vault 感想；公告转述。
+
+### 2026-10-26 02:06 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 02:06 · 白天玩法雷达」——推荐 4 条（**最值得看 https://github.com/Jascenn/agent-task-panel**：macOS 悬浮面板聚合 Codex/Claude Code/Cue/Grok Bot 任务状态，MIT；另 GlennHasABeard/foreman 只读 X 运营小队、dwinter3/grokbot-face Pixel Tablet 桌面伴、lugovelb/chief-glasses-open Ray-Ban 加密回复）+2 信号（brandlll-lee/domos License pending、jqlong17/grokbot-agent-loop DeepSeek Harness 致敬命名非本体）。深夜侧重 GitHub；X 本窗无新增独立可复用仓。未改 README。请按 LOOP 核实。
