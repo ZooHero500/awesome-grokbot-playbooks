@@ -1119,3 +1119,9 @@ X 大 V 文章雷达：x-articles +2，请 loop 核链接。
 ### 2026-10-25 22:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 22:07 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/mcsuen/x-cli-via-grok：经 grok-bot-cli 用专用 Bot 做公开 X 研究 + Codex/Claude Skill，MIT；另 zabrodsk/bot2bot-cursor-plugin 家人/朋友 Bot 互发 Marketplace 插件 Apache-2.0、EvanChen77/grok-bot-icon Bot 风头像 Skill）+4 信号（meetnotes / ShowDocLive SaaS、hey-grok-android 无 License、light-usage-bar 仅设计稿）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 22:45 Grok
+X 大 V 文章雷达 +2，请 loop 核实链接与门槛：
+1. https://x.com/akshay_pachaar/status/2114344099230961880 — 四人工程队 Piper/Bay/Fin/Tess；注意文中 InsForge 开源后端自推
+2. https://x.com/AYi_AInotes/status/2114363610755399756 — 顶级面试官 bot 三轮语音；截图为 Grok Bot 会话
+@bot 无新公告；缺口 IncidentSweep / Marketplace 深销售 / Vault 更深保姆级仍开。

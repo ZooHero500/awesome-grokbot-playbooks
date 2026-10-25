@@ -35,6 +35,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [在推文下回复 @bot 派调研活，出门用 X Chat 跟进，再存成 Skill + Routine](https://x.com/Mulight/status/2113548359294161124) — @Mulight · 2026-10-23 · 给出可直接复制的 @bot 派活提示词（查融资、代币分配、团队、社区讨论，出中文报告附来源），讲清公开回复只确认接单、完整结果回 Grok Bot 会话看，想在 X 里收结果走 X Chat 私信；流程跑顺后存 Skill 再设 Routine 定时跑；约 1.8 万粉，币圈语境，调研项目不等于投资建议 · 中文
 - [Grok Bot 从 0 到 1：用云电脑和插件搭一个能干活的 X 助手](https://x.com/xiaomovps/status/2094596141765857596) — @xiaomovps · 2026-09-01 · X 长文：从 Mac 安装、Grok 账号登录、认识对话/插件/云电脑，到让 bot 装 WARP 时先排除内网和控制通道、补齐 X 开发者账号/Default Project/App 再重连插件，最后给一条只读验证提示词；免费 API 额度数字是作者个人实测，非官方统一；09-01 的早期文章，套餐和界面以官方现状为准；约 1.5 万粉、约 190 赞 / 400 收藏 · 中文
 - [180 多条回复里挑出 8 个能照着试的 Grok Bot 用法](https://x.com/shenpengwdh/status/2113602107412541650) — @shenpengwdh · 2026-10-23 · 长帖：作者让 bot 先给评论分类再挑 8 例（X 运营早晚节奏、开车语音聊成文稿、主 bot 派活给助理 bot、一件大事配一个 bot、专用邮箱订 newsletter 再定时推、代管邮箱写草稿、盯竞品与用户反馈日报、筛值得回的评论），附上手建议：先交一件每天重复的小事、用可逐项核对的任务试靠谱度、发帖花钱对外发消息删东西自己把控；每例附原评论者；约 8.6k 粉 · 中文
+- [给自己建「顶级面试官」bot：汇报前三轮语音对轰找业务漏洞](https://x.com/AYi_AInotes/status/2114363610755399756) — @AYi_AInotes · 2026-10-25 · 可复制玩法：建面试官 bot，先喂汇报稿，第 1 轮听你讲 2 分钟、第 2 轮专挑你答不上的问题、第 3 轮点出 3 处含糊并给更好说法；约 7.5 万粉 · 中文
 - [Grok Bot 系列 1-2：下载、套餐和登录，三个坑提前避开](https://x.com/ai_goge/status/2113822097839685660) — @ai_goge · 2026-10-24 · X 长文：下载 → 选套餐 → 登录/关联 → 第一次打开 → 设置四页，点名 Plus 不含 Bot、关联永久不可解、App Store 首月优惠会自动续费；附可复制示范指令；约 3.4k 粉、约 51 赞 / 75 收藏 · 中文
 
 ## 中文 · 多 Agent 作战室
@@ -150,6 +151,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 6 个 Grok Bot 跑真实 YouTube 频道：一 bot 一职、先从数据分析 bot 起步](https://x.com/TheRyanRobinson/status/2113696594465841569) — @TheRyanRobinson · 2026-10-23 · 长帖：调研/脚本/包装/外联/分析+首席六岗分工，踩坑是别造全能 bot，共用一台云电脑要守住花钱与发帖权限 · 英文
 - [过夜五 bot 夜班：一岗一职 + Opus 5.5 写代码、Reviewer 清晨验收](https://x.com/0xDepressionn/status/2113984485137990129) — @0xDepressionn · 2026-10-24 · X 长文：Reviewer/Scout/Coder/Metrics/Lead 五岗、不可逆动作一律草稿、最慢可接受节奏排程，代码走终端 Claude Code 夜分支绝不碰 main；约 4.6 万粉 · 英文
 - [用一队 Grok Bot 跑 AI 时尚号：Director/Listening/Trends/Analytics 等分工 + 早中晚 routine](https://x.com/artimindArt/status/2114039831281938679) — @artimindArt · 2026-10-25 · X 长文：每岗独立聊天与记忆，早 8 点生产、日间定时发帖、夜间一页战报；人只写提示词、定镜和对外发言，附铁皮夹克五轮翻车（模型换错导致皮肤不对）与系统写死教训；约 5.2k 粉 · 英文
+- [用 Grok Bot 搭四人工程队：Piper/Bay/Fin/Tess + 磁盘交接](https://x.com/akshay_pachaar/status/2114344099230961880) — @akshay_pachaar · 2026-10-25 · 长帖：项目经理只写看板、后端/前端/测试各一岗，任务与 handoff 全落共享云电脑文件；附可复制岗位描述与 InsForge 后端 CLI 接法（文中有自家开源后端推广）；约 29 万粉、约 90 收藏；原 X Article 2026-08-26 · 英文
 
 ### Routine 雷达与额度
 
