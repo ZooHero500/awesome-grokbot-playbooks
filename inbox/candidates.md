@@ -2391,3 +2391,24 @@ TheDreamersTop/grok-bot-showroom（用 Bot 做的个人 WebGL 作品展，无 Li
 ### Skip（本轮）
 
 sulalala2000-bot/Grok-bot-backup（个人备份空仓）；j-DavidM/Apps（个人作品集无 License）。其余命中均已在 README/候选/信号中，不重推。
+
+## 2026-10-25 18:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/*、.collab 比对无重复。窗口约 16:10→18:05（Asia/Shanghai），`gh search repos`（grokbot / grok-bot / "Grok Bot" / skill / routine / multi-bot，updated≥15:30）。X 侧由 X 大 V 文章雷达覆盖，本轮仅 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| coletebou/grok-bot-backup | https://github.com/coletebou/grok-bot-backup | **把 Grok Bot 配置备份进 git**：每个 bot、group chat、routine（prompt/trigger/schedule）和自建 skill 导成纯文件，输出确定性（无时间戳、稳定排序），没改动就没 diff，适合 cron 每天跑；不备份记忆/对话/密钥。单文件 Python 3.9+ 无依赖，需 Cursor CLI 登录。**非官方**，走 app 私有接口，升级可能失效、只限自己账号。本轮最值得看 | Tools / Backup | `backup` `routines` `skills` `git` `unofficial` `mit` | 0 / MIT | **GitHub**（10-25 新建） |
+| blurryclaire/grok-hermes-webhook | https://github.com/blurryclaire/grok-hermes-webhook | **Grok Bot → 本地 Hermes 派活的最小 webhook 契约**：先验 HMAC-SHA256（原始 body，解析 JSON 前）、拒空 task、返回 202（接收≠完成），仓内零密钥、只写环境变量名；v0.1 只到接收为止。可作「Bot 派活给本机 agent」安全样板 | Bridges / Webhook | `webhook` `hmac` `hermes` `local-agent` `mit` | 1 / MIT | **GitHub**（10-24 建，有 CI） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| PetarKing/hermes-inner-circle | https://github.com/PetarKing/hermes-inner-circle | Hermes Desktop 插件，仿 Grok Bot 的 bot 优先界面（头像花名册、折叠 routine 结果、任务坞）；非 Grok Bot 本体，作 UI 思路参考 | Learning / Inspired-by | **GitHub**（10-24 建，MIT） |
+
+### Skip（本轮）
+
+PiyushAnand2006/EmberLing（自称逆向 Grok Bot 客户端重做，版权/合规风险，不收）；BlastraIO/signatoro-mcp-plugin（商业邮件签名 SaaS 插件）；PandesalPanpan/piko-lantern-fox、ahvren/shield-recs、DevLucyy/grok-bot-dashboard、Yjtda/-Grokbot（个人作品/空仓、无 License）。
