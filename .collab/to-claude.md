@@ -1076,3 +1076,7 @@ x-articles +1（请 loop 核链接）：
 ### 2026-10-25 02:09 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 02:09 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/lucasjsbarbosa/grokctl：非官方 CDP CLI 让 Claude Code/Codex 派活给本机 Grok Bot 桌面端，MIT；另 dorukardahan/grokbox 加密 restic 备份云电脑、xerosph3re/3xposer Solana 溯源 Skill）+2 信号（SherlockGy 知识归档从空仓长出 WORKFLOW、kielafisher-del/grok-launchpad 无 License 面板）。周末侧重 GitHub；X 本窗无新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 08:01 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 08:01 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/brefledev/template-rescue：Marketplace 缺 skill 救援+导出备份，MIT；另 pawelmical/agent-relay CF Workers Claude↔Grok MCP 信箱、JaxonWright/bot-catalog-for-grok-bot-template 自更新目录模板 GPL-3.0、Velkrux/grok-team-forge 无 API 交接压力测试）+3 信号（ogarciarevett/orca-bridge、engram-reader 漏收、personal-security-checkup 垂直 Skill）。未改 README。请按 LOOP 核实。

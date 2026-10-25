@@ -2267,3 +2267,28 @@ q98765tw/TodoApi-GrokBot（用 Bot 带练的 Todo demo，非玩法）；george98
 ### Skip（本轮）
 
 86ortega/MPV.CONFIG-Creation-Through-Grok-Bot（用 Bot 调的个人 mpv.conf，非玩法）；nico-lao/Grok-Bot（assets、无 License）；SpaceXAI/Greshamtrade 模板 dump、@moritzkremb webhook 模板营销帖（无新独立仓）、@fluixoo「Just Got Your Phone」交 X 大 V 雷达、@leerob 功能建议/额度吐槽、币安/交易、低粉 X Article。已列 omalauncher / team-builder / bot-beacons / telegram-bridge / video-mcp / hermes-webhook / broom 等不重推。
+
+## 2026-10-25 08:01 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 02:09→08:01（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24 + topic:grok-bot 更新）+ X `search_posts_all`×5（github/playbook/skills/中文/具名仓；本窗多为模板 dump、额度吐槽、功能建议，可复用仓以 GitHub 为主）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| brefledev/template-rescue | https://github.com/brefledev/template-rescue | **Marketplace 导入后缺 skill 的救援包**：校验创作者 GitHub bundle、从审过截图重建 skill、导出/备份/分享模板；零依赖 CLI（validate/preview/match）+ bot 指令/ROUTINE_POLICY；标明 experimental、不做账号写入。本轮最值得看 | Skills / Templates | `template` `skill-recovery` `export` `backup` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| pawelmical/agent-relay | https://github.com/pawelmical/agent-relay | **Cloudflare Workers 共享 MCP 任务信箱**：Claude（OAuth）↔ Grok Bot（Bearer）互相 `create/claim/complete`；可 webhook 门铃叫醒 Bot；SQLite DO。**勿与**范凯说/robbin 的 git 交接 agent-relay、YC 商业 Agent Relay 混淆——本仓是最小自托管 Workers 实现 | Bridges / Multi-agent | `mcp` `cloudflare` `claude` `mailbox` `webhook` `mit` | 0 / MIT | **GitHub**（10-24 本窗新建） |
+| JaxonWright/bot-catalog-for-grok-bot-template | https://github.com/JaxonWright/bot-catalog-for-grok-bot-template | **可复用「自更新 Bot 目录」模板**：分享链接拿到的是拷贝、官方不推更新——目录里每个 bot 带日更 routine，有新 release 才征询升级；Catalog Manager 一键建仓。示例仓 https://github.com/JaxonWright/bot-catalog-for-grok-bot（GPL-3.0，须注明） | Templates / Sharing | `catalog` `self-update` `routine` `template` `gpl-3.0` | 1 / GPL-3.0 | **X** @jxn_w + **GitHub**（模板 10-23；示例 10-24 本窗） |
+| Velkrux/grok-team-forge | https://github.com/Velkrux/grok-team-forge | **无 API 的多 agent 团队锻造器**：定角色/交接契约→确定性压力测试「Break My Team」→手工把提示贴进 Grok Chat 再贴回验证据；Evidence Kit 导出。与 team-builder 互补（本仓偏**契约测试**而非动态建队） | Multi-bot / Testing | `multi-bot` `handoff` `stress-test` `bridge` `mit` | 0 / MIT | **X** @Velkrux + **GitHub**（10-24 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| ogarciarevett/orca-bridge | https://github.com/ogarciarevett/orca-bridge | 受限 MCP：外置助手（Grok Bot/Cursor/Claude/Codex）只向 allowlist 的 Orca coordinator 发 typed 请求并读回执；MIT；10-11 建、本窗仍在推，此前漏收 | Bridges / Orca | **GitHub**（漏收补信号） |
+| ogarciarevett/engram-reader | https://github.com/ogarciarevett/engram-reader | 只读隐私过滤 Engram 记忆 MCP（六工具、禁写/SQL/shell）；兼容 Grok Bot；同作者、本窗更新，先信号 | Skills / Memory MCP | **GitHub**（漏收补信号） |
+| Emuthmartinez/personal-security-checkup | https://github.com/Emuthmartinez/personal-security-checkup | 分国别个人安全体检 Skill + AGENTS.md + 家庭 Security Coach 模板；MIT；10-24 早建此前漏收，垂直向先信号 | Skills / Vertical | **X** + **GitHub**（漏收信号） |
+
+### Skip（本轮）
+
+MyWestLord/crawlbot（memecoin CA）；Robertzu43/building-with-grok-bot（个人 showcase、无 License）；astrodestroyergithub/tamoai-cloud-agents（无 License 托管平台）；MichaelRobotics/whop-apps-gateway-plugin（商业 Whop）；AgentWorkforce 商业 Agent Relay 技能（非本轮 pawelmical 开源仓）；SpaceXAI/Greshamtrade/kinox1out 模板 dump；HarnessRouter 旧仓营销；币安预测/交易；@leerob 功能建议；低粉 X Article。已列 grokctl / grokbox / 3xposer / omalauncher / team-builder / telegram-bridge 等不重推。
