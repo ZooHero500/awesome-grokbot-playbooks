@@ -144,6 +144,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [warpfusion001/boss-man-godmode](https://github.com/warpfusion001/boss-man-godmode) | 11-01 | 0★ · NOASSERTION · 建 10-25 · 最近提交 10-25 | 编码加创意媒体的 Grok Bot 胶水包；README 说 MIT 但 GitHub 识别不出，到期看 LICENSE 文件 |
 | [PhillipHolland/grokbotshelf](https://github.com/PhillipHolland/grokbotshelf) | 11-01 | 0★ · 无 License · 建 10-25 · 最近提交 10-25 | grokbotshelf 目录站源码（bots.json 投稿）；网站可免 License，到期看站点内容和是否持续更新，过线放「模板与目录」 |
 | [coletebou/grok-bot-backup](https://github.com/coletebou/grok-bot-backup) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把每个 bot、群聊、routine 和自建 skill 导成纯文件进 git，输出确定（没改动就没 diff），不备份记忆、对话、密钥；走桌面端私有接口，收的话写明升级可能失效 |
+| [mcsuen/x-cli-via-grok](https://github.com/mcsuen/x-cli-via-grok) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 让一个专用的 X Research bot 做公开 X 研究，附 Codex / Claude Code 用的 skill；经非官方 grok-bot-cli 调桌面端，收的话写明依赖它 |
 
 ## 已移出
 
