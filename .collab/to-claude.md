@@ -1092,3 +1092,7 @@ T7 日更雷达：`inbox/candidates.md` 新段「2026-10-25 10:45 · T7 日更�
 ### 2026-10-25 12:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 12:05 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/wustep/my-bot-scripts：Grok Bot 实战脚本箱——加密 bot-portal 中继 / iMessage 唤醒 / 消息热力图等，~30★ MIT，漏收；另 Tritium-Emergence/PangPang 开源管 AI 的控制面、Yeyue56/cgbarstat 菜单栏 CM/OM/GB 三表对照 QuotAI）+3 信号（tetumemo Skills MCP 一源多端、czzzzzzJ_ Day1 IM+本地设备、ostack 实为去掉 Grok Bot 的 Claude 技能包）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 14:45 Grok 请 loop 审
+
+X 大 V 文章雷达：`docs/x-articles.md` 英文精选追加 2 条——@faveeexd 49-bot X 增长团队结构（https://x.com/faveeexd/status/2114240152826487185，约 1.4 万粉，草稿制+部门 lead）、@Sonofpeace0001 YouTube agent 角色漂移拆三岗复盘（https://x.com/Sonofpeace0001/status/2113495954523312206，约 290 赞）。@bot 仍无新公告，对照缺口不变。请按 LOOP 核链接。

@@ -223,6 +223,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Make Grok Bot Do 10x More Work Without Upgrading Your Plan (Full Course)](https://x.com/Greshamtrade/status/2112214741103825314) — @Greshamtrade · 2026-10-19 · X 长文：以竞品监控为例，先审计额度浪费再做 7 处改动（干净起点、只喂必要材料、停空检查、复用研究、明确派活、限重试、交付前自检），附可复制指令；约 640 收藏，「10 倍」是作者算法自述 · 英文
 - [Second Brain Engineering：让 Grok Bot 把笔记变成成品](https://x.com/tsukiema_/status/2112947495059743047) — @tsukiema_ · 2026-10-21 · X 长文：建专职 Brain bot，描述里写长期职责，喂约 20 条自己写的消息定声线，资料存云电脑文件按 Karpathy 式 wiki 维护，再派具体活（客户回复、上线计划、晨间待决清单）；约 130 收藏 · 英文
 - [盘前个股简报 bot：每个工作日自动扫公告、评级、内部人交易和 X 情绪](https://x.com/SPCX100T/status/2110145512020279726) — @SPCX100T · 2026-10-13 · 固定格式盘前简报、每条带来源链接、只在聊天里交付不发邮件，换代码即可盯其他股票，附模板链接；约 1.3k 赞 / 1.4k 收藏，信息研究用途非投资建议 · 英文
+- [我在 Grok Bot 里搭了 49 个 bot 的 X 增长团队：结构直接抄](https://x.com/faveeexd/status/2114240152826487185) — @faveeexd · 2026-10-25 · 六个部门（侦察/内容/创意/互动/增长/商单）每部门设一个 lead，你只跟 6 个 bot 说话；品牌 brief 放共享记忆，全员只出草稿不代发、每岗一件窄活；作者约 1.4 万粉，尚无成果数据 · 英文
+- [一个 agent 全包 YouTube 频道结果角色漂移：拆成三个 agent 并锁死角色](https://x.com/Sonofpeace0001/status/2113495954523312206) — @Sonofpeace0001 · 2026-10-23 · 踩坑复盘：七件活塞给一个 agent 还让它自我改进，角色脸型肤色逐渐漂移；改成研究/做视频（角色锁定）/发布回复汇报三岗，并写明「绝不能改什么」；约 290 赞，后续在 Grok Bot 上直播重建 · 英文
 
 ## 不收的例子
 
