@@ -90,6 +90,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一句话让 Grok Bot 帮你网购：1Password 专用密码库 + 原币种支付 + 一次性卡](https://x.com/taresky/status/2113621639594402284) — @taresky · 2026-10-23 · 四步配置：连 1Password 后把愿意共享的生活类登录复制进专用库、给一次收件人信息、规定只用商品原币种付款（避开 DCC 换汇坑）、优先 Amazon Pay/Stripe，要填卡时用一次性卡或用完即删的虚拟卡 · 中文
 - [外部服务通过 Grok Bot 低成本检索 X：Codex→BDK/Webhook 两套路](https://x.com/Bytec99/status/2113863359988908395) — @Bytec99 · 2026-10-24 · X 长文：用 Bot 内置 X 搜索替代付费 X API；方案一 Cloudflare Worker+Webhook 领取回传，方案二本机 BDK+MCP 直连，附可复制提示与示例仓；约 4.8k 粉、约 51 收藏 · 中文
 - [Grok Bot vs Muse 深度测评 11 条：多端登录、adb 控安卓起号、CF Tunnel、Bot 调 Claude/Codex CLI](https://x.com/Chris_Defi/status/2114300755171745972) — @Chris_Defi · 2026-10-25 · 几周真实使用复盘：Bot 同时登录 Mac/Linux/iOS/Windows 用手机跨端操作；几台安卓外接 Linux 让 Bot 用 adb 在手机上完成选题、发布、评论并蒸馏成 skill 复用；常驻进程走 CF Tunnel 对外；给 Bot 装 Claude/Codex CLI 让它派活拆解复刻视频；交易只适合盯盘执行、策略靠人；自动发布和评论注意平台规则；约 11.5 万粉 · 中文
+- [一句话接上官方飞书插件：弹窗授权，比飞书 CLI 稳](https://x.com/KinGao476942/status/2114228969465889003) — @KinGao476942 · 2026-10-25 · 对照 @bot：连接器（飞书）；对 bot 说「请你弹窗、帮我连接到我的飞书插件应用」再按指引授权，用来管文档和知识库；约 1.2 万粉、约 53 赞 / 49 收藏 · 中文
+- [周末派 Bland 外呼：Grok Bot 连打 5 通帮约 IRS ITIN](https://x.com/sxzz/status/2112344654683492392) — @sxzz · 2026-10-20 · 电话打不进就设周一 7 点起自动拨；Bot 自助注册 Bland、共打 5 通并找到留号回拨入口，7:40 收到 IRS 回电；第三方外呼非官方原生电话，护栏以官方说明为准；约 1.4 万粉、约 153 赞 / 125 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
