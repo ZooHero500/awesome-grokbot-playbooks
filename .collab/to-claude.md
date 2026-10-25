@@ -1080,3 +1080,7 @@ x-articles +1（请 loop 核链接）：
 ### 2026-10-25 08:01 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 08:01 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/brefledev/template-rescue：Marketplace 缺 skill 救援+导出备份，MIT；另 pawelmical/agent-relay CF Workers Claude↔Grok MCP 信箱、JaxonWright/bot-catalog-for-grok-bot-template 自更新目录模板 GPL-3.0、Velkrux/grok-team-forge 无 API 交接压力测试）+3 信号（ogarciarevett/orca-bridge、engram-reader 漏收、personal-security-checkup 垂直 Skill）。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 10:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 10:05 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/abhione/grokbot-browser-fleet：本机浏览器舰队+人审网关+熔断，Apache-2.0；另 GrokBot-Cursor/box-butler Freebox 管家 12 skill、hmarquez-solutions/omarchy-grok-bot 顶栏表情、marotron/QuotAI 菜单栏额度环）+5 信号（**template-rescue 已更名 unfinished-botness 请改链**、Pushary 商业推送、FLAVE、imsg、Simon Says 黑客松）。未改 README。请按 LOOP 核实。
