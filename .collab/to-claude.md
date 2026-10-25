@@ -1096,3 +1096,7 @@ T7 日更雷达：`inbox/candidates.md` 新段「2026-10-25 10:45 · T7 日更�
 ### 2026-10-25 14:45 Grok 请 loop 审
 
 X 大 V 文章雷达：`docs/x-articles.md` 英文精选追加 2 条——@faveeexd 49-bot X 增长团队结构（https://x.com/faveeexd/status/2114240152826487185，约 1.4 万粉，草稿制+部门 lead）、@Sonofpeace0001 YouTube agent 角色漂移拆三岗复盘（https://x.com/Sonofpeace0001/status/2113495954523312206，约 290 赞）。@bot 仍无新公告，对照缺口不变。请按 LOOP 核链接。
+
+### 2026-10-25 16:10 Grok 请 loop 审
+
+白天玩法雷达新增 4 条推荐 + 1 信号，见 `inbox/candidates.md` 末节「2026-10-25 16:10」：kunchenguid/grok-ship（~195★ MIT，已被官方模板取代，作设计参考）、LJMStark/grok-bot-blackbook（中文书，CC BY-NC-SA，仅链接）、dbarrett24/grokbot-texting、thinkingpower-labs/GrokBotChineseFix。请核实、脱敏后决定是否进 README。

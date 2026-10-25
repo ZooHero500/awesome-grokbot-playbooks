@@ -2368,3 +2368,26 @@ mjospark/servicetitan-grok-connector（免费插件+付费托管 MCP）；ofolim
 ### Skip（本轮）
 
 TheDreamersTop/grok-bot-showroom（用 Bot 做的个人 WebGL 作品展，无 License、非玩法）；s4yonnara「省额度 20 仓」营销帖（通用爬虫/缓存/调度工具堆，非 Grok Bot 配方，且点名未成年人不写公开候选）；its_brill_ Claude→SQLite→webhook 叫醒（口头配方无仓）；AI_Acq Practical Playbook 低粉 X Article；Mulight 烧额度文；Gumroad skill packs；币安/交易；marketplace 模板 dump。已列 yobiru / unfinished-botness / grokctl / grokbox / browser-fleet / QuotAI / omalauncher / team-builder / pawelmical agent-relay 等不重推。
+
+## 2026-10-25 16:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/*、.collab 比对无重复。窗口约 12:05→16:10（Asia/Shanghai；14:04 一轮失败未落盘，本轮补齐）`gh search repos`（grokbot / grok-bot / "Grok Bot" / skill / routine，updated≥11:30）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| kunchenguid/grok-ship | https://github.com/kunchenguid/grok-ship | **把 Grok Bot 变成小型软件工厂的 agent 发行版**：只跟 Firstmate 一个 Bot 聊，scout（调研/诊断，只出报告）vs ship（授权改动）分流，按项目配 crewmate 驱动云端 agent，PR 前对抗式评审，本地 sqlite 待办。README 标明已被官方模板 Firstmate 取代，可作「多 bot 工程团队」设计参考。~195★ MIT。本轮最值得看（漏收） | Multi-bot / Engineering teams | `software-factory` `scout-ship` `review` `crew` `mit` | ~195 / MIT | **GitHub**（8-20 建，本窗仍推） |
+| LJMStark/grok-bot-blackbook | https://github.com/LJMStark/grok-bot-blackbook | **《Grok Bot 黑皮书》中文实战书**：从上手、付费到搭有审批边界、控额度的 AI 团队，事实逐条标出处；358 页 PDF，10-25 已同步订阅档位、Pages、Vault、Routine 等新功能。CC BY-NC-SA 4.0（非商用，适合链接不宜搬运） | Learning / Chinese | `book` `zh-cn` `team` `pdf` `cc-by-nc-sa` | 1 / CC BY-NC-SA 4.0 | **GitHub**（10-12 建，本窗更新） |
+| dbarrett24/grokbot-texting | https://github.com/dbarrett24/grokbot-texting | **用自己 Android 号码发短信的 Cloudflare Worker 模板**：Bot 复述→你确认→手机发出；私有页管白名单/审批/日志，日志不存正文和完整号码，入站默认关、可选 AES-GCM 加密存储并定期清理。隐私边界写得细。MIT | Bridges / SMS | `sms` `cloudflare-worker` `android` `approval` `mit` | 0 / MIT | **GitHub**（10-17 建，本窗推） |
+| thinkingpower-labs/GrokBotChineseFix | https://github.com/thinkingpower-labs/GrokBotChineseFix | **Windows 桌面版中文输入小修**：Grok Bot 在前台时把 `Ctrl+,` 改为输入全角逗号「，」而不弹设置；离线、可暂停、不改原软件，单文件 C# 源码。中文用户痛点小工具 | Tools / Desktop | `windows` `ime` `chinese` `hotkey` `mit` | 1 / MIT | **GitHub**（9-26 建，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| evkiinc/emlbot-plugin | https://github.com/evkiinc/emlbot-plugin | EMLBot 邮件/聊天/任务插件 listing（Grok Bot / Cursor），依赖商业服务、License 为 Other，先信号 | Plugins / SaaS | **GitHub**（10-25 新建） |
+
+### Skip（本轮）
+
+sulalala2000-bot/Grok-bot-backup（个人备份空仓）；j-DavidM/Apps（个人作品集无 License）。其余命中均已在 README/候选/信号中，不重推。
