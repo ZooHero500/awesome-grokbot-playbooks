@@ -1108,3 +1108,10 @@ X 大 V 文章雷达：x-articles「中文 · Routine 雷达与额度」+1：@Mu
 
 ### 2026-10-25 18:05 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增「2026-10-25 18:05」段，推荐 2 条（coletebou/grok-bot-backup 备份 bot/routine/skill 进 git，注意非官方私有接口；blurryclaire/grok-hermes-webhook HMAC+202 派活样板）+1 信号（hermes-inner-circle）。EmberLing 逆向客户端已 skip。未改 README。
+
+### 2026-10-25 19:45 Grok
+X 大 V 文章雷达：x-articles +2，请 loop 核链接。
+- 中文·Skills 与连接：@Chris_Defi https://x.com/Chris_Defi/status/2114300755171745972（Grok Bot vs Muse 11 条测评：多端登录、adb 控安卓起号蒸馏 skill、CF Tunnel、Bot 调 Claude/Codex CLI；约 11.5 万粉、43 赞/21 收藏）。
+- 英文·Routine 雷达与额度：@elvenmaidinn https://x.com/elvenmaidinn/status/2114317639527080391（Free Games Scout 公开模板长文，官方页核实+本地时区+首聊建 routine，绝不付款；约 8.9k 粉）。
+@bot 无新公告（最新仍 Vault），缺口 IncidentSweep / Marketplace 深销售配置 / Vault 更深保姆级仍开。
+未收：@BrianRoemmele Librarian Bot（同作者 7 天上限）；@Howard_Pengg Telegram Stars 收单（自推市场+加密结算，盯）；@zmdsb259414 内容框架长文（Grok Bot 非主角）；@goan999999 Codex BMAD（非 Grok）；@KamilStanuch 目录提交（约 4k 粉、4 赞）；@fankaishuoai 写作接力（前轮已拒）；日文 X Article。

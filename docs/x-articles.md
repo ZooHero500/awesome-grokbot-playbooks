@@ -84,6 +84,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot Pages 新手保姆级教程：报告、备忘录、仪表盘实操](https://x.com/0xlangeai/status/2113561892505763850) — @0xlangeai · 2026-10-23 · X 长文：先定收录起始日、统一北京时间、保留原链接三件事，再分三步做报告页（管材料）、备忘录页（管已定决定和待补项）、仪表盘页（带图表，把「资料查到」和「亲手跑过」分开），三段提示词可直接复制，进阶是在推文下 @bot 把长文转成 Page；约 1 万粉 · 中文
 - [一句话让 Grok Bot 帮你网购：1Password 专用密码库 + 原币种支付 + 一次性卡](https://x.com/taresky/status/2113621639594402284) — @taresky · 2026-10-23 · 四步配置：连 1Password 后把愿意共享的生活类登录复制进专用库、给一次收件人信息、规定只用商品原币种付款（避开 DCC 换汇坑）、优先 Amazon Pay/Stripe，要填卡时用一次性卡或用完即删的虚拟卡 · 中文
 - [外部服务通过 Grok Bot 低成本检索 X：Codex→BDK/Webhook 两套路](https://x.com/Bytec99/status/2113863359988908395) — @Bytec99 · 2026-10-24 · X 长文：用 Bot 内置 X 搜索替代付费 X API；方案一 Cloudflare Worker+Webhook 领取回传，方案二本机 BDK+MCP 直连，附可复制提示与示例仓；约 4.8k 粉、约 51 收藏 · 中文
+- [Grok Bot vs Muse 深度测评 11 条：多端登录、adb 控安卓起号、CF Tunnel、Bot 调 Claude/Codex CLI](https://x.com/Chris_Defi/status/2114300755171745972) — @Chris_Defi · 2026-10-25 · 几周真实使用复盘：Bot 同时登录 Mac/Linux/iOS/Windows 用手机跨端操作；几台安卓外接 Linux 让 Bot 用 adb 在手机上完成选题、发布、评论并蒸馏成 skill 复用；常驻进程走 CF Tunnel 对外；给 Bot 装 Claude/Codex CLI 让它派活拆解复刻视频；交易只适合盯盘执行、策略靠人；约 11.5 万粉 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -169,6 +170,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [True Circle：用 Grok Bot 按真实对话排出你的核心圈层](https://x.com/JayDook/status/2113329700172927219) — @JayDook · 2026-10-23 · 只读扫近 15/30/60 天公开帖、回复与提及，按真实对话分组打分；三种视图（常聊/粉丝含潜水点赞/互关来回），可换主题或自述；开源模板可装 · 英文
 - [跑 22 个 bot 不撞额度上限的 10 条规则](https://x.com/byalexai/status/2113623068018917419) — @byalexai · 2026-10-23 · 长帖：知识放 bot 外只按索引取单文件、记忆只存长期事实、会增长的数据进表格、重活交给已付费的编码工具、先连接器后浏览器、一条消息批量派三件事、一 bot 一岗、routine 降频、成熟流程存 skill、每周五看用量砍无效 routine；作者约 7.3k 粉 · 英文
 - [加密作业 bot：早报 / 盯盘 / 研报 / 骗 DM 检查，绝不碰钱包](https://x.com/CryptoVerse_Co/status/2113977677174698485) — @CryptoVerse_Co · 2026-10-24 · 六段可复制提示：安全规则、7:30 早报 routine、BTC 异动才喊、代币研报必须引源、骗 DM 只看红旗不开链、Page 盯盘；登录进 Vault、交易所 API 只读、审批卡常开；约 9.3 万粉 · 英文
+- [Free Games Scout：只认官方商店、标清免费类型、换算本地截止时间的找免费游戏 bot](https://x.com/elvenmaidinn/status/2114317639527080391) — @elvenmaidinn · 2026-10-25 · X 长文+公开模板：RSS 只当线索、每条去官方页核实，标「永久领取/需订阅/限时试玩/Demo」，评分不编、截止时间换算到你的时区，首聊先问频率/商店/时区再建 routine，源清单打包成 skill；默认只给领取链接、绝不付款、遇验证码交还人工；约 8.9k 粉 · 英文
 
 ### Skills 与连接
 
