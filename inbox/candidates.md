@@ -2319,3 +2319,28 @@ MyWestLord/crawlbot（memecoin CA）；Robertzu43/building-with-grok-bot（个�
 ### Skip（本轮）
 
 exa-pub/grokbot-cli（空 README）；freehelpdesk/jetkvm-mcp（空）；AgentWorkforce/skills 商业 Agent Relay；marketplace 模板 dump（Tax Return / Drug Savings / Animation Studio / grokbotshelf）；@sylvieailab「¥67 省钱注册」；Gumroad skill packs；Velkrux/team-forge / template-rescue 旧链已列（仅记更名）；币安/交易。已列 grokctl / grokbox / omalauncher / team-builder / pawelmical agent-relay 等不重推。
+
+## 2026-10-25 10:45 Asia/Shanghai · T7 日更雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。周末窗口约近 24h（Asia/Shanghai 10-24 10:37→10-25 10:45）`gh search` / `gh api search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24 + topic 更新）+ X `search_posts_all`×4（github.com / playbook·skills / 中文玩法 / multi-bot；本窗 X 侧多为 marketplace 模板 dump、额度/省钱文、功能建议，**可复用仓以 GitHub 为主**）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| chekusu/yobiru | https://github.com/chekusu/yobiru | **跨机 agent 互聊层（Tailscale）**：消息/结构化数据/文件/按策略叫醒；**Friends** 用分享链让别人的 agent 经网关跟你选定的 Bot 聊（含 Grok Bot 安装与恢复说明）。私聊可无中心存；公开 bot 网关可自托管。~307★ MIT。本轮最值得看（此前仅在 X 当产品提过、未进候选表） | Bridges / Multi-bot | `messaging` `tailscale` `multi-agent` `friends` `grok-bot` `mit` | ~307 / MIT | **X** @Hacken2077 引用 @turingou + **GitHub**（漏收补入） |
+| jimc1682000/story-compass | https://github.com/jimc1682000/story-compass | **用个人知识地图「边际增益」评估书/漫画/动画/电影/影集**：纯提示词 + Skill + Grok Bot 三角色入口；附 ROLE/评分规范/地图契约与首跑指南；MIT、有 CI。中文垂直 Skill 范例 | Skills / Vertical | `skill` `knowledge-map` `reading` `zh-tw` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建） |
+| yohei1126/grok-bot-ops | https://github.com/yohei1126/grok-bot-ops | **多 bot 运维卫生文档仓**（非可执行 Skill）：共享规则、何时建/退役 bot、房间与文档工人分工、月度审计清单；强调 ops 规则放共享笔记而非 Agent Skills。Apache-2.0 纯文档 playbook | Skills / Ops playbooks | `ops` `multi-bot` `docs` `audit` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-25 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| PhillipHolland/grokbotshelf | https://github.com/PhillipHolland/grokbotshelf | grokbotshelf.com 静态目录源码（bots.json 投稿）；与 X @thecsguy「过 110 bots」同向；**无 License**，先信号（此前 skip 只针对 marketing dump） | Templates / Directory | **X** @thecsguy + **GitHub**（10-25 新建） |
+| warpfusion001/boss-man-godmode | https://github.com/warpfusion001/boss-man-godmode | 编码+创意媒体「神级」Grok Bot 胶水包（Astra 环、免费 LLM 路由、FFmpeg）；README 称 MIT 但 SPDX 为 Other，先信号 | Skills / Creative pack | **GitHub**（10-25 新建） |
+| LKTechLLC/journal2note-plugin | https://github.com/LKTechLLC/journal2note-plugin | Journal2Note 工时条目 OAuth MCP 连接器 listing（manifest+README）；依赖商业账号，先信号 | Plugins / SaaS | **GitHub**（10-25 新建，MIT） |
+| Ladbaby/TresorBot | https://github.com/Ladbaby/TresorBot | 自托管多 agent harness（Sun 仪表盘 + Earth 跑机），对标 Grok Bot/Dots/Muse；README 标明尚未日常可用，先信号 | Self-hosted / Early | **GitHub**（10-20 建，本窗仍推，MIT） |
+
+### Skip（本轮）
+
+mjospark/servicetitan-grok-connector（免费插件+付费托管 MCP）；ofolimensah/cardiology-x-bot（自动发 X）；xudong19951216/ai-dev-workflow-lab（无 License 个人协作实验）；ViolinConcerto/five-nights-with-ai-track4 / BR1K0/grokbot-project（黑客松无 License，BR1K0 已信号）；nico-lao/Grok-Bot、Robertzu43/building-with-grok-bot、astrodestroyergithub/tamoai-cloud-agents、george988/kindle-courier、freehelpdesk/jetkvm-mcp（空/无 License）；marketplace 模板 dump（Tax Return / Drug Savings / Animation Studio / Gumroad skill packs）；@sylvieailab「¥67 省钱注册」；币安/交易；HarnessRouter 旧仓营销。已列 unfinished-botness / grokctl / grokbox / omalauncher / browser-fleet / box-butler / claudia-grokbot / team-builder / pawelmical agent-relay 等不重推。

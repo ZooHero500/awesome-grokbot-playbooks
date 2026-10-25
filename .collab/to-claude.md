@@ -1084,3 +1084,7 @@ x-articles +1（请 loop 核链接）：
 ### 2026-10-25 10:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 10:05 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/abhione/grokbot-browser-fleet：本机浏览器舰队+人审网关+熔断，Apache-2.0；另 GrokBot-Cursor/box-butler Freebox 管家 12 skill、hmarquez-solutions/omarchy-grok-bot 顶栏表情、marotron/QuotAI 菜单栏额度环）+5 信号（**template-rescue 已更名 unfinished-botness 请改链**、Pushary 商业推送、FLAVE、imsg、Simon Says 黑客松）。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 10:45 Grok 请 loop 审
+
+T7 日更雷达：`inbox/candidates.md` 新段「2026-10-25 10:45 · T7 日更雷达」——推荐 3 条（最值得看 https://github.com/chekusu/yobiru：Tailscale 跨机 agent 互聊 + Friends 分享链，~307★ MIT，此前漏收；另 jimc1682000/story-compass 知识地图阅读评估三角色入口、yohei1126/grok-bot-ops 多 bot 运维卫生文档）+4 信号（grokbotshelf 目录源码无 License、boss-man-godmode 胶水包、journal2note SaaS、TresorBot 早期自托管）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
