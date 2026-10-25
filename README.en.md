@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-111-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-112-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **111** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **112** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **207** | curated community tutorials and X articles ([33 tutorials](docs/community-tutorials.md) + [174 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
@@ -61,9 +61,9 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
-- **10-25** Four rechecked repos added: [grok-bot-agents](https://github.com/AgwaB/grok-bot-agents), which hands heavy work to Claude Code / Codex on the bot's cloud computer; the household-reminders template [Follow-Through](https://github.com/jeffgreendesign/follow-through); [Bot Monitoring Room](https://github.com/Olivia295/grokbot-team-monitor-UI), your bot team as a living office; and the ESP32 desk pet [Grok Bot ESP32 Companion](https://github.com/vliuyt/grok-bot-esp32-bridge); articles from top X creators grew to 174
+- **10-25** Added the Omarchy bar plugin [Grok Bot for Omarchy](https://github.com/hmarquez-solutions/omarchy-grok-bot): one face tells you whether your bots are working, have unread news or are waiting on you; articles from top X creators grew to 174
+- **10-25** Four rechecked repos added: [grok-bot-agents](https://github.com/AgwaB/grok-bot-agents), which hands heavy work to Claude Code / Codex on the bot's cloud computer; the household-reminders template [Follow-Through](https://github.com/jeffgreendesign/follow-through); [Bot Monitoring Room](https://github.com/Olivia295/grokbot-team-monitor-UI), your bot team as a living office; and the ESP32 desk pet [Grok Bot ESP32 Companion](https://github.com/vliuyt/grok-bot-esp32-bridge)
 - **10-24** Added the family dinner-planning template [Personal Chef](https://github.com/anselmcmakin/personal-chef): a week of dinners planned around allergies and budget, with recipe cards, a grocery list and a filled Walmart cart waiting for you to check out
-- **10-24** Added three: [grokbot-executive-team](https://github.com/meir-bot/grokbot-executive-team), an exec bot team built from one prompt; [grokbot-skills](https://github.com/dallintwatts/grokbot-skills), which installs a template's skills and checks their sha256; and the Chinese directory [Grok Bot Hub](https://github.com/ddhjy/grok-bot-hub)
 
 Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md).
 
@@ -71,7 +71,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 
 - [Official & SDK](#-official--sdk) (5) - official docs, marketplace, SDKs and CLIs
 - [Templates & directories](#-templates--directories) (11) - template libraries, bot-share indexes and use-case sites; check here first
-- [Skills & Playbooks](#-skills--playbooks) (36) - skills, MCP, single templates, copy-paste profiles
+- [Skills & Playbooks](#-skills--playbooks) (37) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (23) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (7) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (4) - global support, WeChat, Chinese configs
@@ -139,6 +139,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Android Grok Home](https://github.com/drumpat01/android-grok-home) - Unofficial Android home launcher (Android 11+, a plain APK, no flashing): an animated avatar wall shows which bots are working, which have a hand raised for you and which just finished, with per-bot voice and text chat. It reaches your own existing bots through a BDK (@cursor/bdk) bridge on your computer; no accounts or keys ship with it, and there is a Demo mode. You build the APK yourself and keep the bridge running on your computer; keep its port on loopback and use private Tailscale for remote access. Some features rely on undocumented interfaces and may break on upstream updates. Tags: `android` `launcher` `bdk` `voice`
 - [Grokbot Widget](https://github.com/imranbarbhuiya/grokbot-widget) - A floating macOS companion (macOS 14+): a draggable character with an expandable chat panel that talks to one of your existing bots through the BDK; release builds bundle Node, so no Terminal needed. The local server binds to loopback only; releases are not notarized, so you allow the app once in System Settings; a mistyped bot name can make the BDK create an empty bot. Tags: `macos` `widget` `bdk`
 - [TetherBot](https://github.com/GrokkingGrok/TetherBot) - Tethers a GNOME desktop to Grok Bot: top-bar status, notifications and quick actions, sending to your bots through a webhook routine and reading their output back from a private GitHub data repo. Runs a user-level daemon that keeps secrets in the system keyring. Pre-alpha, GPL-2.0-or-later. Tags: `gnome` `linux` `desktop` `webhook`
+- [Grok Bot for Omarchy](https://github.com/hmarquez-solutions/omarchy-grok-bot) - An Omarchy (Arch Linux desktop) bar plugin: a Grok Bot face that shows asleep, idle, working, unread or waiting, with the name of the bot that needs you. Click for a panel that puts blocked bots and their reasons first, then every other bot with its last line and unread count. It only reads the state files the desktop app leaves on disk, never talks to servers, reads credentials or writes into the app's folders; "working" is inferred from file writes, so a slow reply can look idle. Tags: `linux` `desktop` `status`
 - [Agent Harbor](https://github.com/TommyBez/agent-harbor) - A macOS workspace that keeps Claude Code and Codex sessions alive in dedicated tmux sessions: you watch, take over or resume them in the desktop app, and Grok Bot drives the same controller through the desktop app's local command execution, with no public server. That means letting the bot run commands on your computer; it is an early experimental release, so try it on an authorized test project first. Tags: `claude-code` `codex` `tmux` `macos`
 - [grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) - A local MCP bridge for Windows: hand one scoped coding task to a Grok Bot routine exactly once, then verify it with Git diffs and frozen evidence instead of a "done" reply. An administrator fixes the Git root, allowed files and test command first; an offline demo runs without any account. Marked experimental beta and unofficial by the author; has a Chinese README. Tags: `mcp` `windows` `coding` `routine`
 - [grokbot-skills](https://github.com/dallintwatts/grokbot-skills) - A workaround for template imports that don't carry skills: on first chat the bot asks "Want me to finish setting up?", and on yes it downloads its skills from a pinned commit, checks each file's sha256 and size against `PINS.txt`, and installs nothing that doesn't match. The repo holds the skills for two templates, Second Opinion Council and Fleet Doctor; the pinning approach carries over to any template you distribute. MIT. Tags: `skills` `templates` `sha256`

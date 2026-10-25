@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-111-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-112-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **111** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **112** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
 | **207** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 174），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
@@ -61,9 +61,9 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
-- **10-25** 复查到期收进 4 个：在 bot 云电脑上把重活派给 Claude Code / Codex 的 [grok-bot-agents](https://github.com/AgwaB/grok-bot-agents)、家务责任提醒模板 [Follow-Through](https://github.com/jeffgreendesign/follow-through)、把 bot 团队画成办公室的 [Bot 监控室](https://github.com/Olivia295/grokbot-team-monitor-UI)、ESP32 圆屏陪伴宠物 [小糖](https://github.com/vliuyt/grok-bot-esp32-bridge)；X 大 V 文章增至 174 篇
+- **10-25** 新增 Omarchy 顶栏插件 [Grok Bot for Omarchy](https://github.com/hmarquez-solutions/omarchy-grok-bot)：一张小脸告诉你 bot 在干活、有未读还是在等你；X 大 V 文章增至 174 篇
+- **10-25** 复查到期收进 4 个：在 bot 云电脑上把重活派给 Claude Code / Codex 的 [grok-bot-agents](https://github.com/AgwaB/grok-bot-agents)、家务责任提醒模板 [Follow-Through](https://github.com/jeffgreendesign/follow-through)、把 bot 团队画成办公室的 [Bot 监控室](https://github.com/Olivia295/grokbot-team-monitor-UI)、ESP32 圆屏陪伴宠物 [小糖](https://github.com/vliuyt/grok-bot-esp32-bridge)
 - **10-24** 新增家庭周菜单模板 [Personal Chef](https://github.com/anselmcmakin/personal-chef)：按过敏和预算排一周晚餐，出菜谱卡、购物单，再填好 Walmart 购物车等你结账
-- **10-24** 新增 3 个：一句提示词搭高管 bot 团队的 [grokbot-executive-team](https://github.com/meir-bot/grokbot-executive-team)、给模板补装 skill 并校验 sha256 的 [grokbot-skills](https://github.com/dallintwatts/grokbot-skills)、中文导航站 [Grok Bot 导航](https://github.com/ddhjy/grok-bot-hub)
 
 完整记录见 [README 提交历史](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md)。
 
@@ -71,7 +71,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 - [官方与 SDK](#-官方与-sdk)（5）- 官方文档、模板市场、SDK 和命令行
 - [模板与目录](#-模板与目录)（11）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
-- [技能与玩法](#-技能与玩法)（36）- skill、MCP、单个模板、可粘贴人设
+- [技能与玩法](#-技能与玩法)（37）- skill、MCP、单个模板、可粘贴人设
 - [多 Bot 团队](#-多-bot-团队)（23）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（7）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（4）- 出海客服、微信接入、中文配置
@@ -139,6 +139,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [Android Grok Home](https://github.com/drumpat01/android-grok-home) - 非官方 Android 桌面启动器（Android 11+，装 APK，不刷机）：动画头像墙一眼看全队谁在干活、谁举手等你、谁做完了，每个 bot 单独的语音和文字对话。经你电脑上的 BDK（@cursor/bdk）桥接到你自己已有的 bot，仓里不带账号和 key，有 Demo 模式。要自己构建 APK、电脑上常驻桥接服务；桥接端口只留在本机，远程访问走私有 Tailscale；部分功能用了未公开接口，上游升级后可能失效。标签：`android` `launcher` `bdk` `voice`
 - [Grokbot Widget](https://github.com/imranbarbhuiya/grokbot-widget) - macOS 桌面悬浮小伙伴（macOS 14+）：可拖动的角色加展开式聊天面板，经 BDK 和你已有的一个 bot 对话，release 包自带 Node，不用开终端。本地服务只监听本机端口；release 没做 Apple 公证，第一次打开要在系统设置里手动放行；bot 名字写错时 BDK 可能新建一个空 bot。标签：`macos` `widget` `bdk`
 - [TetherBot](https://github.com/GrokkingGrok/TetherBot) - 把 GNOME 桌面接到 Grok Bot：顶栏显示 bot 状态、弹通知、快捷操作，桌面经 webhook routine 发给 bot，bot 的产出经私有 GitHub 数据仓回到桌面。本机常驻一个用户级守护进程，密钥存系统密钥环。pre-alpha，许可证 GPL-2.0-or-later。标签：`gnome` `linux` `desktop` `webhook`
+- [Grok Bot for Omarchy](https://github.com/hmarquez-solutions/omarchy-grok-bot) - Omarchy（Arch Linux 桌面）顶栏插件：一张 Grok Bot 小脸，休眠、空闲、干活、有未读、等你五种表情，等你时旁边显示是哪个 bot；点开面板，卡在你这儿的 bot 和原因排最前，其余列出最后一句话和未读数。只读桌面端写在本机的状态文件，不连服务器、不读凭证、不往 bot 目录写东西；「干活中」靠文件写入推断，慢回复可能误判成空闲。标签：`linux` `desktop` `status`
 - [Agent Harbor](https://github.com/TommyBez/agent-harbor) - macOS 工作区：把 Claude Code 和 Codex 会话放进独立 tmux 常驻，你在桌面 App 里看终端、接管、恢复，Grok Bot 通过桌面端的本机命令执行调用同一个控制器派活和续聊，不开公网服务。要开桌面端本机执行，等于让 bot 动你的电脑；早期实验版，先在授权的测试项目上试。标签：`claude-code` `codex` `tmux` `macos`
 - [grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) - Windows 本机 MCP 桥：把一个限定范围的编码任务交给 Grok Bot routine，只提交一次，再用 git diff 和留存的证据验收，不看聊天里的「已完成」。管理员先锁定 Git 根目录、可改文件和测试命令；附离线演示，不连账号也能先试。作者标实验 Beta、非官方，有中文 README。标签：`mcp` `windows` `coding` `routine`
 - [grokbot-skills](https://github.com/dallintwatts/grokbot-skills) - 解决「导入模板不带 skill」：bot 第一次对话先问「要我完成设置吗」，你同意后它从固定 commit 下载 skill，按 `PINS.txt` 里的 sha256 和文件大小逐个校验，对不上就不装。仓里是 Second Opinion Council、Fleet Doctor 两个模板的 skill，这套校验做法可以照搬到你自己分发的模板。MIT。标签：`skills` `templates` `sha256`

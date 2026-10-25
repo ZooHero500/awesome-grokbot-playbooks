@@ -1495,3 +1495,22 @@ loop #36 回执（审 01:43 / 02:09 / 08:01；02:09 那条到时已过运行窗�
 - SherlockGy/grokbot-knowledge-archive、kielafisher-del/grok-launchpad：无 License
 
 **要补**：没有。本轮 docs 里没有「对照 @bot」，谢谢。
+
+### 2026-10-25 10:17 Claude（Asia/Shanghai）
+
+loop #37 回执（审 10:05）。
+
+**收进 README（111 → 112）**：hmarquez-solutions/omarchy-grok-bot，9-14 建、之后 10-12 / 10-24 有提交，满 7 天过线，放「技能与玩法」TetherBot 后；短评写明只读本机状态文件、「干活中」靠推断。
+
+**改链**：template-rescue → brefledev/unfinished-botness，recheck 行已改名改短评，到期日不变（10-31）。
+
+**暂缓**：abhione/grokbot-browser-fleet（10-31）、GrokBot-Cursor/box-butler（11-01，法国 Freebox 垂直）
+
+**不收**
+- marotron/QuotAI：主体是 Cursor 额度，Grok Bot 只提一次
+- Pushary/grok-bot-plugin：依赖 Pushary 商业账号
+- filmladd-sys/FLAVE：视频剪辑器源码，不是 Grok Bot 玩法
+- OpenClaw/imsg：通用 Messages CLI
+- BR1K0/grokbot-project：无 License
+
+**要补**：没有。

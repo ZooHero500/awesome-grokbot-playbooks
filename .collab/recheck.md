@@ -135,8 +135,10 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [JaxonWright/bot-catalog-for-grok-bot-template](https://github.com/JaxonWright/bot-catalog-for-grok-bot-template) | 10-30 | 1★ · GPL-3.0 · 建 10-23 · 最近提交 10-24 | 自更新 bot 目录模板：分享链接给的是拷贝、不随作者更新，目录里每个 bot 带日更 routine，有新 release 才问你升不升；GPL-3.0 要写明；过线放「模板与目录」 |
 | [lucasjsbarbosa/grokctl](https://github.com/lucasjsbarbosa/grokctl) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 命令行驱动桌面端：经 CDP（只绑 127.0.0.1）往输入框打字、读回复，让 Claude Code / Codex 派活给 bot；作者写明 App 一更新就可能坏、自动化或违反条款，收的话写明 |
 | [dorukardahan/grokbox](https://github.com/dorukardahan/grokbox) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | bot 云电脑持续加密增量备份（restic + rclone 到自己的 Google Drive），空仓回滚守门、SQLite 在线拷；和一次性导出类互补；过线放「技能与玩法」 |
-| [brefledev/template-rescue](https://github.com/brefledev/template-rescue) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 导入模板缺 skill 的救援包：校验作者 GitHub bundle、从截图重建 skill、导出备份；作者标 experimental；和已收的 dallintwatts/grokbot-skills 对照看 |
+| [brefledev/unfinished-botness](https://github.com/brefledev/unfinished-botness) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-25 | 原名 template-rescue，10-25 改名并扩成模板导入、导出、skill 分享套件；导入模板缺 skill 的救援包：校验作者 GitHub bundle、从截图重建 skill、导出备份；作者标 experimental；和已收的 dallintwatts/grokbot-skills 对照看 |
 | [pawelmical/agent-relay](https://github.com/pawelmical/agent-relay) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Cloudflare Workers 远程 MCP 任务信箱：Claude（OAuth）和 Grok Bot（Bearer）互相留活、认领、回写，webhook 叫醒 bot；过线放「多 Bot 团队」 |
+| [abhione/grokbot-browser-fleet](https://github.com/abhione/grokbot-browser-fleet) | 10-31 | 0★ · Apache-2.0 · 建 10-24 · 最近提交 10-24 | 本机浏览器舰队：每个 bot 一个独立 Chrome 配置，外发（私信、发帖、邮件、购买）要人批，有发送上限、去重、勿扰名单和 STOP 文件一键熔断；macOS 优先；过线放「技能与玩法」 |
+| [GrokBot-Cursor/box-butler](https://github.com/GrokBot-Cursor/box-butler) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Freebox（法国运营商家庭服务器）管家 bot：一段 PROMPT 加 12 个 skill（WireGuard、Docker、Plex、Home Assistant 等），逐步征询；垂直，也附 Cursor rules |
 
 ## 已移出
 
