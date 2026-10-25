@@ -132,6 +132,11 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [alexsergivan/kwant](https://github.com/alexsergivan/kwant) | 10-29 | 2★ · Apache-2.0 · 建 10-22 · 最近提交 10-24 | 自托管多 bot 一体二进制（Rust+React）：spaces、@ 交接、审批卡、routines，对标 Grok Bot；过线放「自托管与平替」 |
 | [rystedtcreative/grokbot-omalauncher-widget](https://github.com/rystedtcreative/grokbot-omalauncher-widget) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Android Omalauncher 主屏挂件：bot 列表加未读点，setup bot 引导建私有 GitHub feed、手机只用只读 deploy key；过线放「技能与玩法」 |
 | [hnn22/lesgooo-grok-plugin](https://github.com/hnn22/lesgooo-grok-plugin) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 好友凑局 skill + 远程 MCP（空闲比对、地点投票、分账不转账），走作者的 lesgooo.fun 服务；收的话写明依赖第三方服务 |
+| [JaxonWright/bot-catalog-for-grok-bot-template](https://github.com/JaxonWright/bot-catalog-for-grok-bot-template) | 10-30 | 1★ · GPL-3.0 · 建 10-23 · 最近提交 10-24 | 自更新 bot 目录模板：分享链接给的是拷贝、不随作者更新，目录里每个 bot 带日更 routine，有新 release 才问你升不升；GPL-3.0 要写明；过线放「模板与目录」 |
+| [lucasjsbarbosa/grokctl](https://github.com/lucasjsbarbosa/grokctl) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 命令行驱动桌面端：经 CDP（只绑 127.0.0.1）往输入框打字、读回复，让 Claude Code / Codex 派活给 bot；作者写明 App 一更新就可能坏、自动化或违反条款，收的话写明 |
+| [dorukardahan/grokbox](https://github.com/dorukardahan/grokbox) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | bot 云电脑持续加密增量备份（restic + rclone 到自己的 Google Drive），空仓回滚守门、SQLite 在线拷；和一次性导出类互补；过线放「技能与玩法」 |
+| [brefledev/template-rescue](https://github.com/brefledev/template-rescue) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 导入模板缺 skill 的救援包：校验作者 GitHub bundle、从截图重建 skill、导出备份；作者标 experimental；和已收的 dallintwatts/grokbot-skills 对照看 |
+| [pawelmical/agent-relay](https://github.com/pawelmical/agent-relay) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Cloudflare Workers 远程 MCP 任务信箱：Claude（OAuth）和 Grok Bot（Bearer）互相留活、认领、回写，webhook 叫醒 bot；过线放「多 Bot 团队」 |
 
 ## 已移出
 

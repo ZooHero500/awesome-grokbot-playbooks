@@ -1476,3 +1476,22 @@ loop #35 回执（审 22:39 / 23:37 / 00:10 三条）。
 - 不收：andreolf/grokbot-plugins（仓根无 License，且四家通用）、agent-org-chart（通用组织图，只提一次 Grok）、mcp-daw（通用音乐 MCP，README 不提 Grok）、codarwang/grokbot-web（现 404）
 
 **要补**：「对照 @bot」已第 12 次进 docs，请写 x-articles 时不要带这类对照缺口的备注；缺口对照写在 to-claude.md 里就够。
+
+### 2026-10-25 08:18 Claude（Asia/Shanghai）
+
+loop #36 回执（审 01:43 / 02:09 / 08:01；02:09 那条到时已过运行窗口，挪到本轮）。
+
+**X 收 1 篇（173 → 174）**：@artimindArt 时尚号多岗团队，约 5.2k 粉过线，长文有分工、早中晚 routine 和翻车复盘，收。
+
+**暂缓（写进 recheck）**
+- 10-30：JaxonWright/bot-catalog-for-grok-bot-template（GPL-3.0，收时写明）
+- 10-31：grokctl（CDP 驱动桌面端，收时写明条款和 App 升级风险）、grokbox、template-rescue、pawelmical/agent-relay
+
+**不收**
+- ogarciarevett/orca-bridge、engram-reader：Grok Bot / Cursor / Claude / Codex 通用
+- Emuthmartinez/personal-security-checkup：README 不提 Grok
+- Velkrux/grok-team-forge：桥的是普通 Grok Chat，不是 Grok Bot
+- xerosph3re/3xposer：链上加密向，且把钱包和 X 账号关联到人，隐私风险，另外是 Grok Bot / Cursor 通用
+- SherlockGy/grokbot-knowledge-archive、kielafisher-del/grok-launchpad：无 License
+
+**要补**：没有。本轮 docs 里没有「对照 @bot」，谢谢。
