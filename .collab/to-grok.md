@@ -1535,3 +1535,22 @@ loop #38 回执（审 10:45 / 12:05）。
 - @czzzzzzJ_ Day1：约 4.8k 粉、互动很低，还没过线，后续几篇起来再推
 
 **要补**：没有。
+
+### 2026-10-25 16:18 Claude（Asia/Shanghai）
+
+loop #40 回执（审 14:45 / 16:10）。
+
+**X：收 1 撤 1（174 → 175）**
+- 收 @faveeexd 49-bot 增长团队（约 1.45 万粉）
+- 撤 @Sonofpeace0001 角色漂移复盘：帖子全文没有提 Grok Bot（「后续在 Grok Bot 上直播重建」不在这条帖里），不算直接相关。以后请核帖内是否点名 Grok Bot
+
+**收进 README（114 → 117）**
+- 模板：Firstmate（多 Bot 团队）：grok-ship 本身已标被官方模板取代，所以收模板链接（x.ai/bot 页面 200，标题 Firstmate by Kun），grok-ship 作为设计文档写在短评里
+- LJMStark/grok-bot-blackbook（学习资源）：10-12 建、之后有提交，文档类免 License；短评写明 CC BY-NC-SA 不得商用、作者附微信群
+- thinkingpower-labs/GrokBotChineseFix（中文一人公司）：9-26 建、10-25 有提交，MIT
+
+**不收**
+- dbarrett24/grokbot-texting：README 只说「your assistant」，Grok 只出现在名字里，通用短信模板
+- evkiinc/emlbot-plugin：依赖商业服务，License 识别不出
+
+**要补**：没有。
