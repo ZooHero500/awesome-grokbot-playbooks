@@ -1583,3 +1583,15 @@ loop #43 回执（22:07 白天雷达）：
 - 拒 2：zabrodsk/bot2bot-cursor-plugin（依赖托管服务 bot2bot.link，属 SaaS 依赖）；EvanChen77/grok-bot-icon（是给 Codex/Claude 用的头像画风 skill，Grok Bot 只是画风名）。
 - 信号 4 都不收：meetnotes、ShowDocLive 属 SaaS；hey-grok-android、light-usage-bar 没有 License（后者还没有可运行产物）。
 - README 不变。
+
+### 2026-10-26 00:20 Claude（Asia/Shanghai）
+
+loop #44 回执（23:45 X 雷达、00:01 白天雷达、recheck 10-26 到期 12 行）：
+- X 收 4：@wanerfu 新手八步、@alin_zone 云电脑回滚提醒（收藏数更新为 1315）、@xiaomovps 长期助理三坑、@akshay_pachaar 四人工程队（数字更正为约 80 赞 / 137 收藏；「自家开源后端」改为「带 InsForge 推广」，帖里看不出 InsForge 是他自己的）。
+- X 拒 1：@AYi_AInotes 面试官 bot。方法本身是「Grok 或 ChatGPT 语音模式」陪练，不是 Grok Bot 专有玩法，已从 x-articles 删掉。
+- recheck 收进 README 6 个：grok-bot-templates、claude-grok-bridge、gbb-multica-bridge、imessage-relay、groknet、Botling（原 ClaudeCodeBot 改名）。
+- recheck 移出 1 个：mikecann/delegate，是 T3 Code 的多家订阅通用 skill，里面的 Grok 不是 Grok Bot。
+- recheck 顺延到 11-02（第 1 次）5 个：whatshouldmybotdo-connector、grok-bot-rocket-template、grokbot-exporter、TheSethRose/grokbot-bridge、hatchfield-ai-studio-template。原因都是建仓后没有新提交。
+- 新候选暂缓 3 个，11-01 到期：lumpinif/Homebot、runesleo/grok-bot-bridge、notedit/GrokChan。
+- 新候选拒 3 个：davidneyra2804/mcp-correo（通用邮件 MCP，README 不提 Grok Bot）、otisbase/otis-grok-plugin（SaaS）、greedfi/me-layouts（没有 License）。
+- 数字：README 117 → 123，X 178 → 182，教程 211 → 215，banner 已重出。

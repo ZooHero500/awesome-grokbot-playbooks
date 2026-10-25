@@ -23,18 +23,11 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [fredericalix/my-botstack](https://github.com/fredericalix/my-botstack) | 11-01 | 1★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
 | [shagghiesuperstar/veilbreaker](https://github.com/shagghiesuperstar/veilbreaker) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-21 | 10-25 第 1 次延期：建仓后没有新提交 |
 | [stland6338/ai-tool-inventory](https://github.com/stland6338/ai-tool-inventory) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
-| [ChamathRosh/grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 | 6 个模板只有 1 个可装，看是否补齐 |
-| [ChamathRosh/whatshouldmybotdo-connector](https://github.com/ChamathRosh/whatshouldmybotdo-connector) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | grok-bot-templates 的只读 MCP 伴侣，和主仓一起看 |
-| [Gitmaxd/grok-bot-rocket-template](https://github.com/Gitmaxd/grok-bot-rocket-template) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-19 |  |
-| [PhillipHolland/imessage-relay](https://github.com/PhillipHolland/imessage-relay) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-20 |  |
-| [StefMVP/grokbot-exporter](https://github.com/StefMVP/grokbot-exporter) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 |  |
-| [TheSethRose/grokbot-bridge](https://github.com/TheSethRose/grokbot-bridge) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 和 locum、claude-grok-bridge 一起看 |
-| [francoCosimo95/claude-grok-bridge](https://github.com/francoCosimo95/claude-grok-bridge) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 和 grokbot-bridge 一起看 |
-| [lthero-big/gbb-multica-bridge](https://github.com/lthero-big/gbb-multica-bridge) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 |  |
-| [mikecann/delegate](https://github.com/mikecann/delegate) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-21 |  |
-| [sudoTomas/groknet](https://github.com/sudoTomas/groknet) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 |  |
-| [treverhatch-glitch/hatchfield-ai-studio-template](https://github.com/treverhatch-glitch/hatchfield-ai-studio-template) | 10-26 | 1★ · MIT · 建 10-19 · 最近提交 10-19 | 偏游戏制作，看是否对题 |
-| [william1010121/ClaudeCodeBot](https://github.com/william1010121/ClaudeCodeBot) | 10-26 | 0★ · MIT · 建 10-19 · 最近提交 10-20 | 过线放「自托管与平替」 |
+| [ChamathRosh/whatshouldmybotdo-connector](https://github.com/ChamathRosh/whatshouldmybotdo-connector) | 11-02 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交；主仓 grok-bot-templates 已收，这个只读 MCP 是作者网站的伴侣 |
+| [Gitmaxd/grok-bot-rocket-template](https://github.com/Gitmaxd/grok-bot-rocket-template) | 11-02 | 1★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交 |
+| [StefMVP/grokbot-exporter](https://github.com/StefMVP/grokbot-exporter) | 11-02 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交 |
+| [TheSethRose/grokbot-bridge](https://github.com/TheSethRose/grokbot-bridge) | 11-02 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交；同类 claude-grok-bridge 已收 |
+| [treverhatch-glitch/hatchfield-ai-studio-template](https://github.com/treverhatch-glitch/hatchfield-ai-studio-template) | 11-02 | 1★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交；偏游戏制作，看是否对题 |
 | [NetrovertHQ/netrovert-agents](https://github.com/NetrovertHQ/netrovert-agents) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 商业托管服务，按「商业类每分类最多 1 条」处理 |
@@ -145,9 +138,14 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [PhillipHolland/grokbotshelf](https://github.com/PhillipHolland/grokbotshelf) | 11-01 | 0★ · 无 License · 建 10-25 · 最近提交 10-25 | grokbotshelf 目录站源码（bots.json 投稿）；网站可免 License，到期看站点内容和是否持续更新，过线放「模板与目录」 |
 | [coletebou/grok-bot-backup](https://github.com/coletebou/grok-bot-backup) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把每个 bot、群聊、routine 和自建 skill 导成纯文件进 git，输出确定（没改动就没 diff），不备份记忆、对话、密钥；走桌面端私有接口，收的话写明升级可能失效 |
 | [mcsuen/x-cli-via-grok](https://github.com/mcsuen/x-cli-via-grok) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 让一个专用的 X Research bot 做公开 X 研究，附 Codex / Claude Code 用的 skill；经非官方 grok-bot-cli 调桌面端，收的话写明依赖它 |
+| [lumpinif/Homebot](https://github.com/lumpinif/Homebot) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 用 Siri / HomePod 经家里常开的 Mac 问自己的 Grok Bot；标 release candidate，原生 App 还没真机确认，局域网明文 HTTP 不要做端口转发 |
+| [runesleo/grok-bot-bridge](https://github.com/runesleo/grok-bot-bridge) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Claude Code / 脚本经 webhook 给 bot 派活，带 job id 和本地账本，harvest 读桌面端会话副本收回答复；和已收的 claude-grok-bridge 对比着看 |
+| [notedit/GrokChan](https://github.com/notedit/GrokChan) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Stack-chan 风语音伴，浏览器经 Cloudflare Worker 接 bot 的 webhook；固件、TTS、唤醒词还在路线图，过线放「硬件」 |
 
 ## 已移出
 
+- 10-26 收进 README：ChamathRosh/grok-bot-templates、francoCosimo95/claude-grok-bridge、lthero-big/gbb-multica-bridge、PhillipHolland/imessage-relay、sudoTomas/groknet、william1010121/Botling（原 ClaudeCodeBot 改名）（都满 7 天，之后有提交）
+- 10-26 移出：mikecann/delegate，T3 Code 里把活分给 Codex、Grok、Muse 等多家订阅的通用 skill，不是 Grok Bot
 - 10-25 收进 README：AgwaB/grok-bot-agents、jeffgreendesign/follow-through、Olivia295/grokbot-team-monitor-UI（原 grokbot-teamwork-UI 改名，两行合并）、vliuyt/grok-bot-esp32-bridge
 - 10-25 移出：FelixIsaac/cmux-orbit（跑的是 Grok CLI 等编码 CLI，不是 Grok Bot）、noisyloop/Fleet-51（README 不提 Grok）、rfsbraz/genealogy-agent-skills（四家通用 skill 包）、effi0724/grokbot-task-dashboard（通用多 agent 看板，Grok 只在名字里）
 - 10-24 收进 README：puzzle-app/grokbot-delivery-team、IamP5/claudio-bot、GrokkingGrok/TetherBot、TommyBez/agent-harbor、cherwinyu/grok-bot-mcp（都满 7 天，之后有提交）
