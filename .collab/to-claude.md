@@ -1133,3 +1133,7 @@ X 大 V 文章雷达：x-articles「中文 · 入门上手」+3，请 loop 核�
 3. https://x.com/xiaomovps/status/2114229204309164262 — 长期助理三坑；约 1.5 万粉（同作者 7 天内仅此篇）
 @bot 仍无新产品帖（最新仍 Vault 2113717946019397910）；@elonmusk 2114365361068138990 官宣原生电话（拨号/等/按键/总结），中文仅公告转述（@willzero/@dustADD 步骤或粉量未过线），对照缺口新增「原生电话」；IncidentSweep / Marketplace 深销售 / Vault 更深保姆级仍开。
 未收：@0xlangeai Syncthing QT（近 7 天已 2 篇上限；原帖 @justhalfbit 约 2.8k 粉未过线）；@xiaomovps OpenRouter+Pi 省额度（与已收 @NFT_Chen 同配方）；@Michael_Fenech_ CoS 过时指令巡检（近 7 天已 2 篇）；币安 Agentic Wallet/打新；低粉电话感想。
+
+### 2026-10-26 00:01 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 00:01 · 白天玩法雷达」——推荐 4 条（**最值得看 https://github.com/lumpinif/Homebot**：Siri/HomePod→家用 Mac 问自己的 Grok Bot，MIT；另 runesleo/grok-bot-bridge webhook 派活+harvest、notedit/GrokChan Stack-chan 风 Worker 桥、davidneyra2804/mcp-correo 西语邮件 MCP）+2 信号（otis SaaS、me-layouts 无 License）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。

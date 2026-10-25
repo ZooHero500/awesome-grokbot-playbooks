@@ -2437,3 +2437,27 @@ PiyushAnand2006/EmberLing（自称逆向 Grok Bot 客户端重做，版权/合�
 ### Skip（本轮）
 
 Chatinker/GrokBot-myskills（个人半调案卷 skill、无 License）；q98765tw/TodoApi-GrokBot（用 Bot 带练的 Todo demo，已 skip）；Simple-With-Us/CodeCaps（额度菜单栏，candidates 已 skip）；ahvren/shield-recs / PandesalPanpan/piko-lantern-fox / EmberLing（已 skip）；galleonlabs/hypergrok-trading-desk（交易台）；Reactively/PressReacher-MCP（商业媒体名单）；kepcup / sugabots / clickaa / amajorai/ryu（替代品/自托管平台，已列模式）；marketplace 模板 dump、额度/省钱文、官方 18 guides 转发。已列 grok-bot-backup / hermes-webhook / unfinished-botness / yobiru / browser-fleet / grok-bot-cli 等不重推。
+
+## 2026-10-26 00:01 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 22:07→2026-10-26 00:01（Asia/Shanghai）`gh search` / `gh api search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-25T12:00Z + Homebot/GrokChan/bridge 具名）+ X `search_posts_all`×4（github 链 / 中文玩法 / Siri·Homebot 具名；本窗 X 侧多为 Siri 对比感想与日文 Shortcuts 教程转述，**可复用仓以 GitHub 为主**）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| lumpinif/Homebot | https://github.com/lumpinif/Homebot | **用 Siri / HomePod 问自己的 Grok Bot**：家用 Mac 常驻 App，点选 Account→Bot→Shortcut→Install，无需终端；多语言短语、对话模式、活动日志；简中安装指南。标注 release candidate（原生 App 尚未真机确认 Siri 应答；旧 TypeScript 版已在 iPhone+中文 HomePod 跑通）。未公证、家用网明文 HTTP 勿端口转发。与已记 siri-grokbot（iOS intents）互补——本仓是 Mac 网关+HomePod。本轮最值得看 | Clients / Voice bridges | `siri` `homepod` `macos` `shortcut` `voice` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建；站点 homebot.fun） |
+| runesleo/grok-bot-bridge | https://github.com/runesleo/grok-bot-bridge | **Claude Code/脚本经 webhook 派活给 Bot，一命令收回答复**：setup-prompt 让 Bot 自建 Task Inbox；每任务带 job id + 本地 ledger（超时标 UNKNOWN、Bot 遇重复回 BRIDGE_DUP）；`harvest` 只读桌面端会话副本写成 `results/<id>.md`。单文件 Python 无依赖、中英 README。与同作者已推 multi-ai-sync（结果落盘体检）互补——本仓是派活+回收收据 | Bridges / Agent handoff | `webhook` `claude-code` `job-id` `harvest` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建） |
+| notedit/GrokChan | https://github.com/notedit/GrokChan | **开源 Stack-chan 风语音伴 + Cloudflare Worker 桥**：浏览器/后续 M5Stack ↔ Worker ↔ 已有 Grok Bot webhook（`grokbot-web.inbound.v1`）；多 agent 适配位（muse stub）；中英架构文档。固件/TTS/唤醒词与 phone-use 仍在路线图，可作 Hardware 桥样板；与已记 stackchan-grok-bridge / my-botstack / xiaozhi-hub 同赛道不同实现 | Hardware / Bridges | `stackchan` `m5stack` `cloudflare` `webhook` `voice` `mit` | 0 / MIT | **GitHub**（10-25 本窗新建） |
+| davidneyra2804/mcp-correo | https://github.com/davidneyra2804/mcp-correo | **给 Grok Bot 等 agent 用的 IMAP/SMTP MCP**：HTTPS 443 中转（agent 出不了 993/465）；默认只读；发送/删除两步确认 token（10 分钟一次性）；审计 JSONL 不写正文与凭证。文档为西班牙语，安全边界写得细。MIT | Skills / Email MCP | `mcp` `email` `imap` `smtp` `confirm` `mit` `es` | 0 / MIT | **GitHub**（10-24 建，本窗仍推；漏收） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| otisbase/otis-grok-plugin | https://github.com/otisbase/otis-grok-plugin | Otisbase 开票/计时 hosted MCP + 九个 workflow skill（Grok Bot/Build/Cursor）；依赖商业账号与 EU Cloudflare，先信号 | Plugins / SaaS | **GitHub**（10-25 新建，MIT） |
+| greedfi/me-layouts | https://github.com/greedfi/me-layouts | `.me` Grok Bot 的 Stack/Billboard/Magazine/Terminal 画布布局包；**无 License**，先信号 | Templates / Layout | **GitHub**（10-25 本窗新建） |
+
+### Skip（本轮）
+
+BurggraafJ/grok-minecraft（无 License，荷兰语 Minecraft 自建服）；george988/read-and-decide（无 License）；devionjohnson/family-bots-forum（无 License，个人 Q&A）；PiyushAnand2006/EmberLing（逆向客户端，上轮已 skip）；nidao003/homebot（无关空仓）；Chatinker/GrokBot-myskills / hey-grok-android / light-usage-bar（已信号或 skip）；币安/交易、日文 Siri Shortcuts 教程转述（非中英仓）、marketplace 模板 dump。已列 x-cli-via-grok / bot2bot / grok-bot-backup / hermes-webhook / stackchan-grok-bridge / unfinished-botness 等不重推。
