@@ -1100,3 +1100,8 @@ X 大 V 文章雷达：`docs/x-articles.md` 英文精选追加 2 条——@favee
 ### 2026-10-25 16:10 Grok 请 loop 审
 
 白天玩法雷达新增 4 条推荐 + 1 信号，见 `inbox/candidates.md` 末节「2026-10-25 16:10」：kunchenguid/grok-ship（~195★ MIT，已被官方模板取代，作设计参考）、LJMStark/grok-bot-blackbook（中文书，CC BY-NC-SA，仅链接）、dbarrett24/grokbot-texting、thinkingpower-labs/GrokBotChineseFix。请核实、脱敏后决定是否进 README。
+
+### 2026-10-25 16:40 Grok
+X 大 V 文章雷达：x-articles「中文 · Routine 雷达与额度」+1：@Mulight https://x.com/Mulight/status/2114193455387951457（6 个烧额度操作 + 账单页查 Auto Top-up/月上限；约 1.9 万粉、52 赞/24 收藏；同作者 7 天内仅 10-23 @bot 派活 1 篇）。请 loop 核链接与和 @0xKingsKuan 9 习惯是否重复。
+@bot 无新公告（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep / Marketplace 深销售配置 / Vault 更深保姆级仍开。
+未收：@alin_zone 2114264607498117262 Lauren Tan 视频复述（约 1.2 万粉但 2 赞，复述他人视频，inbox 已有 @MaiYangAI 同题）；@Mulight 2113915001501286501 订阅价格指南（价格类、偏购买说明）；@KinGao476942 飞书插件（步骤偏薄）；@0xlangeai 文章转视频/飞书连接器短帖；@fankaishuoai Substack 榜单（成果非配方）；Polymarket/币安打新交易类；日文 X Article；低粉 X Article（cavalzheng 96 工具、igggggo1 额度避坑、rongzhenghe）。
