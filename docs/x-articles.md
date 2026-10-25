@@ -155,6 +155,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用一队 Grok Bot 跑 AI 时尚号：Director/Listening/Trends/Analytics 等分工 + 早中晚 routine](https://x.com/artimindArt/status/2114039831281938679) — @artimindArt · 2026-10-25 · X 长文：每岗独立聊天与记忆，早 8 点生产、日间定时发帖、夜间一页战报；人只写提示词、定镜和对外发言，附铁皮夹克五轮翻车（模型换错导致皮肤不对）与系统写死教训；约 5.2k 粉 · 英文
 - [用 Grok Bot 搭四人工程队：Piper/Bay/Fin/Tess + 磁盘交接](https://x.com/akshay_pachaar/status/2114344099230961880) — @akshay_pachaar · 2026-10-25 · 长帖：项目经理只写看板、后端/前端/测试各一岗，任务与 handoff 全落共享云电脑文件；附可复制岗位描述与 InsForge 后端 CLI 接法（文中带 InsForge 推广）；约 29 万粉、约 80 赞 / 137 收藏；原 X Article 2026-08-26 · 英文
 
+- [Grok Bot Engineering：按 SpaceXAI 同款搭自己的 Bot 团队（含 IncidentSweep）](https://x.com/N01ennn/status/2114390660723675598) — @N01ennn · 2026-10-25 · X 长文七章：一岗一 bot、首席幕僚、八部门、pstack/审批与可复制提示；开篇复盘 IncidentSweep 三 bot 清 backlog；对照 @bot：IncidentSweep；约 8.6k 粉 · 英文
+
 ### Routine 雷达与额度
 
 - [4 Grok Bots for $20/Month: the research team I'd build first](https://x.com/0xg4tsby/status/2108208306959310855) — @0xg4tsby · 2026-10-08 · X 长文：找新闻、核爆款说法、出选题、起草 4 个岗位，提示词全给，低档订阅也能跑 · 英文
@@ -175,6 +177,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [跑 22 个 bot 不撞额度上限的 10 条规则](https://x.com/byalexai/status/2113623068018917419) — @byalexai · 2026-10-23 · 长帖：知识放 bot 外只按索引取单文件、记忆只存长期事实、会增长的数据进表格、重活交给已付费的编码工具、先连接器后浏览器、一条消息批量派三件事、一 bot 一岗、routine 降频、成熟流程存 skill、每周五看用量砍无效 routine；作者约 7.3k 粉 · 英文
 - [加密作业 bot：早报 / 盯盘 / 研报 / 骗 DM 检查，绝不碰钱包](https://x.com/CryptoVerse_Co/status/2113977677174698485) — @CryptoVerse_Co · 2026-10-24 · 六段可复制提示：安全规则、7:30 早报 routine、BTC 异动才喊、代币研报必须引源、骗 DM 只看红旗不开链、Page 盯盘；登录进 Vault、交易所 API 只读、审批卡常开；约 9.3 万粉 · 英文
 - [Free Games Scout：只认官方商店、标清免费类型、换算本地截止时间的找免费游戏 bot](https://x.com/elvenmaidinn/status/2114317639527080391) — @elvenmaidinn · 2026-10-25 · X 长文+公开模板：RSS 只当线索、每条去官方页核实，标「永久领取/需订阅/限时试玩/Demo」，评分不编、截止时间换算到你的时区，首聊先问频率/商店/时区再建 routine，源清单打包成 skill；默认只给领取链接、绝不付款、遇验证码交还人工；约 8.9k 粉 · 英文
+
+- [Don't Leave Me Hanging：追回邮件里忘了的承诺闭环](https://x.com/BrianRoemmele/status/2114394724849385687) — @BrianRoemmele · 2026-10-25 · 可分享 bot：扫旧线程找未兑现承诺、按紧急度排序、起草跟进稿与看板进度，工作日早报只推新项、发信前必须你点头；附一键导入；同作者订餐厅 bot 已收 · 英文
 
 ### Skills 与连接
 

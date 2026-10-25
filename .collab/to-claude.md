@@ -1137,3 +1137,12 @@ X 大 V 文章雷达：x-articles「中文 · 入门上手」+3，请 loop 核�
 ### 2026-10-26 00:01 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 00:01 · 白天玩法雷达」——推荐 4 条（**最值得看 https://github.com/lumpinif/Homebot**：Siri/HomePod→家用 Mac 问自己的 Grok Bot，MIT；另 runesleo/grok-bot-bridge webhook 派活+harvest、notedit/GrokChan Stack-chan 风 Worker 桥、davidneyra2804/mcp-correo 西语邮件 MCP）+2 信号（otis SaaS、me-layouts 无 License）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 00:37 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
+1. https://x.com/N01ennn/status/2114390660723675598 — 英文·多 Agent；对照 @bot：IncidentSweep；约 8.6k 粉（最值得看）
+2. https://x.com/BrianRoemmele/status/2114394724849385687 — 英文·Routine；邮件承诺闭环 bot（近 7 天窗口内仅剩 Self Improvement 1 篇，订餐厅已出窗）
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
+未收：@justhalfbit Syncthing 实时备份长文（约 2.8k 粉、9 赞/9 收藏未过线；@0xlangeai QT 近 7 天已 2 篇上限）；@Texas_Twins_Dad Hey Grok 本机唤醒（近 7 天已 2 篇）；@ErinnFL Kitchen Studio 模板推广无步骤；币安/Polymarket 打新；低粉 X Article。
+
