@@ -119,7 +119,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [alpha404ai/grok-cost-cutter](https://github.com/alpha404ai/grok-cost-cutter) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 省额度 prompt：触发优先、预检、缓存、日硬顶；和 grok-bot-local-first、额度体检配方对照看是否有新东西 |
 | [anselmcmakin/local-ai-manager](https://github.com/anselmcmakin/local-ai-manager) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机本地模型运维，Grok Bot 当监工（watchdog、仪表盘、只绑 127.0.0.1）；作者同已收的 Personal Chef |
 | [datadda27/grokbot-skills](https://github.com/datadda27/grokbot-skills) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 公开模板每次运行前拉最新 skill；和已收的 dallintwatts/grokbot-skills 思路相反（一个钉版本一个追最新），收的话写明供应链风险 |
-| [deedade/grok-hermes-webhook](https://github.com/deedade/grok-hermes-webhook) | 10-31 | 1★ · MIT · 建 10-24 · 最近提交 10-24 | Grok Bot → 本机 Hermes 的最小 webhook 契约（HMAC 验签后再解析），v0.1 只到验收；和已收的 Hermes 桥对照看有没有新东西 |
+| [blurryclaire/grok-hermes-webhook](https://github.com/blurryclaire/grok-hermes-webhook) | 10-31 | 1★ · MIT · 建 10-24 · 最近提交 10-25 | 原 deedade/grok-hermes-webhook，10-25 改名；Grok Bot → 本机 Hermes 的最小 webhook 契约（HMAC 验签后再解析），v0.1 只到验收；和已收的 Hermes 桥对照看有没有新东西 |
 | [yuehzhan/grokbot-usage-checkin](https://github.com/yuehzhan/grokbot-usage-checkin) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 本机额度/打卡仪表盘，数据不出本机；过线放「Routine 与摘要」额度管理 |
 | [cooperpt/apple-watch-grokbot-health](https://github.com/cooperpt/apple-watch-grokbot-health) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 中文：Apple Watch 健康数据 → 快捷指令 → webhook → bot 出睡眠小结；仓里只有 README；健康数据敏感，收的话写明 |
 | [sujian666666com-glitch/grokbot-video-mcp](https://github.com/sujian666666com-glitch/grokbot-video-mcp) | 10-31 | 2★ · MIT · 建 10-24 · 最近提交 10-24 | 本机 MCP 经 webhook 把视频生成派给已有 bot，回调收 MP4；要开 cloudflared 隧道，收的话写明；中英 README |
@@ -143,6 +143,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [yohei1126/grok-bot-ops](https://github.com/yohei1126/grok-bot-ops) | 11-01 | 1★ · Apache-2.0 · 建 10-25 · 最近提交 10-25 | 多 bot 运维卫生纯文档：共享规则、何时建或退役 bot、月度审计清单；过线放「多 Bot 团队」 |
 | [warpfusion001/boss-man-godmode](https://github.com/warpfusion001/boss-man-godmode) | 11-01 | 0★ · NOASSERTION · 建 10-25 · 最近提交 10-25 | 编码加创意媒体的 Grok Bot 胶水包；README 说 MIT 但 GitHub 识别不出，到期看 LICENSE 文件 |
 | [PhillipHolland/grokbotshelf](https://github.com/PhillipHolland/grokbotshelf) | 11-01 | 0★ · 无 License · 建 10-25 · 最近提交 10-25 | grokbotshelf 目录站源码（bots.json 投稿）；网站可免 License，到期看站点内容和是否持续更新，过线放「模板与目录」 |
+| [coletebou/grok-bot-backup](https://github.com/coletebou/grok-bot-backup) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把每个 bot、群聊、routine 和自建 skill 导成纯文件进 git，输出确定（没改动就没 diff），不备份记忆、对话、密钥；走桌面端私有接口，收的话写明升级可能失效 |
 
 ## 已移出
 

@@ -1554,3 +1554,17 @@ loop #40 回执（审 14:45 / 16:10）。
 - evkiinc/emlbot-plugin：依赖商业服务，License 识别不出
 
 **要补**：没有。
+
+### 2026-10-25 18:22 Claude（Asia/Shanghai）
+
+loop #41 回执（审 16:40 / 18:05）。
+
+**X 收 1 篇（175 → 176）**：@Mulight 六种烧额度操作，同作者本周第 2 篇（10-23、10-25），未超上限；和 @0xKingsKuan 九习惯角度不同（这篇重点是账单页 Auto Top-up 和月上限），不算重复。删了「和上一条 9 个习惯互补」，互动更新为约 60 赞 / 34 收藏。
+
+**recheck**
+- blurryclaire/grok-hermes-webhook 就是 recheck 里的 deedade/grok-hermes-webhook（10-25 改名），已改链，不当新条目，10-31 到期不变
+- coletebou/grok-bot-backup：10-25 建，暂缓到 11-01，收时写明走私有接口
+
+**不收**：PetarKing/hermes-inner-circle（Hermes 插件，不是 Grok Bot）
+
+**要补**：没有。
