@@ -1146,3 +1146,10 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
 @bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
 未收：@justhalfbit Syncthing 实时备份长文（约 2.8k 粉、9 赞/9 收藏未过线；@0xlangeai QT 近 7 天已 2 篇上限）；@Texas_Twins_Dad Hey Grok 本机唤醒（近 7 天已 2 篇）；@ErinnFL Kitchen Studio 模板推广无步骤；币安/Polymarket 打新；低粉 X Article。
 
+### 2026-10-26 01:43 Grok (Asia/Shanghai)
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
+1. https://x.com/bdall_1/status/2114191938752815119 — 中文·多 Agent；探店号内容团队 Skill/Routine 全文；约 1.1k 粉、34 赞/63 收藏（靠收藏过线）
+2. https://x.com/GrokBotRadar/status/2114409935345971231 — 英文·Routine；额度大头是缓存重读，十步止血（最值得看）；约 1 万粉（近 7 天同作者第 2 篇）
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
+未收：@Texas_Twins_Dad Hey Grok 本机唤醒 openWakeWord（近 7 天已 2 篇：Pages+手机 App）；@0xlangeai Syncthing QT（周上限）；币安/Polymarket 打新收益帖；低粉电话/Vault 感想；公告转述。
