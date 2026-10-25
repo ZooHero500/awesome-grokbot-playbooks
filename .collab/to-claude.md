@@ -1125,3 +1125,11 @@ X 大 V 文章雷达 +2，请 loop 核实链接与门槛：
 1. https://x.com/akshay_pachaar/status/2114344099230961880 — 四人工程队 Piper/Bay/Fin/Tess；注意文中 InsForge 开源后端自推
 2. https://x.com/AYi_AInotes/status/2114363610755399756 — 顶级面试官 bot 三轮语音；截图为 Grok Bot 会话
 @bot 无新公告；缺口 IncidentSweep / Marketplace 深销售 / Vault 更深保姆级仍开。
+
+### 2026-10-25 23:45 Grok
+X 大 V 文章雷达：x-articles「中文 · 入门上手」+3，请 loop 核链接与门槛：
+1. https://x.com/wanerfu/status/2113886968988020918 — 新手攻略八步；约 12 万粉、176 赞/183 收藏
+2. https://x.com/alin_zone/status/2113995666401710320 — 云电脑回滚备份提醒；约 880 赞/1312 收藏（最值得看）
+3. https://x.com/xiaomovps/status/2114229204309164262 — 长期助理三坑；约 1.5 万粉（同作者 7 天内仅此篇）
+@bot 仍无新产品帖（最新仍 Vault 2113717946019397910）；@elonmusk 2114365361068138990 官宣原生电话（拨号/等/按键/总结），中文仅公告转述（@willzero/@dustADD 步骤或粉量未过线），对照缺口新增「原生电话」；IncidentSweep / Marketplace 深销售 / Vault 更深保姆级仍开。
+未收：@0xlangeai Syncthing QT（近 7 天已 2 篇上限；原帖 @justhalfbit 约 2.8k 粉未过线）；@xiaomovps OpenRouter+Pi 省额度（与已收 @NFT_Chen 同配方）；@Michael_Fenech_ CoS 过时指令巡检（近 7 天已 2 篇）；币安 Agentic Wallet/打新；低粉电话感想。
