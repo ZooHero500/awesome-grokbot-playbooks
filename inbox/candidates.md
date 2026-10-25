@@ -2344,3 +2344,27 @@ exa-pub/grokbot-cli（空 README）；freehelpdesk/jetkvm-mcp（空）；AgentWo
 ### Skip（本轮）
 
 mjospark/servicetitan-grok-connector（免费插件+付费托管 MCP）；ofolimensah/cardiology-x-bot（自动发 X）；xudong19951216/ai-dev-workflow-lab（无 License 个人协作实验）；ViolinConcerto/five-nights-with-ai-track4 / BR1K0/grokbot-project（黑客松无 License，BR1K0 已信号）；nico-lao/Grok-Bot、Robertzu43/building-with-grok-bot、astrodestroyergithub/tamoai-cloud-agents、george988/kindle-courier、freehelpdesk/jetkvm-mcp（空/无 License）；marketplace 模板 dump（Tax Return / Drug Savings / Animation Studio / Gumroad skill packs）；@sylvieailab「¥67 省钱注册」；币安/交易；HarnessRouter 旧仓营销。已列 unfinished-botness / grokctl / grokbox / omalauncher / browser-fleet / box-butler / claudia-grokbot / team-builder / pawelmical agent-relay 等不重推。
+
+## 2026-10-25 12:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:45→2026-10-25 12:05（Asia/Shanghai）`gh search` / `gh api search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-24 + pushed:>2026-10-25T02:00:00Z）+ X `search_posts_all`×6（github/playbook/skills/中文/multi-bot/具名作者；本窗多为额度省钱文、模板 dump、功能建议、低粉 X Article，**可复用仓以 GitHub 漏收补入为主**）。周末侧重 GitHub。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| wustep/my-bot-scripts | https://github.com/wustep/my-bot-scripts | **Grok Bot 实战脚本箱**：个人↔工作账号加密 bot-portal 中继（AES-GCM+Ed25519+Notion 路由+MCP）、iMessage 唤醒 Texts 路由、msg-graph 消息热力图、usage-tabs、Work 隔离配置克隆；每目录可独立抄，路径可 env 覆盖。~30★ MIT。本轮最值得看（漏收） | Skills / Multi-bot bridges | `scripts` `relay` `imessage` `notion` `e2ee` `mit` | ~30 / MIT | **GitHub**（10-17 建，本窗仍推；漏收） |
+| Tritium-Emergence/PangPang | https://github.com/Tritium-Emergence/PangPang | **开源「管 AI 的 Bot」控制面**：你定目标与审批边界，PangPang 管长跑 Work/依赖/失败与验收证据，执行交给既有 Claude Code/Codex/本地模型；强调「Done≠Verified」。Apache-2.0。可作 Self-hosted / Multi-bot 对照 | Self-hosted / Multi-bot | `supervisor` `work-plane` `multi-agent` `apache-2.0` | ~10 / Apache-2.0 | **GitHub**（10-10 建，本窗推；漏收） |
+| Yeyue56/cgbarstat | https://github.com/Yeyue56/cgbarstat | **macOS 菜单栏 CM/OM/GB 三表**：读本机 Cursor state.vscdb（含钥匙串解密）拉 Cursor Models/Other + Grok Bot 用量%；有 v0.2.0 arm64 包。与刚记 QuotAI / README 内 GrokGauge·quota-ring 同赛道，实现路径不同，可对照 | Tools / Usage | `quota` `menubar` `macos` `cursor` `mit` | 0 / MIT | **GitHub**（本窗推；漏收） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| tetumemo · Skills 一源多端 MCP | https://x.com/tetumemo/status/2114193990006485112 | ~5.1 万粉：一份 Skills 原本经 MCP 接待，供 ChatGPT/Claude/Grok Bot/dots 调用；Newsletter 向，无独立仓，先 Learning 信号 | Learning / Skills | **X** @tetumemo |
+| czzzzzzJ_ · Day1 打通 IM+本地设备 | https://x.com/czzzzzzJ_/status/2114201579587096979 | 中文连载 Day1：微信接成果 + 常驻工作站管家 Bot + 跨设备长任务；X Article，先信号 | Learning / Chinese | **X** @czzzzzzJ_ |
+| hugo-hsi-dev/ostack | https://github.com/hugo-hsi-dev/ostack | pstack→Claude Code 技能包 fork；描述写「Grok Bot bridge」但 README 明确**去掉** Slack Grok Bot 管理层。非 Bot 专属玩法，先信号勿当桥收录 | Skills / Claude Code | **GitHub**（本窗推） |
+
+### Skip（本轮）
+
+TheDreamersTop/grok-bot-showroom（用 Bot 做的个人 WebGL 作品展，无 License、非玩法）；s4yonnara「省额度 20 仓」营销帖（通用爬虫/缓存/调度工具堆，非 Grok Bot 配方，且点名未成年人不写公开候选）；its_brill_ Claude→SQLite→webhook 叫醒（口头配方无仓）；AI_Acq Practical Playbook 低粉 X Article；Mulight 烧额度文；Gumroad skill packs；币安/交易；marketplace 模板 dump。已列 yobiru / unfinished-botness / grokctl / grokbox / browser-fleet / QuotAI / omalauncher / team-builder / pawelmical agent-relay 等不重推。
