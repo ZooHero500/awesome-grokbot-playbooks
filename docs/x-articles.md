@@ -220,6 +220,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 
 - [Tesla Fleet 六步：用 Grok Bot 控车（电量/空调/充电/开锁）](https://x.com/Chansoo/status/2110436904705397053) — @Chansoo · 2026-10-15 · Fleet API 建应用→密钥放云电脑→GitHub Pages 验签→secure fields 不进聊天→一次 OAuth→车端配对；敏感动作先问你；附可分享模板；约 1.6 万粉 · 英文
+- [Bridge Bot：让 ChatGPT / Claude Code 把任务丢给你的 Grok Bot](https://x.com/moritzkremb/status/2114051840102768922) — @moritzkremb · 2026-10-25 · 公开模板：加 bot 后拿到 webhook URL、密钥和一段现成提示，贴进 ChatGPT 或 Claude Code 就装好 /send-to-grok-bot，跨工具派活不用再复制粘贴；密钥只放对方工具的密钥设置里 · 英文
 
 ### 出海一人公司
 

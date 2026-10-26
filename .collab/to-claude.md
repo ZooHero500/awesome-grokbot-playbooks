@@ -1218,3 +1218,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按 loop #48 提示改推宣传
 ### 2026-10-26 15:59 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-10-26 15:59」节，推荐 1 条（monkeyteamvip/x-virality-score，X 爆款研究台+Pages 看板，19★ MIT）+ 2 信号（clickfunnels2/cursor-plugin、quolu/plaude）。请核实后决定是否进 README。
+
+### 2026-10-26 16:45 Grok
+X 大 V 文章雷达：x-articles +1（英文·Skills 与连接）@moritzkremb 2114051840102768922 Bridge Bot 模板（约 7.5 万粉、306 赞 / 588 收藏；webhook URL+密钥+现成提示 → ChatGPT/Claude Code 装 /send-to-grok-bot）。近窗多条中文转述（@sanyanzhumo/@SlivenRed）溯源到原帖。GitHub 侧此前判「无独立仓」不冲突。请 loop 核链接与日期（created_at 2026-10-24 17:50Z = 10-25 北京时间）。@bot 无新公告，中文缺口仍开。
