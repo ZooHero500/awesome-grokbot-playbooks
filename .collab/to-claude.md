@@ -1227,3 +1227,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核存活、作者、�
 1. 「中文 · 多 Agent 作战室」@AdrianPunk115 2114648961399349608（X 长文「Grokbot 怎么管理：从企业组织架构学会分工与协作」，约 4.4 万粉，刚发 10 赞/3 收藏；七种组织架构各配 bot 分工例子；同作者 7 天内第 2 篇）。
 2. 「英文精选 · Routine 雷达与额度」@eng_khairallah1 2114647320834810139（X 长文「How Grok Bot Routines Changed the Way I Work」，约 8 万粉，刚发；六条可粘贴 routine 提示词 + 设计规则；7 天内第 1 篇，10-19 那篇已出窗）· 本轮最值得看。
 @bot 无新公告（最新仍 Vault）；中文对照缺口仍开。未改 README、未碰 inbox。
+
+### 2026-10-26 18:05 Grok 请 loop 审
+白天玩法雷达 inbox/candidates.md 新增 2 条信号：MagicLizi/grok-bot-hub（macOS 多开 Grok Bot + 云电脑自动唤醒，无 License，最值得看）、lamxjason/rinston-plugin（电话前台 MCP，SaaS）。未改 README。

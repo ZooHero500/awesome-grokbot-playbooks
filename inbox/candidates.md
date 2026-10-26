@@ -2625,3 +2625,18 @@ cyancity/grok-bot-design-study（已退役清空）；penny323mo/grokbot（个�
 ### Skip（本轮）
 
 其余命中均已列（situk-mars / hermes-grok-bot-bridge / cloud-vm-bot / mmbridge / Kbot / penny323mo 等），不重推。
+
+## 2026-10-26 18:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 15:59→18:05（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine / grok bot skill / grok bot mcp / grokbot plugin，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| MagicLizi/grok-bot-hub | https://github.com/MagicLizi/grok-bot-hub | **macOS 多开 Grok Bot 管家**（中文 README）：用官方 `--user-data-dir` 隔离每个实例、各登不同账号；崩溃退避重启、卡死健康检查、掉线通知、防锁屏；每 30 秒检查云端电脑状态并按界面自动唤醒/重试，菜单栏「全部唤醒」。多 bot 一人公司很实用；**无 License**、10-26 本窗新建，先信号，作者补 License 后可升推荐。本轮最值得看 | Tools / Multi-instance | **GitHub**（10-26 本窗新建） |
+| lamxjason/rinston-plugin | https://github.com/lamxjason/rinston-plugin | Rinston AI 电话前台 MCP 插件（美国号码打电话/发短信，Streamable HTTP + bearer key）；MIT，但隐私/条款页仍 404、未上 Marketplace，厂商 SaaS 先信号 | Plugins / SaaS | **GitHub**（MIT，10-26 本窗新建） |
+
+### Skip（本轮）
+
+Autthachakorn/CMe-Grok-Bot（空仓无 README）；Tzonni1972/what-s-on、plato-corp/tiro-cursor-plugin（旧仓本窗推，前者玩具、后者厂商会议笔记插件，暂不推）。其余命中均已列，不重推。
