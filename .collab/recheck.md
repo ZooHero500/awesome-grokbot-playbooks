@@ -28,6 +28,11 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [StefMVP/grokbot-exporter](https://github.com/StefMVP/grokbot-exporter) | 11-02 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交 |
 | [TheSethRose/grokbot-bridge](https://github.com/TheSethRose/grokbot-bridge) | 11-02 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交；同类 claude-grok-bridge 已收 |
 | [treverhatch-glitch/hatchfield-ai-studio-template](https://github.com/treverhatch-glitch/hatchfield-ai-studio-template) | 11-02 | 1★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交；偏游戏制作，看是否对题 |
+| [rthomas24/grok-bot-mcp](https://github.com/rthomas24/grok-bot-mcp) | 11-02 | 0★ · MIT · 建 10-14 · 最近提交 10-14 | 10-26 第 1 次延期：满 7 天但建仓后没有新提交。本机驱动 macOS 桌面端的 MCP（列 bot、读聊天、发消息、答多选题），带 Claude Code 插件；和已收的 cherwinyu/grok-bot-mcp 同名不同仓 |
+| [smoothvr/grok-bot-home-assistant-ui](https://github.com/smoothvr/grok-bot-home-assistant-ui) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 墙挂平板的胶囊眼界面：灯光、音乐走本机 Home Assistant，真正的问题交给你自己的 Grok Bot；原 stefanvr82 名下，已改名；过线放「硬件」 |
+| [situker/situk-mars](https://github.com/situker/situk-mars) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 多 bot 记功和晋升 skill：业务 bot 交证据，Merit Officer 审，人批后入账；中英双语，有 CI 和 release |
+| [Kinfxhk/hermes-grok-bot-bridge](https://github.com/Kinfxhk/hermes-grok-bot-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | Hermes 插件经 routine webhook 叫醒 Grok Bot 在云电脑上跑活，跑完回调进同一个 Hermes 对话 |
+| [rystedtcreative/run-cards](https://github.com/rystedtcreative/run-cards) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | bot 把长编码活交给 Grok Build / Claude Code 时，开跑和收尾各贴一张状态卡 |
 | [NetrovertHQ/netrovert-agents](https://github.com/NetrovertHQ/netrovert-agents) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 商业托管服务，按「商业类每分类最多 1 条」处理 |
