@@ -146,6 +146,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [VaynerAkaWalo/grok-dc-notifier](https://github.com/VaynerAkaWalo/grok-dc-notifier) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 监听 Discord Gateway，把 @提及、私信和参与过的帖子转给 bot 的 routine webhook；带 Docker |
 | [StefMVP/omarchy-grokbot-voice](https://github.com/StefMVP/omarchy-grokbot-voice) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Omarchy 热键控制 Grok Bot 语音通话，不抢键盘焦点；可和已收的 Grok Bot for Omarchy 放一起 |
 | [kyrollosfarah/grokbot-desktop-intel-mac](https://github.com/kyrollosfarah/grokbot-desktop-intel-mac) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Intel Mac 装官方桌面端的脚本和指南：从官方地址下载 DMG、校验签名和架构，不重新分发安装包 |
+| [exa-pub/grokbot-tunnel](https://github.com/exa-pub/grokbot-tunnel) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把没有桌面的 Linux 服务器挂成 Grok Bot 的一台「电脑」，命令权限分 ask / always / never；非官方，Go 写的，有 CI 和 Release；收的话提醒 connect 期间 bot 能在 root 目录下跑命令 |
 
 ## 已移出
 
