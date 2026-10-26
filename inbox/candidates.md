@@ -2533,3 +2533,28 @@ Gregory-Brunner/GrokBot（空仓无 README）；risebydigital/grokbot-speaker（
 ### Skip（本轮）
 
 RusDawg/LunaBot_Public（月亮竞速 HUD 演示壳，非玩法仓）；santiagogarza/university-of-mars（高教工作坊靶站）；unknownboiz/dexor（多模型聊天替代品，非 Grok Bot）；maya-sesame/sycophancy-mirror（谄媚镜像研究）；frank-otto/runecliff-chess（用 Bot 做的产品）；vitalydolgov/grokbot-tunnel（早期空仓，已 Maybe，勿与 exa-pub 混淆）；risebydigital/grokbot-speaker / Gregory-Brunner/GrokBot / PixnBits/local-grok-bots / EmberLing（上轮已 skip）；marketplace SaaS dump、币安/交易。已列 grok-dc-notifier / omarchy-grokbot-voice / grokbot-desktop-intel-mac / Homebot / agent-task-panel / grok-bot-bridge / GrokChan / unfinished-botness / stampede 等不重推。
+
+## 2026-10-26 10:43 Asia/Shanghai · T7 日更雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约近 24h（~2026-10-25 10:40→10-26 10:43 Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-25 + updated≥2026-10-25）+ X `search_posts_all`×4（EN playbook/github、中文玩法、url:github.com）。工作日 T7：GitHub 新仓 + X 交叉。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| coletebou/drover | https://github.com/coletebou/drover | **多机多 Agent 控制面**：一眼看 Claude Code / Codex / **Grok bots** / OpenClaw fleet manager 谁在等人、谁在干活；Web/TUI/Mac/iPhone/Watch；经 bot gateway（OAuth+MCP）给 Grok Bot 派 Routine webhook、读回复与审批；MCP 让编码 agent 调 `drover_*`。Apache-2.0、有 native/integrations。本轮最值得看 | Multi-bot / Control plane | `fleet` `control-plane` `grok-bots` `mcp` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-23 建，本窗持续推；漏收） |
+| Play-Omega-Games/indie-launch-coach | https://github.com/Play-Omega-Games/indie-launch-coach | **Indie Launch Coach 模板的开源发射 playbook**：八阶段 + 任务库/平台门禁官方链 + 店页/媒体包/外联草稿模板 + `build_plan.py`（答案→带日期计划）；Bot 从 raw JSON 拉数据。内容 CC0、脚本 MIT。与同作者 great-books-reading-paths（已信号）同赛道、本仓可复用度更高 | Skills / Vertical playbook | `indie` `launch` `playbook` `steam` `cc0` `mit` | 0 / CC0+MIT | **GitHub**（10-26 本窗新建） |
+| stefanvr82/grok-bot-home-assistant-ui | https://github.com/stefanvr82/grok-bot-home-assistant-ui | **墙挂平板胶囊眼 UI**：简单灯光/音乐走本机 Home Assistant；真正问题交给你自己的 Grok Bot（页内无 Grok 客户端/模型）。德英 i18n、CI、公开 demo。灵感自 @Texas_Twins_Dad 帖；与已记 grokbot-face（Pixel Tablet）同「眼睛入口」不同栈 | Clients / Home | `home-assistant` `tablet` `eyes` `mit` | 0 / MIT | **GitHub**（10-26 本窗新建） |
+| Caffrey-Li/QuotaPot | https://github.com/Caffrey-Li/QuotaPot | **Cursor 旁常驻小窗看用量**：支持 Cursor / Claude / Codex / DS Bot / WorkBuddy / **Grok Bot**；今日·7·30 天 token、上下文 80% 提醒、磁盘清理两步确认。中文 README，Mac/Win，MIT，~15★ | Tools / Usage | `usage` `desktop` `quota` `zh` `mit` | ~15 / MIT | **X** + **GitHub**（本窗仍推） |
+| rthomas24/grok-bot-mcp | https://github.com/rthomas24/grok-bot-mcp | **本机驱动 macOS Grok Bot 桌面端的 MCP**：列 Bot、读聊天、发消息、回答多选题；零依赖、带 Claude Code plugin + Skill。与已收录 cherwinyu/grok-bot-mcp（Windows routine+git diff 验收）**不是同一仓**——本仓是桌面 GUI 操控桥 | Bridges / Desktop MCP | `mcp` `macos` `desktop` `claude-code` `mit` | 0 / MIT | **X** + **GitHub**（10-14 建；本窗重提漏收） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| pickfu/pickfu-mcp-plugin | https://github.com/pickfu/pickfu-mcp-plugin | PickFu hosted MCP + consumer poll skill（Grok Bot/Cursor）；依赖商业账号与积分，先信号 | Plugins / SaaS | **GitHub**（10-25 晚新建，MIT） |
+| Grok-Benkei/local-token-saver | https://github.com/Grok-Benkei/local-token-saver | 单文件 Python stdlib+SQLite 输入侧去噪（HTML/diff/CSV…），文档点名 Grok Bot 路径；日文向、宣称削减幅度需核，先信号 | Skills / Cost | **X** + **GitHub**（10-25 新建，MIT） |
+
+### Skip（本轮）
+
+duychung-keytechx/Kbot（空 README/无 License）；risebydigital/grokbot-speaker / Gregory-Brunner/GrokBot / EmberLing / shield-recs / grok-minecraft（已 skip）；qwts/universal-agentic-workflow（通用 SDLC 非 Grok 专向）；BlancoKat/wikiwright（Bot 做的产品非玩法）；smfworks/grok-bot-templates / HarnessRouter / poteto·pstack 转发（已列）；Howard Telegram Stars 市集自推；币安/Polymarket 交易、额度营销、SpaceXAI 摘要 PDF。已列 dark-factory / grokbot-tunnel / grok-dc-notifier / omarchy-grokbot-voice / Homebot / agent-task-panel / grok-bot-bridge / unfinished-botness / boss-man-godmode / grokbotshelf / gbiz-templates / grokbot-pet / lift-receipt 等不重推。

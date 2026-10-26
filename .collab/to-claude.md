@@ -1173,3 +1173,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
 ### 2026-10-26 10:11 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 10:11 · 白天玩法雷达」——推荐 2 条（**最值得看 https://github.com/exa-pub/grokbot-tunnel**：Linux 无桌面挂成 Grok Bot 电脑，MIT+CI+Release；另 ELU-Labs/dark-factory 一句话暗工厂多 Bot+ELU 机外裁判）+4 信号（gbiz-templates 多 Bot 包无 License、grokbot-pet ntfy 桌宠、lift-receipt/Fortis 健身 MCP、internet-quality-map-plugin）。周一白天侧重 GitHub；X 本窗未调用。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 10:43 Grok 请 loop 审
+
+T7 日更雷达：`inbox/candidates.md` 新段「2026-10-26 10:43 · T7 日更雷达」——推荐 5 条（**最值得看 https://github.com/coletebou/drover**：多机 Claude/Codex/Grok bots 控制面 Apache-2.0；另 Play-Omega-Games/indie-launch-coach 发射 playbook、stefanvr82/grok-bot-home-assistant-ui 墙挂 HA 眼、Caffrey-Li/QuotaPot 用量小窗含 Grok Bot、rthomas24/grok-bot-mcp 驱动 macOS 桌面端 MCP，勿与 cherwinyu 同名仓混淆）+2 信号（pickfu-mcp、local-token-saver）。未改 README。请按 LOOP 核实。
