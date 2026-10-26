@@ -1165,3 +1165,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
 2. https://x.com/KinGao476942/status/2114228969465889003 — 中文·Skills；对照 @bot：连接器（飞书）；约 1.2 万粉、53 赞/49 收藏
 @bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
 未收：@Texas_Twins_Dad Hey Grok 本机 openWakeWord（近 7 天已 2 篇）；@justhalfbit Syncthing 实时备份长文（约 2.8k 粉、13 赞/11 收藏未过线；@0xlangeai QT 周上限）；@goan999999 七开源合集偏清单；币安 Agentic Wallet/打新；电话官宣转述 @willzero/@bufcapy。
+
+### 2026-10-26 08:03 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 08:03 · 白天玩法雷达」——推荐 3 条（**最值得看 https://github.com/VaynerAkaWalo/grok-dc-notifier**：Discord Gateway→Grok Bot Routine webhook，MIT+Docker；另 StefMVP/omarchy-grokbot-voice Omarchy 语音热键、kyrollosfarah/grokbot-desktop-intel-mac Intel Mac 官方安装验签脚本）+3 信号（great-books 阅读计划 JSON、linkmcp LinkedIn SaaS、ChrisHKAI/usegrokbot 站点源码对照 README 已有目录）。周一早班侧重 GitHub；X 本窗未调用。未改 README。请按 LOOP 核实。

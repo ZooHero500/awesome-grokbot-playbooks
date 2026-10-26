@@ -2485,3 +2485,27 @@ BurggraafJ/grok-minecraft（无 License，荷兰语 Minecraft 自建服）；geo
 ### Skip（本轮）
 
 wcccheryl/grok-icon-study（无 License，前端动效学习 demo）；danirukun/open-venue-db（黑客松场馆产品，非 Bot 玩法）；ahvren/shield-recs / BurggraafJ/grok-minecraft（无 License，上轮已 skip）；PiyushAnand2006/EmberLing（逆向客户端，已 skip）；Menziess/bot-widget（主对接 OpenBot，已 skip）；exa-pub/grokbot-cli 空 README；marketplace/SaaS dump、币安/交易。已列 Homebot / grok-bot-bridge / GrokChan / mcp-correo / x-cli-via-grok / bot2bot / grok-bot-backup / hermes-webhook / otis / me-layouts / stampede / usage-checkin / root-agent / AgentMindCloud 等不重推。
+
+## 2026-10-26 08:03 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 02:06→2026-10-26 08:03（Asia/Shanghai）`gh search`（"Grok Bot" / grokbot / grok-bot created≥2026-10-25 + topic + Discord/Intel/voice 具名）+ WebSearch 补漏。周一早班侧重 GitHub；X 本窗未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| VaynerAkaWalo/grok-dc-notifier | https://github.com/VaynerAkaWalo/grok-dc-notifier | **Discord Gateway → Grok Bot Routine webhook**：监听 @提及 / DM / 参与中的线程，带用户白名单与限流；Bun+TS，Docker 镜像 `ghcr.io/...`；README 写清让 Bot 建 webhook routine、把同一 Discord bot token 当 secret 回帖。可复用「外站事件→Routine」桥样板。本轮最值得看 | Bridges / Routines | `discord` `webhook` `routine` `docker` `mit` | 0 / MIT | **GitHub**（10-25 深夜本窗新建） |
+| StefMVP/omarchy-grokbot-voice | https://github.com/StefMVP/omarchy-grokbot-voice | **Omarchy/Hyprland 热键控制 Grok Bot 语音通话**：不抢键盘焦点；启动需 `--remote-debugging-port=9222`，按键开/挂、pill 静音；`install`/`setup hyprland`/`doctor`。与已记 omarchy-grok-bot 顶栏状态、同作者 exporter 互补——本仓是语音通话快捷键 | Clients / Voice | `omarchy` `hyprland` `voice` `hotkey` `mit` | 0 / MIT | **GitHub**（10-25 深夜本窗新建） |
+| kyrollosfarah/grokbot-desktop-intel-mac | https://github.com/kyrollosfarah/grokbot-desktop-intel-mac | **Intel Mac 官方 Grok Bot 安装/更新/验签脚本**：下载官方 x64 DMG、签名与架构检查、失败备份；已在 Sequoia 15.7.7 + 0.75.8 验证。非逆向，只包装官方 Intel 构建；Apple silicon 请走官网 | Clients / Install | `macos` `intel` `installer` `verify` `mit` | 0 / MIT | **GitHub**（10-25 晚本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Play-Omega-Games/great-books-reading-paths | https://github.com/Play-Omega-Games/great-books-reading-paths | 公版名著每日阅读 JSON 计划（15 分钟/天），供 Great Books Reading Paths 模板 Bot 拉取；内容包非工具，先信号 | Templates / Content | **GitHub**（10-25 深夜新建） |
+| linkmcp-io/linkmcp-cursor-plugin | https://github.com/linkmcp-io/linkmcp-cursor-plugin | LinkedIn hosted MCP 的 Cursor/Grok Bot Marketplace 配置+7 skills；依赖商业账号，先信号 | Plugins / SaaS | **GitHub**（本窗仍推，MIT） |
+| ChrisHKAI/usegrokbot | https://github.com/ChrisHKAI/usegrokbot | usegrokbot.com 开源仓（用例发现站）；**站点已在 README**，此仓作源码对照，勿重复当新目录 | Learning / Directory source | **GitHub**（本窗核验） |
+
+### Skip（本轮）
+
+Gregory-Brunner/GrokBot（空仓无 README）；risebydigital/grokbot-speaker（Pi 语音音箱走 xAI realtime Voice API，badge 标 private licence，非 Grok Bot 玩法主推）；PixnBits/local-grok-bots（自托管同伴、**无 License**）；divyanshu-patil/blooby（胶囊眼 mascot 动画器，非 Bot 集成）；c5auto/c5auto.github.io（Tesla 薄页无 License）；Delibread0601/askaipods（通用播客 skill，非 Grok Bot 专用）；PiyushAnand2006/EmberLing（逆向客户端，已 skip）；ahvren/shield-recs / BurggraafJ/grok-minecraft / greedfi/me-layouts（已信号或 skip）；marketplace SaaS dump、币安/交易。已列 Homebot / agent-task-panel / grok-bot-bridge / GrokChan / grok-bot-backup / hermes-webhook / bot2bot / x-cli-via-grok / stampede / unfinished-botness / StefMVP exporter 等不重推。
