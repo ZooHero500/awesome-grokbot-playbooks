@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-123-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-124-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **123** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **124** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **223** | curated community tutorials and X articles ([33 tutorials](docs/community-tutorials.md) + [190 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
@@ -61,9 +61,9 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
+- **10-26** Added one: [x-virality-score](https://github.com/monkeyteamvip/x-virality-score), a read-only routine that watches X hits, mines trend keywords and drafts rewrites of the top 10
 - **10-26** Added six: drafts-only small-business [grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates); [claude-grok-bridge](https://github.com/francoCosimo95/claude-grok-bridge), so Claude Code and your bot can ask each other; a [Multica bridge](https://github.com/lthero-big/gbb-multica-bridge); [iMessage Relay](https://github.com/PhillipHolland/imessage-relay) for iMessage in X Chat; [Groknet](https://github.com/sudoTomas/groknet), where bots of different owners befriend each other; and [Botling](https://github.com/william1010121/Botling), a Grok Bot-style app on Claude Code and Codex; articles from top X creators grew to 190
 - **10-25** Added three: the software-factory template [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r), where you only talk to one bot; the 358-page Chinese book [Grok Bot Blackbook](https://github.com/LJMStark/grok-bot-blackbook); and [GrokBotChineseFix](https://github.com/thinkingpower-labs/GrokBotChineseFix) for Chinese typing in the Windows app
-- **10-25** Added two: [yobiru](https://github.com/chekusu/yobiru), which lets agents on your machines message each other and share a bot with friends, and one user's Grok Bot toolbox [my-bot-scripts](https://github.com/wustep/my-bot-scripts)
 
 Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md).
 
@@ -73,7 +73,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Templates & directories](#-templates--directories) (12) - template libraries, bot-share indexes and use-case sites; check here first
 - [Skills & Playbooks](#-skills--playbooks) (41) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (26) - war rooms, coordinators, multi-agent work
-- [Routines & Digests](#-routines--digests) (7) - scheduled radars, weekly reviews, usage control
+- [Routines & Digests](#-routines--digests) (8) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (5) - global support, WeChat, Chinese configs
 - [Self-hosted bots](#-self-hosted-bots) (13) - stay off the cloud, bring your own model
 - [Hardware](#-hardware) (4) - give your bot a physical front end
@@ -192,6 +192,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Recipe: X radar](examples/x-radar.md) - A daily pass over public X posts that only pushes a digest when there is real signal; all engagement stays human. (Chinese) Tags: `example` `routine` `x`
 - [Recipe: Routine budget check](examples/routine-budget.md) - When quota is nearly gone, pause everything, have a lead bot grade each Routine, then re-enable one by one after human sign-off; high-frequency Routines stay silent when nothing changed. (Chinese) Tags: `example` `routine` `budget`
 - [Template: X Post Tracker (Karol)](https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn) - Third-party template, one-click import: tracks views and engagement on your own X posts, alerts on spikes and milestones, and sends a daily digest with suggestions; it says it never posts for you, but check permissions before adding. Tags: `template` `x` `digest`
+- [x-virality-score](https://github.com/monkeyteamvip/x-virality-score) - X virality desk: watches accounts you pick, keeps original posts above your view floor, mines keywords and 24h trends, drafts rewrites for the top 10 only (a code gate rejects near-copies), pings you a one-paragraph digest before noon and refreshes your own GitHub Pages board. Read-only: never posts, likes or replies; you publish. Scraping uses a logged-in X session on your machine. MIT. Tags: `routine` `x` `dashboard`
 - [grokbot-quota-ring](https://github.com/SvenKunkka/grokbot-quota-ring) - A small macOS menu-bar pie showing how much of your weekly Grok Bot quota is left, shifting green → yellow → red, with the reset time in the dropdown. It needs your cursor.com session cookie (kept in Keychain) and calls an undocumented endpoint that can break at any time; you can write a JSON file by hand instead. Tags: `quota` `macos` `menubar`
 - [GrokGauge](https://github.com/stevencombs/GrokGauge) - A macOS menu-bar usage gauge: one ring for your whole SuperGrok weekly pool, split into how much Grok, Grok Bot and Cursor each used, plus days to reset; installs with one Homebrew command. Unofficial and reads undocumented data sources that can change; not notarized by Apple, so the cask removes the quarantine flag for you. MIT. Tags: `quota` `macos` `menu-bar`
 

@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-123-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-124-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **123** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **124** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
 | **223** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 190），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
@@ -61,9 +61,9 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
+- **10-26** 新增 1 个：盯 X 爆款、挖趋势词、给浏览前 10 的帖写改写草稿的 routine [x-virality-score](https://github.com/monkeyteamvip/x-virality-score)，只读不代发
 - **10-26** 新增 6 个：给小商家的草稿型模板 [grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates)、让 Claude Code 和 bot 互相问话的 [claude-grok-bridge](https://github.com/francoCosimo95/claude-grok-bridge)、[Multica 桥](https://github.com/lthero-big/gbb-multica-bridge)、在 X Chat 收发 iMessage 的 [iMessage Relay](https://github.com/PhillipHolland/imessage-relay)、让不同主人的 bot 互加好友的 [Groknet](https://github.com/sudoTomas/groknet)、Mac 上用 Claude Code / Codex 复刻 Grok Bot 的 [Botling](https://github.com/william1010121/Botling)；X 大 V 文章增至 190 篇
 - **10-25** 新增 3 个：只跟一个 bot 说话的软件工厂模板 [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r)、358 页中文实战书 [Grok Bot 黑皮书](https://github.com/LJMStark/grok-bot-blackbook)、Windows 桌面版 [中文快捷键修正](https://github.com/thinkingpower-labs/GrokBotChineseFix)
-- **10-25** 新增 2 个：让各台电脑上的 agent 互发消息、还能把 bot 分享给朋友的 [yobiru](https://github.com/chekusu/yobiru)，和一位用户的 Grok Bot 脚本箱 [my-bot-scripts](https://github.com/wustep/my-bot-scripts)
 
 完整记录见 [README 提交历史](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md)。
 
@@ -73,7 +73,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [模板与目录](#-模板与目录)（12）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
 - [技能与玩法](#-技能与玩法)（41）- skill、MCP、单个模板、可粘贴人设
 - [多 Bot 团队](#-多-bot-团队)（26）- 作战室、总指挥、多 agent 协作
-- [Routine 与摘要](#-routine-与摘要)（7）- 定时雷达、周报、额度管理
+- [Routine 与摘要](#-routine-与摘要)（8）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（5）- 出海客服、微信接入、中文配置
 - [自托管与平替](#-自托管与平替)（13）- 不想上云、想用自己的模型
 - [硬件](#-硬件)（4）- 给 bot 一个实体入口
@@ -192,6 +192,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [配方：X 雷达](examples/x-radar.md) - 每天扫一轮 X 公开帖，只推有实质信号的摘要，没信号就不打扰；互动一律人来。标签：`example` `routine` `x`
 - [配方：Routine 额度体检](examples/routine-budget.md) - 额度快烧光时先全部暂停，再让首席 Bot 给每条 Routine 分级，人确认后逐条重开；高频 Routine 没有新内容就静默。标签：`example` `routine` `budget`
 - [模板：X Post Tracker（Karol）](https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn) - 第三方模板，可一键导入：盯自己 X 帖子的浏览和互动，暴涨或到里程碑时提醒，每天一份摘要加下一步建议；说明里写明不代你发帖，导入前仍看一眼权限。标签：`template` `x` `digest`
+- [x-virality-score](https://github.com/monkeyteamvip/x-virality-score) - X 爆款研究台：盯你自选的账号，只挑浏览量过线的原创帖，挖关键词和 24 小时趋势，给浏览最高的 10 条写改写草稿（代码拦截重合度过高的稿），中午前推一段摘要，再刷新你自己 GitHub Pages 上的看板。只读不发、不赞、不回，发不发你定；抓取要用本机登录的 X 会话。MIT。标签：`routine` `x` `dashboard`
 - [grokbot-quota-ring](https://github.com/SvenKunkka/grokbot-quota-ring) - macOS 菜单栏小饼图显示 Grok Bot 本周剩余额度，余量越少颜色从绿变黄再变红，下拉看重置时间。要把 cursor.com 的登录 cookie 交给它（存在钥匙串），走的是未公开接口，随时可能失效；不想交 cookie 可以手写 JSON。标签：`quota` `macos` `menubar`
 - [GrokGauge](https://github.com/stevencombs/GrokGauge) - macOS 菜单栏额度表：一个环显示 SuperGrok 本周总额度，再按 Grok、Grok Bot、Cursor 拆出各自占了多少，旁边写离重置还有几天；Homebrew 一条命令装。非官方，读的是未公开的数据源，随时可能变；没经过 Apple 公证，安装脚本会替你去掉隔离标记。MIT。标签：`quota` `macos` `menu-bar`
 

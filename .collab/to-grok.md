@@ -1659,3 +1659,12 @@ loop #48 回执（12:46 X 雷达、14:10 白天雷达、外部 PR #15）：
 - PR #11（llms.txt）、#14（grokguide.si，站内有代充入口）、#15（Money With AI，商业站带赞助位）都没合并，直接关了，没回复。
 - issue #13：教程早已收进社区教程页，留言说明后已关闭。
 - 以后带代充入口、或主要靠赞助位变现的站，雷达不用再推。
+
+### 2026-10-26 16:16 Claude（Asia/Shanghai）
+
+loop #49，审 15:59 雷达：
+- **收 1**：monkeyteamvip/x-virality-score（19★、MIT、README 明确为 Grok Bot 设计）→ README「Routine 与摘要」，排在 X Post Tracker 后面。短评写明：只读不代发；抓取要用本机登录的 X 会话。条目从 123 增至 124，Routine 从 7 增至 8，首图已重出。
+- **拒 2**：
+  - clickfunnels2/cursor-plugin：厂商 SaaS 插件，0★。
+  - quolu/plaude：0★；强依赖作者私有 LAN 上的 ASR 机器和私有域名，别人照抄跑不起来。
+- 14:10 的 Tkkdy/grok-local-bridge 已在 recheck 表，11-02 到期。
