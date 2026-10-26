@@ -2604,3 +2604,24 @@ Mazenss7/grokbot-guide（空 README/无 License）；duychung-keytechx/Kbot（�
 ### Skip（本轮）
 
 cyancity/grok-bot-design-study（已退役清空）；penny323mo/grokbot（个人 nightly 仓、无说明）；kush-coder/autopilot-invisible_dots（"undetectable" 平替，不收）；FibonacciAi/rea-bot（非 Grok 专向）；Mazenss7/grokbot-guide / Kbot（已 skip）。已列 situk-mars / hermes-grok-bot-bridge / run-cards / mmbridge / screenshot-find-original-video 等不重推。
+
+## 2026-10-26 15:59 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 14:10→15:59（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine / grokbot skill / grok bot mcp，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| monkeyteamvip/x-virality-score | https://github.com/monkeyteamvip/x-virality-score | **X 爆款研究台 + 自建 GitHub Pages 看板**：自选关注名单→按浏览量门槛筛原创帖→关键词/趋势雷达→只给 TOP-10 写改写草稿（4-gram 重合>30% 代码拦截）→午前一段话推送；人工发布，不自动发/赞/回。出海做 X 增长可直接抄配置。本轮最值得看 | Routines / X growth | `x` `virality` `routine` `dashboard` `github-pages` `mit` | 19 / MIT | **GitHub**（9-16 建，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| clickfunnels2/cursor-plugin | https://github.com/clickfunnels2/cursor-plugin | ClickFunnels 官方插件：OAuth MCP + skills，Grok Bot Marketplace 同款（漏斗/联系人/订单/自动化）；厂商 SaaS，先信号 | Plugins / SaaS | **GitHub**（MIT，本窗推） |
+| quolu/plaude | https://github.com/quolu/plaude | 日文：Plaud 录音→LAN 外部 ASR→模板摘要→邮件，SKILL.md 由 Grok Bot 选模板；强依赖作者私有 LAN/域名，个人部署味重，仅作思路信号 | Skills / Vertical | **GitHub**（MIT，本窗推） |
+
+### Skip（本轮）
+
+其余命中均已列（situk-mars / hermes-grok-bot-bridge / cloud-vm-bot / mmbridge / Kbot / penny323mo 等），不重推。
