@@ -36,26 +36,17 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [rystedtcreative/run-cards](https://github.com/rystedtcreative/run-cards) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | bot 把长编码活交给 Grok Build / Claude Code 时，开跑和收尾各贴一张状态卡 |
 | [Tkkdy/grok-local-bridge](https://github.com/Tkkdy/grok-local-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 经 OAuth 保护的 HTTPS 入口调用你 Windows 本机批准过的 MCP，工具白名单、按工具限流；作者自标实验性 |
 | [MagicLizi/grok-bot-hub](https://github.com/MagicLizi/grok-bot-hub) | 11-02 | 0★ · 无 License · 建 10-26 · 最近提交 10-26 | macOS 多开 Grok Bot：每个实例用独立 user-data-dir 登不同账号，崩溃重启、卡死检查、掉线通知，定时检查云电脑并自动唤醒；到期仍无 License 就移出 |
-| [NetrovertHQ/netrovert-agents](https://github.com/NetrovertHQ/netrovert-agents) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 商业托管服务，按「商业类每分类最多 1 条」处理 |
-| [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 和 herdrbot 合成一行 |
-| [devicki/herdrbot](https://github.com/devicki/herdrbot) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 和 herdr-away-signal 合成一行 |
-| [devrecated/grokbot-routines](https://github.com/devrecated/grokbot-routines) | 10-27 | 1★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [fal-ai-community/fal-grok-plugin](https://github.com/fal-ai-community/fal-grok-plugin) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [heyalchang/grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 |  |
-| [jethros-projects/botter](https://github.com/jethros-projects/botter) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 收的话标「非官方、走非公开接口」 |
-| [lingverse-ai/lingverse](https://github.com/lingverse-ai/lingverse) | 10-27 | 0★ · NOASSERTION · 建 10-20 · 最近提交 10-21 | API 许可 NOASSERTION，看仓内 LICENSE 文件是否写明 |
-| [naoiseirwin/strava-grokbot-bridge](https://github.com/naoiseirwin/strava-grokbot-bridge) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [oscarsterling/telegram-bot-relay](https://github.com/oscarsterling/telegram-bot-relay) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 要粘 bot token，收的话写明风险 |
-| [senscho/grok-codex-bridge-public](https://github.com/senscho/grok-codex-bridge-public) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [sumanthneerumalla/thebrowserfarm-plugin](https://github.com/sumanthneerumalla/thebrowserfarm-plugin) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [xiaozhenliu/agent-mesh](https://github.com/xiaozhenliu/agent-mesh) | 10-27 | 1★ · MIT · 建 10-20 · 最近提交 10-20 |  |
-| [Retasc/plugins](https://github.com/Retasc/plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | 商业服务，按「商业类每分类最多 1 条」处理 |
-| [luisfigueroavale/dreamstate-gtm-team](https://github.com/luisfigueroavale/dreamstate-gtm-team) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | Chief of Staff + 12 bot 的 GTM 作战室；绑 Dreamstate 服务，收的话短评注明、按商业类计 |
-| [iconnectgroupco/grokbot-skills](https://github.com/iconnectgroupco/grokbot-skills) | 10-27 | 0★ · 混合许可（各 skill 带原许可）· 建 10-20 · 最近提交 10-20 | 40+ 个 SKILL.md，多为改编 ECC、claude-ads 等；过线时逐个看原许可是否允许改编再发 |
-| [qubicsdata/grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit) | 10-27 | 0★ · Apache-2.0 · 建 10-20 · 最近提交 10-21 | Grok Bot + Claude Code 起步套件（AGENTS.md 分阶段接入、skill、晨报 routine）；过线时看和 quickstart、作战室配方是否重复 |
-| [holdtapp/holdt](https://github.com/holdtapp/holdt) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-21 | 自托管 iCloud 日历 MCP，写入要人批准；过线时看 README 是否把 Grok Bot 当主要用法（门槛第 3 条） |
+| [davidgeorgehope/grokbot-mixer](https://github.com/davidgeorgehope/grokbot-mixer) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 当 DJ：给曲目清单做 60 分钟以上的对拍 DnB 混音，带确定性护栏和 eval 打分器；创作型 bot 范例，过线放「技能与玩法」 |
+| [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
+| [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；商业托管服务，按「商业类每分类最多 1 条」处理 |
+| [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；和 herdrbot 合成一行 |
+| [devicki/herdrbot](https://github.com/devicki/herdrbot) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；和 herdr-away-signal 合成一行 |
+| [fal-ai-community/fal-grok-plugin](https://github.com/fal-ai-community/fal-grok-plugin) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
+| [naoiseirwin/strava-grokbot-bridge](https://github.com/naoiseirwin/strava-grokbot-bridge) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
+| [senscho/grok-codex-bridge-public](https://github.com/senscho/grok-codex-bridge-public) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
+| [sumanthneerumalla/thebrowserfarm-plugin](https://github.com/sumanthneerumalla/thebrowserfarm-plugin) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
+| [xiaozhenliu/agent-mesh](https://github.com/xiaozhenliu/agent-mesh) | 11-03 | 1★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
+| [iconnectgroupco/grokbot-skills](https://github.com/iconnectgroupco/grokbot-skills) | 11-03 | 0★ · 混合许可（各 skill 带原许可）· 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；40+ 个 SKILL.md，多为改编 ECC、claude-ads 等；过线时逐个看原许可是否允许改编再发 |
 | [greedfi/dotmail](https://github.com/greedfi/dotmail) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 |  |
 | [siuserxiaowei/grokbot-recipes](https://github.com/siuserxiaowei/grokbot-recipes) | 10-28 | 0★ · MIT · 建 10-21 · 最近提交 10-21 | 看和本仓配方是否重叠 |
 | [twhit223/grok-bot-cos](https://github.com/twhit223/grok-bot-cos) | 10-28 | 2★ · MIT · 建 10-01 · 最近提交 10-01 | 10-21 复查：pushed_at 是 10-20，但 main 分支上只有 10-01 的提交，等有新提交 |
@@ -76,14 +67,12 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [brevitywithorion/context-transfer-skill](https://github.com/brevitywithorion/context-transfer-skill) | 10-28 | 0★ · MIT · 建 10-21 · 7 次提交 | 从持久记忆刷新上下文、对抗长线程 context rot 的 skill，带 evals；到期看是否还在维护、evals 能不能跑 |
 | [Twiniti-Hub/needful-things-plugin](https://github.com/Twiniti-Hub/needful-things-plugin) | 10-28 | 0★ · MIT + Apache 双许可文件（API 显示 NOASSERTION）· 建 10-21 · 5 次提交 | 二手市集的远程 MCP + skills，商业服务，作者写明生产环境 10-28 上线；到期确认上线、Grok Bot 能装（README 偏 Grok Build） |
 | [Tanmayjadhav2305/grok-bot-clone](https://github.com/Tanmayjadhav2305/grok-bot-clone) | 10-28 | 0★ · MIT · 建 10-21 · 1 次提交 | 本机仿 Grok Bot 的替代品，候选「自托管与平替」；到期没新提交就不收 |
-| [skorten/grokbot-os](https://github.com/skorten/grokbot-os) | 10-27 | 0★ · Apache-2.0 · 建 10-20 · 13 次提交 | 一人舰队安装包：多个 profile + 5 条核心 routine + Notion 单写闸门，粘贴 install prompt 逐步建队；到期看是否继续维护，候选「多 Bot 团队」 |
 | [yunjian-ai/yunjian](https://github.com/yunjian-ai/yunjian) | 10-28 | 0★ · CC BY 4.0 + MIT（API 显示 NOASSERTION）· 建 10-21 · 6 次提交 | 中文「装进 bot 的成员」：提示词助手、造 skill、验证助手；到期确认两份许可证各管哪部分 |
 | [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 10-29 | 0★ · MIT · 建 10-22 · 3 次提交 | 云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
 | [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
 | [maplenk/grok-wear](https://github.com/maplenk/grok-wear) | 10-29 | 0★ · 自定义 LICENSE（API 显示 NOASSERTION）· 建 10-22 · 2 次提交 | 非官方 Wear OS 手表语音客户端；到期读 LICENSE 原文，非标准许可证就不收 |
 | [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 10-29 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
 | [mehh/vm-vitals](https://github.com/mehh/vm-vitals) | 10-29 | 0★ · MIT · 建 10-22 · 14 次提交 | 一段 prompt 让 bot 在云电脑上装监控 agent，出 CPU/内存/进程仪表盘；数据报给作者的站点，还能开公开页，到期核隐私说明和数据存哪 |
-| [devrecated/grokbot-management-console](https://github.com/devrecated/grokbot-management-console) | 10-27 | 1★ · MIT · 建 10-20 | routine 总控台：一页看所有 bot 的 routine 和运行记录，可暂停、改时间、改提示词、一键全停，routine 坏了发邮件；Next.js + Postgres 自部署，要在云电脑放脚本回传，短评写清权限面 |
 | [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 10-29 | 0★ · MIT · 建 10-22 | 中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
 | [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 10-29 | 0★ · MIT · 建 10-22 | 主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
 | [company-notes/grok-bot-backup](https://github.com/company-notes/grok-bot-backup) | 10-29 | 0★ · MIT · 建 10-22 | 繁中 box 备份/导出（人设、记忆、对话、附件）；产出含私密对话和可能的凭证，收录时短评必须带这条警示 |
@@ -158,6 +147,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 
 ## 已移出
 
+- 10-27 收进 README：jethros-projects/botter、lingverse-ai/lingverse（LICENSE 文件写明内容 CC BY 4.0、代码 MIT）、qubicsdata/grok-starter-kit、holdtapp/holdt、heyalchang/grokbot-box-heal、skorten/grokbot-os、devrecated/grokbot-management-console（原 grokbot-routines 改名，两行合一）。都是满 7 天且建仓后有新提交
+- 10-27 移出：NetrovertHQ/netrovert-agents（个人团队记录，含 NFT 早期项目和鲸鱼扫货追踪岗，按加密交易类排除）；Retasc/plugins（ChatGPT / Claude / Grok Bot 通用的 SaaS 插件）；luisfigueroavale/dreamstate-gtm-team（整套团队绑 Dreamstate 付费服务）；oscarsterling/telegram-bot-relay（通用 webhook 中继，README 没提 Grok Bot）
 - 10-26 收进 README：ChamathRosh/grok-bot-templates、francoCosimo95/claude-grok-bridge、lthero-big/gbb-multica-bridge、PhillipHolland/imessage-relay、sudoTomas/groknet、william1010121/Botling（原 ClaudeCodeBot 改名）（都满 7 天，之后有提交）
 - 10-26 移出：mikecann/delegate，T3 Code 里把活分给 Codex、Grok、Muse 等多家订阅的通用 skill，不是 Grok Bot
 - 10-25 收进 README：AgwaB/grok-bot-agents、jeffgreendesign/follow-through、Olivia295/grokbot-team-monitor-UI（原 grokbot-teamwork-UI 改名，两行合并）、vliuyt/grok-bot-esp32-bridge
