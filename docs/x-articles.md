@@ -129,6 +129,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot A-Z：功能、搭建、用例与技巧完整指南](https://x.com/AleiahLock/status/2113965935946027159) — @AleiahLock · 2026-10-24 · X 长文：从是什么/套餐/15 分钟上手，到功能拆解、A-Z 速查、组队、省额度 routine、审批与安全、按岗位用例、30 条冷门技巧和可复制提示词包；约 1.2 万粉 · 英文
 - [A Field Guide to Grok Bot：按顺序照做的实战手册](https://x.com/undefinedKi/status/2113972662506541522) — @undefinedKi · 2026-10-24 · X 长文：日用一个月后的保姆级路径——装机与 Take over 登录、一 bot 一岗五要素、可复制 Morning Brief/Inbox/Lead Miner/Chief/Builder 配方与 Auto-review 规则，附踩坑与一周清单；约 1.9 万粉 · 英文
 - [我正在用的 10 个 Grok Bot：第二大脑到线索/竞品，附各岗提示词](https://x.com/milesdeutscher/status/2113935280231325963) — @milesdeutscher · 2026-10-24 · 长帖列出第二大脑、专建功能、管理 10+ bot 的 swarm、晨报、内容复用、订阅审计、群聊提炼、线索、竞品、X 助理十岗并附提示词；约 68 万粉、约 180 收藏 · 英文
+- [十步搭一支 Grok Bot 生活助理团队：Daily Chief + 三个专员](https://x.com/irongiantXBT/status/2109293672495784029) — @irongiantXBT · 2026-10-11 · X 长文十步：先让 Daily Chief 出带 AGENDA/SOURCES/OPEN QUESTIONS 的晨报，再写角色合同、连接一次、登录交接、存技能、挂 routine、拆 Inbox/Research/Life Admin 专员、群聊协作、ACTION/TARGET/REASON 审批线、每周 USED/REWORKED/IGNORED 复盘，每步附可粘贴提示词；约 500 赞 / 1.8k 收藏 · 英文
 
 ### 多 Agent 作战室
 
@@ -165,6 +166,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [把 Grok Bot 做成路由：四模式拆活 + 最多 300 个 Kimi Agent](https://x.com/0xRicker/status/2112903221987397874) — @0xRicker · 2026-10-21 · X 长文六步：Grok Bot 只分类 fan-out/chain/debate/supervisor，Kimi Swarm 跑并行与共享记忆/handoff；约 1.1 万粉、86 赞 / 147 收藏 · 英文
 - [手机权限上线后的 7 bot 一周配方：一 bot 一岗](https://x.com/fluixoo/status/2114264509904736642) — @fluixoo · 2026-10-25 · 晨报、会前 15 分钟备课、每月发票、会后跟进草稿、收件箱分拣、周一数字、周五续费各一岗，配同作者长文里可粘贴的提示词和 Vault 护栏 · 英文
+- [三个 bot 共建会自己长的 Karpathy 式第二大脑 wiki](https://x.com/Mr_Buzzoni/status/2114655525388394685) — @Mr_Buzzoni · 2026-10-26 · reader 只归档 raw/、librarian 改 wiki 页、checker 每晚查矛盾和孤页；新旧冲突只标记不覆盖、30 天无新源标未确认，附一段可直接粘贴的启动提示词；约 2.7 万粉 · 英文
 
 ### Routine 雷达与额度
 
