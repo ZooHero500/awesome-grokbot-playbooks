@@ -217,7 +217,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把所有账户的净资产做成一张活的 Page](https://x.com/Teslaconomics/status/2113359826399158336) — @Teslaconomics · 2026-10-23 · 接好各类账户后用大白话让 Bot 建一张净资产 Page：实时行情、收支与卡账单汇总，可改假设值即时重算，另加「隐藏敏感信息」开关方便演示，后续改动直接发消息让 Bot 更新；约 53 万粉，约 450 赞 / 250 收藏；接金融账户前先看清授权范围 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
 
-- [手机权限到手后别当聊天框：7 岗一周配方 + Vault 规则](https://x.com/fluixoo/status/2114049849620332666) — @fluixoo · 2026-10-24 · X 长文：对照 @bot：Vault（兼手机系统 App）；日历/提醒/联系人/Vault 上线后七 bot（晨报/会前/发票/跟进草稿/收件路由/周一数字/续费盯梢）提示可粘贴进描述；Vault 先放账单门户、对外发送先草稿；7 天上手节奏；宣传帖约 131 赞、作者约 4.8k 粉 · 英文
 
 - [Tesla Fleet 六步：用 Grok Bot 控车（电量/空调/充电/开锁）](https://x.com/Chansoo/status/2110436904705397053) — @Chansoo · 2026-10-15 · Fleet API 建应用→密钥放云电脑→GitHub Pages 验签→secure fields 不进聊天→一次 OAuth→车端配对；敏感动作先问你；附可分享模板；约 1.6 万粉 · 英文
 

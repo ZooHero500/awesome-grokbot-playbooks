@@ -33,6 +33,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [situker/situk-mars](https://github.com/situker/situk-mars) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 多 bot 记功和晋升 skill：业务 bot 交证据，Merit Officer 审，人批后入账；中英双语，有 CI 和 release |
 | [Kinfxhk/hermes-grok-bot-bridge](https://github.com/Kinfxhk/hermes-grok-bot-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | Hermes 插件经 routine webhook 叫醒 Grok Bot 在云电脑上跑活，跑完回调进同一个 Hermes 对话 |
 | [rystedtcreative/run-cards](https://github.com/rystedtcreative/run-cards) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | bot 把长编码活交给 Grok Build / Claude Code 时，开跑和收尾各贴一张状态卡 |
+| [Tkkdy/grok-local-bridge](https://github.com/Tkkdy/grok-local-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 经 OAuth 保护的 HTTPS 入口调用你 Windows 本机批准过的 MCP，工具白名单、按工具限流；作者自标实验性 |
 | [NetrovertHQ/netrovert-agents](https://github.com/NetrovertHQ/netrovert-agents) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 |  |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 10-27 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 商业托管服务，按「商业类每分类最多 1 条」处理 |
