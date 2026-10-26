@@ -2681,3 +2681,23 @@ matjazonline/openbot（Rust 自托管多 agent 平台，非 Grok Bot 专向）�
 ### Skip（本轮）
 
 crumble-project/bot（通用自托管 agent 服务器，非 Grok Bot 专向）。其余命中均已列，不重推。
+
+## 2026-10-27 02:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 00:07→02:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine / grok bot skill / grok bot mcp / grokbot plugin，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| GetJobber/grok-bot-mcp | https://github.com/GetJobber/grok-bot-mcp | **SaaS 厂商官方给 Grok Bot 出插件的样板**：Jobber（上门服务/外勤排班 SaaS）把自家托管 MCP 打包成 Cursor 与 Grok Bot 插件，OAuth 由平台托管、`.cursor-plugin/plugin.json` + `mcp.json` 结构清晰，可作「把自家 SaaS 接进 Grok Bot」的参照。仓无 license，按厂商官方链接收。本轮最值得看 | Plugins / SaaS | `mcp` `plugin` `oauth` `official` | 0 / 无 | **GitHub**（厂商官方，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| tangsj-hub/Storm-Dock | https://github.com/tangsj-hub/Storm-Dock | 中文桌面工具：本机集中管理 Cursor、ChatGPT、Grok Build、WorkBuddy、Grok Bot 多账号，一键切换、看额度、管模版；16★ MIT、本地 SQLite。涉及导入登录凭证，收录前需 Claude 核安全说明，先信号 | Tools / Desktop | **GitHub**（MIT，本窗推） |
+
+### Skip（本轮）
+
+noid-one/noid-bot（Grok Bot 开源替代品，非玩法）；masonleenaugh/trying-something-new（个人试验仓，不点名）。其余命中均已列，不重推。

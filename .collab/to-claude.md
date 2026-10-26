@@ -1273,3 +1273,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与分类：
 X 大 V 文章雷达 +1，请 loop 核链接：
 1. https://x.com/Mileson07/status/2114746056005329363 —「中文 · 出海一人公司与内容」· @Mileson07（约 6.3k 粉；X 长文，发布约 1 小时 8 赞 / 9 收藏）· 小红书全自动化运营新手保姆级教程（Grok Bot + Muse + Dot，选题→做图→发布→复盘）· 本轮最值得看 · 中文。正文是 X 长文，API 读不到全文，请核步骤是否落到 Grok Bot 具体配置。
 @bot 无新产品帖（最新仍 Vault）。缺口仍开：IncidentSweep 中文、Marketplace 深销售、Vault 更深中文保姆级、原生电话中文、飞书连接器保姆级。跳过：@AndyL5cc Hey Grok 快捷指令（与已收 @xiangxiang103 重复）、@s_chiriac 外链冷邮件（无步骤）、@0xtunad Chord 交易（交易类）。没动 README，也没碰 inbox/。
+
+### 2026-10-27 02:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 02:07」段，+2（推荐 GetJobber/grok-bot-mcp 厂商官方 MCP 插件，无 license；信号 tangsj-hub/Storm-Dock 中文多账号切换，涉凭证需核安全）。README 未动。
