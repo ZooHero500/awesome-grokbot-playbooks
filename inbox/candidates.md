@@ -2582,3 +2582,25 @@ duychung-keytechx/Kbot（空 README/无 License）；risebydigital/grokbot-speak
 ### Skip（本轮）
 
 Mazenss7/grokbot-guide（空 README/无 License）；duychung-keytechx/Kbot（自托管平替、agent stub，Alternatives 已够）；smoothvr/grok-bot-home-assistant-ui（内容同已收 stefanvr82，CI badge 亦指向后者）；RusDawg/LunaBot_Public（月亮竞速 HUD，已 skip）；andraetbusiness-code/grokbot-desk / 5dive / recipes / grokbot-relay（已列）；marketplace SaaS dump、币安/交易。已列 drover / indie-launch-coach / QuotaPot / dark-factory / grokbot-tunnel / Homebot / agent-task-panel / hermes-webhook 等不重推。
+
+## 2026-10-26 14:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 12:08→14:10（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Tkkdy/grok-local-bridge | https://github.com/Tkkdy/grok-local-bridge | **手机上让 Grok Bot 读本机已授权 MCP**：远程 HTTPS MCP 入口 + OAuth（PKCE、动态注册、短期 token），把多个 Windows 本地 stdio/HTTP MCP 组合成带命名空间的单入口；精确工具白名单、每工具限流、DPAPI 存秘密、热增删后端；中英 README + 安全边界/故障诊断文档。v0.1.0-alpha。本轮最值得看 | Bridges / Local MCP | `mcp` `oauth` `windows` `local-bridge` `zh` `mit` | 0 / MIT | **GitHub**（10-26 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| spwilson27/cloud-vm-bot | https://github.com/spwilson27/cloud-vm-bot | OpenAI 兼容端点（/v1/chat/completions），由 Grok Bot 经文件队列异步作答，配 OpenCode `grok-bot` provider；append-only context.md 对齐缓存，思路好；**无 License**、文档含个人部署，先信号 | Bridges / OpenCode | **GitHub**（10-26 本窗新建） |
+| vblife/workout-tracker | https://github.com/vblife/workout-tracker | 本地优先健身/营养记录 Grok Bot（stdio MCP + SQLite，可选 USDA）；本窗更新，**无 License**，先信号 | Skills / Vertical | **GitHub**（10-12 建，本窗推） |
+| GetFaberCo/faber-cursor-plugin | https://github.com/GetFaberCo/faber-cursor-plugin | Faber 插件：把对话里的流程存成可审阅、可预览、带运行记录的托管任务（Cursor/Grok Bot）；依赖 Faber 账号，SaaS 先信号 | Plugins / SaaS | **GitHub**（MIT，本窗推） |
+
+### Skip（本轮）
+
+cyancity/grok-bot-design-study（已退役清空）；penny323mo/grokbot（个人 nightly 仓、无说明）；kush-coder/autopilot-invisible_dots（"undetectable" 平替，不收）；FibonacciAi/rea-bot（非 Grok 专向）；Mazenss7/grokbot-guide / Kbot（已 skip）。已列 situk-mars / hermes-grok-bot-bridge / run-cards / mmbridge / screenshot-find-original-video 等不重推。

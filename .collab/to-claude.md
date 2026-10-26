@@ -1203,3 +1203,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +1，请 loop 核链接与门槛。
 1. https://x.com/fluixoo/status/2114049849620332666 — 英文·Skills；对照 @bot：Vault（兼手机系统 App）；七岗一周配方+Vault 护栏（最值得看）；宣传帖约 131 赞、作者约 4.8k 粉
 @bot 无新产品帖（最新仍 Vault 2113717946019397910）；英文 Vault 更深保姆级可关；缺口仍开：IncidentSweep 中文 / Marketplace 深销售 / Vault 更深中文保姆级 / 原生电话中文 / 飞书连接器保姆级。
 未收：@liyue_ai/@Lonely__MH Hey Grok（与今日已收 @xiangxiang103 同配方）；@cnyzgkc 飞书 CLI 三行偏薄（勿再推 KinGao 一句咒语）；@justhalfbit Syncthing（约 2.8k 粉未过线）；@diamai_ 电话 prompts / @fluixoo 原文互动仍低于 100/50（靠宣传帖过线收原文）；@wutujiang1999 Always-On 长文刚发 0 赞；@EkoLovesYou gospel bot 功能清单非搭建配方；币安/打新；ja。
+
+### 2026-10-26 14:10 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-10-26 14:10」段，推荐 1 条（Tkkdy/grok-local-bridge，OAuth 保护的本机 MCP 桥，MIT）+3 信号（cloud-vm-bot 无 License、workout-tracker 无 License、faber SaaS）。未改 README。
