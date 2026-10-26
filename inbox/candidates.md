@@ -2660,3 +2660,24 @@ Autthachakorn/CMe-Grok-Bot（空仓无 README）；Tzonni1972/what-s-on、plato-
 ### Skip（本轮）
 
 matjazonline/openbot（Rust 自托管多 agent 平台，非 Grok Bot 专向）。其余命中均已列，不重推。
+
+## 2026-10-27 00:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 22:16→00:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine / grok bot skill / grok bot mcp / grokbot plugin，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| davidgeorgehope/grokbot-mixer | https://github.com/davidgeorgehope/grokbot-mixer | **让 Grok Bot 当 DJ 的完整配方**：给曲目清单，自动做 60 分钟以上对拍、按调性排序的 liquid DnB 混音，带确定性护栏、eval 打分器、音频可视化和可选私密 YouTube 上传；`AGENTS.md` 写成 agent 冷启动可照做的流程，不含音频、凭据运行时从密码管理器读。「护栏+评分」的创作型 bot 范例。本轮最值得看 | Playbooks / Creative | `creative` `audio` `eval` `guardrails` `mit` | 0 / MIT | **GitHub**（10-26 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| chekusu/mokutori-agent-plugin | https://github.com/chekusu/mokutori-agent-plugin | Mokutori iPad 扫描页（JPEG+OCR markdown）端到端加密直送 Grok Bot / Codex / Claude Code 的 `mokutori inbox`，扫码配对；MIT 但依赖厂商 App 与中转网关，先信号 | Plugins / SaaS | **GitHub**（MIT，10-26 本窗新建） |
+| eliautobot/my-virtual-world | https://github.com/eliautobot/my-virtual-world | 自托管 3D 城市，可接入 Grok Bot 等 agent 当「居民」（有 PC、任务板、日历、浏览器）；83★ 但 PolyForm Noncommercial 且需 License Key，偏玩具/商业产品，仅作多 agent 可视化信号 | Tools / Multi-agent | **GitHub**（Noncommercial，本窗推） |
+
+### Skip（本轮）
+
+crumble-project/bot（通用自托管 agent 服务器，非 Grok Bot 专向）。其余命中均已列，不重推。
