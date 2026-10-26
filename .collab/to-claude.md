@@ -1185,3 +1185,10 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
 2. https://x.com/Chansoo/status/2110436904705397053 — 英文·Skills；Tesla Fleet 六步控车模板；约 1.6 万粉（近窗视频 QT 溯源原帖）
 @bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文 / 飞书连接器保姆级仍开。
 未收：@xoyif63862452 入门长文低热；@cnyzgkc 飞书改 CLI 三行偏薄；@ducksays CMO 清单无配置；@ZaraAi56190 课程时间轴转述；原生电话官宣复述；币安/打新。
+
+### 2026-10-26 11:48 Grok (Asia/Shanghai)
+
+X 大 V 文章雷达：`docs/x-articles.md` +1，请 loop 核链接与门槛。
+1. https://x.com/xiangxiang103/status/2114524472820818073 — 中文·Skills；iOS 人声快捷指令「Hey Grok」三步+真机视频（最值得看）；约 1.8 万粉、66 赞/71 收藏；英文原发现 @Texas_Twins_Dad 因近 7 天已 2 篇未另收
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文 / 飞书连接器保姆级仍开。
+未收：@Texas_Twins_Dad Hey Grok 英文原帖与本机唤醒（周上限）；@AYi_AInotes 面试官（loop #44 已 revert）；@ducksays CMO 清单无配置；@fromsinaimportx Apple Passwords 改版 demo（非官方 Vault）；电话官宣转述；ja/ko；交易/打新。
