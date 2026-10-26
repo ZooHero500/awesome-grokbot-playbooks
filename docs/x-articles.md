@@ -132,7 +132,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 ### 多 Agent 作战室
 
-- [AI Company-in-a-Box: 12-Step Roadmap with Grok Bot + Jev](https://x.com/unicodef1wn/status/2102375891875581966) — @unicodef1wn · 2026-09-22 · X 长文：不自己写 12 个员工，而是从官方模板市场「装」进来再编排；作者同已收的 grokbot-field-notes · 英文
+- [AI Company-in-a-Box: 12-Step Roadmap with Grok Bot + Jev](https://x.com/unicodef1wn/status/2102375891875581966) — @unicodef1wn · 2026-09-22 · X 长文：不自己写 12 个员工，而是从官方模板市场「装」进来再编排 · 英文
 - [The 11 Grok Bots I still use today](https://x.com/petergyang/status/2099502180378296394) — @petergyang · 2026-09-14 · 视频：3 个编排 / 规划 / 维护 bot、3 个工作 bot、5 个生活 bot，讲上线以来哪些留下了、为什么。帖尾有送码，忽略即可 · 英文
 - [Grok Bot 工程和设计负责人用的 14 个 bot](https://x.com/petergyang/status/2103881036711281043) — @petergyang · 2026-09-27 · 访谈预告：做产品的人自己怎么用，包括一个管一队工程 bot 的 eng lead bot · 英文
 - [How to Build a 20-Agent Grok Bot Team That Runs Itself](https://x.com/s4yonnara/status/2107075754886345156) — @s4yonnara · 2026-10-05 · X 长文：人只管首席一个，先用首席、调研、执行、核验 4 个跑通一条流程再扩 · 英文
@@ -164,7 +164,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot Engineering：按 SpaceXAI 同款搭自己的 Bot 团队（含 IncidentSweep）](https://x.com/N01ennn/status/2114390660723675598) — @N01ennn · 2026-10-25 · X 长文七章：一岗一 bot、首席幕僚、八部门、pstack/审批与可复制提示；开篇复盘官方 IncidentSweep 一次批准清掉 204 张工单；约 8.7k 粉 · 英文
 
 - [把 Grok Bot 做成路由：四模式拆活 + 最多 300 个 Kimi Agent](https://x.com/0xRicker/status/2112903221987397874) — @0xRicker · 2026-10-21 · X 长文六步：Grok Bot 只分类 fan-out/chain/debate/supervisor，Kimi Swarm 跑并行与共享记忆/handoff；约 1.1 万粉、86 赞 / 147 收藏 · 英文
-- [手机权限上线后的 7 bot 一周配方：一 bot 一岗](https://x.com/fluixoo/status/2114264509904736642) — @fluixoo · 2026-10-25 · 晨报、会前 15 分钟备课、每月发票、会后跟进草稿、收件箱分拣、周一数字、周五续费各一岗，配同作者长文里可粘贴的提示词和 Vault 护栏；对照 @bot：手机 App（兼 Vault） · 英文
+- [手机权限上线后的 7 bot 一周配方：一 bot 一岗](https://x.com/fluixoo/status/2114264509904736642) — @fluixoo · 2026-10-25 · 晨报、会前 15 分钟备课、每月发票、会后跟进草稿、收件箱分拣、周一数字、周五续费各一岗，配同作者长文里可粘贴的提示词和 Vault 护栏 · 英文
 
 ### Routine 雷达与额度
 
@@ -237,7 +237,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Run a One Person Company on Grok Bot for $30 a Month (full Course)](https://x.com/cyrilXBT/status/2112006867022958931) — @cyrilXBT · 2026-10-19 · X 长文：公司手册、首席 bot、6 个专员 bot、审批规则和日 / 周节奏一套给全，附提示词；「每月 30 美元」和省下的人力成本是作者自述 · 英文
 - [一期播客拆成一周内容](https://x.com/ericosiu/status/2112015924479860963) — @ericosiu · 2026-10-19 · 从转录稿拆短视频、帖子、长文和 SEO 页面，每个渠道一人拍板，周五看点击和预约再定下期选题 · 英文
 - [How to Make Money Using Grok Bot (Full Guide)](https://x.com/eng_khairallah1/status/2112115524624658525) — @eng_khairallah1 · 2026-10-19 · X 长文：7 种可卖服务（内容复用、线索研究、搭建顾问等），附 routine/skill 与审稿清单；强调 Bot 只出劳动力、获客和审稿仍要人做，共享电脑不是安全边界 · 英文
-- [把 Grok Bot 当生意合伙人：$30/月、零股份的用法汇总](https://x.com/AleiahLock/status/2112147410122129534) — @AleiahLock · 2026-10-19 · X 长文：把官方案例、工作坊和创始人公开分享汇成小生意用法清单（客服队列、砍供应商账单、客户需求转报价等），每个数字标出处、自述的另注，也写了会翻车的地方；同作者的官方工作坊要点已收在社区教程 · 英文
+- [把 Grok Bot 当生意合伙人：$30/月、零股份的用法汇总](https://x.com/AleiahLock/status/2112147410122129534) — @AleiahLock · 2026-10-19 · X 长文：把官方案例、工作坊和创始人公开分享汇成小生意用法清单（客服队列、砍供应商账单、客户需求转报价等），每个数字标出处、自述的另注，也写了会翻车的地方 · 英文
 - [The Dr. X Crew：四个按 X 算法搭的涨粉 bot（指南 + 模板）](https://x.com/amateo/status/2113638995183677748) — @amateo · 2026-10-23 · X 长文：每日选题、回复雷达、长文、循环短视频四岗互相交接，按 X 开源算法重分享与回复，附每岗可复制提示词、Add to Grok Bot 链接和五步上手；文末有作者自家服务链接 · 英文
 - [I turned my X bots into templates anyone can install](https://x.com/GlennHasABeard/status/2113739345362297175) — @GlennHasABeard · 2026-10-24 · X 长文：Foreman 一键装一组只读 X 运营 bot（回关审计、回复队列、分析存档等），写清 X API 费用区间、密钥走遮罩存储、安装五步与日花费上限；约 6.5k 粉 · 英文
 

@@ -1668,3 +1668,17 @@ loop #49，审 15:59 雷达：
   - clickfunnels2/cursor-plugin：厂商 SaaS 插件，0★。
   - quolu/plaude：0★；强依赖作者私有 LAN 上的 ASR 机器和私有域名，别人照抄跑不起来。
 - 14:10 的 Tkkdy/grok-local-bridge 已在 recheck 表，11-02 到期。
+
+### 2026-10-26 18:16 Claude（Asia/Shanghai）
+
+loop #50，审 14:45 / 16:45 / 17:45 / 18:05 四段：
+- **X 收 4 篇**（都已核过存活、作者、日期）：
+  - @fluixoo 7 bot 一岗一事：帖子本身 122 赞，过 100 赞线。顺手删掉了「对照 @bot」备注。
+  - @moritzkremb Bridge Bot 模板：7.5 万粉，312 赞，601 收藏。
+  - @AdrianPunk115 组织架构管 bot：4.4 万粉；滚动 7 天内是第 2 篇，没超。
+  - @eng_khairallah1 Routines：8 万粉；滚动 7 天内只有 10-22 那一篇，这篇是第 2 篇，没超。
+- X 从 190 篇增至 194 篇，教程合计从 223 增至 227，首图已重出。
+- 另外删了 2 处「同作者…已收」备注（AleiahLock、grokbot-field-notes 作者那条）。**提醒**：「对照 @bot」「同作者已收」这类审稿备注不要写进 docs，写在 to-claude.md 留言里就行。
+- **仓**：
+  - MagicLizi/grok-bot-hub 先进 recheck，11-02 到期；当前无 License，到期还没有就移出。
+  - lamxjason/rinston-plugin 拒：厂商 SaaS，隐私页 404。
