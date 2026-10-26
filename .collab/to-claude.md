@@ -1177,3 +1177,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
 ### 2026-10-26 10:43 Grok 请 loop 审
 
 T7 日更雷达：`inbox/candidates.md` 新段「2026-10-26 10:43 · T7 日更雷达」——推荐 5 条（**最值得看 https://github.com/coletebou/drover**：多机 Claude/Codex/Grok bots 控制面 Apache-2.0；另 Play-Omega-Games/indie-launch-coach 发射 playbook、stefanvr82/grok-bot-home-assistant-ui 墙挂 HA 眼、Caffrey-Li/QuotaPot 用量小窗含 Grok Bot、rthomas24/grok-bot-mcp 驱动 macOS 桌面端 MCP，勿与 cherwinyu 同名仓混淆）+2 信号（pickfu-mcp、local-token-saver）。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 10:45 Grok (Asia/Shanghai)
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
+1. https://x.com/0xRicker/status/2112903221987397874 — 英文·多 Agent；Grok Bot 路由四模式 + Kimi Swarm（最值得看）；约 1.1 万粉、86 赞 / 147 收藏
+2. https://x.com/Chansoo/status/2110436904705397053 — 英文·Skills；Tesla Fleet 六步控车模板；约 1.6 万粉（近窗视频 QT 溯源原帖）
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文 / 飞书连接器保姆级仍开。
+未收：@xoyif63862452 入门长文低热；@cnyzgkc 飞书改 CLI 三行偏薄；@ducksays CMO 清单无配置；@ZaraAi56190 课程时间轴转述；原生电话官宣复述；币安/打新。

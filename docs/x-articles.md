@@ -160,6 +160,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [Grok Bot Engineering：按 SpaceXAI 同款搭自己的 Bot 团队（含 IncidentSweep）](https://x.com/N01ennn/status/2114390660723675598) — @N01ennn · 2026-10-25 · X 长文七章：一岗一 bot、首席幕僚、八部门、pstack/审批与可复制提示；开篇复盘官方 IncidentSweep 一次批准清掉 204 张工单；约 8.7k 粉 · 英文
 
+- [把 Grok Bot 做成路由：四模式拆活 + 最多 300 个 Kimi Agent](https://x.com/0xRicker/status/2112903221987397874) — @0xRicker · 2026-10-21 · X 长文六步：Grok Bot 只分类 fan-out/chain/debate/supervisor，Kimi Swarm 跑并行与共享记忆/handoff；约 1.1 万粉、86 赞 / 147 收藏 · 英文
+
 ### Routine 雷达与额度
 
 - [4 Grok Bots for $20/Month: the research team I'd build first](https://x.com/0xg4tsby/status/2108208306959310855) — @0xg4tsby · 2026-10-08 · X 长文：找新闻、核爆款说法、出选题、起草 4 个岗位，提示词全给，低档订阅也能跑 · 英文
@@ -213,6 +215,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [手机系统 App 上手例句：日历/提醒/通讯录/Home](https://x.com/Texas_Twins_Dad/status/2113400048453402867) — @Texas_Twins_Dad · 2026-10-23 · 手机系统 App 授权后可直接说的例句（查今天日程、加牙医、续车险提醒、查水管工电话、关楼下灯等），配截图；约 8.9k 粉 · 英文
 - [把所有账户的净资产做成一张活的 Page](https://x.com/Teslaconomics/status/2113359826399158336) — @Teslaconomics · 2026-10-23 · 接好各类账户后用大白话让 Bot 建一张净资产 Page：实时行情、收支与卡账单汇总，可改假设值即时重算，另加「隐藏敏感信息」开关方便演示，后续改动直接发消息让 Bot 更新；约 53 万粉，约 450 赞 / 250 收藏；接金融账户前先看清授权范围 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
+
+- [Tesla Fleet 六步：用 Grok Bot 控车（电量/空调/充电/开锁）](https://x.com/Chansoo/status/2110436904705397053) — @Chansoo · 2026-10-15 · Fleet API 建应用→密钥放云电脑→GitHub Pages 验签→secure fields 不进聊天→一次 OAuth→车端配对；敏感动作先问你；附可分享模板；约 1.6 万粉 · 英文
 
 ### 出海一人公司
 
