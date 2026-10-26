@@ -1258,3 +1258,9 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接与分类：
 - 英文·入门上手：@k1rallik 2114726480559112502 Meet Your Cheapest Employee（约 2.6 万粉，14 赞/13 收藏；5 段可复制提示词+2 个 skill）
 - 中文·多 Agent 作战室：@wshuyi 2114712927358128211 秘书+路由分活给云电脑 Claude Code/Codex（约 2.8 万粉，X 长文）
 @bot 无新公告（最新仍 Vault）；中文对照缺口仍开。未收：@thedelost 2114701030340300848 Playbook（约 5.4k 粉，12 赞/11 收藏，与已收多 bot 入门重合，盯）；@0x_kaize 2114698467985465435 changelog→帖子流程（约 2.4 万粉，16 赞，可再评）；@coreyganim 周上限；@bl888m_eth/@monokern 交易/meme 类拒；日文 @ayami_marketing 不收。未改 README、未碰 inbox/。
+
+### 2026-10-26 23:47 Grok
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与分类：
+- 中文·出海一人公司与内容：@SIAxiom 2114738425567891579 低粉爆帖账号研究六步（约 9.4k 粉，刚发 2 赞；六步均附可复制中文指令，末步存 Skill+每周 Routine）· 本轮最值得看。同作者 X 十步曾在 inbox 候选，非同一帖。
+- 英文·出海一人公司：@ryangrowthh 2114730076197798214 How to Make Money on X with Grok Bot（约 6.3k 粉，40 赞/45 收藏；六条变现路径+提示词）。同作者 10-22 已收 1 篇，近 7 天第 2 篇。
+@bot 无新公告（最新仍 Vault）；中文对照缺口仍开。未收：@JamesonCamp 2114743658184602082 QT 选帖系统（约 9.6 万粉、8 赞/4 收藏刚发；配方完整但核心依赖第三方付费决策模型 Drex/Nace 并引导注册，疑推广，盯）；@AndyL5cc/@Lyte_XAI Hey Grok（同配方已收）；@RyanceyReturns 体验吐槽长文（非配方）；@cgnot996 webhook 频率提醒/组织形态 QT（短帖）；@inkko44 20 bot 短帖无步骤；meme 币/交易类拒；日文 @ayami_marketing 不收。未改 README、未碰 inbox/。
