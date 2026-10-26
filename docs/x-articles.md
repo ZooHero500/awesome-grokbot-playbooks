@@ -54,6 +54,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [一个人 + Grok Bot = 一个内容团队（实操指南）](https://x.com/bdall_1/status/2114191938752815119) — @bdall_1 · 2026-10-25 · X 长文：探店号案例拆「何时拆 Bot vs 加 Skill」、三份底座文件、Skill 六字段模板、选店查重/文案全文、Routine 频率算术与 Test 清单；发布留人手；约 1.1k 粉、约 42 赞 / 72 收藏 · 中文
 
+- [Grokbot 怎么管理：从企业组织架构学会分工与协作](https://x.com/AdrianPunk115/status/2114648961399349608) — @AdrianPunk115 · 2026-10-26 · X 长文：直线制、职能型、事业部、矩阵、项目制、扁平化、网络型七种组织架构各配一个多 bot 分工例子，结论是小任务直接找岗位、复杂任务才组队加层 · 中文
+
 ## 中文 · Routine 雷达与额度
 
 - [一小时用 Grok Bot 做出每日 AI 热点新闻站](https://x.com/fankaishuoai/status/2109967621710070238) — @fankaishuoai · 2026-10-13 · 抓 X 热点 → 生成日报 → 发布到 GitHub Pages，每天定时出四份，是最小可用的雷达 routine · 中文
@@ -189,6 +191,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [Most of Your Grok Bot Usage Is Re-Reading. Here's How to Stop Paying for It.](https://x.com/GrokBotRadar/status/2114409935345971231) — @GrokBotRadar · 2026-10-26 · X 长文：CSV 显示额度大头是缓存重读；十步止血（导出用量→砍/改 routine→变化检查→一任务一对话→DM 总管→Bot 改 Skill→连接器优先→Cursor 别用 Auto→过夜 allow/draft→关 Auto Top-up）；约 1 万粉、约 181 收藏 · 英文
 
+- [How Grok Bot Routines Changed the Way I Work](https://x.com/eng_khairallah1/status/2114647320834810139) — @eng_khairallah1 · 2026-10-26 · X 长文：六条可直接粘贴的 routine 提示词（构建班次、发布雷达、资料包 skill、客户台、收件箱分拣、周五复盘），附「无货静默、只起草不代发、缺源标未核实、先手动跑一次再上定时」等设计规则和额度、安全注意 · 英文
+
 ### Skills 与连接
 
 - [把收藏的 Instagram 视频做成离线 markdown 知识库](https://x.com/kevinrose/status/2101455244567973976) — @kevinrose · 2026-09-20 · 转录 + 视觉理解，按 wiki 风格建本地 .md，可搜可问 · 英文
@@ -217,7 +221,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [手机系统 App 上手例句：日历/提醒/通讯录/Home](https://x.com/Texas_Twins_Dad/status/2113400048453402867) — @Texas_Twins_Dad · 2026-10-23 · 手机系统 App 授权后可直接说的例句（查今天日程、加牙医、续车险提醒、查水管工电话、关楼下灯等），配截图；约 8.9k 粉 · 英文
 - [把所有账户的净资产做成一张活的 Page](https://x.com/Teslaconomics/status/2113359826399158336) — @Teslaconomics · 2026-10-23 · 接好各类账户后用大白话让 Bot 建一张净资产 Page：实时行情、收支与卡账单汇总，可改假设值即时重算，另加「隐藏敏感信息」开关方便演示，后续改动直接发消息让 Bot 更新；约 53 万粉，约 450 赞 / 250 收藏；接金融账户前先看清授权范围 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
-
 
 - [Tesla Fleet 六步：用 Grok Bot 控车（电量/空调/充电/开锁）](https://x.com/Chansoo/status/2110436904705397053) — @Chansoo · 2026-10-15 · Fleet API 建应用→密钥放云电脑→GitHub Pages 验签→secure fields 不进聊天→一次 OAuth→车端配对；敏感动作先问你；附可分享模板；约 1.6 万粉 · 英文
 - [Bridge Bot：让 ChatGPT / Claude Code 把任务丢给你的 Grok Bot](https://x.com/moritzkremb/status/2114051840102768922) — @moritzkremb · 2026-10-25 · 公开模板：加 bot 后拿到 webhook URL、密钥和一段现成提示，贴进 ChatGPT 或 Claude Code 就装好 /send-to-grok-bot，跨工具派活不用再复制粘贴；密钥只放对方工具的密钥设置里 · 英文

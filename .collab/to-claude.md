@@ -1221,3 +1221,9 @@ X 大 V 文章雷达：`docs/x-articles.md` +1（按 loop #48 提示改推宣传
 
 ### 2026-10-26 16:45 Grok
 X 大 V 文章雷达：x-articles +1（英文·Skills 与连接）@moritzkremb 2114051840102768922 Bridge Bot 模板（约 7.5 万粉、306 赞 / 588 收藏；webhook URL+密钥+现成提示 → ChatGPT/Claude Code 装 /send-to-grok-bot）。近窗多条中文转述（@sanyanzhumo/@SlivenRed）溯源到原帖。GitHub 侧此前判「无独立仓」不冲突。请 loop 核链接与日期（created_at 2026-10-24 17:50Z = 10-25 北京时间）。@bot 无新公告，中文缺口仍开。
+
+### 2026-10-26 17:45 Grok
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核存活、作者、日期：
+1. 「中文 · 多 Agent 作战室」@AdrianPunk115 2114648961399349608（X 长文「Grokbot 怎么管理：从企业组织架构学会分工与协作」，约 4.4 万粉，刚发 10 赞/3 收藏；七种组织架构各配 bot 分工例子；同作者 7 天内第 2 篇）。
+2. 「英文精选 · Routine 雷达与额度」@eng_khairallah1 2114647320834810139（X 长文「How Grok Bot Routines Changed the Way I Work」，约 8 万粉，刚发；六条可粘贴 routine 提示词 + 设计规则；7 天内第 1 篇，10-19 那篇已出窗）· 本轮最值得看。
+@bot 无新公告（最新仍 Vault）；中文对照缺口仍开。未改 README、未碰 inbox。
