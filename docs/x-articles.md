@@ -194,6 +194,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Most of Your Grok Bot Usage Is Re-Reading. Here's How to Stop Paying for It.](https://x.com/GrokBotRadar/status/2114409935345971231) — @GrokBotRadar · 2026-10-26 · X 长文：CSV 显示额度大头是缓存重读；十步止血（导出用量→砍/改 routine→变化检查→一任务一对话→DM 总管→Bot 改 Skill→连接器优先→Cursor 别用 Auto→过夜 allow/draft→关 Auto Top-up）；约 1 万粉、约 181 收藏 · 英文
 
 - [How Grok Bot Routines Changed the Way I Work](https://x.com/eng_khairallah1/status/2114647320834810139) — @eng_khairallah1 · 2026-10-26 · X 长文：六条可直接粘贴的 routine 提示词（构建班次、发布雷达、资料包 skill、客户台、收件箱分拣、周五复盘），附「无货静默、只起草不代发、缺源标未核实、先手动跑一次再上定时」等设计规则和额度、安全注意 · 英文
+- [Routine 记账员：一段提示词给每条 routine 算唤醒次数、加变化检查、改触发器](https://x.com/gippp69/status/2114689520964677797) — @gippp69 · 2026-10-26 · 串帖：接着作者 10-11 的 routine 成本长文，回复区给出可粘贴的审计提示词，先问三问再列清单、估唤醒次数、提「先比变化再跑」和改事件触发，发送/付款类保持草稿，最后出前后对比表并存成 Skill；金额为作者示例价估算 · 英文
 
 ### Skills 与连接
 
@@ -253,6 +254,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Second Brain Engineering：让 Grok Bot 把笔记变成成品](https://x.com/tsukiema_/status/2112947495059743047) — @tsukiema_ · 2026-10-21 · X 长文：建专职 Brain bot，描述里写长期职责，喂约 20 条自己写的消息定声线，资料存云电脑文件按 Karpathy 式 wiki 维护，再派具体活（客户回复、上线计划、晨间待决清单）；约 130 收藏 · 英文
 - [盘前个股简报 bot：每个工作日自动扫公告、评级、内部人交易和 X 情绪](https://x.com/SPCX100T/status/2110145512020279726) — @SPCX100T · 2026-10-13 · 固定格式盘前简报、每条带来源链接、只在聊天里交付不发邮件，换代码即可盯其他股票，附模板链接；约 1.3k 赞 / 1.4k 收藏，信息研究用途非投资建议 · 英文
 - [我在 Grok Bot 里搭了 49 个 bot 的 X 增长团队：结构直接抄](https://x.com/faveeexd/status/2114240152826487185) — @faveeexd · 2026-10-25 · 六个部门（侦察/内容/创意/互动/增长/商单）每部门设一个 lead，你只跟 6 个 bot 说话；品牌 brief 放共享记忆，全员只出草稿不代发、每岗一件窄活；作者约 1.4 万粉，尚无成果数据 · 英文
+- [让 Grok Bot 体检关注列表：一段提示词揪出僵尸号、出可点击取关清单](https://x.com/CrypSaf/status/2114660781174198660) — @CrypSaf · 2026-10-26 · 长帖：约 4 万粉作者让 bot 过一遍 7.5k 关注，按 180 天无动态且不回关筛出待取关、安静但回关的另列复核，生成带链接的页面逐个点；提示词在自回复里，取关仍由本人手点 · 英文
 
 ## 不收的例子
 
