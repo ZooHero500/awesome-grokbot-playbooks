@@ -162,6 +162,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot Engineering：按 SpaceXAI 同款搭自己的 Bot 团队（含 IncidentSweep）](https://x.com/N01ennn/status/2114390660723675598) — @N01ennn · 2026-10-25 · X 长文七章：一岗一 bot、首席幕僚、八部门、pstack/审批与可复制提示；开篇复盘官方 IncidentSweep 一次批准清掉 204 张工单；约 8.7k 粉 · 英文
 
 - [把 Grok Bot 做成路由：四模式拆活 + 最多 300 个 Kimi Agent](https://x.com/0xRicker/status/2112903221987397874) — @0xRicker · 2026-10-21 · X 长文六步：Grok Bot 只分类 fan-out/chain/debate/supervisor，Kimi Swarm 跑并行与共享记忆/handoff；约 1.1 万粉、86 赞 / 147 收藏 · 英文
+- [手机权限上线后的 7 bot 一周配方：一 bot 一岗](https://x.com/fluixoo/status/2114264509904736642) — @fluixoo · 2026-10-25 · 晨报、会前 15 分钟备课、每月发票、会后跟进草稿、收件箱分拣、周一数字、周五续费各一岗，配同作者长文里可粘贴的提示词和 Vault 护栏；对照 @bot：手机 App（兼 Vault） · 英文
 
 ### Routine 雷达与额度
 
