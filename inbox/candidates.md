@@ -2509,3 +2509,27 @@ wcccheryl/grok-icon-study（无 License，前端动效学习 demo）；danirukun
 ### Skip（本轮）
 
 Gregory-Brunner/GrokBot（空仓无 README）；risebydigital/grokbot-speaker（Pi 语音音箱走 xAI realtime Voice API，badge 标 private licence，非 Grok Bot 玩法主推）；PixnBits/local-grok-bots（自托管同伴、**无 License**）；divyanshu-patil/blooby（胶囊眼 mascot 动画器，非 Bot 集成）；c5auto/c5auto.github.io（Tesla 薄页无 License）；Delibread0601/askaipods（通用播客 skill，非 Grok Bot 专用）；PiyushAnand2006/EmberLing（逆向客户端，已 skip）；ahvren/shield-recs / BurggraafJ/grok-minecraft / greedfi/me-layouts（已信号或 skip）；marketplace SaaS dump、币安/交易。已列 Homebot / agent-task-panel / grok-bot-bridge / GrokChan / grok-bot-backup / hermes-webhook / bot2bot / x-cli-via-grok / stampede / unfinished-botness / StefMVP exporter 等不重推。
+
+## 2026-10-26 10:11 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 08:03→2026-10-26 10:11（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-25/26 + topic + tunnel/computer/skill 具名）。周一白天侧重 GitHub；X 本窗未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| exa-pub/grokbot-tunnel | https://github.com/exa-pub/grokbot-tunnel | **把 Linux 服务器挂成 Grok Bot 的「电脑」**：无桌面也能跑命令/读写文件；`install.sh` + `login --no-browser` + `connect --root`；权限 ask/always/never；持久 shell、后台输出落 `<root>/terminals/`、文件传输上限 100MiB；可选读本机 Codex/Claude skills 名（脱敏）。Go + CI + Release，MIT。与早期空仓 vitalydolgov/grokbot-tunnel **不是同一仓**。本轮最值得看 | Bridges / Headless computer | `tunnel` `linux` `headless` `computer` `go` `mit` | 0 / MIT | **GitHub**（10-25 建，本窗核验；漏收） |
+| ELU-Labs/dark-factory | https://github.com/ELU-Labs/dark-factory | **一句话在仓里搭「暗工厂」多 Bot 流水线**：粘贴 `PROMPT.md` 给 Grok Build/Bot——Analyst/Builders/Twin/Verifier/Release 分工写码，**ELU 在机外**当隐藏场景与 PR/发布裁判；停机规则与信任边界写清。MIT。注意依赖 ELU 账号/额度与仓外模型 API，属带 SaaS 闸门的配方 | Multi-bot / Engineering factory | `dark-factory` `multi-bot` `prompt` `elu` `verification` `mit` | 1 / MIT | **GitHub**（10-26 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| jaydudson/gbiz-templates | https://github.com/jaydudson/gbiz-templates | 公开 raw 多 Bot 包：EA 右膀 + Follow-up Desk + Research Assistant（template.yaml + skills + pack-manifest）；**无 License**，先信号 | Templates / Multi-bot pack | **GitHub**（10-25 建，本窗仍推） |
+| EmperorHydra/grokbot-pet | https://github.com/EmperorHydra/grokbot-pet | Mac 悬浮黑球桌宠：ntfy 私有 topic 通知弹气泡，可配 `grokbot://` clickUrl；**无 License**、未公证，先信号 | Clients / Desktop pet | **GitHub**（10-25 晚新建） |
+| thearnabsaha/lift-receipt（Fortis） | https://github.com/thearnabsaha/lift-receipt | Strong 风格健身 PWA + Streamable HTTP MCP（给 Grok Bot 记组/查 PR）；自托管需 Neon 等；**无 License**，先信号 | Skills / Vertical MCP | **GitHub**（10-25 晚新建） |
+| kezaer/internet-quality-map-plugin | https://github.com/kezaer/internet-quality-map-plugin | Agent 插件测执行主机网络质量（含云电脑说明）；skills-only；**无仓库级 License**，先信号 | Skills / Diagnostics | **GitHub**（10-16 建，本窗仍推） |
+
+### Skip（本轮）
+
+RusDawg/LunaBot_Public（月亮竞速 HUD 演示壳，非玩法仓）；santiagogarza/university-of-mars（高教工作坊靶站）；unknownboiz/dexor（多模型聊天替代品，非 Grok Bot）；maya-sesame/sycophancy-mirror（谄媚镜像研究）；frank-otto/runecliff-chess（用 Bot 做的产品）；vitalydolgov/grokbot-tunnel（早期空仓，已 Maybe，勿与 exa-pub 混淆）；risebydigital/grokbot-speaker / Gregory-Brunner/GrokBot / PixnBits/local-grok-bots / EmberLing（上轮已 skip）；marketplace SaaS dump、币安/交易。已列 grok-dc-notifier / omarchy-grokbot-voice / grokbot-desktop-intel-mac / Homebot / agent-task-panel / grok-bot-bridge / GrokChan / unfinished-botness / stampede 等不重推。
