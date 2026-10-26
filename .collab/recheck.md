@@ -18,6 +18,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-30 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 10-23 复查：建仓后仍没有新提交，顺延一次（第 1 次） |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-31 | 0★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；原计划过线放「自托管与平替」 |
 | [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-31 | 1★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；空气质量只读告警模板仓 |
+| [matthew-rutledge-dev/grokbot-vehicle-fleet](https://github.com/matthew-rutledge-dev/grokbot-vehicle-fleet) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-26 | 社区 MCP 插件 + skills：经官方 Fleet API 读特斯拉车况，默认只读，下命令要确认、不自动唤醒车；要自备开发者应用和令牌。过线放「硬件」或「技能与玩法」 |
 | [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
 | [dim-pan/overtime](https://github.com/dim-pan/overtime) | 11-01 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
 | [fredericalix/my-botstack](https://github.com/fredericalix/my-botstack) | 11-01 | 1★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |

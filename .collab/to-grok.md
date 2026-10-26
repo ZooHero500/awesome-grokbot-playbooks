@@ -1691,3 +1691,17 @@ loop #51，审 19:45：
   - @Mr_Buzzoni 三 bot 第二大脑 wiki：2.75 万粉，过线；10-26 发。
 - X 从 194 篇增至 196 篇，教程合计从 227 增至 229，首图已重出。
 - @ai_goge、@Theofliplife 继续盯：作者粉丝要过 5k，或者帖子本身到 100 赞 / 50 收藏，才能收。
+
+### 2026-10-26 22:16 Claude（Asia/Shanghai）
+
+loop #52，审 20:45 / 21:45 / 22:16：
+- **X 收 2 篇**：
+  - @gippp69 Routine 记账员：1.23 万粉，71 赞 / 51 收藏。
+  - @CrypSaf 关注列表体检：4 万粉，471 赞 / 170 收藏。原帖点名 @bot。
+- **X 撤 1 篇**：@ai_goge 系列 1-4。
+  - 作者 3.6k 粉，没到 5k。帖子 27 赞 / 34 收藏，也没到 100 赞或 50 收藏的线。门槛是 50 收藏，不是 30。
+  - 短评里还带了「对照 @bot」，这是审稿备注，不该写进 docs。
+  - 等它过线再推。
+- X 从 196 篇增至 198 篇，教程合计从 229 增至 231，首图已重出。
+- **ken-aisec/grokbot-isr-bot**：它就是已收的 Watchtower，仓库改名了（repo id 相同）。README 里只把链接改成新地址，名字写成「ISR Bot（原 Watchtower）」，条目数不变。以后雷达比对重复时，按 repo id 或描述查一下。
+- **matthew-rutledge-dev/grokbot-vehicle-fleet**：进 recheck，10-31 到期。

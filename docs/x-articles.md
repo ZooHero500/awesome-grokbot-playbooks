@@ -94,7 +94,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [外部服务通过 Grok Bot 低成本检索 X：Codex→BDK/Webhook 两套路](https://x.com/Bytec99/status/2113863359988908395) — @Bytec99 · 2026-10-24 · X 长文：用 Bot 内置 X 搜索替代付费 X API；方案一 Cloudflare Worker+Webhook 领取回传，方案二本机 BDK+MCP 直连，附可复制提示与示例仓；约 4.8k 粉、约 51 收藏 · 中文
 - [Grok Bot vs Muse 深度测评 11 条：多端登录、adb 控安卓起号、CF Tunnel、Bot 调 Claude/Codex CLI](https://x.com/Chris_Defi/status/2114300755171745972) — @Chris_Defi · 2026-10-25 · 几周真实使用复盘：Bot 同时登录 Mac/Linux/iOS/Windows 用手机跨端操作；几台安卓外接 Linux 让 Bot 用 adb 在手机上完成选题、发布、评论并蒸馏成 skill 复用；常驻进程走 CF Tunnel 对外；给 Bot 装 Claude/Codex CLI 让它派活拆解复刻视频；交易只适合盯盘执行、策略靠人；自动发布和评论注意平台规则；约 11.5 万粉 · 中文
 - [周末派 Bland 外呼：Grok Bot 连打 5 通帮约 IRS ITIN](https://x.com/sxzz/status/2112344654683492392) — @sxzz · 2026-10-20 · 电话打不进就设周一 7 点起自动拨；Bot 自助注册 Bland、共打 5 通并找到留号回拨入口，7:40 收到 IRS 回电；用的是第三方 Bland 外呼，不是官方原生电话；约 1.4 万粉、约 153 赞 / 125 收藏 · 中文
-- [Grok Bot 系列 1-4：连接你的应用，让 Bot 直接用 Gmail、GitHub 和 X](https://x.com/ai_goge/status/2114548844847624227) — @ai_goge · 2026-10-26 · X 长文：左下角「连接应用」→ 添加 → 授权 → 去「已安装」确认不是卡在「身份验证」；聊天里打 @ 点名插件/例行任务/Bot；连接与浏览器登录对照表、常用应用注意事项、连接全账号共用的风险、断开三步（停 routine→卸载→去应用侧撤销授权），附 4 条只读/先草稿示范指令；对照 @bot：连接器；约 3.6k 粉、约 24 赞 / 31 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
