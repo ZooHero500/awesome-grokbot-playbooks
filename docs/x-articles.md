@@ -55,6 +55,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一个人 + Grok Bot = 一个内容团队（实操指南）](https://x.com/bdall_1/status/2114191938752815119) — @bdall_1 · 2026-10-25 · X 长文：探店号案例拆「何时拆 Bot vs 加 Skill」、三份底座文件、Skill 六字段模板、选店查重/文案全文、Routine 频率算术与 Test 清单；发布留人手；约 1.1k 粉、约 42 赞 / 72 收藏 · 中文
 
 - [Grokbot 怎么管理：从企业组织架构学会分工与协作](https://x.com/AdrianPunk115/status/2114648961399349608) — @AdrianPunk115 · 2026-10-26 · X 长文：直线制、职能型、事业部、矩阵、项目制、扁平化、网络型七种组织架构各配一个多 bot 分工例子，结论是小任务直接找岗位、复杂任务才组队加层 · 中文
+- [走在马路上交代一句：把 Grok Bot 当秘书，按「路由」规矩分活给云电脑上的 Claude Code / Codex](https://x.com/wshuyi/status/2114712927358128211) — @wshuyi · 2026-10-26 · X 长文：语音派活、改 Skill 后由秘书判断哪些片子续做哪些重拍，简单活自己干、难活按大白话路由交给云电脑上的编码 Agent，末尾附起步建议 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -130,6 +131,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [A Field Guide to Grok Bot：按顺序照做的实战手册](https://x.com/undefinedKi/status/2113972662506541522) — @undefinedKi · 2026-10-24 · X 长文：日用一个月后的保姆级路径——装机与 Take over 登录、一 bot 一岗五要素、可复制 Morning Brief/Inbox/Lead Miner/Chief/Builder 配方与 Auto-review 规则，附踩坑与一周清单；约 1.9 万粉 · 英文
 - [我正在用的 10 个 Grok Bot：第二大脑到线索/竞品，附各岗提示词](https://x.com/milesdeutscher/status/2113935280231325963) — @milesdeutscher · 2026-10-24 · 长帖列出第二大脑、专建功能、管理 10+ bot 的 swarm、晨报、内容复用、订阅审计、群聊提炼、线索、竞品、X 助理十岗并附提示词；约 68 万粉、约 180 收藏 · 英文
 - [十步搭一支 Grok Bot 生活助理团队：Daily Chief + 三个专员](https://x.com/irongiantXBT/status/2109293672495784029) — @irongiantXBT · 2026-10-11 · X 长文十步：先让 Daily Chief 出带 AGENDA/SOURCES/OPEN QUESTIONS 的晨报，再写角色合同、连接一次、登录交接、存技能、挂 routine、拆 Inbox/Research/Life Admin 专员、群聊协作、ACTION/TARGET/REASON 审批线、每周 USED/REWORKED/IGNORED 复盘，每步附可粘贴提示词；约 500 赞 / 1.8k 收藏 · 英文
+- [Meet Your Cheapest Employee: Grok Bot](https://x.com/k1rallik/status/2114726480559112502) — @k1rallik · 2026-10-26 · X 长文：先给有终点线的活（竞品比价、清表格、小工具），手机派活再追问，附 5 段可复制提示词和 2 个可复用 skill，最后教你核算订阅值不值 · 英文
 
 ### 多 Agent 作战室
 
@@ -255,6 +257,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [盘前个股简报 bot：每个工作日自动扫公告、评级、内部人交易和 X 情绪](https://x.com/SPCX100T/status/2110145512020279726) — @SPCX100T · 2026-10-13 · 固定格式盘前简报、每条带来源链接、只在聊天里交付不发邮件，换代码即可盯其他股票，附模板链接；约 1.3k 赞 / 1.4k 收藏，信息研究用途非投资建议 · 英文
 - [我在 Grok Bot 里搭了 49 个 bot 的 X 增长团队：结构直接抄](https://x.com/faveeexd/status/2114240152826487185) — @faveeexd · 2026-10-25 · 六个部门（侦察/内容/创意/互动/增长/商单）每部门设一个 lead，你只跟 6 个 bot 说话；品牌 brief 放共享记忆，全员只出草稿不代发、每岗一件窄活；作者约 1.4 万粉，尚无成果数据 · 英文
 - [让 Grok Bot 体检关注列表：一段提示词揪出僵尸号、出可点击取关清单](https://x.com/CrypSaf/status/2114660781174198660) — @CrypSaf · 2026-10-26 · 长帖：约 4 万粉作者让 bot 过一遍 7.5k 关注，按 180 天无动态且不回关筛出待取关、安静但回关的另列复核，生成带链接的页面逐个点；提示词在自回复里，取关仍由本人手点 · 英文
+- [How to Build a Content System With Grok Bot: One Bot per Job (FULL GUIDE)](https://x.com/zaimiri/status/2114727526345941125) — @zaimiri · 2026-10-26 · X 长文：一个 bot 一个岗，写声线文件、用真实数据体检自己的 X 账号、排每日 routine，草稿先过去 AI 腔再交人审，硬规矩是 bot 不发帖不私信，全部提示词都在文里 · 英文
 
 ## 不收的例子
 
