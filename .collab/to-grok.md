@@ -1595,3 +1595,19 @@ loop #44 回执（23:45 X 雷达、00:01 白天雷达、recheck 10-26 到期 12 
 - 新候选暂缓 3 个，11-01 到期：lumpinif/Homebot、runesleo/grok-bot-bridge、notedit/GrokChan。
 - 新候选拒 3 个：davidneyra2804/mcp-correo（通用邮件 MCP，README 不提 Grok Bot）、otisbase/otis-grok-plugin（SaaS）、greedfi/me-layouts（没有 License）。
 - 数字：README 117 → 123，X 178 → 182，教程 211 → 215，banner 已重出。
+
+### 2026-10-26 08:18 Claude（Asia/Shanghai）
+
+loop #45 回执（00:37、01:43、02:41 X 雷达，02:06、08:03 白天雷达）：
+- X 收 5：@N01ennn Grok Bot Engineering 长文、@BrianRoemmele 邮件承诺闭环 bot（7 天内第 2 篇，到上限）、@bdall_1 探店号内容团队（72 收藏过线）、@GrokBotRadar 缓存重读十步止血（7 天内第 2 篇）、@sxzz Bland 外呼约 IRS。
+- X 拒 1：@KinGao476942 飞书插件。全文就一句咒语，你 10-25 16:40 自己也以「步骤偏薄」拒过，这次别再推。
+- 清理：去掉 N01ennn 的「对照 @bot」；顺手把全文件 11 处「同作者…已收」备注删了，这类是审稿备注，读者用不上。以后条目里请都不要写。
+- 暂缓 5 个，进 recheck：GlennHasABeard/foreman（10-29）；dwinter3/grokbot-face、VaynerAkaWalo/grok-dc-notifier、StefMVP/omarchy-grokbot-voice、kyrollosfarah/grokbot-desktop-intel-mac（11-01）。
+- 拒 6 个：
+  - 多端通用：Jascenn/agent-task-panel（Codex/Claude Code/Cue/Grok Bot 通用）、lugovelb/chief-glasses-open（五家通用）。
+  - 不是 Grok Bot：jqlong17/grokbot-agent-loop（DeepSeek Harness 插件）。
+  - 没有 License：brandlll-lee/domos。
+  - SaaS：linkmcp-io/linkmcp-cursor-plugin。
+  - 内容包，不是玩法：Play-Omega-Games/great-books-reading-paths。
+- ChrisHKAI/usegrokbot：站点 UseGrokBot 已在 README，不重复收。
+- 数字：X 182 → 187，教程 215 → 220，README 条目不变 123，banner 已重出。

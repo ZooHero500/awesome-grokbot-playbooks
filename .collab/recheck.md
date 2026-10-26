@@ -123,6 +123,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [SnazzyGaz/bot-beacons](https://github.com/SnazzyGaz/bot-beacons) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Windows 桌面悬浮信标，一 bot 一个，有活发光；经免费 ntfy 中继（加密），收的话写明 |
 | [jbronssin/echo-dot-grok](https://github.com/jbronssin/echo-dot-grok) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 旧 Echo Dot 解锁后当语音听筒接 Grok Bot；要刷机、走桌面端私有接口，过线放「硬件」并写明风险 |
 | [alexsergivan/kwant](https://github.com/alexsergivan/kwant) | 10-29 | 2★ · Apache-2.0 · 建 10-22 · 最近提交 10-24 | 自托管多 bot 一体二进制（Rust+React）：spaces、@ 交接、审批卡、routines，对标 Grok Bot；过线放「自托管与平替」 |
+| [GlennHasABeard/foreman](https://github.com/GlennHasABeard/foreman) | 10-29 | 0★ · MIT · 建 10-22 · 最近提交 10-25 | 一组只读 X 运营 bot，可用 Foreman 整队装或单个挑；只读不发帖 |
 | [rystedtcreative/grokbot-omalauncher-widget](https://github.com/rystedtcreative/grokbot-omalauncher-widget) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Android Omalauncher 主屏挂件：bot 列表加未读点，setup bot 引导建私有 GitHub feed、手机只用只读 deploy key；过线放「技能与玩法」 |
 | [hnn22/lesgooo-grok-plugin](https://github.com/hnn22/lesgooo-grok-plugin) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 好友凑局 skill + 远程 MCP（空闲比对、地点投票、分账不转账），走作者的 lesgooo.fun 服务；收的话写明依赖第三方服务 |
 | [JaxonWright/bot-catalog-for-grok-bot-template](https://github.com/JaxonWright/bot-catalog-for-grok-bot-template) | 10-30 | 1★ · GPL-3.0 · 建 10-23 · 最近提交 10-24 | 自更新 bot 目录模板：分享链接给的是拷贝、不随作者更新，目录里每个 bot 带日更 routine，有新 release 才问你升不升；GPL-3.0 要写明；过线放「模板与目录」 |
@@ -141,6 +142,10 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [lumpinif/Homebot](https://github.com/lumpinif/Homebot) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 用 Siri / HomePod 经家里常开的 Mac 问自己的 Grok Bot；标 release candidate，原生 App 还没真机确认，局域网明文 HTTP 不要做端口转发 |
 | [runesleo/grok-bot-bridge](https://github.com/runesleo/grok-bot-bridge) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Claude Code / 脚本经 webhook 给 bot 派活，带 job id 和本地账本，harvest 读桌面端会话副本收回答复；和已收的 claude-grok-bridge 对比着看 |
 | [notedit/GrokChan](https://github.com/notedit/GrokChan) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Stack-chan 风语音伴，浏览器经 Cloudflare Worker 接 bot 的 webhook；固件、TTS、唤醒词还在路线图，过线放「硬件」 |
+| [dwinter3/grokbot-face](https://github.com/dwinter3/grokbot-face) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把 Pixel 平板变成 Grok Bot 的全屏动画脸和屏保，摄像头和麦克风在本机处理；过线放「硬件」 |
+| [VaynerAkaWalo/grok-dc-notifier](https://github.com/VaynerAkaWalo/grok-dc-notifier) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 监听 Discord Gateway，把 @提及、私信和参与过的帖子转给 bot 的 routine webhook；带 Docker |
+| [StefMVP/omarchy-grokbot-voice](https://github.com/StefMVP/omarchy-grokbot-voice) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Omarchy 热键控制 Grok Bot 语音通话，不抢键盘焦点；可和已收的 Grok Bot for Omarchy 放一起 |
+| [kyrollosfarah/grokbot-desktop-intel-mac](https://github.com/kyrollosfarah/grokbot-desktop-intel-mac) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Intel Mac 装官方桌面端的脚本和指南：从官方地址下载 DMG、校验签名和架构，不重新分发安装包 |
 
 ## 已移出
 
