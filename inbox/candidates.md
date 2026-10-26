@@ -2558,3 +2558,27 @@ RusDawg/LunaBot_Public（月亮竞速 HUD 演示壳，非玩法仓）；santiago
 ### Skip（本轮）
 
 duychung-keytechx/Kbot（空 README/无 License）；risebydigital/grokbot-speaker / Gregory-Brunner/GrokBot / EmberLing / shield-recs / grok-minecraft（已 skip）；qwts/universal-agentic-workflow（通用 SDLC 非 Grok 专向）；BlancoKat/wikiwright（Bot 做的产品非玩法）；smfworks/grok-bot-templates / HarnessRouter / poteto·pstack 转发（已列）；Howard Telegram Stars 市集自推；币安/Polymarket 交易、额度营销、SpaceXAI 摘要 PDF。已列 dark-factory / grokbot-tunnel / grok-dc-notifier / omarchy-grokbot-voice / Homebot / agent-task-panel / grok-bot-bridge / unfinished-botness / boss-man-godmode / grokbotshelf / gbiz-templates / grokbot-pet / lift-receipt 等不重推。
+
+## 2026-10-26 12:08 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:11→12:08（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-26 + updated≥2026-10-26）。周一白天侧重 GitHub；X 本窗未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| situker/situk-mars | https://github.com/situker/situk-mars | **多 Bot 功勋/军衔/人审 Skill**：业务 Bot 交交付证据 → Merit Officer 审 → 人批 → Commander 入账晋升；双语 EN/简中、ZIP release v0.2.0、离线模拟、CI 62 规则测、九模板+SKILL.md。本轮最值得看 | Multi-bot / Skills | `merit` `rank` `hitl` `skill` `zh` `mit` | 0 / MIT | **GitHub**（10-26 本窗新建） |
+| Kinfxhk/hermes-grok-bot-bridge | https://github.com/Kinfxhk/hermes-grok-bot-bridge | **Hermes 插件唤醒 Grok Bot 云端跑完回调同聊**：`grok_bot_task`→Routine webhook→Bot 云电脑作业→回调注入 Hermes；关桌面不杀跑、带 bot-skill.md 与测试。与已记 grok-hermes-webhook（Bot→本机接收契约）方向相反、可互补 | Bridges / Hermes | `hermes` `webhook` `callback` `plugin` `mit` | 0 / MIT | **GitHub**（10-26 本窗新建） |
+| rystedtcreative/run-cards | https://github.com/rystedtcreative/run-cards | **编码跑开/收卡**：Grok Bot 把长编码交给 Grok Build/Claude Code，开跑贴 open.png、结束贴 close.png（PASSED/FAILED/TIMED OUT/CANCELLED/BLOCKED）；省 Bot 额度、选模型、145 测、零原生依赖 | Tools / Coding runs | `run-card` `grok-build` `claude-code` `cli` `mit` | 0 / MIT | **GitHub**（10-26 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| proposalstudio/event-quote | https://github.com/proposalstudio/event-quote | 报价/价目/发票 hosted MCP + skills（Grok Bot/Cursor）；Free/Pro SaaS，先信号 | Plugins / SaaS | **GitHub**（10-26 本窗新建，MIT） |
+| gmggyyds/screenshot-find-original-video | https://github.com/gmggyyds/screenshot-find-original-video | 中文 Grok Bot skill：截图/二创反查 YouTube 原片（画面优先）；**无 License**，先信号 | Skills / Vertical | **GitHub**（10-26 本窗新建） |
+| rowama/mmbridge | https://github.com/rowama/mmbridge | Mattermost↔Grok Bot MCP 桥骨架（health/echo，MCP stub）；**无 License**，先信号 | Bridges / Early | **GitHub**（10-26 本窗新建） |
+
+### Skip（本轮）
+
+Mazenss7/grokbot-guide（空 README/无 License）；duychung-keytechx/Kbot（自托管平替、agent stub，Alternatives 已够）；smoothvr/grok-bot-home-assistant-ui（内容同已收 stefanvr82，CI badge 亦指向后者）；RusDawg/LunaBot_Public（月亮竞速 HUD，已 skip）；andraetbusiness-code/grokbot-desk / 5dive / recipes / grokbot-relay（已列）；marketplace SaaS dump、币安/交易。已列 drover / indie-launch-coach / QuotaPot / dark-factory / grokbot-tunnel / Homebot / agent-task-panel / hermes-webhook 等不重推。

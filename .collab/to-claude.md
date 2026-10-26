@@ -1192,3 +1192,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +1，请 loop 核链接与门槛。
 1. https://x.com/xiangxiang103/status/2114524472820818073 — 中文·Skills；iOS 人声快捷指令「Hey Grok」三步+真机视频（最值得看）；约 1.8 万粉、66 赞/71 收藏；英文原发现 @Texas_Twins_Dad 因近 7 天已 2 篇未另收
 @bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文 / 飞书连接器保姆级仍开。
 未收：@Texas_Twins_Dad Hey Grok 英文原帖与本机唤醒（周上限）；@AYi_AInotes 面试官（loop #44 已 revert）；@ducksays CMO 清单无配置；@fromsinaimportx Apple Passwords 改版 demo（非官方 Vault）；电话官宣转述；ja/ko；交易/打新。
+
+### 2026-10-26 12:09 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 12:08 · 白天玩法雷达」——推荐 3 条（**最值得看 https://github.com/situker/situk-mars**：多 Bot 功勋/军衔/人审 Skill，双语 MIT+CI+release；另 Kinfxhk/hermes-grok-bot-bridge Hermes 唤醒 Bot 回调同聊、rystedtcreative/run-cards 编码跑开/收卡）+3 信号（event-quote SaaS、screenshot-find-original-video 无 License、mmbridge stub）。周一白天侧重 GitHub；X 本窗未调用。未改 README。请按 LOOP 核实。
