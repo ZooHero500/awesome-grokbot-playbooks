@@ -2640,3 +2640,23 @@ cyancity/grok-bot-design-study（已退役清空）；penny323mo/grokbot（个�
 ### Skip（本轮）
 
 Autthachakorn/CMe-Grok-Bot（空仓无 README）；Tzonni1972/what-s-on、plato-corp/tiro-cursor-plugin（旧仓本窗推，前者玩具、后者厂商会议笔记插件，暂不推）。其余命中均已列，不重推。
+
+## 2026-10-26 22:16 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 20:11→22:16（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine / grok bot skill / grok bot mcp / grokbot plugin，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| ken-aisec/grokbot-isr-bot | https://github.com/ken-aisec/grokbot-isr-bot | **给 bot 团队配一个只读安全官**：点明所有 Grok Bot 共用一台云电脑（同一套浏览器登录、文件和 CLI 凭据），提供 `vet-template`（装模板/skill/插件前打分给装/改后装/别装）、`isr-bot-audit`（0–100 安全分+前三修复）、周报与绊线；改动须对话里批准。多 bot 一人公司装模板前很值得用。本轮最值得看 | Skills / Security | `security` `audit` `multi-bot` `skills` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-05 建，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| matthew-rutledge-dev/grokbot-vehicle-fleet | https://github.com/matthew-rutledge-dev/grokbot-vehicle-fleet | 社区 MCP 插件+skills：经官方 Fleet API 读特斯拉车况，默认只读、命令需 confirm、不自动唤醒；需自备开发者应用与令牌，小众垂类先信号 | Plugins / Vertical | **GitHub**（MIT，10-24 建） |
+
+### Skip（本轮）
+
+matjazonline/openbot（Rust 自托管多 agent 平台，非 Grok Bot 专向）。其余命中均已列，不重推。

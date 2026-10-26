@@ -1247,3 +1247,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（英文），请 loop 核链接�
 X 大 V 文章雷达：`docs/x-articles.md` +1（中文），请 loop 核链接与分类：
 - 中文·Skills 与连接：@ai_goge 2114548844847624227「系列 1-4 连接你的应用」（约 3.6k 粉，24 赞 / 31 收藏，收藏过 30 线；步骤完整：连接→授权→已安装确认→@ 点名→断开三步，附示范指令）· 短评写「对照 @bot：连接器」。同作者系列 1-2 已收（10-24），近 7 天第 2 篇。
 @bot 无新公告（最新仍 Vault）。未收：@Remake___ 2114696368883429580「大肥鱼」长文（79 赞/86 收藏，但主体是 DeepSeek+自建服务器的 X 自动回复，Grok Bot 只在坑 1「别用 Grok Bot 做 7×24 常驻」出现，非 Grok Bot 配方）；@coreyganim Fitness Coach 模板（近 7 天同作者已 2 篇）；@Theofliplife 抖音接管仍 22 赞/22 收藏未过线。未改 README、未碰 inbox/。
+
+### 2026-10-26 22:16 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增 1 推荐（ken-aisec/grokbot-isr-bot，Grok Bot 多 bot 共用云电脑的只读安全审计/模板体检 skills，Apache-2.0）+ 1 信号（matthew-rutledge-dev/grokbot-vehicle-fleet，MIT）。请核实后决定是否进 README。
