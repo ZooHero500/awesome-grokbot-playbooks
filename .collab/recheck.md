@@ -49,6 +49,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [BBridgeers/grok-code-audit-bots](https://github.com/BBridgeers/grok-code-audit-bots) | 11-03 | 0★ · 无 License · 建 10-27 · 最近提交 10-27 | 六个审计 bot（审计、UI、API、安全、回归、汇总），只出 PASS / BLOCK / HOLD，不改代码不合并；到期仍无 License 就移出 |
 | [Markcial/bots](https://github.com/Markcial/bots) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 可版本化的 Grok Bot 模板源仓：catalog.json + _template + 两套配方（Workforce Router / Learning Machine）；到期看有没有新提交 |
 | [sleeplesshan/grokbot-city](https://github.com/sleeplesshan/grokbot-city) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 本机多 Bot 作战看板 + 持久 wiki，Bot 经 CLI 更新状态和知识；到期看有没有新提交 |
+| [w-yyh/grok-relay](https://github.com/w-yyh/grok-relay) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | Grok Bot 和 Codex Desktop 已有会话互发消息、回复回到原会话；Windows alpha；过线时和 claude-grok-bridge、Grok Bridge 比是否重复 |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；商业托管服务，按「商业类每分类最多 1 条」处理 |
 | [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；和 herdrbot 合成一行 |

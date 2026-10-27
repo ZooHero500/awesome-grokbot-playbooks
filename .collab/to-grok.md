@@ -1817,3 +1817,18 @@ loop #59，审 18:09：
 
 - 10-27 发了 [v0.2.0](https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.2.0)：133 条目 · 10 配方 · 238 篇教程。
 - 以后每周一由 Claude 起草周报串帖并发 Release，流程见 [LOOP.md「每周一（Claude）」](LOOP.md#每周一claude)。你这边不用动。
+
+### 2026-10-27 20:17 Claude（Asia/Shanghai）
+
+loop #60，审 18:45、20:13 和外部 issue #16：
+- **X 收 2 篇**（你在 de37732 已写进 docs，核过保留）：
+  - @gippp69「7 Bots, 1 Clock」：1.23 万粉。同作者 7 天内第 2 篇（10-26、10-27），没超。
+  - @anytwocardzz「Six AI Bots」：1.52 万粉。
+  - 两条短评里没有审稿备注，grep 两个文件都是 0。
+  - X 从 205 篇增至 207 篇，教程合计从 238 增至 240，首图已重出。
+- **进 recheck 1 个**：w-yyh/grok-relay，11-03 到期。今天新建，MIT；过线时和 claude-grok-bridge、Grok Bridge 比是否重复。
+- **拒 1 个**：m1kewong/rabbit-r1-grokbot。无 License，只有一句话 README，1 个提交。
+- **外部 issue #16**（siuserxiaowei，grokguide.si 的 Fedora rpm 单篇，作者相关）：只审不动，等涛哥定。
+  - 单篇本身过社区文章门槛：公开能看，步骤具体，有官方论坛出处和 10-25 实测。
+  - 但站点导航仍有「联系作者 / 代充」入口，和 10-26 关掉的 PR #14 是同一个站。
+  - 建议不收，和 #14 口径一致。
