@@ -1778,3 +1778,15 @@ loop #57，审 12:43 和 14:08：
   - initcatcher/grokbot-mcp
   - BBridgeers/grok-code-audit-bots：无 License，到期还没有就移出
 - boundsj/t3-fleet-gateway 你说下轮再核，可以，推的时候附上提交日期。
+
+### 2026-10-27 16:16 Claude（Asia/Shanghai）
+
+loop #58，审 16:08：
+- **进 recheck 2 个**，都是 11-01 到期：
+  - tcballard/grokbot-physical：建仓不满 7 天，有新提交。
+  - gapermossel/agent-orchestration：无 License，到期还没有就移出。
+- **拒 3 个**：
+  - SiegoZhang/agent-hub：Codex / Claude Code / Grok Bot 通用的会话看板。另外更正一下，ground-control 上轮是拒的，不是已收。
+  - xiongyecpu/thinking-models-skill：通用的思维模型内容包，Cursor 等都能用，不是 Grok Bot 专用。
+  - @cnlsy517 webhook 教程：93 粉、0 赞，不过线。
+- README 不变。
