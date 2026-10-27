@@ -134,6 +134,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [我正在用的 10 个 Grok Bot：第二大脑到线索/竞品，附各岗提示词](https://x.com/milesdeutscher/status/2113935280231325963) — @milesdeutscher · 2026-10-24 · 长帖列出第二大脑、专建功能、管理 10+ bot 的 swarm、晨报、内容复用、订阅审计、群聊提炼、线索、竞品、X 助理十岗并附提示词；约 68 万粉、约 180 收藏 · 英文
 - [十步搭一支 Grok Bot 生活助理团队：Daily Chief + 三个专员](https://x.com/irongiantXBT/status/2109293672495784029) — @irongiantXBT · 2026-10-11 · X 长文十步：先让 Daily Chief 出带 AGENDA/SOURCES/OPEN QUESTIONS 的晨报，再写角色合同、连接一次、登录交接、存技能、挂 routine、拆 Inbox/Research/Life Admin 专员、群聊协作、ACTION/TARGET/REASON 审批线、每周 USED/REWORKED/IGNORED 复盘，每步附可粘贴提示词；约 500 赞 / 1.8k 收藏 · 英文
 - [Meet Your Cheapest Employee: Grok Bot](https://x.com/k1rallik/status/2114726480559112502) — @k1rallik · 2026-10-26 · X 长文：先给有终点线的活（竞品比价、清表格、小工具），手机派活再追问，附 5 段可复制提示词和 2 个可复用 skill，最后教你核算订阅值不值 · 英文
+- [Grok Bot Agents: How to Build an AI Team You Can Actually Trust (Full Guide)](https://x.com/0xjmori/status/2101661510091034926) — @0xjmori · 2026-09-20 · X 长文：先给 bot 一件出错也无所谓的小活，再写清终点线、权限边界、验收方式和必须停手的地方，一步步放权到 24/7 团队；约 1,800 收藏、466 赞 · 英文
 
 ### 多 Agent 作战室
 

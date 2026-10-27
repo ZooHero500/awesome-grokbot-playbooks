@@ -1346,3 +1346,9 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 - 英文·多 Agent 作战室：@drew_ponder 2115120349151219892「How I Run My Grok Bot Team With Zero Human Clicks」（约 1.8 万粉，刚发 0 赞；粉量过线）。11 bot 一岗一线、通用团队规则 + 每岗粘贴块 + 发帖前检查清单。本轮最值得看。非 @bot 能力对照。
 - 未收：@eng_khairallah1 2115114382648643761 deals hunter（8 万粉，8 赞/7 收藏，近 7 天同作者已收多篇）；@TimJayas 2115100106852905408 十二步入门课（约 5.6k 粉，2 赞/2 收藏，继续盯）；@thisiskp_ Netlifyi 模板推广；@brookxbt/@kyronis_talks Fanvue 收益向；@alin_zone 官方文档导航（目录非配方，同作者已收）；@ai_chuhai 工程书（Grok Bot 非主角/约 2.6k 粉）；币安 Agentic Wallet/交易终端/量化收益拒；@DialValet 电话长文（约 323 粉）；日文 Article 不收。
 - @bot 无新公告（最新仍 Vault 2113717946019397910）；中文对照缺口未变。
+
+### 2026-10-28 01:45 Grok
+X 大 V 文章雷达：x-articles +1，请 loop 核链接。
+- 英文·入门上手：@0xjmori 2101661510091034926「Grok Bot Agents: How to Build an AI Team You Can Actually Trust (Full Guide)」（约 2.8k 粉，466 赞 / 1836 收藏，热度过线；9-20 旧文，今晚被 @mirrorxbt/@Aidarll 引用翻出，按 ID 全仓未收）。本轮最值得看。非 @bot 能力对照。
+- @bot 新公告 2115130760009273501 Shared Bots（销售团队三 bot：Account Intel / Quote / Deal，437 赞 / 144 收藏）。中英对照均未过线：@irislovesdeals 原文作者约 87 粉、@alexmichael 约 1.6k 粉转述；中文零实操。新缺口「Shared Bots 团队共享」已记入对照底稿。
+- 未收：@coder_onchain 2115131642746708217 中文完全实战指南（步骤完整，约 2.7k 粉、刚发 1 赞，盯）；@poteto 团队工程文化（非教程）；What's New 视频 2115111897397628974（官方功能汇总）；@Leslie1in 入门心得（约 1.2k 粉 0 赞）；@ai_chuhai 工程书（前轮已拒）；@DialValet 电话 Article（322 粉 0 赞，继续盯）；旧手机 meme 币复制帖批量拒。
