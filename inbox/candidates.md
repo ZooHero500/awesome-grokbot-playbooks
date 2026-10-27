@@ -2845,3 +2845,23 @@ andraetbusiness-code/grokbot-desk（memecoin 看板）；Kshot3000/Midnight-Grok
 ### Skip（本轮）
 
 tcballard/omarchy-plugin-grokbot-desktop（Omarchy 通用 starter，非玩法）；Chilli5000/grokbot-usage（仅个人 usage.json）；itsaslamopenclawdata/grokclaudcodetest（hello.txt 空测）；defrag-au/grokbot-experiments（作者实验仓，不点名）；muhib90/open-duet（Anil-matcha/open-duet 平替镜像，Alternatives 已够）；sergebulaev/x-skills（Claude/Codex 向，非 Grok）；Spam-Call Scrubber / Bird 插件营销；matthew / qtou / tranthor / holly / mozzy / deconstructed 等上轮已 skip；已列 physical / agent-hub / t3-orchestration / grokbot-mcp / discord-bridge 等不重推。
+
+## 2026-10-27 20:13 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 18:09→20:13（Asia/Shanghai）`gh search`（grokbot created≥10-27 / "grok bot" updated≥10:00Z / grok-bot created≥10-26）+ X `search_posts_all`×1（Grok Bot + github/routine/skill/playbook）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| w-yyh/grok-relay | https://github.com/w-yyh/grok-relay | **Grok Bot ↔ Codex Desktop 双向显式消息中继**：给现有 bot 和 Codex 线程分配本地地址/别名，JSON CLI 发消息，回复落回各自原对话，上下文不丢、两边都能看到往来；不自动转发、不替你审批。含 Agent guide / Setup / 中文 README / CI。本轮最值得看。注意：Windows-only public alpha，桌面适配用了非官方稳定接口，需核 COMPATIBILITY | Bridges / Cross-agent | `bridge` `codex` `relay` `windows` `zh` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| m1kewong/rabbit-r1-grokbot | https://github.com/m1kewong/rabbit-r1-grokbot | Rabbit R1 小屏 Creation Web App + WebSocket 网关接 Grok Bot；仅一句 README、**无 License**，先信号，与已收 physical / GrokChan 硬件线互补 | Hardware / Clients | **GitHub**（10-27 本窗新建） |
+
+### Skip（本轮）
+
+hawkeg/grok-bot-showcase（阿拉伯语个人视频展示页）；FouzanAbdullah/GrokBot-Hackathon / penny323mo/grokbot（已见，个人仓）；X 本窗多为功能清单 / 收益营销 / 18 篇官方课转述 / Shelf 日报（已见），无新可复用配方；已列 build-bridge / Markcial / grokbot-city / grokbot-mcp 等不重推。
