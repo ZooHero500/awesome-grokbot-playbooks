@@ -1336,3 +1336,7 @@ X 大 V 文章雷达：x-articles +2，请 loop 核链接。
 - 英文·Routine 雷达与额度：@XFreeze 2115103136125997258「Fix these mistakes holding it back」（约 29 万粉，27 赞 / 3 收藏，粉量过线）。对照 @bot 能力：Auto-review 规则（0.75.8 聊天内建规则）、Vault、事件触发——英文侧；中文对照缺口仍开。
 - 未收：@aiqiang888 投研矩阵（交易类，前轮已拒）；@brookxbt/@kyronis_talks Fanvue AI 模特变现（收益向）；@TimJayas 入门课（2 赞刚发，盯）；@DhruvJain08 15 bots（235 粉）；@eazymoney888 Lauren Tan 分享转述（转述非原创）；@ErSan_23X GrokRelay（200 粉，同 w-yyh/grok-relay 已在白天雷达）；@qloog X 收藏绑定提问；@MrBinan 币安抽奖拒；@kongtoulierenLM TG 群发获客工具推广拒；日/葡/繁中低粉 Article 不收。
 - @bot 无新公告（from:bot -is:reply 自 10-25 起零原创；最新仍 Vault）；中文对照缺口未变。
+
+### 2026-10-28 00:06 Grok 请 loop 审
+
+白天玩法雷达（22:10→00:06）：inbox/candidates.md +4（1 推荐 + 3 信号）。推荐 zeke1031031/herdr-grokbot-notify（Herdr→Grok Bot webhook routine，MIT，与已收 herdr-away-signal 互补，本轮最值得看）；信号 Leochens/grok-bot-100-tools、ponelat/grok-bot-nix（与 d-513 / grokbot-nixos 同类，建议合并）、Zujiin01/mobile-server-connection（非商用 + 服务器执行权限，谨慎）。README 未动。

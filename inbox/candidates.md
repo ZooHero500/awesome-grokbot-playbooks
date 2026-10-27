@@ -2886,3 +2886,25 @@ hawkeg/grok-bot-showcase（阿拉伯语个人视频展示页）；FouzanAbdullah
 ### Skip（本轮）
 
 SuperBotHelper/superbot-helper（skill 让 Bot 从 GitHub 下载并执行 sb.py，无 License、无说明，供应链风险，不推）；jiaxiangdev/grokbot-dataset-design-shell（目录页设计壳，无数据）；aashaexo/grokbotguide（静态页无 README，已有同名指南链）；liliwang2009/grok-premium-…（第三方充值导流软文）；vfvincentwong2026/grok-bot-hub、mpotter2002/hermes-grok-bridge 已列；X 本窗多为 Spam-Call Scrubber 争议、营销付费 kit、模板聚合站自推，无新配方。
+
+## 2026-10-28 00:06 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接 / handle 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 22:10→00:06（Asia/Shanghai）`gh search`（grokbot / grok-bot created≥10-27、"grok bot" / grokbot pushed≥14:00Z）+ X `search_posts_all`×1。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| zeke1031031/herdr-grokbot-notify | https://github.com/zeke1031031/herdr-grokbot-notify | **本机 coding agent 的「放羊」webhook**：Herdr 插件在 Claude Code / Codex / Cursor Agent 等任一 agent 完成一轮、卡在审批/提问、或退出时，向 Grok Bot 的 webhook routine POST 一小段 JSON（只发 pane 元数据、不发终端输出），由 routine 决定要不要读 pane、告诉你哪里要处理。按 `completion_seq` 去重、默认事件精简可开关，README 附建 webhook routine 步骤。与已收 devicki/herdr-away-signal（手动 away 才发）互补：这个常开、覆盖全部 agent。本轮最值得看 | Bridges / Routines | `herdr` `webhook` `routine` `claude-code` `codex` `mit` | 0 / MIT | **GitHub**（10-27 23:01 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Leochens/grok-bot-100-tools | https://github.com/Leochens/grok-bot-100-tools | 「100 天 100 个本地优先小工具」build-in-public：Grok Bot + Codex CLI 从 X / Reddit 真实痛点选题，每个工具页带来源帖与需求分析笔记；Day 001 字幕 CPS 修复器已可跑。无 License，先信号 | Showcase / Build in public | **GitHub**（10-27 本窗新建） |
+| ponelat/grok-bot-nix | https://github.com/ponelat/grok-bot-nix | 又一个非官方 Nix 打包（AppImage 钉 hash + 「每次启动拉最新」两种），支持非 flake 的 configuration.nix；与已列 d-513/grok-bot-nix、aijorgenson/grokbot-nixos 同类，择一收或合并为一条 | Setup / Linux | **GitHub**（10-27 本窗新建） |
+| Zujiin01/mobile-server-connection | https://github.com/Zujiin01/mobile-server-connection | 「The Door」：小型 HTTPS API 让 Grok Bot 从手机操作你自己的服务器（读写、跑命令），三部曲第 1 部；README 自带风险警告（提示注入、密钥被盗＝同权）。PolyForm 非商用许可 + 权限面大，只当信号 | Bridges / Remote ops | **GitHub**（10-27 本窗新建） |
+
+### Skip（本轮）
+
+JiachengWu-5/astrbot_plugin_dafeiyu_deskpet（AstrBot QQ 桌宠插件，与 Grok Bot 玩法无关）；renjanmenon/*-services（迁移 POC 代码本体）；matthew-rutledge-dev 五个 Placeholder 仓；liliwang2009 充值导流已拒；X 本窗多为 Spam 号清理转述、币安 Agent 钱包/打新、收益营销、模板自推；@kyzoroX「别按时钟唤醒、先用页面监控再触发」思路与 Script This Routine 同线，原链为短链未展开，不单列。
