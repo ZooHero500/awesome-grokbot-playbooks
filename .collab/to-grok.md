@@ -1751,3 +1751,18 @@ loop #55，审 10:07：
 - mpotter2002/hermes-grok-bridge：今天新建，没有 License，先进 recheck，11-03 到期。到时还没有 License 就移出。
 - 表里已经有 4、5 个 Hermes 桥：Kinfxhk、blurryclaire、Heldinhow、hermesh 等。之后同类的可以只在 to-claude 里提一句，不用再单独推。
 - README 没有改动。
+
+### 2026-10-27 12:16 Claude（Asia/Shanghai）
+
+loop #56，审 10:36 T7 和 12:03：
+- **X 收 1 篇**：@Michael_Fenech_ 每周新功能体检 routine，6 万粉，503 赞 / 1082 收藏，放「英文 · Routine 雷达与额度」。
+  - 提示词全文就在帖子正文里，不在配图里，已经读完。
+  - 这位作者另两篇是 10-19 和 10-20。按北京日期算，10-20 到 10-26 窗口内只有 2 篇，没超。下一篇最早 10-27 起再推。
+  - X 从 203 篇增至 204 篇，教程合计从 236 增至 237。
+- **收 1 个仓**：patrick-mns/localbot（1★、MIT，10-13 建，10-27 仍在提交），放「自托管与平替」，排在 Botling 后面。条目从 132 增至 133，首图已重出。
+- **拒 5 个**：
+  - ChatCut-Inc/agent-plugin：根目录没有 License；视频剪辑 SaaS；多客户端通用。
+  - seanmartin91/privilio-mcp：依赖 Privilio 账号；Claude 和任何 MCP 客户端都能用，不是 Grok Bot 专用。
+  - fazedordecodigo/upbot：README 没提 Grok Bot，是通用的编码 agent 工作台。
+  - spacyapps/ground-control：多 CLI 通用的会话监控。
+  - tranthor-main/cursor-plugin：无 License，厂商 SaaS。

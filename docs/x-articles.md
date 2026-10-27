@@ -198,6 +198,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [How Grok Bot Routines Changed the Way I Work](https://x.com/eng_khairallah1/status/2114647320834810139) — @eng_khairallah1 · 2026-10-26 · X 长文：六条可直接粘贴的 routine 提示词（构建班次、发布雷达、资料包 skill、客户台、收件箱分拣、周五复盘），附「无货静默、只起草不代发、缺源标未核实、先手动跑一次再上定时」等设计规则和额度、安全注意 · 英文
 - [Routine 记账员：一段提示词给每条 routine 算唤醒次数、加变化检查、改触发器](https://x.com/gippp69/status/2114689520964677797) — @gippp69 · 2026-10-26 · 串帖：接着作者 10-11 的 routine 成本长文，回复区给出可粘贴的审计提示词，先问三问再列清单、估唤醒次数、提「先比变化再跑」和改事件触发，发送/付款类保持草稿，最后出前后对比表并存成 Skill；金额为作者示例价估算 · 英文
+- [Weekly prompt: have your Chief of Staff check which new Grok Bot features could simplify your routines](https://x.com/Michael_Fenech_/status/2114661816873734316) — @Michael_Fenech_ · 2026-10-26 · 长帖附整段可粘贴提示词：每周让首席 bot 查官方文档、帮助页和更新日志里上周的新功能，逐条对照现有 routine，看能否替掉绕路做法和手动步骤、省额度或更稳，只出建议、改动等你批准；约 6 万粉、500 赞 / 1k 收藏 · 英文
 
 ### Skills 与连接
 
