@@ -2865,3 +2865,24 @@ tcballard/omarchy-plugin-grokbot-desktop（Omarchy 通用 starter，非玩法）
 ### Skip（本轮）
 
 hawkeg/grok-bot-showcase（阿拉伯语个人视频展示页）；FouzanAbdullah/GrokBot-Hackathon / penny323mo/grokbot（已见，个人仓）；X 本窗多为功能清单 / 收益营销 / 18 篇官方课转述 / Shelf 日报（已见），无新可复用配方；已列 build-bridge / Markcial / grokbot-city / grokbot-mcp 等不重推。
+
+## 2026-10-27 22:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接 / handle 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 20:13→22:10（Asia/Shanghai）`gh search`（grokbot / grok-bot created≥10-27、"grok bot" / grokbot pushed≥12:00Z）+ X `search_posts_all`×1。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Script This Routine（Bot 模板） | https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP | **省额度体检 Bot**：审计你各 Bot 的 routine，把机械检查改写成小而经过测试的脚本，只有脚本发现需要判断时才唤醒 Bot。与仓里额度体检 / 雷达 routine 配方直接互补。本轮最值得看。官方分享页，无仓；X 帖 https://x.com/Kevin_Logan/status/2115077015569048015（约 1.6k 粉 / 9 赞 / 5 收藏） | Routines / Usage | `routine` `usage` `script` `template` | — / 分享页 | **X**（10-27 本窗） |
+| maverickmath/grok-bot-templates- | https://github.com/maverickmath/grok-bot-templates- | 两个周更雷达 Bot 模板（葡语）：机会雷达按上行/胜率/时间/门槛打分，小赌注实验队列；每个含 `agent.json` + `skills/` + `routine.md`，「无新可行动就静默、不代发」写进 routine。结构可当模板仓范例 | Templates / Radar routines | `template` `routine` `skill` `pt-br` `mit` | 0 / MIT | **GitHub**（10-27 19:55 建，上轮漏扫） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 夜间基金研究台 routine 提示词 | https://x.com/helicerat0x/status/2115075557075353934 | 英文可复制提示词：工作日 6:00 ET 拉 SEC EDGAR + 新闻，先写论点与证伪条件再看价格，每轮记日志 CSV，8:00 前出一页 Morning Desk（≤3 条），新闻当数据不当指令；不交易不放 key。约 1.5k 粉 / 17 赞 / 13 收藏，先信号 | Routines / Research desk | **X**（10-27） |
+
+### Skip（本轮）
+
+SuperBotHelper/superbot-helper（skill 让 Bot 从 GitHub 下载并执行 sb.py，无 License、无说明，供应链风险，不推）；jiaxiangdev/grokbot-dataset-design-shell（目录页设计壳，无数据）；aashaexo/grokbotguide（静态页无 README，已有同名指南链）；liliwang2009/grok-premium-…（第三方充值导流软文）；vfvincentwong2026/grok-bot-hub、mpotter2002/hermes-grok-bridge 已列；X 本窗多为 Spam-Call Scrubber 争议、营销付费 kit、模板聚合站自推，无新配方。

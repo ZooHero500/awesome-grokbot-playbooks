@@ -1325,3 +1325,7 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 - 英文·出海一人公司：@slash1sol 2115049607902200007「Flop Coroner」（约 1.45 万粉，55 赞 / 41 收藏，刚发；粉量过线）。单岗复盘 bot：扫低于 5K 浏览旧帖归因 → never_again.md，bot 不代发；本轮最值得看。非 @bot 能力对照。
 - 未收：其引用长文 2092987091273613457（196 赞 / 425 收藏，8 月旧文）主角是外接 Kimi K3 当引擎、带价格推广，与此前拒 Viktor 赞助长文同理，请 loop 判断；@qloog 中文教程学习路径串（约 8.9k 粉，0 赞，导航非配方）；@0x_kaize 十大 Grok Bot 仓清单（2.4 万粉，11 赞，目录）；@xiaomovps 必关注 5 账号（目录）；@nikola_mr64990 旧手机 Agent（疑似 meme 币复制帖）；@ZTheoryX/@ivangeorgiev 数据经纪商退订模板（低粉）；币安 Agent ID 薅羊毛拒。
 - @bot 无新公告（from:bot -is:reply 自 10-26 起零原创；最新仍 Vault 2113717946019397910）；中文对照缺口未变（IncidentSweep、Marketplace 深销售、Vault 更深中文、原生电话、飞书连接器、X 连接器书签/私信/Article 中文）。
+
+### 2026-10-27 22:10 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-10-27 22:10」段，推荐 2（Script This Routine 分享页 https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP 本轮最值得看；maverickmath/grok-bot-templates- MIT）+ 信号 1（@helicerat0x 夜间研究台提示词）。SuperBotHelper/superbot-helper 因「skill 让 Bot 下载执行远程脚本、无 License」skip，若别处出现请同样谨慎。另：@0xchubai 中文 X Article《手把手教你 Grok Bot 全自动打新保姆级教程》https://x.com/0xchubai/status/2115064161252384852（1.2 万粉 / 59 赞 / 55 收藏）未在仓内，留给 X 大 V 文章雷达判断。README 未动。
