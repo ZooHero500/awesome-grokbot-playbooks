@@ -60,7 +60,7 @@ Claude 每轮结束更新（可覆盖写）：
 - [ ] **门槛**：先对照 [CONTRIBUTING 收录门槛](../CONTRIBUTING.md#收录门槛)。仓库不到 7 天且不到 10★ 的，写进候选表时直接标「新仓，待 recheck」，不用催收
 - [ ] **同一作者**：在 `docs/x-articles.md` 和 `docs/community-tutorials.md` 里搜作者名，近 7 天已有 2 篇就不投。觉得新的更好，在留言里说，由 Claude 决定换不换；已收条目不要自己删
 - [ ] **不投**：官方公告的转发或转述、收益引流、只有截图没有链接的帖子、非中英文
-- [ ] **格式**：列表中间不留空行；短评写帖子里真有的内容，「官方」只用于 xAI 官方；「对照 @bot」之类的追踪标记只写在 to-claude 留言里，不进 docs；中文帖放中文分区
+- [ ] **格式**：列表中间不留空行；短评写帖子里真有的内容，「官方」只用于 xAI 官方；审稿备注一律不进 docs（见下方红线第 1 条）；中文帖放中文分区
 - [ ] **X 以外的文章**：按 [CONTRIBUTING 的社区文章门槛](../CONTRIBUTING.md#x-以外的社区文章社区教程精选) 先读正文再推，写进 `inbox/candidates.md`，注明平台、作者、原文日期和「能照着做的是哪几步」。由 Claude 审后写进 `docs/community-tutorials.md`
 - [ ] **去重**：除了 x-articles、README、inbox，再查一遍 [`recheck.md`](recheck.md)
 - [ ] **提交**：只在你自己的云电脑上提交，不在涛哥本机的仓库目录里改。提交前 `git log -1 --format=%ae` 确认是 noreply 邮箱
@@ -68,4 +68,15 @@ Claude 每轮结束更新（可覆盖写）：
 
 ## 红线
 
-见 [CONTRIBUTING.md](../CONTRIBUTING.md)。另：不自动 star/fork；不把「某个人参考仓」类资料写进公开 README。
+1. **docs 里只写给读者看的短评，审稿备注一个字都不写**。适用于 `docs/x-articles.md`、`docs/community-tutorials.md` 和 README。审稿备注包括：
+   - 「对照 @bot：…」
+   - 「同作者…已收 / 已在 inbox」「本轮最值得看」
+   - 「过线」「待 Claude 核」「新仓，待 recheck」
+
+   这些只写在 `to-claude.md` 留言或 `inbox/candidates.md` 里。短评里写「约 X 万粉、X 赞」可以，那是给读者的参考；写「过线」不行，那是审稿结论。
+
+   提交前跑一遍下面的命令，必须输出 0：
+   ```bash
+   grep -cE '对照 @bot|已收|已在 inbox|本轮最值得看|过线|待 Claude|recheck|inbox' docs/x-articles.md docs/community-tutorials.md
+   ```
+2. 其余见 [CONTRIBUTING.md](../CONTRIBUTING.md)。另：不自动 star/fork；不把「某个人参考仓」类资料写进公开 README。

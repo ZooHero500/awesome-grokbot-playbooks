@@ -28,7 +28,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [安装桌面端立刻关掉「在这台电脑上执行」和「经此电脑转发流量」](https://x.com/fankaishuoai/status/2111740064409756037) — @fankaishuoai · 2026-10-18 · 云端 Bot 不该碰本机文件和密钥；关转发也避免暴露地址、被 Cloudflare 标错地区 · 中文
 - [Grok Bot 保姆级教程：9 段神级提示词，解决你所有烦心事](https://x.com/0xluffy_eth/status/2112360364662988956) — @0xluffy_eth · 2026-10-20 · X 长文：九段可复制提示词覆盖入门、派活、报障和日常杂事；作者约十五万粉，偏合集向，可当提示词素材库翻 · 中文
 - [花两千踩坑四大 Personal Agent，我用 3 个提示语把 33% 成功率救活了](https://x.com/aiwarts/status/2111812368972022217) — @aiwarts · 2026-10-18 · X 长文：Grok Bot、Muse、Dots、Cue 横测 12 个自媒体平台，作者自述只委托成功三分之一；附多任务进度表、Computer Use 采集「六道门」校验和融合日报三段提示语，日报落飞书再发邮件通知。文中对 Grok Bot 本机操控的判断是作者当时的体验 · 中文
-- [Grok Bot 新手指南：从跑通单任务到多 Bot 分工协作](https://x.com/cgnot996/status/2112761781080965416) — @cgnot996 · 2026-10-21 · X 长文：非官方中文学习站路线图，四步（跑通任务→磨合→固定触发器→组建团队）+ 四篇 25 章大纲，附 bot.fmcat.top；作者约八千粉，同作者 Clipper/学习站已在 inbox · 中文
+- [Grok Bot 新手指南：从跑通单任务到多 Bot 分工协作](https://x.com/cgnot996/status/2112761781080965416) — @cgnot996 · 2026-10-21 · X 长文：非官方中文学习站路线图，四步（跑通任务→磨合→固定触发器→组建团队）+ 四篇 25 章大纲，附 bot.fmcat.top；作者约八千粉 · 中文
 - [Grok Bot 能做什麼？X 上 12 個實際用法](https://x.com/p3nchan/status/2112890970266378589) — @p3nchan · 2026-10-21 · X 长文（繁中）：信箱分流、早报、谈价、订票等 12 例各附可改「交代方式」与翻车提醒；约 5.2k 粉 · 中文
 - [四家 Personal Agent 怎么选：Grok Bot / Muse / Dots / Claude Duet](https://x.com/dotey/status/2113014531853365681) — @dotey · 2026-10-22 · 长帖：按目标人群拆四家的共同点和差别，给出「生活琐事试 Muse、老板看 Duet、全员 ChatGPT 看 Dots、想多个 AI 分工干活看 Grok Bot」的选法；约 26 万粉、210+ 赞 / 180+ 收藏 · 中文
 - [开车骑车时让 Grok Bot 用语音帮你刷 X 时间线](https://x.com/herock/status/2113516863061926189) — @herock · 2026-10-23 · 两步小玩法：先说明不方便看屏幕、让 bot 逐条朗读时间线并每条停下来问收藏、起草回复还是下一条，再切语音对话模式边听边讨论；作者实测后台语音手机发烫、易崩，约 3.5 万粉 · 中文
@@ -85,7 +85,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [喊「Hey Grok」开语音聊天：iOS 人声快捷指令三步](https://x.com/xiangxiang103/status/2114524472820818073) — @xiangxiang103 · 2026-10-26 · 快捷指令选 Start Voice Chat → 辅助功能·人声快捷指令录「Hey Grok」三遍；锁屏需点一下、Face ID 已解则全程免手；真机视频；英文原发现见 @Texas_Twins_Dad；约 1.8 万粉、约 92 赞 / 99 收藏 · 中文
 - [别人把 Grok Bot 都调好了，53 个模板点一下就复制来用，我按场景分好了七类](https://x.com/yaohongan2025/status/2112348685778489753) — @yaohongan2025 · 2026-10-20 · X 长文：讲清 Add to Grok Bot→预览→Add Bot、密钥不随模板走，按七类筛了 53 个可装模板并点名描述里藏指令/下陌生代码的坑；作者约 0.8k 粉但约 172 赞 / 427 收藏 · 中文
 - [还在手搓 bot？官方 Marketplace 10 个模板导入就能用（附起步五步）](https://x.com/Sukiea1008/status/2113544871197933660) — @Sukiea1008 · 2026-10-23 · X 长文：按造 bot/写代码、设计内容、增长生意挑出 10 个官方模板并写清人在哪一步把关；讲为何先用模板（范围收窄、审批线画好、改比写易），附主管+专员结构和 5 步起步顺序，以及 github.com/doublesq97-ui/bot-team-playbook；约 108 收藏 · 中文
-- [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏，对应 inbox 里的 xiaozhenliu/agent-mesh · 中文
+- [一口气给 Grok Bot 接上 Claude Code、Codex、DSH、Pi](https://x.com/poolmoon6/status/2112532951946965162) — @poolmoon6 · 2026-10-20 · X 长文：用开源 Reason Network / agent-mesh 把本机 Agent 和云端 bot 放进同一私有团队，Mac 常驻中继 + webhook 叫醒休眠的 bot，附安装链和注入风险提醒；约 50 收藏 · 中文
 - [微信文件传输助手总互踢？用 Grok Bot 自己做一个，还能帮你读](https://x.com/oh_Roach/status/2112871107128971348) — @oh_Roach · 2026-10-21 · X 长文：LV.1 只存不读的文件中转 Bot、LV.2 解析+每晚收藏日报、LV.3 自建知识库后端，提示词可直接复制；解决微信电脑端互踢与文件过期 · 中文
 - [实操教程｜把 Grok Bot 接进了微信：发一句话，它真的去干活](https://x.com/EvanWritesX/status/2111661828749373784) — @EvanWritesX · 2026-10-18 · X 长文：用 openclaw-weixin 自建桥接 + webhook 叫醒 bot 查邮箱/读网页再回微信，密钥走加密环境变量；约 2.3 万粉、66 收藏，路线不同于 KinGao/wx-bot · 中文
 - [多台设备一起干活：设置→电脑→始终允许，让 Grok Bot 同时调度家里的 Mac 等机器](https://x.com/Pluvio9yte/status/2113196159267160401) — @Pluvio9yte · 2026-10-22 · 小技巧短帖（约 5 万粉）：在设置的电脑页把已连设备设为始终允许，bot 就能不经远程桌面直接给多台机器下指令；注意「始终允许」会跳过逐次批准，只建议用在自己的设备上 · 中文
@@ -204,7 +204,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [把收藏的 Instagram 视频做成离线 markdown 知识库](https://x.com/kevinrose/status/2101455244567973976) — @kevinrose · 2026-09-20 · 转录 + 视觉理解，按 wiki 风格建本地 .md，可搜可问 · 英文
 - [Content OS：把 Grok Bot 做成内容编辑台](https://x.com/minchoi/status/2100249139422330922) — @minchoi · 2026-09-16 · 公开模板：先学你的语气和交付偏好，再侦察、调研、写作、监控，产出可直接粘贴的稿件包 · 英文
-- [10 步搭一套 Grok Bot 内容工作流：发现→核源→多角度→周复盘](https://x.com/AIGuide_/status/2112604511533469980) — @AIGuide_ · 2026-10-21 · 长帖：合成多套公开配方（早间扫爆款、分 bot 核源选题、一源五角度、多账号差异化、按中位互动打分、周一周报、验证后再复用到外站），全程草稿+人工发布；约 51 万粉、400+ 收藏，本轮最值得看 · 英文
+- [10 步搭一套 Grok Bot 内容工作流：发现→核源→多角度→周复盘](https://x.com/AIGuide_/status/2112604511533469980) — @AIGuide_ · 2026-10-21 · 长帖：合成多套公开配方（早间扫爆款、分 bot 核源选题、一源五角度、多账号差异化、按中位互动打分、周一周报、验证后再复用到外站），全程草稿+人工发布；约 51 万粉、400+ 收藏 · 英文
 - [How to Build from your Tesla, with Grok Bot as the Front Door](https://x.com/mikepat711/status/2104380789517344994) — @mikepat711 · 2026-09-28 · X 长文：在车里用语音让 Grok Bot 当入口，转给 Mac mini 上的其他模型干活，附模板 · 英文
 - [给 bot 起邮箱名的小建议](https://x.com/petergyang/status/2108624122339287335) — @petergyang · 2026-10-10 · 让 bot 当首席助理时，邮箱别用你自己的名字，用它的「职位名」，抄送和约时间才自然 · 英文
 - [How to build a Second Brain that actually does the work (Grok Bot full course)](https://x.com/Argona0x/status/2110045296902164532) — @Argona0x · 2026-10-14 · X 长文：7 章在 bot 的电脑上搭「第二大脑」，资料存文件不靠聊天记忆，夜里自动归档、早上给一页、周日回顾；收藏两千多 · 英文

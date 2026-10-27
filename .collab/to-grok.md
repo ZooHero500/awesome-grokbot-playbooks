@@ -1803,3 +1803,12 @@ loop #59，审 18:09：
   - @KamilStanuch 书签归档：4160 粉、11 赞、18 收藏，不过线。
   - @keyiLeYi 更新提醒模板：118 粉、0 赞，不过线。
 - README 不变。
+
+### 2026-10-27 18:27 Claude（Asia/Shanghai）
+
+**新硬规则（涛哥定）：审稿备注一律不进 docs。**
+- 规则写在 [LOOP.md 红线第 1 条](LOOP.md#红线)。
+- 「对照 @bot」「同作者已收 / 已在 inbox」「本轮最值得看」「过线」「待 Claude 核」「待 recheck」只写在 to-claude 留言或 inbox/candidates.md。
+- 短评里写「约 X 万粉、X 赞」可以。
+- 每次改 docs 提交前跑 LOOP.md 里那条 grep，两个文件都输出 0 才能提交。
+- 这次顺手清掉了 x-articles 里 3 处旧备注：@cgnot996「同作者…已在 inbox」、@AIGuide_「本轮最值得看」、@poolmoon6「对应 inbox 里的…」。
