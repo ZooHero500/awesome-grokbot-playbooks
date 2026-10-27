@@ -36,6 +36,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [rystedtcreative/run-cards](https://github.com/rystedtcreative/run-cards) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | bot 把长编码活交给 Grok Build / Claude Code 时，开跑和收尾各贴一张状态卡 |
 | [Tkkdy/grok-local-bridge](https://github.com/Tkkdy/grok-local-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 经 OAuth 保护的 HTTPS 入口调用你 Windows 本机批准过的 MCP，工具白名单、按工具限流；作者自标实验性 |
 | [MagicLizi/grok-bot-hub](https://github.com/MagicLizi/grok-bot-hub) | 11-02 | 0★ · 无 License · 建 10-26 · 最近提交 10-26 | macOS 多开 Grok Bot：每个实例用独立 user-data-dir 登不同账号，崩溃重启、卡死检查、掉线通知，定时检查云电脑并自动唤醒；到期仍无 License 就移出 |
+| [AdventureNLearn/build-bridge](https://github.com/AdventureNLearn/build-bridge) | 11-02 | 0★ · 无 License · 建 10-26 · 最近提交 10-27 | 本机签名任务桥：Grok Bot 写作业并用本机密钥签名，Windows 监视器验签后才跑 Grok Build，webhook 只回唤醒不带正文；到期仍无 License 就移出 |
 | [davidgeorgehope/grokbot-mixer](https://github.com/davidgeorgehope/grokbot-mixer) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 当 DJ：给曲目清单做 60 分钟以上的对拍 DnB 混音，带确定性护栏和 eval 打分器；创作型 bot 范例，过线放「技能与玩法」 |
 | [RealDragonJT/grok-discord-bridge](https://github.com/RealDragonJT/grok-discord-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 自带 Discord bot，有人私信或 @ 时把事件发到 Grok Bot routine 的 webhook 唤醒 bot，带主人白名单；过线放「Routine 与摘要」或「技能与玩法」 |
 | [siddhit/grokbot-deck-builder](https://github.com/siddhit/grokbot-deck-builder) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 离线 HTML 幻灯片生成器，由 bot 访谈演讲者后改 deck.json；只有 1 次提交 |
@@ -46,6 +47,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [dkapo88/grokbot-t3-orchestration](https://github.com/dkapo88/grokbot-t3-orchestration) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 让 Grok Bot 当 PM 在 T3 Code 里排开发活：skills + 启动/调度/归档脚本 + routine 监控，config 管模型路由、合并策略和成本上限；过线放「多 Bot 团队」 |
 | [initcatcher/grokbot-mcp](https://github.com/initcatcher/grokbot-mcp) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 本机 MCP，经 Cursor BDK 让 Claude Code 等按名字给 Grok Bot 发消息收回复；过线时和 claude-grok-bridge、Grok Bridge 比是否重复 |
 | [BBridgeers/grok-code-audit-bots](https://github.com/BBridgeers/grok-code-audit-bots) | 11-03 | 0★ · 无 License · 建 10-27 · 最近提交 10-27 | 六个审计 bot（审计、UI、API、安全、回归、汇总），只出 PASS / BLOCK / HOLD，不改代码不合并；到期仍无 License 就移出 |
+| [Markcial/bots](https://github.com/Markcial/bots) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 可版本化的 Grok Bot 模板源仓：catalog.json + _template + 两套配方（Workforce Router / Learning Machine）；到期看有没有新提交 |
+| [sleeplesshan/grokbot-city](https://github.com/sleeplesshan/grokbot-city) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 本机多 Bot 作战看板 + 持久 wiki，Bot 经 CLI 更新状态和知识；到期看有没有新提交 |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；商业托管服务，按「商业类每分类最多 1 条」处理 |
 | [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；和 herdrbot 合成一行 |

@@ -1790,3 +1790,16 @@ loop #58，审 16:08：
   - xiongyecpu/thinking-models-skill：通用的思维模型内容包，Cursor 等都能用，不是 Grok Bot 专用。
   - @cnlsy517 webhook 教程：93 粉、0 赞，不过线。
 - README 不变。
+
+### 2026-10-27 18:16 Claude（Asia/Shanghai）
+
+loop #59，审 18:09：
+- **进 recheck 3 个**：
+  - AdventureNLearn/build-bridge：11-02 到期。建仓 10-26，无 License，到期还没有就移出。
+  - Markcial/bots、sleeplesshan/grokbot-city：11-03 到期，都是今天新建，MIT。
+- **拒 4 个**：
+  - evilmordy/cn-mail-mcp：通用 IMAP MCP，主推 Grok Build，Cursor 也能接；README 自己写 Grok Bot 云电脑常连不上 :993/:465，不是 Grok Bot 专用玩法。
+  - jeevan-vj/bot-town：只有 index.html，无 README、无 License。
+  - @KamilStanuch 书签归档：4160 粉、11 赞、18 收藏，不过线。
+  - @keyiLeYi 更新提醒模板：118 粉、0 赞，不过线。
+- README 不变。
