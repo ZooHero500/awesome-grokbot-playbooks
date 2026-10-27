@@ -173,6 +173,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [三个 bot 共建会自己长的 Karpathy 式第二大脑 wiki](https://x.com/Mr_Buzzoni/status/2114655525388394685) — @Mr_Buzzoni · 2026-10-26 · reader 只归档 raw/、librarian 改 wiki 页、checker 每晚查矛盾和孤页；新旧冲突只标记不覆盖、30 天无新源标未确认，附一段可直接粘贴的启动提示词；约 2.7 万粉 · 英文
 - [Launch Anything from X with Grok Bot: 7 Bots, 1 Clock, 60 Runs a Week (Full Guide)](https://x.com/gippp69/status/2115018135396905000) — @gippp69 · 2026-10-27 · X 长文：7 个窄职 bot 共写一个 LEDGER.md 交接、首席 bot 把账本做成手机看板 Page，一个时钟加 6 个事件触发把周运行压到约 60 次，附可粘贴的共享规则与各 bot 指令（约 1.2 万粉，37 赞/25 收藏）· 英文
 - [9 个 bot 分四个部门：首席 bot 统管，夜班出货、早 7 点汇总](https://x.com/milesdeutscher/status/2115095293209539012) — @milesdeutscher · 2026-10-27 · X 长文：总务/市场/产品/销售四部门 9 岗，夜班 routine 交付、首席 bot 早报与晚间收尾，附每岗可粘贴提示词和一段「先访谈再设计团队、批准后再逐个建 bot、只起草不代发」的建队启动提示词，另列优缺点；约 68 万粉、约 60 收藏 · 英文
+- [11 个 bot 零点击跑九个平台：一岗一条线、互相传话不找人](https://x.com/drew_ponder/status/2115120349151219892) — @drew_ponder · 2026-10-27 · X 长文：内容、视频、音乐发行、会员活动等 11 岗各管一条线，先给每个 bot 贴一段「只守本岗、先读共享计划、记录每步、不花钱」的通用规则，再附每岗可粘贴设定和发帖前检查清单；约 1.8 万粉 · 英文
 
 ### Routine 雷达与额度
 
