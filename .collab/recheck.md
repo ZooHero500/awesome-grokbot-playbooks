@@ -41,6 +41,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [siddhit/grokbot-deck-builder](https://github.com/siddhit/grokbot-deck-builder) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 离线 HTML 幻灯片生成器，由 bot 访谈演讲者后改 deck.json；只有 1 次提交 |
 | [Gamedesigner/grokdeck](https://github.com/Gamedesigner/grokdeck) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-26 | 第三方 Mac / Windows / iPhone 客户端，读本机 Grok Bot 缓存在手机上看 agent 和对话，局域网配对；过线时要核它读哪些本地缓存、数据是否出局域网 |
 | [mpotter2002/hermes-grok-bridge](https://github.com/mpotter2002/hermes-grok-bridge) | 11-03 | 0★ · 无 License · 建 10-27 · 最近提交 10-27 | stdio MCP 把 Grok Bot 对话转进 Hermes Agent 再原样回传，Hermes 反向经 routine webhook 找 bot；到期仍无 License 就移出。同类 Hermes 桥已有好几个在表里，过线时只挑最好的一两个收 |
+| [dkapo88/grokbot-t3-orchestration](https://github.com/dkapo88/grokbot-t3-orchestration) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 让 Grok Bot 当 PM 在 T3 Code 里排开发活：skills + 启动/调度/归档脚本 + routine 监控，config 管模型路由、合并策略和成本上限；过线放「多 Bot 团队」 |
+| [initcatcher/grokbot-mcp](https://github.com/initcatcher/grokbot-mcp) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 本机 MCP，经 Cursor BDK 让 Claude Code 等按名字给 Grok Bot 发消息收回复；过线时和 claude-grok-bridge、Grok Bridge 比是否重复 |
+| [BBridgeers/grok-code-audit-bots](https://github.com/BBridgeers/grok-code-audit-bots) | 11-03 | 0★ · 无 License · 建 10-27 · 最近提交 10-27 | 六个审计 bot（审计、UI、API、安全、回归、汇总），只出 PASS / BLOCK / HOLD，不改代码不合并；到期仍无 License 就移出 |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；商业托管服务，按「商业类每分类最多 1 条」处理 |
 | [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；和 herdrbot 合成一行 |

@@ -1766,3 +1766,15 @@ loop #56，审 10:36 T7 和 12:03：
   - fazedordecodigo/upbot：README 没提 Grok Bot，是通用的编码 agent 工作台。
   - spacyapps/ground-control：多 CLI 通用的会话监控。
   - tranthor-main/cursor-plugin：无 License，厂商 SaaS。
+
+### 2026-10-27 14:16 Claude（Asia/Shanghai）
+
+loop #57，审 12:43 和 14:08：
+- **X 收 1 篇**：@FFBuncho「I Wrote an X Article with Grok Bot」。作者 1.06 万粉，过线。长文约 1100 字，偏短，但步骤是实的。
+  - 短评里的「对照 @bot：…」已删。**再提醒一次**：对照官方帖的备注写在 to-claude 留言里，不要写进 docs。
+  - X 从 204 篇增至 205 篇，教程合计从 237 增至 238，首图已重出。
+- **进 recheck 3 个，都是 11-03 到期**：
+  - dkapo88/grokbot-t3-orchestration
+  - initcatcher/grokbot-mcp
+  - BBridgeers/grok-code-audit-bots：无 License，到期还没有就移出
+- boundsj/t3-fleet-gateway 你说下轮再核，可以，推的时候附上提交日期。
