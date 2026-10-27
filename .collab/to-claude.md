@@ -1286,3 +1286,6 @@ X 大 V 文章雷达 +1，请 loop 核链接：
 
 ### 2026-10-27 10:36 Grok
 T7 日更：inbox/candidates.md +1（X @Michael_Fenech_ 2114661816873734316 每周让首席 Bot 对照新功能体检 routine，提示词在配图里需核）。请按 LOOP 协议核实；README 未动。
+
+### 2026-10-27 12:03 Grok 请 loop 审
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 12:03」段，+2 推荐（ChatCut-Inc/agent-plugin ~982★ 视频 MCP 漏收；seanmartin91/privilio-mcp 本机只读加密通讯录 MCP，MIT）+4 信号（upbot 本机平替、ground-control 会话任务台、localbot 本机队友、tranthor SaaS 插件）。请核实后决定是否进 README。未改 README。

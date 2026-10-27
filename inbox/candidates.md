@@ -2752,3 +2752,27 @@ matthew-rutledge-dev/grokbuild-grokbots 及同作者 5 个 placeholder 仓（仅
 ### Skip（本轮）
 
 gavasques/my-dexter-bot（Grok Bot 替代品试验）；matthew-rutledge-dev/grokbot-switchboard（placeholder）；ExpeditedProjects/hutchdb、acosmi/OpenMyBot（通用 agent 工具，非 Grok Bot 玩法）；@OutworkVentures 用量排行模板（回复区刷屏推广，且与已收用量 CSV 条目重复）；@fabioricotta 用量 CSV（与 @tejas3732 已收重复）；@ducksays CMO（此前已拒：无配置）。
+
+## 2026-10-27 12:03 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:07→12:03（Asia/Shanghai）`gh api search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-27 + pushed≥本窗）+ X `search_posts_all`×5（github 链 / playbook·skill·routine / 中文）+ WebSearch。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| ChatCut-Inc/agent-plugin | https://github.com/ChatCut-Inc/agent-plugin | **给 Grok Bot 的官方视频剪辑 MCP 插件包**：`grok/` 目录含 `.cursor-plugin` + skills，经托管 MCP 导入素材、改时间线、字幕/动效、导出；OAuth 不落仓密钥；同仓还覆盖 Codex/Claude/Cursor/Kimi。~982★，此前漏收。依赖 ChatCut 账号与额度。本轮最值得看 | Plugins / Creative MCP | `mcp` `video` `plugin` `oauth` `marketplace` | ~982 / grok 包内有 LICENSE | **GitHub**（漏收；本窗核验） |
+| seanmartin91/privilio-mcp | https://github.com/seanmartin91/privilio-mcp | **本机只读 MCP，把端到端加密通讯录解给 Grok Bot**：`search_contacts` / `get_contact` 等四工具全标 read-only；口令只在本地派生、Vault 联系人排除、标签白名单与字段脱敏；带 SECURITY.md 与测试。需 Privilio 账号。本窗新建 | Skills / Privacy MCP | `mcp` `contacts` `e2ee` `read-only` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| fazedordecodigo/upbot | https://github.com/fazedordecodigo/upbot | 本机优先 macOS 多 bot 工作台（Tauri）：审批/例程/邮箱/MCP/共享工作区，对标 Grok Bot；MIT、有 Release。作者今日 X 自荐。属开源平替，先信号 | Self-hosted / Alternatives | **X** + **GitHub** |
+| spacyapps/ground-control | https://github.com/spacyapps/ground-control | macOS 任务控制台：一眼看 Claude Code / Grok CLI / Codex 等会话谁在等人，一点跳到对应终端；topic 含 grok-bot。AGPL，先信号 | Tools / Session monitor | **GitHub**（本窗推） |
+| patrick-mns/localbot | https://github.com/patrick-mns/localbot | 本机 Grok Bot 风格队友：Docker Linux 桌面或 Lume macOS VM + Cua Driver；MIT、有 dmg。平替向，先信号 | Self-hosted / Alternatives | **GitHub**（本窗推） |
+| tranthor-main/cursor-plugin | https://github.com/tranthor-main/cursor-plugin | Tranthor 官方 Cursor/Grok Bot 插件（hosted MCP + skills）；本窗新建，根仓无 License、依赖厂商账号，SaaS 先信号 | Plugins / SaaS | **GitHub**（10-27 本窗新建） |
+
+### Skip（本轮）
+
+homechameleon/holly-for-home-assistant（仅 LICENSE+一行 README 空壳）；1806629231-del/mozzy-image-skills（无 License、薄仓）；jellydn/awesome-bot（替代品调研笔记、无 License）；TosakaXie0215/codex-grok-pet（给 Codex 的桌宠，非 Grok Bot 玩法）；helloworldxdwastaken/GrokBot-deconstructed-0.77.0（逆向研究，合规跳过）；matthew-rutledge-dev 系列 placeholder（上轮已 skip）；bitlink0521/qtou-plugin（单一厂商插件，上轮已 skip）；AgentTransmit/TermiX/Gumroad 付费模板营销、额度文。已列 hermes-grok-bridge / grok-discord-bridge / mmbridge / Storm-Dock / GetJobber 等不重推。
