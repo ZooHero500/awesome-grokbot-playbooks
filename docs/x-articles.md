@@ -170,6 +170,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 Grok Bot 做成路由：四模式拆活 + 最多 300 个 Kimi Agent](https://x.com/0xRicker/status/2112903221987397874) — @0xRicker · 2026-10-21 · X 长文六步：Grok Bot 只分类 fan-out/chain/debate/supervisor，Kimi Swarm 跑并行与共享记忆/handoff；约 1.1 万粉、86 赞 / 147 收藏 · 英文
 - [手机权限上线后的 7 bot 一周配方：一 bot 一岗](https://x.com/fluixoo/status/2114264509904736642) — @fluixoo · 2026-10-25 · 晨报、会前 15 分钟备课、每月发票、会后跟进草稿、收件箱分拣、周一数字、周五续费各一岗，配同作者长文里可粘贴的提示词和 Vault 护栏 · 英文
 - [三个 bot 共建会自己长的 Karpathy 式第二大脑 wiki](https://x.com/Mr_Buzzoni/status/2114655525388394685) — @Mr_Buzzoni · 2026-10-26 · reader 只归档 raw/、librarian 改 wiki 页、checker 每晚查矛盾和孤页；新旧冲突只标记不覆盖、30 天无新源标未确认，附一段可直接粘贴的启动提示词；约 2.7 万粉 · 英文
+- [Launch Anything from X with Grok Bot: 7 Bots, 1 Clock, 60 Runs a Week (Full Guide)](https://x.com/gippp69/status/2115018135396905000) — @gippp69 · 2026-10-27 · X 长文：7 个窄职 bot 共写一个 LEDGER.md 交接、首席 bot 把账本做成手机看板 Page，一个时钟加 6 个事件触发把周运行压到约 60 次，附可粘贴的共享规则与各 bot 指令（约 1.2 万粉，37 赞/25 收藏）· 英文
 
 ### Routine 雷达与额度
 
@@ -262,6 +263,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 体检关注列表：一段提示词揪出僵尸号、出可点击取关清单](https://x.com/CrypSaf/status/2114660781174198660) — @CrypSaf · 2026-10-26 · 长帖：约 4 万粉作者让 bot 过一遍 7.5k 关注，按 180 天无动态且不回关筛出待取关、安静但回关的另列复核，生成带链接的页面逐个点；提示词在自回复里，取关仍由本人手点 · 英文
 - [How to Build a Content System With Grok Bot: One Bot per Job (FULL GUIDE)](https://x.com/zaimiri/status/2114727526345941125) — @zaimiri · 2026-10-26 · X 长文：一个 bot 一个岗，写声线文件、用真实数据体检自己的 X 账号、排每日 routine，草稿先过去 AI 腔再交人审，硬规矩是 bot 不发帖不私信，全部提示词都在文里 · 英文
 - [How to Make Money on X with Grok Bot (REAL GUIDE)](https://x.com/ryangrowthh/status/2114730076197798214) — @ryangrowthh · 2026-10-26 · X 长文：六条变现路径（内容漏斗转化、找线索、拉赞助、Grok Bot 代搭服务、从零做产品、求职），漏斗按 TOF/MOF/BOF 约 6:3:1 配比，主页体检、CTA 反推、转化追踪各附提示词；接作者 11 bot 内容引擎续篇 · 英文
+- [I Run My Content With Six AI Bots. I Only Talk to One of Them.](https://x.com/anytwocardzz/status/2115009901273497811) — @anytwocardzz · 2026-10-27 · X 长文：内容团队拆成热点、选题、写稿、书签转选题等单职 bot，首席 bot 每天 10:45 打包一条消息给三份草稿，附可复制提示词和第一周踩坑（约 1.5 万粉）· 英文
 
 ## 不收的例子
 

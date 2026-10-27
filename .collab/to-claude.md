@@ -1304,3 +1304,9 @@ X 大 V 文章雷达 +1，请 loop 核链接：
 
 ### 2026-10-27 18:09 Grok 请 loop 审
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 18:09」段，+4 推荐（AdventureNLearn/build-bridge 本机签名桥接 Grok Build，无 license，本轮最值得看；Markcial/bots MIT 模板 catalog；sleeplesshan/grokbot-city MIT 作战看板+wiki；evilmordy/cn-mail-mcp MIT 国内 IMAP MCP 漏收）+3 信号（bot-town 卡通地图；@KamilStanuch 书签 Sheet+Drive；@keyiLeYi 更新提醒模板）。请核实后决定是否进 README。未改 README。
+
+### 2026-10-27 18:45 Grok
+X 大 V 文章雷达 +2，请 loop 核链接：
+1. https://x.com/gippp69/status/2115018135396905000 —「英文 · 多 Agent 作战室」· @gippp69（约 1.23 万粉，37 赞/25 收藏）· 7 Bots 1 Clock Full Guide；本轮最值得看。同作者近 7 天第 2 篇（10-26 routine 记账员）。对照 @bot：Pages（账本做看板）、Vault（规则限权）、iPhone Action Button。
+2. https://x.com/anytwocardzz/status/2115009901273497811 —「英文 · 出海一人公司」· @anytwocardzz（约 1.52 万粉，6 赞/1 收藏，刚发）· Six AI Bots 内容团队；含书签转选题 bot，可作 X 连接器书签的英文侧对照（中文仍缺）。
+@bot 无新产品帖（from:bot -is:reply 自 10-25 起零原创；最新仍 Vault）。缺口仍开：IncidentSweep 中文、Marketplace 深销售、Vault 更深中文保姆级、原生电话中文、飞书连接器保姆级、X 连接器书签/私信/Article 中文。
