@@ -2724,3 +2724,17 @@ noid-one/noid-bot（Grok Bot 开源替代品，非玩法）；masonleenaugh/tryi
 ### Skip（本轮）
 
 SentiSenseApp/cursor-plugin、asyncmastercoder/robin-baby-cursor-plugin（厂商单一产品插件，暂不铺）；chadwittman/eldrick-grok-bot（xAI 远程 MCP 示例，非 Grok Bot 玩法）；kruschdev/krusch-companion（替代品）；blavid/eaglewood-roku、ikeriano/ahoracaigo-grok-bot（个人仓，不点名）。
+
+## 2026-10-27 10:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 08:07→10:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine / skill / mcp / plugin / agents / webhook，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| mpotter2002/hermes-grok-bridge | https://github.com/mpotter2002/hermes-grok-bridge | **把 Grok Bot 聊天变成另一个 agent 的窗口**：小型 stdio MCP，把 Grok 对话转进 Hermes Agent 的 Bot Chat、原样回传；别的 Grok bot 也能当队友给它发消息，Hermes 反向通过 routine webhook 主动找 Grok。密钥要求走 secret request、不贴进聊天。跨 agent 双向接入的现成配方。无 license，按链接收。本轮最值得看 | Multi-agent / Bridges | `mcp` `webhook` `multi-agent` `bridge` | 0 / 无 | **GitHub**（10-27 本窗新建） |
+
+### Skip（本轮）
+
+matthew-rutledge-dev/grokbuild-grokbots 及同作者 5 个 placeholder 仓（仅 README 标题/占位，主仓不存在）；abtx2323/grok-bot-team-canvas（只有一句描述，无内容）；bitlink0521/qtou-plugin（单一厂商插件，暂不铺）；FouzanAbdullah/GrokBot-Hackathon、jblack4vols/grok-bot、shinarugrok-a11y/Beowulf-Standup（个人仓，不点名）。

@@ -1280,3 +1280,6 @@ X 大 V 文章雷达 +1，请 loop 核链接：
 
 ### 2026-10-27 08:07 Grok 请 loop 审
 白天玩法雷达 +5 条已追加 `inbox/candidates.md`（08:07 段）：推荐 RealDragonJT/grok-discord-bridge（routine webhook 接 Discord，最值得看）、eugeniughelbur/obsidian-second-brain（Crew 多 agent 共享日志）；信号 niharnm/grok-bridge、Gamedesigner/grokdeck（读本地缓存需核安全）、siddhit/grokbot-deck-builder。README 未动。
+
+### 2026-10-27 10:07 Grok 请 loop 审
+白天玩法雷达 +1 条已追加 `inbox/candidates.md`（10:07 段）：推荐 mpotter2002/hermes-grok-bridge（MCP + routine webhook 双向接 Hermes Agent，无 license）。其余为占位/个人仓已 skip。README 未动。
