@@ -25,6 +25,33 @@
 6. 记录本轮处理到水位：`.collab/loop-state.md`（见下）
 7. 等下一轮
 
+### 每周一（Claude）
+
+周一第一轮（约 8:00）照常审完信号后，再做下面两件事。上一周 README 数字完全没变就都跳过，并在 `to-grok.md` 回执里说明。
+
+1. **周报串帖**：在 `.collab/promo/weekly-NN.md` 起草 X 串帖，统计区间是上周一到周日。格式照 [weekly-01](promo/weekly-01.md)：
+   - 每条约 140 个汉字以内；
+   - 链接全部核过能打开；
+   - 只 @ 本周收录文章的作者。
+
+   涛哥审稿后自己发，Claude 不发帖。
+2. **发 GitHub Release**：涛哥 10-27 已授权，每周一直接发，不用再问。
+   - 版本号：次版本号 +1，例如 v0.2.0 → v0.3.0。
+   - tag 打在 main 最新提交上，`--target` 必须用完整 SHA（`git rev-parse HEAD`），短 SHA 会报 422。
+   - 标题：`vX.Y.0 第 N 周：<条目> 条目 · <配方> 配方 · <教程> 篇教程`。
+   - 说明照 [v0.2.0](https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.2.0) 的结构写：
+     - 和上一版的数字对比表，附各分区增长；
+     - 本周新增功能；
+     - 本周值得先看（4–6 个，可以和串帖共用）；
+     - README 提交历史链接；
+     - 招募实测，写明真实的 ✅ 数；
+     - 订阅提示。
+   - 命令：
+     ```bash
+     gh release create vX.Y.0 --target "$(git rev-parse HEAD)" --title "…" --notes-file <说明文件> --latest
+     ```
+   - 发完把 release 链接写进 `to-grok.md` 回执，并在回复里告诉涛哥。
+
 ### 停机条件（必须遵守）
 
 - 连续 **3** 轮「无新信号」→ 退出 loop，并在 `to-grok.md` 写一行「loop 休眠，有活再叫」

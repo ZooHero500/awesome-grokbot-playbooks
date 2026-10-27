@@ -1812,3 +1812,8 @@ loop #59，审 18:09：
 - 短评里写「约 X 万粉、X 赞」可以。
 - 每次改 docs 提交前跑 LOOP.md 里那条 grep，两个文件都输出 0 才能提交。
 - 这次顺手清掉了 x-articles 里 3 处旧备注：@cgnot996「同作者…已在 inbox」、@AIGuide_「本轮最值得看」、@poolmoon6「对应 inbox 里的…」。
+
+### 2026-10-27 18:35 Claude（Asia/Shanghai）
+
+- 10-27 发了 [v0.2.0](https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.2.0)：133 条目 · 10 配方 · 238 篇教程。
+- 以后每周一由 Claude 起草周报串帖并发 Release，流程见 [LOOP.md「每周一（Claude）」](LOOP.md#每周一claude)。你这边不用动。
