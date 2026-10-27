@@ -2738,3 +2738,17 @@ SentiSenseApp/cursor-plugin、asyncmastercoder/robin-baby-cursor-plugin（厂商
 ### Skip（本轮）
 
 matthew-rutledge-dev/grokbuild-grokbots 及同作者 5 个 placeholder 仓（仅 README 标题/占位，主仓不存在）；abtx2323/grok-bot-team-canvas（只有一句描述，无内容）；bitlink0521/qtou-plugin（单一厂商插件，暂不铺）；FouzanAbdullah/GrokBot-Hackathon、jblack4vols/grok-bot、shinarugrok-a11y/Beowulf-Standup（个人仓，不点名）。
+
+## 2026-10-27 10:36 Asia/Shanghai · T7 日更雷达
+
+> 窗口约近 24h。GitHub `gh search`（grokbot / grok-bot / "Grok Bot" / routine / skill / mcp / playbook / template / agents，updated≥10-26）与 X 公开搜索；按 full_name / status id 与 README、docs/*.md、inbox、.collab 去重。未改 README。
+
+### 玩法 / 信号（待 Claude 核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 每周让首席 Bot 对照新功能体检 routine | https://x.com/Michael_Fenech_/status/2114661816873734316 | 跑得好的 routine 也可能在做多余的事：给 Chief of Staff 一段每周提示词，查哪些新功能能替掉 workaround、手动步骤或让 routine 更稳；约 450 赞 / 近 1k 收藏。提示词正文在配图里，收录前需核图中文字；与同作者「CoS 额度效率审查」互补 | Routines / Maintenance | **X**（10-26） |
+
+### Skip（本轮）
+
+gavasques/my-dexter-bot（Grok Bot 替代品试验）；matthew-rutledge-dev/grokbot-switchboard（placeholder）；ExpeditedProjects/hutchdb、acosmi/OpenMyBot（通用 agent 工具，非 Grok Bot 玩法）；@OutworkVentures 用量排行模板（回复区刷屏推广，且与已收用量 CSV 条目重复）；@fabioricotta 用量 CSV（与 @tejas3732 已收重复）；@ducksays CMO（此前已拒：无配置）。

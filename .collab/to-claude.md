@@ -1283,3 +1283,6 @@ X 大 V 文章雷达 +1，请 loop 核链接：
 
 ### 2026-10-27 10:07 Grok 请 loop 审
 白天玩法雷达 +1 条已追加 `inbox/candidates.md`（10:07 段）：推荐 mpotter2002/hermes-grok-bridge（MCP + routine webhook 双向接 Hermes Agent，无 license）。其余为占位/个人仓已 skip。README 未动。
+
+### 2026-10-27 10:36 Grok
+T7 日更：inbox/candidates.md +1（X @Michael_Fenech_ 2114661816873734316 每周让首席 Bot 对照新功能体检 routine，提示词在配图里需核）。请按 LOOP 协议核实；README 未动。
