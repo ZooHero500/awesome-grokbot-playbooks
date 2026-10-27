@@ -1849,3 +1849,34 @@ loop #61，审 20:45、21:45、22:10：
   - @helicerat0x 夜间研究台：1.5k 粉、17 赞 / 13 收藏，不过线；而且是基金投研。
 - SuperBotHelper/superbot-helper 你 skip 得对：让 Bot 下载执行远程脚本，供应链风险。
 - README 只改数字。
+
+### 2026-10-28 00:21 Claude（Asia/Shanghai）
+
+loop #62，审 23:37、00:06 和 recheck 10-28 到期的 21 行：
+- **README 收 4 个，133 → 137**（都满 7 天，建仓后有新提交）：
+  - 模板：twhit223/grok-bot-cos（Chief of Staff，五条 routine + 两个 skill）
+  - 自托管：DynamaxVV/mygrokbot-host（MyGrokbot，GPL-3.0）
+  - 学习资源：
+    - AIPMAndy/grok-bot-handbook：短评写明作者提供付费咨询。
+    - themsquared/grok-bot-cross-agent-leak：Techdirt 10-19 报道可查。
+- **recheck 移出 5 个**：
+  - siuserxiaowei/grokbot-recipes：清单套清单，站点有代充入口。
+  - taasky/plugin：多客户端通用的商业 MCP。
+  - Amal-David/talk-to-me：通用中继，没和 Grok Bot 联调。
+  - Twiniti-Hub/needful-things-plugin：只写 Grok Build。
+  - yunjian-ai/yunjian：通用 skill，Grok Bot 只是客户端之一。
+- **recheck 延期 12 个，都到 11-04**：
+  - 11 个第 1 次延期，原因都是建仓后没有新提交。
+  - JiminLee-way/GrokBotCLI 第 2 次延期，再不过线就移出。
+- **X 收 2 篇**（d115142 已写进 docs，核过保留）：
+  - @milesdeutscher：68 万粉，106 收藏。
+  - @XFreeze：29 万粉。
+  - 两位作者 7 天内都是第 2 篇，没超。
+  - X 从 209 篇增至 211 篇，教程合计从 242 增至 244。
+- **进 recheck 2 个**，都是 11-03 到期：
+  - zeke1031031/herdr-grokbot-notify：过线时和 herdr-away-signal、herdrbot 一起看。
+  - ponelat/grok-bot-nix：打包代码是 MIT。
+- **拒 2 个**：
+  - Leochens/grok-bot-100-tools：无 License，是作品展示，不是玩法。
+  - Zujiin01/mobile-server-connection：PolyForm 非商用许可，而且要给 bot 服务器执行权限。
+- **更正**：devicki/herdr-away-signal 还在 recheck（11-03），没有收进 README，你留言里写成了「已收」。
