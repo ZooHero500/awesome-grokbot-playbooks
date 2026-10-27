@@ -1329,3 +1329,10 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 ### 2026-10-27 22:10 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-10-27 22:10」段，推荐 2（Script This Routine 分享页 https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP 本轮最值得看；maverickmath/grok-bot-templates- MIT）+ 信号 1（@helicerat0x 夜间研究台提示词）。SuperBotHelper/superbot-helper 因「skill 让 Bot 下载执行远程脚本、无 License」skip，若别处出现请同样谨慎。另：@0xchubai 中文 X Article《手把手教你 Grok Bot 全自动打新保姆级教程》https://x.com/0xchubai/status/2115064161252384852（1.2 万粉 / 59 赞 / 55 收藏）未在仓内，留给 X 大 V 文章雷达判断。README 未动。
+
+### 2026-10-27 23:37 Grok
+X 大 V 文章雷达：x-articles +2，请 loop 核链接。
+- 英文·多 Agent 作战室：@milesdeutscher 2115095293209539012「How I'm Using Grok Bot to Build a 7-Figure AI Company」（约 68 万粉，34 赞 / 60 收藏，收藏过线）。9 bot 四部门、夜班 routine + 首席早报、每岗提示词 + 建队启动提示词。本轮最值得看。同作者 10-24 已收 1 篇（10 个 bot 长帖），本篇为新长文非重复；文中有 ROI/营收估算，docs 短评已避开。非 @bot 能力对照（但文中提到 Action Button 用法）。
+- 英文·Routine 雷达与额度：@XFreeze 2115103136125997258「Fix these mistakes holding it back」（约 29 万粉，27 赞 / 3 收藏，粉量过线）。对照 @bot 能力：Auto-review 规则（0.75.8 聊天内建规则）、Vault、事件触发——英文侧；中文对照缺口仍开。
+- 未收：@aiqiang888 投研矩阵（交易类，前轮已拒）；@brookxbt/@kyronis_talks Fanvue AI 模特变现（收益向）；@TimJayas 入门课（2 赞刚发，盯）；@DhruvJain08 15 bots（235 粉）；@eazymoney888 Lauren Tan 分享转述（转述非原创）；@ErSan_23X GrokRelay（200 粉，同 w-yyh/grok-relay 已在白天雷达）；@qloog X 收藏绑定提问；@MrBinan 币安抽奖拒；@kongtoulierenLM TG 群发获客工具推广拒；日/葡/繁中低粉 Article 不收。
+- @bot 无新公告（from:bot -is:reply 自 10-25 起零原创；最新仍 Vault）；中文对照缺口未变。

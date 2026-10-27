@@ -172,6 +172,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [手机权限上线后的 7 bot 一周配方：一 bot 一岗](https://x.com/fluixoo/status/2114264509904736642) — @fluixoo · 2026-10-25 · 晨报、会前 15 分钟备课、每月发票、会后跟进草稿、收件箱分拣、周一数字、周五续费各一岗，配同作者长文里可粘贴的提示词和 Vault 护栏 · 英文
 - [三个 bot 共建会自己长的 Karpathy 式第二大脑 wiki](https://x.com/Mr_Buzzoni/status/2114655525388394685) — @Mr_Buzzoni · 2026-10-26 · reader 只归档 raw/、librarian 改 wiki 页、checker 每晚查矛盾和孤页；新旧冲突只标记不覆盖、30 天无新源标未确认，附一段可直接粘贴的启动提示词；约 2.7 万粉 · 英文
 - [Launch Anything from X with Grok Bot: 7 Bots, 1 Clock, 60 Runs a Week (Full Guide)](https://x.com/gippp69/status/2115018135396905000) — @gippp69 · 2026-10-27 · X 长文：7 个窄职 bot 共写一个 LEDGER.md 交接、首席 bot 把账本做成手机看板 Page，一个时钟加 6 个事件触发把周运行压到约 60 次，附可粘贴的共享规则与各 bot 指令（约 1.2 万粉，37 赞/25 收藏）· 英文
+- [9 个 bot 分四个部门：首席 bot 统管，夜班出货、早 7 点汇总](https://x.com/milesdeutscher/status/2115095293209539012) — @milesdeutscher · 2026-10-27 · X 长文：总务/市场/产品/销售四部门 9 岗，夜班 routine 交付、首席 bot 早报与晚间收尾，附每岗可粘贴提示词和一段「先访谈再设计团队、批准后再逐个建 bot、只起草不代发」的建队启动提示词，另列优缺点；约 68 万粉、约 60 收藏 · 英文
 
 ### Routine 雷达与额度
 
@@ -201,6 +202,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How Grok Bot Routines Changed the Way I Work](https://x.com/eng_khairallah1/status/2114647320834810139) — @eng_khairallah1 · 2026-10-26 · X 长文：六条可直接粘贴的 routine 提示词（构建班次、发布雷达、资料包 skill、客户台、收件箱分拣、周五复盘），附「无货静默、只起草不代发、缺源标未核实、先手动跑一次再上定时」等设计规则和额度、安全注意 · 英文
 - [Routine 记账员：一段提示词给每条 routine 算唤醒次数、加变化检查、改触发器](https://x.com/gippp69/status/2114689520964677797) — @gippp69 · 2026-10-26 · 串帖：接着作者 10-11 的 routine 成本长文，回复区给出可粘贴的审计提示词，先问三问再列清单、估唤醒次数、提「先比变化再跑」和改事件触发，发送/付款类保持草稿，最后出前后对比表并存成 Skill；金额为作者示例价估算 · 英文
 - [Weekly prompt: have your Chief of Staff check which new Grok Bot features could simplify your routines](https://x.com/Michael_Fenech_/status/2114661816873734316) — @Michael_Fenech_ · 2026-10-26 · 长帖附整段可粘贴提示词：每周让首席 bot 查官方文档、帮助页和更新日志里上周的新功能，逐条对照现有 routine，看能否替掉绕路做法和手动步骤、省额度或更稳，只出建议、改动等你批准；约 6 万粉、500 赞 / 1k 收藏 · 英文
+- [Grok Bot 常见用法误区与改法：事件触发、具体派活、Auto-review 规则、先测再定时](https://x.com/XFreeze/status/2115103136125997258) — @XFreeze · 2026-10-27 · X 长文：能用事件触发就别定时轮询，派活写清结果/来源/约束/交付和何时停下等批，重复批准的安全动作在聊天里建 Auto-review 规则（无人值守的审批卡约 10 分钟过期），登录和卡片放 Vault，先手动跑通存成 skill 再上定时，一岗一 bot、主动告诉它要记住什么；约 29 万粉 · 英文
 
 ### Skills 与连接
 
