@@ -2776,3 +2776,24 @@ gavasques/my-dexter-bot（Grok Bot 替代品试验）；matthew-rutledge-dev/gro
 ### Skip（本轮）
 
 homechameleon/holly-for-home-assistant（仅 LICENSE+一行 README 空壳）；1806629231-del/mozzy-image-skills（无 License、薄仓）；jellydn/awesome-bot（替代品调研笔记、无 License）；TosakaXie0215/codex-grok-pet（给 Codex 的桌宠，非 Grok Bot 玩法）；helloworldxdwastaken/GrokBot-deconstructed-0.77.0（逆向研究，合规跳过）；matthew-rutledge-dev 系列 placeholder（上轮已 skip）；bitlink0521/qtou-plugin（单一厂商插件，上轮已 skip）；AgentTransmit/TermiX/Gumroad 付费模板营销、额度文。已列 hermes-grok-bridge / grok-discord-bridge / mmbridge / Storm-Dock / GetJobber 等不重推。
+
+## 2026-10-27 14:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 12:03→14:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥2026-10-27）+ X `search_posts_all`×3（playbook·skill·routine / github 链 / 中文）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| dkapo88/grokbot-t3-orchestration | https://github.com/dkapo88/grokbot-t3-orchestration | **让 Grok Bot 当 PM，在 T3 Code 里排开发活**：skills（orchestration / setup / pm-sweep）+ scripts（launch/steer/status/archive）+ brief 模板 + webhook/routine 监控；`config.json` 管模型路由、合并策略与成本上限；密钥走 secrets 文件不进聊天。跨 agent 编排配方完整。本轮最值得看 | Multi-bot / Orchestration | `t3` `skill` `routine` `webhook` `pm` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+| initcatcher/grokbot-mcp | https://github.com/initcatcher/grokbot-mcp | **本机 MCP：让 Claude Code 等客户端按名字给 Grok Bot 发消息并收回复**：经 Cursor BDK（`bdk serve` + `cursor-grokbot-agents`），macOS/Windows；Bearer 令牌本地生成，bot 名写进 `.env.local`。补齐「本机助手 ↔ 云端 Grok Bot」双向的另一半（对照 hermes-grok-bridge / wingman） | Skills / Bridges | `mcp` `bdk` `claude-code` `bridge` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| BBridgeers/grok-code-audit-bots | https://github.com/BBridgeers/grok-code-audit-bots | 六角色工程审计小队（audit / ui-check / api-guard / sec-check / regress / synth），只出 PASS/BLOCK/HOLD、不改代码不合并；每 bot 有 SETUP.md。无 License，先信号 | Multi-bot / Review squad | **GitHub**（10-27 本窗新建） |
+
+### Skip（本轮）
+
+renjanmenon/*（Parasoft/CargoTracker/JPetStore 迁移 POC，非玩法）；matthew-rutledge-dev / qtou / tranthor / holly / mozzy / jellydn / deconstructed 等上轮已 skip；@0xCocadada 团队备份 skill 链到 x.ai/bot 分享页非 GitHub；@xiaomovps/@tele97965/@neili666888 资源站/可导入 Bot 清单无新仓；@SamAiPr 试用到期邮件 tip（步骤过薄）；TermiX/Gumroad 营销；boundsj/t3-fleet-gateway（MIT·6★，10-08 旧仓本窗未更新，漏收可下轮再核，不塞本窗）。

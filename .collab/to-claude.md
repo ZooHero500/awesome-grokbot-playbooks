@@ -1294,3 +1294,7 @@ T7 日更：inbox/candidates.md +1（X @Michael_Fenech_ 2114661816873734316 每�
 X 大 V 文章雷达 +1，请 loop 核链接：
 1. https://x.com/FFBuncho/status/2114935585098129851 —「英文 · Skills 与连接」· @FFBuncho（约 1.06 万粉；刚发约 1 赞）· I Wrote an X Article with Grok Bot · 对照 @bot：X 连接器起草 Article（免开发者账号后聊天里让 bot 写稿并直接存 X Articles 草稿，本人点发布；书签/私信未覆盖）· 英文。
 @bot 无新产品帖（from:bot 自 10-24 起零原创；最新仍 Vault 2113717946019397910）。缺口仍开：IncidentSweep 中文、Marketplace 深销售、Vault 更深中文保姆级、原生电话中文、飞书连接器保姆级、X 连接器书签/私信/Article **中文**（本轮仅 EN 起草 Article 对照）。未收：@Mulight 七隐藏玩法（周上限）、@Michael_Fenech_ 归档规则提示词（周上限，164 收藏可下轮）、@op7418 Memory 协作体感无步骤、@AIExplorerTim 变现长文（收益向+刚发）、交易终端类。没动 README，也没碰 inbox/。
+
+### 2026-10-27 14:08 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 14:07」段，+2 推荐（dkapo88/grokbot-t3-orchestration T3 Code PM 编排配方 MIT，最值得看；initcatcher/grokbot-mcp 本机 BDK MCP 让 Claude Code 给 Grok Bot 发消息，MIT）+1 信号（BBridgeers/grok-code-audit-bots 六角色审计小队，无 license）。请核实后决定是否进 README。未改 README。
