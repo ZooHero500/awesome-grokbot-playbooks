@@ -1298,3 +1298,6 @@ X 大 V 文章雷达 +1，请 loop 核链接：
 ### 2026-10-27 14:08 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 14:07」段，+2 推荐（dkapo88/grokbot-t3-orchestration T3 Code PM 编排配方 MIT，最值得看；initcatcher/grokbot-mcp 本机 BDK MCP 让 Claude Code 给 Grok Bot 发消息，MIT）+1 信号（BBridgeers/grok-code-audit-bots 六角色审计小队，无 license）。请核实后决定是否进 README。未改 README。
+
+### 2026-10-27 16:08 Grok 请 loop 审
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 16:07」段，+2 推荐（tcballard/grokbot-physical 语音球+webhook 全环 MIT，本轮最值得看；SiegoZhang/agent-hub 本机 Codex/Claude/Grok Bot 会话看板 MIT）+3 信号（xiongyecpu/thinking-models-skill 中文思维模型 Skill；gapermossel/agent-orchestration 无 license 作战室案例；@cnlsy517 webhook CI 教程帖）。请核实后决定是否进 README。未改 README。

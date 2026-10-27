@@ -2797,3 +2797,26 @@ homechameleon/holly-for-home-assistant（仅 LICENSE+一行 README 空壳）；1
 ### Skip（本轮）
 
 renjanmenon/*（Parasoft/CargoTracker/JPetStore 迁移 POC，非玩法）；matthew-rutledge-dev / qtou / tranthor / holly / mozzy / jellydn / deconstructed 等上轮已 skip；@0xCocadada 团队备份 skill 链到 x.ai/bot 分享页非 GitHub；@xiaomovps/@tele97965/@neili666888 资源站/可导入 Bot 清单无新仓；@SamAiPr 试用到期邮件 tip（步骤过薄）；TermiX/Gumroad 营销；boundsj/t3-fleet-gateway（MIT·6★，10-08 旧仓本窗未更新，漏收可下轮再核，不塞本窗）。
+
+## 2026-10-27 16:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 14:07→16:07（Asia/Shanghai）`gh search`/`gh api`（grokbot / grok-bot / "Grok Bot" created≥2026-10-27 + pushed≥06:00Z）+ X `search_posts_all`×3（playbook·skill·routine / url:github.com / 中文）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议 README 节 | 标签 | Stars / License | 来源 |
+|------|------|------|----------------|------|-----------------|------|
+| tcballard/grokbot-physical | https://github.com/tcballard/grokbot-physical | **台面语音球接 Grok Bot**：本机唤醒词「Hey Grok Bot」→ xAI Realtime 语音 → 工具调用 POST 到 bot routine webhook；bot 做完再回调 `/speak` 播报；含 Rust 固件、3D 打印外壳、Pi Zero 2 W / ReSpeaker BOM、systemd、无硬件也可 `--dry-run --simulate-wake` 测全环。本轮最值得看 | Hardware / Voice routines | `hardware` `voice` `webhook` `routine` `raspberry-pi` `mit` | 2 / MIT | **GitHub**（10-25 建，本窗推）+ **X** @tcballard |
+| SiegoZhang/agent-hub | https://github.com/SiegoZhang/agent-hub | **本机多 app 会话看板**：一眼看 Codex / Claude Code / Grok Bot 谁在等人、谁刚做完；点卡片用 `grokbot://` 等 deep link 跳回对话；只读本机数据、零依赖 Python+HTML、中英双语。与已收 ground-control（终端会话）互补 | Tools / Session monitor | `dashboard` `macos` `multi-agent` `local` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| xiongyecpu/thinking-models-skill | https://github.com/xiongyecpu/thinking-models-skill | 中文思维模型 Skill 包（156 模型+61 场景索引）：`SKILL.md` + yaml 可丢 Cursor/Grok Bot skills 目录；细文外链 51as.com，先信号 | Skills / Chinese | **GitHub**（10-27 本窗新建，MIT） |
+| gapermossel/agent-orchestration | https://github.com/gapermossel/agent-orchestration | 多 bot 层级作战室案例（COS+专桌+skills/routines/审批门）+ PDF 案例与 snippets；**无 License**，先信号 | Multi-bot / War room | **GitHub**（本窗推） |
+| Webhook 唤醒 CI 失败分析 routine | https://x.com/cnlsy517/status/2114983432795140408 | 中文保姆级：一个 POST 唤醒 Grok Bot webhook/routine，读 job/summary 整理现象·原因；配图步骤，无独立仓，Learning/Routines 短链候选 | Routines / Triggers | **X**（10-27，低粉刚发） |
+
+### Skip（本轮）
+
+andraetbusiness-code/grokbot-desk（memecoin 看板）；Kshot3000/Midnight-GrokBot-Agent（Cardano/ZK 实验室，非 Grok Bot 玩法）；JiachengWu-5/astrbot_plugin_dafeiyu_qzone（AstrBot QQ 空间插件）；Kinfxhk/perpdrill（合约练习工具，用 Grok 写的，非玩法）；brandlll-lee/domos / milind-soni/OpenMausBot（已列）；BBridgeers/dkapo88/initcatcher/privilio/ChatCut 等上轮已收；matthew-rutledge-dev placeholder；Spam-killer / 额度营销 / 平替刷屏帖。
