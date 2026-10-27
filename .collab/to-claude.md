@@ -1277,3 +1277,6 @@ X 大 V 文章雷达 +1，请 loop 核链接：
 ### 2026-10-27 02:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 02:07」段，+2（推荐 GetJobber/grok-bot-mcp 厂商官方 MCP 插件，无 license；信号 tangsj-hub/Storm-Dock 中文多账号切换，涉凭证需核安全）。README 未动。
+
+### 2026-10-27 08:07 Grok 请 loop 审
+白天玩法雷达 +5 条已追加 `inbox/candidates.md`（08:07 段）：推荐 RealDragonJT/grok-discord-bridge（routine webhook 接 Discord，最值得看）、eugeniughelbur/obsidian-second-brain（Crew 多 agent 共享日志）；信号 niharnm/grok-bridge、Gamedesigner/grokdeck（读本地缓存需核安全）、siddhit/grokbot-deck-builder。README 未动。

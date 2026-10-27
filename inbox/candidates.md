@@ -2701,3 +2701,26 @@ crumble-project/bot（通用自托管 agent 服务器，非 Grok Bot 专向）�
 ### Skip（本轮）
 
 noid-one/noid-bot（Grok Bot 开源替代品，非玩法）；masonleenaugh/trying-something-new（个人试验仓，不点名）。其余命中均已列，不重推。
+
+## 2026-10-27 08:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 02:07→08:07（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot routine / grok bot skill / grok bot mcp / grokbot plugin / grok bot agents，updated≥本窗）。本轮仅 GitHub，X 未调用。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| RealDragonJT/grok-discord-bridge | https://github.com/RealDragonJT/grok-discord-bridge | **用 routine webhook 把 Discord 接进 Grok Bot**：自带 Discord bot，有人 DM / @ 时把事件 POST 到 Grok Bot routine 的 webhook 唤醒 agent，带 owner 白名单控制、无中间托管服务；附 `AGENT-SETUP.md` 让 agent 自己部署。补齐「没有原生 Discord 监听」的现成配方。本轮最值得看 | Routines / Triggers | `routine` `webhook` `discord` `bridge` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+| eugeniughelbur/obsidian-second-brain | https://github.com/eugeniughelbur/obsidian-second-brain | 4.9k★ 的 Obsidian 第二大脑仓新增 **Crew**：Claude Code、Codex、Cursor、Grok Bot 共写一本纯文本工作日志，新会话能直接看到别的 agent 做了什么；不依赖 Obsidian 也能用。与本仓「git + .collab 跨 agent 交接」思路同类，可作多 agent 协作参照 | Multi-agent / Memory | `multi-agent` `memory` `obsidian` `handoff` `mit` | 4955 / MIT | **GitHub**（本窗更新） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| niharnm/grok-bridge | https://github.com/niharnm/grok-bridge | Grok Bot 与 Codex / Claude Code / Cursor / Antigravity 之间的任务交接 CLI + skills 包；作者自标 experimental alpha，3★，先信号 | Multi-agent / Handoff | **GitHub**（MIT，本窗推） |
+| Gamedesigner/grokdeck | https://github.com/Gamedesigner/grokdeck | 第三方 Mac/Windows/iPhone 客户端，读本机 Grok Bot 缓存在手机上看 agent 与对话；局域网配对、不输密码，但读本地会话缓存，收录前需核安全 | Tools / Desktop | **GitHub**（MIT，本窗推） |
+| siddhit/grokbot-deck-builder | https://github.com/siddhit/grokbot-deck-builder | 离线 HTML 幻灯片生成器，设计成由 Grok Bot 访谈演讲者后改 `deck.json`；小工具，先信号 | Playbooks / Content | **GitHub**（MIT，10-27 本窗新建） |
+
+### Skip（本轮）
+
+SentiSenseApp/cursor-plugin、asyncmastercoder/robin-baby-cursor-plugin（厂商单一产品插件，暂不铺）；chadwittman/eldrick-grok-bot（xAI 远程 MCP 示例，非 Grok Bot 玩法）；kruschdev/krusch-companion（替代品）；blavid/eaglewood-roku、ikeriano/ahoracaigo-grok-bot（个人仓，不点名）。
