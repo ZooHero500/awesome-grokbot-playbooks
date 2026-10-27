@@ -2820,3 +2820,28 @@ renjanmenon/*（Parasoft/CargoTracker/JPetStore 迁移 POC，非玩法）；matt
 ### Skip（本轮）
 
 andraetbusiness-code/grokbot-desk（memecoin 看板）；Kshot3000/Midnight-GrokBot-Agent（Cardano/ZK 实验室，非 Grok Bot 玩法）；JiachengWu-5/astrbot_plugin_dafeiyu_qzone（AstrBot QQ 空间插件）；Kinfxhk/perpdrill（合约练习工具，用 Grok 写的，非玩法）；brandlll-lee/domos / milind-soni/OpenMausBot（已列）；BBridgeers/dkapo88/initcatcher/privilio/ChatCut 等上轮已收；matthew-rutledge-dev placeholder；Spam-killer / 额度营销 / 平替刷屏帖。
+
+## 2026-10-27 18:09 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 16:07→18:09（Asia/Shanghai）`gh search`/`gh api`（grokbot / grok-bot / "Grok Bot" created≥2026-10-27 + pushed≥08:00Z）+ X `search_posts_all`×3（playbook·skill·routine / url:github.com / 中文）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| AdventureNLearn/build-bridge | https://github.com/AdventureNLearn/build-bridge | **本机签名任务桥：Grok Bot → Grok Build**：Bot 写作业并用本机密钥签名，Windows 监视器验签后才跑 Build；回执落本地、仅 webhook 唤醒 Bot（载荷不含作业正文/路径/密钥）；ZIP 指纹校验、逐步 YES、可 rollback。本轮最值得看。**无 License**，按链接收；安全边界需核 DISCLOSURE | Bridges / Grok Build | `bridge` `grok-build` `webhook` `signed-jobs` `windows` | 0 / 无 | **GitHub**（10-26 建，本窗持续推） |
+| Markcial/bots | https://github.com/Markcial/bots | **可版本化的 Grok Bot 模板源仓**：`catalog.json` + `_template` + 两套 prepare 级配方（Workforce Router / Learning Machine），含 profile/skills/memories/routines/getting-started；约定 sketch→launch 与 `grokbot://` 分享链。协调 Bot 可读 catalog 推荐模板 | Templates / Multi-bot | `template` `catalog` `skill` `routine` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+| sleeplesshan/grokbot-city | https://github.com/sleeplesshan/grokbot-city | **本机优先的多 Bot 作战看板**：任务流转 + 持久 LLM wiki + CLI/协议文档（GROKBOT_*）；Bot 经 CLI 更新档案/状态/知识，看板不直连模型；韩英双语、SSE、loopback-only。补齐「任务台 + 知识库」一体配方 | Multi-bot / Ops dashboard | `dashboard` `wiki` `cli` `multi-bot` `mit` | 0 / MIT | **GitHub**（10-27 本窗新建） |
+| evilmordy/cn-mail-mcp | https://github.com/evilmordy/cn-mail-mcp | **国内邮箱 IMAP MCP（QQ/163/126/腾讯企业邮）**：默认只读；授权码走 `.env`/系统密钥框不进聊天；带 `skills/mail-imap`。官方连接器只有 Gmail/Outlook——补中国邮箱缺口。注明云电脑出站可能扫不到 IMAP，宜本机跑 | Skills / Mail MCP | `mcp` `imap` `qq` `163` `zh` `mit` | 0 / MIT | **GitHub**（9 月建，本窗推；漏收） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| jeevan-vj/bot-town | https://github.com/jeevan-vj/bot-town | 交互卡通地图展示自己的 Grok Bot 小队；仅 `index.html`、**无 License**、无 README，先信号 | Clients / Visualization | **GitHub**（10-27 本窗新建） |
+| X 书签→Sheet+Drive 夜更 archive | https://x.com/KamilStanuch/status/2115002175277445222 | 英文可复制提示词：书签进可搜索 Google Sheet（AI 标签）+ 图片备份 Drive，每晚 23:00 自更新；约 4.1k 粉 / 11 赞 / 16 收藏。与已收 xshelf（中文静态站）互补 | Routines / X bookmarks | **X**（10-27） |
+| Grok Bot 更新提醒 Bot 模板 | https://x.com/keyiLeYi/status/2115022960897790101 | 中文：监控 changelog/RSS，有更新再私聊；帖内可复制名称+描述给 Bot 建 routine。无独立仓，Learning/Routines 短链候选 | Routines / Changelog | **X**（10-27，低粉刚发） |
+
+### Skip（本轮）
+
+tcballard/omarchy-plugin-grokbot-desktop（Omarchy 通用 starter，非玩法）；Chilli5000/grokbot-usage（仅个人 usage.json）；itsaslamopenclawdata/grokclaudcodetest（hello.txt 空测）；defrag-au/grokbot-experiments（作者实验仓，不点名）；muhib90/open-duet（Anil-matcha/open-duet 平替镜像，Alternatives 已够）；sergebulaev/x-skills（Claude/Codex 向，非 Grok）；Spam-Call Scrubber / Bird 插件营销；matthew / qtou / tranthor / holly / mozzy / deconstructed 等上轮已 skip；已列 physical / agent-hub / t3-orchestration / grokbot-mcp / discord-bridge 等不重推。
