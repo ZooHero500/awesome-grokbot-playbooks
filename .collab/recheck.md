@@ -37,6 +37,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Tkkdy/grok-local-bridge](https://github.com/Tkkdy/grok-local-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 经 OAuth 保护的 HTTPS 入口调用你 Windows 本机批准过的 MCP，工具白名单、按工具限流；作者自标实验性 |
 | [MagicLizi/grok-bot-hub](https://github.com/MagicLizi/grok-bot-hub) | 11-02 | 0★ · 无 License · 建 10-26 · 最近提交 10-26 | macOS 多开 Grok Bot：每个实例用独立 user-data-dir 登不同账号，崩溃重启、卡死检查、掉线通知，定时检查云电脑并自动唤醒；到期仍无 License 就移出 |
 | [davidgeorgehope/grokbot-mixer](https://github.com/davidgeorgehope/grokbot-mixer) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 当 DJ：给曲目清单做 60 分钟以上的对拍 DnB 混音，带确定性护栏和 eval 打分器；创作型 bot 范例，过线放「技能与玩法」 |
+| [RealDragonJT/grok-discord-bridge](https://github.com/RealDragonJT/grok-discord-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 自带 Discord bot，有人私信或 @ 时把事件发到 Grok Bot routine 的 webhook 唤醒 bot，带主人白名单；过线放「Routine 与摘要」或「技能与玩法」 |
+| [siddhit/grokbot-deck-builder](https://github.com/siddhit/grokbot-deck-builder) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 离线 HTML 幻灯片生成器，由 bot 访谈演讲者后改 deck.json；只有 1 次提交 |
+| [Gamedesigner/grokdeck](https://github.com/Gamedesigner/grokdeck) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-26 | 第三方 Mac / Windows / iPhone 客户端，读本机 Grok Bot 缓存在手机上看 agent 和对话，局域网配对；过线时要核它读哪些本地缓存、数据是否出局域网 |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；商业托管服务，按「商业类每分类最多 1 条」处理 |
 | [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；和 herdrbot 合成一行 |

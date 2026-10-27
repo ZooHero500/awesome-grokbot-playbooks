@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-131-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-132-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **131** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **132** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **236** | curated community tutorials and X articles ([33 tutorials](docs/community-tutorials.md) + [203 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
@@ -61,7 +61,7 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
-- **10-27** Added seven: unofficial Node SDK [botter](https://github.com/jethros-projects/botter); the Chinese writer-bot series [Lingverse](https://github.com/lingverse-ai/lingverse); [grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit); iCloud calendar MCP [Holdt](https://github.com/holdtapp/holdt); cloud-computer self-heal kit [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal); personal fleet starter [Grok Bot OS](https://github.com/skorten/grokbot-os); routine control panel [GrugBot Console](https://github.com/devrecated/grokbot-management-console). X articles grew to 203
+- **10-27** Added eight: unofficial Node SDK [botter](https://github.com/jethros-projects/botter); the Chinese writer-bot series [Lingverse](https://github.com/lingverse-ai/lingverse); [grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit); iCloud calendar MCP [Holdt](https://github.com/holdtapp/holdt); cloud-computer self-heal kit [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal); personal fleet starter [Grok Bot OS](https://github.com/skorten/grokbot-os); routine control panel [GrugBot Console](https://github.com/devrecated/grokbot-management-console); multi-tool handoff CLI [Grok Bridge](https://github.com/niharnm/grok-bridge). X articles grew to 203
 - **10-26** Added one: [x-virality-score](https://github.com/monkeyteamvip/x-virality-score), a read-only routine that watches X hits, mines trend keywords and drafts rewrites of the top 10
 - **10-26** Added six: drafts-only small-business [grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates); [claude-grok-bridge](https://github.com/francoCosimo95/claude-grok-bridge), so Claude Code and your bot can ask each other; a [Multica bridge](https://github.com/lthero-big/gbb-multica-bridge); [iMessage Relay](https://github.com/PhillipHolland/imessage-relay) for iMessage in X Chat; [Groknet](https://github.com/sudoTomas/groknet), where bots of different owners befriend each other; and [Botling](https://github.com/william1010121/Botling), a Grok Bot-style app on Claude Code and Codex; articles from top X creators grew to 198
 
@@ -71,7 +71,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 
 - [Official & SDK](#-official--sdk) (6) - official docs, marketplace, SDKs and CLIs
 - [Templates & directories](#-templates--directories) (14) - template libraries, bot-share indexes and use-case sites; check here first
-- [Skills & Playbooks](#-skills--playbooks) (43) - skills, MCP, single templates, copy-paste profiles
+- [Skills & Playbooks](#-skills--playbooks) (44) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (27) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (9) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (5) - global support, WeChat, Chinese configs
@@ -130,6 +130,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [locum](https://github.com/HarjjotSinghh/locum) - A custom MCP connector plus tunnel so Grok Bot can hand coding work to the Claude Code / Codex CLIs signed in on your own machine; it only spawns the official CLIs and never touches credentials. Mind the exposure while the tunnel is open. Tags: `mcp` `delegate` `claude-code`
 - [wingman](https://github.com/juangurdian/wingman) - A local MCP bridge that lets Grok Bot (and other MCP hosts such as Cursor) list the Codex / Claude Code sessions on your machine, read transcripts, send messages and interrupt the current turn while you still see the session in your terminal. `npx wingman-mcp` pairs in one command and creates a bearer token; a Tailscale or Cloudflare tunnel then exposes the port to the cloud bot. Close to locum, but locum hands off new work while wingman steers sessions already open. Prefer a tunnel that is not public and keep the token private. MIT. Tags: `mcp` `bridge` `claude-code`
 - [claude-grok-bridge](https://github.com/francoCosimo95/claude-grok-bridge) - Two-way bridge between Claude Code and Grok Bot: say "ask Grok Bot …" in a Claude Code session and the answer comes back to that session in about 30 seconds; the bot can ask Claude too. It uses each side's own routine endpoints, with no middle server and no keys to copy; send your bot one line and it sets up both sides and runs a self-test. Messages are treated as data, and answers don't count as approvals. Zero dependencies, MIT. Tags: `bridge` `claude-code` `routine`
+- [Grok Bridge](https://github.com/niharnm/grok-bridge) - One CLI for two-way task handoffs between Grok Bot and Codex, Claude Code, Cursor, Antigravity and Muse Code: hand off a bounded task, get the result back and continue where you were. Reaches Grok Bot through the community grok-bot-cli, which uses the desktop app's session and non-public endpoints; reverse calls need your approval for local execution. Self-labelled experimental alpha. MIT. Tags: `bridge` `cli` `multi-agent`
 - [gb2gpt](https://github.com/EdmundLimBoEn/gb2gpt) - Give your bot team jobs from a ChatGPT conversation: a small self-hosted Python server passes tasks over ChatGPT Developer-mode MCP to a dedicated relay bot, which hands them to your chief of staff. Unofficial. Needs a paid ChatGPT plan with Developer mode and a public HTTPS address; licensed CC BY-NC 4.0, so no commercial use. Tags: `chatgpt` `mcp` `relay` `self-hosted`
 - [grokbot-cli](https://github.com/Nuncio-hq/grokbot-cli) - Drive your Grok Bot bots from a terminal or from Claude Code / Codex / Cursor: brief a bot and wait for its final reply, reply to a message, answer approval cards, hire bots, and manage skills and routines; the same commands also ship as an MCP server and a TypeScript SDK. An inbox skill on the bots' cloud computer lets them leave work for your local assistant (a bug to fix, a result to check), which it sees in about a minute. Unofficial: it reuses the desktop app's sign-in against undocumented endpoints, so it can break when they change; deleting and approving need `--yes`, so try it on a test bot first. macOS only. MIT. Tags: `cli` `mcp` `sdk`
 - [gbb-multica-bridge](https://github.com/lthero-big/gbb-multica-bridge) - Makes Grok Bot an agent runtime for Multica: tasks sent in Multica reach your bot through a webhook, and its answers and query, create and edit results come back to the Multica chat. The runtime and reply sides can sit on one machine or talk over SSH, with no public tunnel; an interactive installer sets it up, and the reply helper can be restored in one step after the bot computer is wiped. Built on grok-bot-bridge (gbb); README in Chinese. MIT. Tags: `multica` `webhook` `bridge` `chinese`

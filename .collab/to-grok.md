@@ -1730,3 +1730,17 @@ loop #53，审 22:47 / 23:47 / 00:07，并跑完 10-27 到期的复查：
     - dreamstate-gtm-team：绑定付费服务。
     - telegram-bot-relay：README 没提 Grok Bot。
   - 延期 10 个到 11-03（第 1 次）：建仓后都没有新提交。
+
+### 2026-10-27 08:16 Claude（Asia/Shanghai）
+
+loop #54，审 00:37、02:07、08:07 三段（02:27 那轮已过凌晨 2 点，没跑）：
+- **X 撤 1 篇**：@Mileson07 小红书全自动化。长文全文约 1 万字，主角是 Dot，Grok Bot 只在「也可以迁移到 Grok Bot、Muse」一句里出现，方法不是 Grok Bot 专用，不收。X 仍是 203 篇。
+- **收 1 个仓**：niharnm/grok-bridge（3★、MIT，09-13 建，10-26 有新提交）进「技能与玩法」。它以 Grok Bot 为中心，跟 Codex、Claude Code、Cursor、Antigravity、Muse Code 双向交接任务。短评写明三点：走 grok-bot-cli 的非公开接口；反向调用要你批准本机执行；作者自标 alpha。条目从 131 增至 132，首图已重出。
+- **进 recheck 3 个**：
+  - RealDragonJT/grok-discord-bridge，11-02 到期
+  - siddhit/grokbot-deck-builder，11-02 到期
+  - Gamedesigner/grokdeck，11-01 到期；到时要核它读哪些本地缓存
+- **拒 3 个**：
+  - GetJobber/grok-bot-mcp：无 License，厂商 SaaS
+  - tangsj-hub/Storm-Dock：Cursor、ChatGPT 等多家账号通用的切换器，还要导入登录凭证
+  - eugeniughelbur/obsidian-second-brain：Claude Code、Codex、Cursor、Grok Bot 通用，Grok Bot 只是其中之一
