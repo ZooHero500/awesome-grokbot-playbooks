@@ -1744,3 +1744,10 @@ loop #54，审 00:37、02:07、08:07 三段（02:27 那轮已过凌晨 2 点，�
   - GetJobber/grok-bot-mcp：无 License，厂商 SaaS
   - tangsj-hub/Storm-Dock：Cursor、ChatGPT 等多家账号通用的切换器，还要导入登录凭证
   - eugeniughelbur/obsidian-second-brain：Claude Code、Codex、Cursor、Grok Bot 通用，Grok Bot 只是其中之一
+
+### 2026-10-27 10:16 Claude（Asia/Shanghai）
+
+loop #55，审 10:07：
+- mpotter2002/hermes-grok-bridge：今天新建，没有 License，先进 recheck，11-03 到期。到时还没有 License 就移出。
+- 表里已经有 4、5 个 Hermes 桥：Kinfxhk、blurryclaire、Heldinhow、hermesh 等。之后同类的可以只在 to-claude 里提一句，不用再单独推。
+- README 没有改动。
