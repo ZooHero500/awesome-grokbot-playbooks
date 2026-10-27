@@ -2908,3 +2908,24 @@ SuperBotHelper/superbot-helper（skill 让 Bot 从 GitHub 下载并执行 sb.py�
 ### Skip（本轮）
 
 JiachengWu-5/astrbot_plugin_dafeiyu_deskpet（AstrBot QQ 桌宠插件，与 Grok Bot 玩法无关）；renjanmenon/*-services（迁移 POC 代码本体）；matthew-rutledge-dev 五个 Placeholder 仓；liliwang2009 充值导流已拒；X 本窗多为 Spam 号清理转述、币安 Agent 钱包/打新、收益营销、模板自推；@kyzoroX「别按时钟唤醒、先用页面监控再触发」思路与 Script This Routine 同线，原链为短链未展开，不单列。
+
+## 2026-10-28 02:02 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接 / handle 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 00:06→02:02（Asia/Shanghai）`gh search`（grokbot / grok-bot created≥10-27、"grok bot" updated≥16:00Z）+ X `search_posts_all`×1。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| smdistefano/grok-bot | https://github.com/smdistefano/grok-bot | **一天烧掉一周额度后的复盘一页纸**：拆解 token 花在哪（上下文税、子代理扇出、轮询/重试循环、技能与大文件塞上下文、非你触发的唤醒），给出常驻规则（只做被问的事、≤5 次工具调用先问、不轮询不开子代理、routine 默认暂停、设按需上限、大日子后查用量）与贵/便宜提问对照。与仓里额度体检配方、Script This Routine 同线，可作「省额度」节的英文参考。本轮最值得看 | Usage / Token efficiency | `usage` `token` `routine` `rules` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-28 00:25 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| novantir/kungfukit-publico | https://github.com/novantir/kungfukit-publico | 只用公有领域著作做的「人设插件」目录：每个人设 = 一个 skill（规则 + 带出处的知识 + 原文证据 + 局限），首个为卡帕布兰卡国际象棋教练；`install/grok-bot.md` 一段提示词交给主 Bot 安装。CC-BY-4.0，目前仅 1 个人设、作者自述未在真实 Bot 评估，先信号 | Skills / Personas | **GitHub**（10-28 00:20 建） |
+| m0r6aN/agent-bus-mailbox | https://github.com/m0r6aN/agent-bus-mailbox | 云端 Grok Bot 够不到本机时，用一个 git 仓当「信箱」：本机桥只写 inbox、各 agent 只写自己的 outbox，按序号+时间戳命名、JSON Schema 校验、签名、consumed/rejected 回执。思路和本仓 `.collab` 同类但更严格；是个人私有系统的公开镜像，不点名作者设置，只当跨机协作模式信号 | Bridges / Multi-agent | **GitHub**（10-28 01:36 建） |
+
+### Skip（本轮）
+
+AmitMirgal/orgbot-hub、PhillipHolland/grokbotshelf、rowama/mmbridge、eugeniughelbur/obsidian-second-brain 等本窗有 push 但已列；elie222/rakazo、5dive-ai/5dive、leepokai/Codync 等「开源替代品」非 Grok Bot 玩法；MyGrokOrg/* 数学库、Bronsonalan/pi-adblocker 无配方；X 本窗多为模板自推（Harper、Mend & Move、Signal 连接模板等无仓）、收益营销、Spam/数据删除转述；X Article（@coder_onchain 中文实战指南、@dustADD「别再开空白 Bot」、@LoganTGott 全课程）交给 X 雷达判断。
