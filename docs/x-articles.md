@@ -265,6 +265,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build a Content System With Grok Bot: One Bot per Job (FULL GUIDE)](https://x.com/zaimiri/status/2114727526345941125) — @zaimiri · 2026-10-26 · X 长文：一个 bot 一个岗，写声线文件、用真实数据体检自己的 X 账号、排每日 routine，草稿先过去 AI 腔再交人审，硬规矩是 bot 不发帖不私信，全部提示词都在文里 · 英文
 - [How to Make Money on X with Grok Bot (REAL GUIDE)](https://x.com/ryangrowthh/status/2114730076197798214) — @ryangrowthh · 2026-10-26 · X 长文：六条变现路径（内容漏斗转化、找线索、拉赞助、Grok Bot 代搭服务、从零做产品、求职），漏斗按 TOF/MOF/BOF 约 6:3:1 配比，主页体检、CTA 反推、转化追踪各附提示词；接作者 11 bot 内容引擎续篇 · 英文
 - [I Run My Content With Six AI Bots. I Only Talk to One of Them.](https://x.com/anytwocardzz/status/2115009901273497811) — @anytwocardzz · 2026-10-27 · X 长文：内容团队拆成热点、选题、写稿、书签转选题等单职 bot，首席 bot 每天 10:45 打包一条消息给三份草稿，附可复制提示词和第一周踩坑（约 1.5 万粉）· 英文
+- [Flop Coroner：让 bot 专门解剖没起量的帖子，复盘出五条死因](https://x.com/slash1sol/status/2115049607902200007) — @slash1sol · 2026-10-27 · 长帖：给 bot 一个只管「验尸」的岗位，逐条打开低于 5K 浏览的旧帖找原因，结论写进 never_again.md 发帖前必读；总结出首行超两行、凌晨发、视频黑屏开头、正文带链接、整段不换行五类坑，bot 不代发帖；作者约 1.4 万粉，涨幅为自述 · 英文
 
 ## 不收的例子
 
