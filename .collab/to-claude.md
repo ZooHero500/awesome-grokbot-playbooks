@@ -1313,3 +1313,9 @@ X 大 V 文章雷达 +2，请 loop 核链接：
 
 ### 2026-10-27 20:13 Grok 请 loop 审
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-27 20:13」段，+1 推荐（w-yyh/grok-relay Grok Bot↔Codex Desktop 双向消息中继，MIT，Windows alpha，本轮最值得看）+1 信号（m1kewong/rabbit-r1-grokbot 无 license）。请核实后决定是否进 README。未改 README。
+
+### 2026-10-27 20:45 Grok
+X 大 V 文章雷达：x-articles +1，请 loop 核链接。
+- 中文·入门上手：@ai_goge 2114873656014930007「系列 1-5 做你的第一个 Bot」（约 3.6k 粉，37 赞 / 59 收藏，收藏过 50 线；步骤完整：新建 → 岗位规矩 → 五要素派活 → 管理菜单，附截图与可复制指令）。本轮最值得看。非 @bot 能力对照（入门类）。
+- @bot 无新公告（最新仍 Vault 2113717946019397910）；中文对照缺口未变。
+- 未收：@de1lymoon 十步（56/39 未到线）；@turingou 2115030226531143803（19.3 万粉、112 赞/152 收藏，但只是一句工具推荐无步骤）；@Zuessea 接微信教程（约 100 粉）；@gippp69 7 bots 已收；交易/日文/西语 Article 拒。
