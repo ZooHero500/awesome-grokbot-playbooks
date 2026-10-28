@@ -2976,3 +2976,27 @@ jbellsolutions/wescale-grokbot-team、grokbot-lending-team、spike-it-up-ai-team
 ### Skip（本轮）
 
 AyanBhardwaj1/ClaudeBot（Claude 版仿品）、cameroncanova-spec/careem-grokbot-demo（密码保护的客户演示）、galyarderlabs/hermes-bots（Hermes 主机客户端，非 Grok Bot 玩法）、m0r6aN/agent-memory（个人私有记忆仓，不点名）、pileofflapjacks1/grok-bot-platformer（同名游戏）、raghix123/grokbot-links、grokbotcompass.github.io（跳转/空页）、taskfuel/grok-bot-plugin（付费工具插件推广，无玩法）。
+
+## 2026-10-28 10:40 Asia/Shanghai · T7 日更
+
+> 按 full_name / 链接 / 帖 id 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。GitHub：`gh search repos`（grokbot / grok-bot / "grok bot" / template / playbook，updated≥10-27 10:00）；X：近 24h「grok bot / grokbot + skill / template / playbook / github」。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| @poteto 的 tibot（X 运营 bot 模板） | https://x.com/poteto/status/2115205951649423585 （模板 https://x.ai/bot/xZ4wRvomWqzCXnyYFr7i3） | **管 X 账号的现成 bot**：盯提及和关键词（不 @ 也能抓）、每天一份排好序的短摘要（可改每小时）、过滤垃圾、翻译非英文帖、可自动拉黑喷子，且从不替你发帖。作者本人自用，帖子约 2.4k 赞 / 1.6k 收藏。与本仓 X 雷达类 routine 同路，可作「官方模板一键雇」示例。本轮最值得看 | Templates / Social | `template` `x` `digest` `moderation` | 帖 2.4k 赞 | **X**（10-28 06:16） |
+| unclebob/ub-mode | https://github.com/unclebob/ub-mode | Uncle Bob 自用的写代码纪律 skill，他说自己的 grokbots 写代码时都用它：先跑通再做对，TDD、根因修复、可验证小步，并配 CRAP / 重复度 / 变异测试等确定性质量门。基于 @poteto 的规则精简。约 2.4k star，但仓库未声明 License，先按「链接 + 短评」收 | Skills / Coding | `skill` `coding` `tdd` `quality-gate` | 2443 / 未声明 | **X** 帖 2114388856976069095（10-26 00:09，近 24h 仍在被转发求装）→ GitHub |
+| Deepusleepy/t3-tots | https://github.com/Deepusleepy/t3-tots | 给 T3 Code（开源编码 agent 客户端）配的 Grok Bot 伴侣：一套 skills + 小工具，让 Bot 查线程状态、等待项、新线程，发报告和变更提醒，可选 `t3listen` 把提问和运行结束推到你的 webhook。MIT、无账号无遥测；README 直说依赖 T3 内部本地 API、版本更新可能会坏 | Bridges / Coding agents | `skill` `t3code` `webhook` `mit` | 78 / MIT | **GitHub**（10-15 建，10-28 有 push） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Grok Bot Command Line（@BrianRoemmele 模板） | https://x.com/BrianRoemmele/status/2115269980086571190 | 用免费 Google Voice 号 + Gmail，让 Bot 听短信和语音留言指令、紧急事项短信回你；只认本人号码 + 口令，三档权限（涉钱/删除/联系新人必须回 App 点批）。思路好，但依赖 Google Voice（国内用户不可用）、刚发帖量小，先信号 | Voice / Phone | **X**（10-28 10:30） |
+| RongleCat/grok-bot-sdk | https://github.com/RongleCat/grok-bot-sdk | 非官方 Node.js SDK，逆向桌面客户端协议：登录、列 bot、读会话、发消息、SSE 收回复。同作者 Clipper 已在 README；SDK 走私有协议、版本一变就坏，且需落地 token，先信号 | Bridges / SDK | **GitHub**（10-14 建，10-27 有 push） |
+| @Bot_Lynn DeepSeek 中文搜索 skill | https://x.com/Bot_Lynn/status/2115248468394651785 | 中文：把 DeepSeek 搜索 API 包成 skill 搜公众号/知乎/头条/微博，支持 site:/after: 筛选，按次计费。贴合中文用户，但帖内未给仓库链接、热度极低，等放出仓再看 | Skills / Search | **X**（10-28 09:05） |
+
+### Skip（本轮）
+
+SimonPuebla/CMO-grokbot（刚建空仓）；MyGrokOrg/*（与 Grok Bot 无关的数学库）；hamedgitty/bloks、PrisacariuRobert/sidemates（竞品式多 agent 桌面应用，非 Grok Bot 玩法）；sherwoodagent/grokbot-fund-template、@blmario669 Binance skill（金融/币圈类拒）；Vesite/GrokDiscordBot、minhdevtry/grokbot（同名旧仓/空仓）。

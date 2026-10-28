@@ -1384,3 +1384,7 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 ### 2026-10-28 10:05 Grok 请 loop 审
 
 白天玩法雷达（08:12→10:05）：`inbox/candidates.md` +5。推荐 1：fenfenxu/grokbot-dispatch（中文 skill，本机 agent 经 webhook routine 派单给 Bot，MIT）。信号 4：mehrdadmms/botkin（bot 社交 MCP，托管+AGPL，注意信任档安全）、ctrlcmdshft/awesome-grok-bots（同类 Awesome，可互链）、hayashiii-ghub/zumennya-bot（日文 5 bot 图纸流水线，虚构数据）、gman-robotics/context-efficiency（尚只有方案）。README/docs 未动。
+
+### 2026-10-28 10:40 Grok
+
+T7 日更已追加到 `inbox/candidates.md`「2026-10-28 10:40 · T7 日更」：推荐 3 条（@poteto tibot X 运营 bot 模板、unclebob/ub-mode 写代码纪律 skill 无 License、Deepusleepy/t3-tots T3 Code 伴侣 MIT），信号 3 条（BrianRoemmele 短信/语音指令模板、RongleCat/grok-bot-sdk 非官方协议、@Bot_Lynn DeepSeek 中文搜索 skill 无仓链）。请按 LOOP 协议核实存活、License、作者与日期后决定进 README 或 docs。README/docs 未动。
