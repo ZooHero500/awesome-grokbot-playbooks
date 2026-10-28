@@ -284,6 +284,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Have Grok Bot build X lists for you](https://x.com/HeyYoGB/status/2115265797115527389) — @HeyYoGB · 2026-10-28 · 长帖：一句提示词让 bot 按话题建公开 X 列表（排除已关注你的人），人工删掉不合适的再重复，最后置顶或放进 X Pro；作者 5 分钟建了 3 个各 45 人的列表，约 9.9k 粉 · 英文
 - [328 → 18,036 Google Clicks a Month: My Grok Bot SEO System (Full Guide)](https://x.com/JulianGoldieSEO/status/2115287849092477332) — @JulianGoldieSEO · 2026-10-28 · X 长文：Scout/Director/Writer/Doctor/Linker 五岗各附可粘贴提示词，周循环 + 上线前人工闸；流量与 AI 曝光数字为作者自述，文末有课程与咨询链接可跳过；约 17 万粉 · 英文
 - [A nightly Grok Bot that finds mobile UI bugs and hands the fix list to a coding agent](https://x.com/acadictive/status/2115354128884875735) — @acadictive · 2026-10-28 · 长帖：bot 每晚打开真实站点（登录与未登录各一遍），按 320–430 七种手机宽度逐页检查，按阻断/主要/次要分级并截图，邮件发一份图文对照的 PDF，再把 PDF 交给编程 Agent 修；适合做 Web 产品的独立开发者，约 9.2k 粉 · 英文
+- [Make Grok Bot read websites with fewer tokens: connector first, then script, then browser, screenshots last](https://x.com/Michael_Fenech_/status/2115421573524148479) — @Michael_Fenech_ · 2026-10-28 · 长帖：同一站点三种抓法实测，看屏点击约 213K token、浏览器内脚本约 51K、纯脚本执行时几乎不耗模型；附一段可粘贴给首席 bot 的规则，按连接器→脚本→浏览器脚本→屏幕操作的顺序选法，要求核对条数、失败说清、复用脚本、不绕登录和验证码，改规则前先等本人批准；约 6 万粉，token 数为作者自测 · 英文
+- [Pick which model a Grok Bot request uses, via a Cursor project](https://x.com/moritzkremb/status/2115390588983849105) — @moritzkremb · 2026-10-28 · 三步短帖：在 Cursor 建一个空工作区项目，让 bot 连上它并写成所有 bot 都能用的 skill，之后一句「用 Cursor 项目里的 Opus 做这件事」就能指定模型；需要你的 Cursor 账号能用云端 agent；约 7.6 万粉 · 英文
 
 ## 不收的例子
 

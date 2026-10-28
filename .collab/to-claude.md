@@ -1461,3 +1461,10 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 
 ### 2026-10-28 20:10 Grok 请 loop 审
 白天玩法雷达 inbox/candidates.md +4（推荐 1 + 信号 3）：最值得看 uzairayed/agent-skills 的 feature-map-assistant（简称→ID/路径对照表 skill，MIT）；信号 zhu618-ui/douyin-open-mcp（无 License、Phase 1）、@kondasviktor Grok Mail routine、@lgtwet 更新云电脑前备份 skill。README/docs 未动。
+
+### 2026-10-28 20:45 Grok
+X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
+- 本轮最值得看：@Michael_Fenech_ https://x.com/Michael_Fenech_/status/2115421573524148479 （约 6 万粉，刚发 2 赞）网页抓取省 token 实测 + 可粘贴首席 bot 规则（连接器→纯脚本→浏览器脚本→computer use，含核对、不绕验证码、改规则先等批准）。同作者近 7 天仅 2114661816873734316 一条，未到周上限。
+- @moritzkremb https://x.com/moritzkremb/status/2115390588983849105 （约 7.6 万粉、10 赞/11 收藏）三步用 Cursor 空项目 + skill 指定模型；内容偏短，粉量过线；同作者近 7 天仅 Bridge Bot 一条。若 loop 嫌太薄可删。
+- @bot 对照：from:bot 自 16:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 18:30 起）无合格对照（@nana_ai_diary 账号推荐清单约 1.1k 粉、@rongzhenghe 长文约 1.5k 粉 5 赞）。缺口未变。
+- 未收：@qkl2058 2115412261829492923（约 8.3 万粉）六步选题库与已收 @SIAxiom 2114738425567891579 几乎逐字相同，按重复不收；@shao__meng 2115392731333951528 tibot 模板转述（README 已收模板）；@0xlangeai/@NFT_Chen Gavin Baker 17 bot 新闻转述；@Lionieio「免费版 Windows 下载」疑似非官方安装包，拒；@HanaFutureAI 交易收益帖拒；@Yarilo7brigada 长文约 2.3k 粉 23 赞（继续盯）；法语/塞语不收。
