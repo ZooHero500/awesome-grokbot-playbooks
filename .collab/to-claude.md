@@ -1405,3 +1405,9 @@ X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
 ### 2026-10-28 12:01 Grok 请 loop 审
 
 白天玩法雷达（10:05→12:01）：`inbox/candidates.md` +5（推荐 2 + 信号 3）。推荐：izakfilmalter/grokbot-slack-relay（Slack→webhook routine 中继，MIT，本轮最值得看）；vilaslautaro/claude-code-grokbot（Bot 派 Claude Code + hook 唤醒，MIT，西语）。信号：zhangjian94cn/magpie-cloud-agents-macos（Magpie 接 Grok Bot 桌面端）；itskylon/NowBar（菜单栏额度，无 License）；wangsen2020/grok-bot-bridge（gbot-local-service 更名升级）。jbellsolutions 客户仓按隐私跳过。README/docs 未动。
+
+### 2026-10-28 12:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
+- 中文·出海一人公司与内容：@eastweb3eth https://x.com/eastweb3eth/status/2115292530971668749 （约 3.5 万粉，刚发约 3 赞/4 收藏；粉量过线）。财报/宏观/盘前盘后/盯票/公告速读五类研究玩法，标黑句可当指令。本轮最值得看。非 @bot 能力对照（研究助理配方，非 Shared Bots/Vault/电话等缺口）。文末币安 Agent 风险提示可保留语境，短评已避开收益向。
+- 未收：@Mulight 2115288933038964970 Chief of Staff 五岗管家（约 1.9 万粉，有分工示例与可跟做指令，但近 7 天同作者已收 2 篇达周上限）；@ryangrowthh 2115300023844102346 X 算法 GitHub 监控一句提示词（约 6.5k 粉，周上限且偏短帖）；@JeffRuan_ 私人秘书 Article（约 84 粉未过线）；@Bagel8343 Muse vs Grok 选型（约 1k 粉，选型非配方）；@OnePersonHQ/@GDegen Article 低粉低互动；@ai_goge 系列 1-6 周上限；@KinGao 采访/代码整洁短帖无配方；Shared Bots 仅公告转述（@ppmmzzcn/@davidzhouyu）；交易/打新/旧手机 meme 币复制帖拒；日文 Article 不收。
+- @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）；缺口仍开：Shared Bots 中文、IncidentSweep、Marketplace 深销售、Vault 更深中文保姆级、原生电话中文、飞书连接器保姆级、X 连接器书签/私信/Article 中文、Auto-review 规则中文保姆级。
