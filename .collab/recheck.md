@@ -51,6 +51,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [sleeplesshan/grokbot-city](https://github.com/sleeplesshan/grokbot-city) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 本机多 Bot 作战看板 + 持久 wiki，Bot 经 CLI 更新状态和知识；到期看有没有新提交 |
 | [w-yyh/grok-relay](https://github.com/w-yyh/grok-relay) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | Grok Bot 和 Codex Desktop 已有会话互发消息、回复回到原会话；Windows alpha；过线时和 claude-grok-bridge、Grok Bridge 比是否重复 |
 | [zeke1031031/herdr-grokbot-notify](https://github.com/zeke1031031/herdr-grokbot-notify) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | Herdr 插件：任一本机编码 agent 完成、卡审批或退出时向 Grok Bot 的 webhook routine 发 pane 元数据，不发终端输出；过线时和 devicki/herdr-away-signal、herdrbot 一起看，择优或合成一行 |
+| [Phoobobo/grokbot-bridge-herdr](https://github.com/Phoobobo/grokbot-bridge-herdr) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-28 | Herdr 插件 + gbb CLI：bot 经远程 shell 启动、盯、接管本机编码 agent 窗格，状态变化发 webhook（不含终端输出）；过线时和 zeke1031031/herdr-grokbot-notify 择优或合成一行 |
 | [ponelat/grok-bot-nix](https://github.com/ponelat/grok-bot-nix) | 11-03 | 0★ · 打包代码 MIT（API 显示 NOASSERTION）· 建 10-27 · 最近提交 10-27 | 非官方 Nix 打包，钉 hash 和「启动拉最新」两种，支持非 flake 的 configuration.nix；Grok Bot 本体不随仓分发 |
 | [smdistefano/grok-bot](https://github.com/smdistefano/grok-bot) | 11-03 | 0★ · Apache-2.0 · 建 10-27 · 最近提交 10-27 | 额度烧穿后的复盘一页纸：token 花在哪 + 常驻省额度规则；收录短评不引用作者用量截图里的数字 |
 | [realTaki/bot-keepalive](https://github.com/realTaki/bot-keepalive) | 11-03 | 1★ · MIT · 建 10-27 · 最近提交 10-27 | 长任务防云电脑挂起的 skill：任务登记 + low effort 守护 subagent 轮询；短评写明守护期间持续耗额度 |
@@ -82,6 +83,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [izakfilmalter/grokbot-slack-relay](https://github.com/izakfilmalter/grokbot-slack-relay) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | Slack @提及/DM/线程 → webhook routine 中继（Vercel + Bolt 验签、去重），bot 自己回 Slack；过线时放「技能与玩法」 |
 | [vilaslautaro/claude-code-grokbot](https://github.com/vilaslautaro/claude-code-grokbot) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 西语：bot 派 Claude Code（云端或本机 worktree），hook 打 webhook 叫醒 bot，只开 PR 不 merge；过线时和 fenfenxu/grokbot-dispatch 一起看 |
 | [RussGuo/grokbot-voice-meeting](https://github.com/RussGuo/grokbot-voice-meeting) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 多 Bot 语音会：主持排议程、人一开口全体停，会后出纪要和各 bot 行动提示词；默认 LiveKit + 豆包 + DeepSeek 要自备 key；过线时放「多 Bot 团队」 |
+| [wchengyen/feishu-grokbot-bridge](https://github.com/wchengyen/feishu-grokbot-bridge) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 飞书私聊或群里 @ 自建应用派活给 bot：官方 lark-oapi 长连接、不用公网回调，任务 POST 到 webhook routine，bot 不拿 App Secret，结果由桥接代发回原对话；繁中文档；过线时放「中文一人公司」 |
+| [cwijayasundara/cloud_harness_bots_v1](https://github.com/cwijayasundara/cloud_harness_bots_v1) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 六个 bot 岗位派 `claude --cloud` 干活，每次提交跑 ub-crap/ub-dry 质量门，`chb merge` 按策略决定能否合并；过线时放「多 Bot 团队」 |
 | [Crokily/pi-durable-bot](https://github.com/Crokily/pi-durable-bot) | 11-04 | 1★ · MIT · 建 10-28 · 最近提交 10-28 | 开源平替 Pots：自托管任意模型，崩溃续跑、发送去重；过线时放「自托管与平替」，和已收平替比有没有独到处 |
 | [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 10-29 | 0★ · MIT · 建 10-22 · 3 次提交 | 云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
 | [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |

@@ -1949,3 +1949,16 @@ loop #66，审 12:45、13:45、14:06：
 - **不收 2 条信号**：
   - @babykswanson replyslip：第三方托管分享服务，没有仓库。
   - @ryangrowthh：同作者周上限，而且是一句话短帖。
+
+### 2026-10-28 16:17 Claude（Asia/Shanghai）
+
+loop #67，审 15:50、16:10：
+- **撤 1 篇**：@xx03199 2115339996563734702。原帖推的是「币价异动预警、早中晚行情分析、币圈快讯」，作者开头还在导流自己的币安 Agentic Wallet 教程。按红线属于币圈内容，拒。短评写成「推行情、社群运营通用」把币圈主题藏掉了，以后短评要如实写帖子主题。X 仍是 223 篇，README 没动。
+- **进 recheck 3 个**：
+  - Phoobobo/grokbot-bridge-herdr，11-03 到期（10-27 建），和 zeke1031031/herdr-grokbot-notify 一起看。
+  - wchengyen/feishu-grokbot-bridge，11-04 到期。
+  - cwijayasundara/cloud_harness_bots_v1，11-04 到期。
+- **不收 3 条信号**：
+  - tt0xcatyi/agent-review-handback：无 License。
+  - TillmanBuildsTech/grokbot-node：走内部协议、自铸凭证。
+  - freepik-company/magnific-plugin：商业付费服务。
