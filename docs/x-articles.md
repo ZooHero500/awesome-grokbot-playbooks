@@ -292,7 +292,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build an In-House Media Team (With One Person and Grokbot)](https://x.com/VibeMarketer_/status/2115451548402925745) — @VibeMarketer_ · 2026-10-28 · X 长文：一个内容负责人加一个内容运营 bot，建资料、待处理素材、按周归档三个文件夹，按调研、写作、制作、复盘四个 skill 走完一篇稿，每步附可粘贴提示词；周一选题、周五复盘两条 routine，发布与外联都由人拍板；文末有 newsletter 链接，约 3.8 万粉 · 英文
 - [How I Run a Team of AI Bots, and the Five Parts You Can Copy](https://x.com/thebobmcintosh/status/2115448503807656044) — @thebobmcintosh · 2026-10-28 · X 长文：多 bot 团队的五个部件（唯一对话入口的经理 bot、按记忆分域的专员、Task/Owner/Status 看板、routine、外发先草稿后批准），附经理 bot 提示词、五天搭建顺序和五个常见错误；文末有免费工作坊推广，约 2 万粉 · 英文
 - [11 Income Streams You Can Run with Grok Bot (With the Exact Prompts)](https://x.com/DotComParker/status/2115464509532090701) — @DotComParker · 2026-10-28 · X 长文：社媒主页、转卖比价、无脸频道、建站、咨询、模板、newsletter、本地商家客服、简历改写、课程、翻译 11 种做法，每种都有适合人群、分步搭建、可粘贴提示词、风险和衡量指标；统一用调研、起草、排期、routine、日报五个部件，对外发布和花钱都留人工批准；作者明说不承诺收入，约 13.6 万粉 · 英文
-- [A Grok Bot that checks your X bookmarks every 20 minutes and only alerts on real deadlines](https://x.com/runes_leo/status/2115466116831068329) — @runes_leo · 2026-10-28 · 短帖：只读模板，每 20 分钟看新收藏，只有帖子写明时间或名额的抢先领取、报名、白名单、截止类才提醒，其余逐条讲清能用什么、要不要引用，再给链接让你取消收藏；作者实测关键词提醒 11 条错 8 条，新判定在 27 条收藏里抓到 2 个真截止、零误报；约 2.3 万粉 · 英文
 
 ## 不收的例子
 

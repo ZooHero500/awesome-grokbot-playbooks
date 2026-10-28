@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-140-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-147-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--22-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,10 +25,10 @@
 
 | | |
 |---:|---|
-| **140** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **147** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
-| **265** | curated community tutorials and X articles ([33 tutorials](docs/community-tutorials.md) + [232 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
+| **268** | curated community tutorials and X articles ([33 tutorials](docs/community-tutorials.md) + [235 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
 | **2 AIs** | maintain it: Grok Bot scouts daily, Claude Code verifies and writes reviews, a human makes the calls. The full log is public in [`.collab/`](.collab/README.md) |
 
 Compared with the English ecosystem index [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot), which is broad, this repo focuses on **solo founders, multi-bot war rooms, radar routines and copy-paste recipes**. Quality over quantity.
@@ -61,9 +61,9 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
+- **10-29** Added seven: WeChat DM bridge [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin), [stampede](https://github.com/vib-z/stampede) for a Claude Code lead on your Mac over Tailscale, the household and small-business team doctrine [Project SAGE](https://github.com/crusader0711/specialized-ai-grok-empire), the read-only X crew [Foreman](https://github.com/GlennHasABeard/foreman), cloud-computer export [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup), a read-only [Tesla MCP](https://github.com/naoiseirwin/Tesla-Grokbot-Connector), and the self-hosted bot team [kwant](https://github.com/alexsergivan/kwant); X articles grew to 235
 - **10-28** Added seven: the [Chief of Staff](https://github.com/twhit223/grok-bot-cos) bot setup, the self-built desktop [MyGrokbot](https://github.com/DynamaxVV/mygrokbot-host), a Chinese [Grok Bot handbook](https://github.com/AIPMAndy/grok-bot-handbook), and a [repro and guardrail](https://github.com/themsquared/grok-bot-cross-agent-leak) for the cross-bot leak incident, the X-mentions template [tibot](https://x.ai/bot/xZ4wRvomWqzCXnyYFr7i3), [Command Line](https://x.ai/bot/PKtdrwJNC54pLQIAT3H60) for tasking bots by SMS and voicemail, and the T3 Code companion [T3 Tots](https://github.com/Deepusleepy/t3-tots); X articles grew to 232
 - **10-27** Added nine: unofficial Node SDK [botter](https://github.com/jethros-projects/botter); the Chinese writer-bot series [Lingverse](https://github.com/lingverse-ai/lingverse); [grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit); iCloud calendar MCP [Holdt](https://github.com/holdtapp/holdt); cloud-computer self-heal kit [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal); personal fleet starter [Grok Bot OS](https://github.com/skorten/grokbot-os); routine control panel [GrugBot Console](https://github.com/devrecated/grokbot-management-console); multi-tool handoff CLI [Grok Bridge](https://github.com/niharnm/grok-bridge); a local take on Grok Bot for the Mac, [Local Bot](https://github.com/patrick-mns/localbot). X articles grew to 209
-- **10-26** Added one: [x-virality-score](https://github.com/monkeyteamvip/x-virality-score), a read-only routine that watches X hits, mines trend keywords and drafts rewrites of the top 10
 
 Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md).
 
@@ -71,11 +71,11 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 
 - [Official & SDK](#-official--sdk) (6) - official docs, marketplace, SDKs and CLIs
 - [Templates & directories](#-templates--directories) (15) - template libraries, bot-share indexes and use-case sites; check here first
-- [Skills & Playbooks](#-skills--playbooks) (45) - skills, MCP, single templates, copy-paste profiles
-- [Multi-bot teams](#-multi-bot-teams) (28) - war rooms, coordinators, multi-agent work
+- [Skills & Playbooks](#-skills--playbooks) (47) - skills, MCP, single templates, copy-paste profiles
+- [Multi-bot teams](#-multi-bot-teams) (31) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (10) - scheduled radars, weekly reviews, usage control
-- [Chinese solo-founder](#-chinese-solo-founder) (5) - global support, WeChat, Chinese configs
-- [Self-hosted bots](#-self-hosted-bots) (15) - stay off the cloud, bring your own model
+- [Chinese solo-founder](#-chinese-solo-founder) (6) - global support, WeChat, Chinese configs
+- [Self-hosted bots](#-self-hosted-bots) (16) - stay off the cloud, bring your own model
 - [Hardware](#-hardware) (4) - give your bot a physical front end
 - [Learning](#-learning) (12) - tutorials, handbooks, tutorial indexes
 
@@ -159,6 +159,8 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [my-bot-scripts](https://github.com/wustep/my-bot-scripts) - One user's toolbox of scripts that run alongside their Grok Bots, each folder usable on its own: an encrypted relay between a personal and a work bot account (routed through Notion, with an MCP endpoint), an iMessage inbox bot that routes texts to other bots, a heatmap of messages per bot, and "Work" app copies that keep work and personal accounts apart; bot descriptions and routines for two bots are ready to paste. Scripts assume a Grok Bot box but every path can be overridden; some need Vercel, Notion or a third-party API. Tags: `scripts` `relay` `imessage` `notion`
 - [Holdt](https://github.com/holdtapp/holdt) - MCP that lets Grok Bot read and write your iCloud calendar, deployed on your own Cloudflare account; every change starts as a preview and the bot must ask you first. Send the bot the setup doc link to install, no terminal needed. It needs an Apple app-specific password, which reaches more than calendars. MIT. Tags: `mcp` `calendar` `icloud`
 - [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal) - Self-heal kit for the bot's cloud computer: after a platform reset, machine move or sleep it restores Tailscale, baseline packages and gh auth, and fixes Tailscale hanging on dead sockets after a pause. Every bot on the box shares one sudo user, so check which files it touches first. MIT. Tags: `cloud-computer` `tailscale` `recovery`
+- [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup) - Exports personas, memory, conversations and attachments from the shared cloud computer as raw files plus readable Markdown, for switching assistants or handing over; if you'd rather not run the scripts, import the author's backup bot and its setup asks where to save (Google Drive or local) and how often. Tested by the author on a real cloud computer. The ZIPs have no password and may contain private chats and credentials, so keep them somewhere private. MIT. Tags: `backup` `export` `privacy`
+- [Tesla Grokbot Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) - Read-only Tesla Fleet API MCP: ask your bot how charged the car is, how far it drove this week or whether range is dropping; it can't control the car. Runs as a stdio command on your own bot's computer with no public host, and masks VINs. You need your own Tesla developer app; unofficial. MIT. Tags: `mcp` `tesla` `read-only`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
@@ -192,6 +194,9 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Template: Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r) - Third-party template, one-click import: turns Grok Bot into a small software factory where you only talk to Firstmate. Work is either scout (investigate, diagnose, report, never a PR) or ship (authorized change). Each project gets a standing crewmate that drives Cursor cloud agents; a pushed branch gets an adversarial review before any PR, and you do the merge. The backlog lives in sqlite on the cloud computer, not in chat. Design docs live in the predecessor repo [grok-ship](https://github.com/kunchenguid/grok-ship) (195★, MIT). Tags: `template` `multi-bot` `coding` `review`
 - [Groknet](https://github.com/sudoTomas/groknet) - Lets Grok Bots with different owners befriend and message each other: bots search for people and send friend requests over MCP, and nothing flows until both humans approve; teams share one channel where only the mentioned bot acts. Each bot gets one webhook routine as its inbox, which only relays to its human and never acts. The author runs a hosted instance, and the backend and docker-compose are in the repo if you want your own. MIT. Tags: `multi-bot` `mcp` `messaging`
 - [Grok Bot OS](https://github.com/skorten/grokbot-os) - Starter kit for a personal bot fleet: a Chief of Staff at the front door, single-job bots behind it, a private Notion space with only one writer, and your approval on anything that leaves the box. Hand the folder to a blank bot and install it together; you approve each bot before it is created. Apache-2.0. Tags: `multi-bot` `notion` `starter`
+- [Project SAGE](https://github.com/crusader0711/specialized-ai-grok-empire) - Doctrine pack for a household or small-business bot team: one Chief of Staff front door and specialists with non-overlapping lanes; reads, drafts and bounded internal writes run alone, while sending, paying, ordering, publishing and deleting need your approval of the exact payload every time; missing data produces a gap card instead of a guess, and the team stays quiet overnight. Includes charter templates and CI checks. MIT. Tags: `multi-bot` `approval` `governance`
+- [stampede](https://github.com/vib-z/stampede) - Text your Grok Bot a task and it reaches your always-on Mac over Tailscale SSH, where a Claude Code lead works in Herdr and adds Codex or Cursor panes only when parallel work helps; nothing is merged, pushed, sent or spent until you say yes. Comes with Stompy, a one-click setup bot, and also runs without Grok Bot. Needs an always-on Mac with Herdr. MIT. Tags: `multi-bot` `claude-code` `tailscale` `herdr`
+- [X Bot Crew (Foreman)](https://github.com/GlennHasABeard/foreman) - A crew of read-only X bots: Foreman sets up the whole crew and hands you a front-desk bot called Dispatch, or install any of seven templates alone, such as Follow Audit, Follow Finder and Reply Queue; they only hand you lists and never post, reply, like, follow or block. Uses the official pay-per-use X API, with a daily spend cap and ledger. MIT. Tags: `multi-bot` `x` `read-only`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
@@ -217,6 +222,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [eze-grokbot](https://github.com/eze-is/eze-grokbot) - A Chinese author's public multi-bot config, one folder per bot; see how a real person splits roles. No license declared, reference structure only. Tags: `chinese` `profiles` `config`
 - [grok-bot-wechat](https://github.com/bogao6769-netizen/grok-bot-wechat) - WeChat messages trigger a Grok Bot webhook Routine and a local forwarder sends replies back; a recipe, not a service, and very new. Tags: `chinese` `wechat` `routine`
 - [GrokBotChineseFix](https://github.com/thinkingpower-labs/GrokBotChineseFix) - A small Windows tool: in the Grok Bot desktop app, `Ctrl + ,` types a full-width Chinese comma instead of opening settings. Only active while Grok Bot is in the foreground, can be paused anytime, doesn't modify the app, works offline; single-file C# source, Traditional Chinese docs. Tags: `windows` `ime` `chinese`
+- [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin) - WeChat DMs to Grok Bot: an always-on process receives direct messages through WeChat's iLink Bot API, posts them to a webhook routine and sends the reply back; runs on Cloudflare Workers or Node 22 and decrypts and stores media. Only allowlisted senders get through (by default the first account to scan the QR), and group messages are ignored. A standalone rewrite of the protocol from Tencent's official openclaw-weixin plugin. MIT. Tags: `wechat` `webhook` `routine`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
@@ -237,6 +243,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Botling](https://github.com/william1010121/Botling) - Formerly ClaudeCodeBot: a Grok Bot-style front desk on your Mac, running on your local Claude Code and Codex CLIs. A main bot plus a manager per project, temporary teams, routines and parallel background subagents; turn on completion checks and a separate model verifies the work was really done. Plugins hot-reload. Everything stays local on your existing subscriptions. GPL-3.0. Tags: `self-hosted` `claude-code` `codex` `macos`
 - [Local Bot](https://github.com/patrick-mns/localbot) - A local take on Grok Bot for the Mac: each bot gets a role, a model and its own computer (a Linux desktop in Docker or a macOS VM via Lume) and drives it through Cua Driver with screenshots, clicks, typing and shell, while you watch live and can take over. Works with any OpenAI-compatible provider, no cloud; ships a dmg. MIT. Tags: `self-hosted` `macos` `computer-use`
 - [MyGrokbot](https://github.com/DynamaxVV/mygrokbot-host) - A self-built desktop workbench shaped like Grok Bot: a bot roster, streaming turns, local tools that run only after approval, persistent memory, a skill catalog and routines, with a local gateway, a web client and an Electron build; models come from any OpenAI-compatible service. The author rebuilt the protocol and data shapes from a cloud-computer snapshot; unofficial. GPL-3.0. Tags: `self-hosted` `desktop` `multi-bot`
+- [kwant](https://github.com/alexsergivan/kwant) - A self-hosted bot team in one Rust binary with a built-in web app: bots hand work to each other by @mention, separate spaces for work and home, scheduled routines, and approval cards for risky steps; engines are Claude, Codex or Grok CLI logins or API keys. No telemetry; first start downloads a routing model (can be turned off). Mac installer available. AGPL-3.0. Tags: `self-hosted` `multi-bot` `alternative`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
@@ -261,7 +268,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Two bots leaked a CEO's bank balance to Slack: repro and guardrail](https://github.com/themsquared/grok-bot-cross-agent-leak) - Reproduces the incident Techdirt reported on 10-19: one bot with read-only bank access and another with Slack access on the same machine let sensitive data cross between tools. Two toy MCP servers recreate the leak, then one agentgateway guardrail blocks tagged content from reaching the posting tool. Comes with the author's write-up. Apache-2.0. Tags: `security` `mcp` `incident`
 - [sitin's Grok Bot tutorials](docs/sitin-tutorials.md) - The maintainer's own Grok Bot series and X threads, grouped into getting started / war room / routines / skills / solo-founder recipes; public links only (author's own). (Chinese) Tags: `chinese` `tutorials` `author`
 - [Community Grok Bot tutorials](docs/community-tutorials.md) - 33 tutorials and articles by other creators, mostly from X plus followable posts from blogs and other platforms, Chinese and English, grouped into getting started, war room, routines and usage, skills, solo-founder and indexes; each checked for liveness and date. (Chinese) Tags: `chinese` `tutorials` `community`
-- [Grok Bot articles from top X creators](docs/x-articles.md) - 232 long-form X articles and threads in Chinese and English, grouped into getting started, war room, routines and usage, skills, and solo-founder; only tutorials and real setups with genuine traction, and any numbers are the authors' own claims. (Chinese page) Tags: `tutorials` `x` `community`
+- [Grok Bot articles from top X creators](docs/x-articles.md) - 235 long-form X articles and threads in Chinese and English, grouped into getting started, war room, routines and usage, skills, and solo-founder; only tutorials and real setups with genuine traction, and any numbers are the authors' own claims. (Chinese page) Tags: `tutorials` `x` `community`
 - [Recipe template](examples/_template.md) - Format to follow before submitting a recipe: scenario / input / steps / prompt / output / pitfalls. (Chinese) Tags: `template` `learning`
 
 <sub>[⬆ Back to contents](#-contents)</sub>

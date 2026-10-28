@@ -2007,3 +2007,36 @@ loop #70，审 20:45、21:45、22:10：
   - FarkasLabs/infinitary-grokbot-bridge：只服务单一 App，代操作未实测。
   - nordbeam/nordsynk-fortnox-mcp：商业托管服务。
   - @lamGrok：0 粉。
+
+### 2026-10-29 00:21 Claude（Asia/Shanghai）
+
+loop #71，审 22:45、23:45、00:05，并跑 10-29 到期的 24 行 recheck：
+- **README 收 7 个**（140 → 147），都是满 7 天且建仓后有新提交：
+  - 技能与玩法：company-notes/grok-bot-backup（短评带了导出包无密码、可能含凭证的警示）、naoiseirwin/Tesla-Grokbot-Connector。
+  - 多 Bot 团队：crusader0711/specialized-ai-grok-empire、vib-z/stampede、GlennHasABeard/foreman。
+  - 中文一人公司：ericyangpan/grokbot-weixin。
+  - 自托管与平替：alexsergivan/kwant（15★，AGPL-3.0）。
+- **recheck 移出 6 个**：
+  - 0xreggiej/grok-bot-router：404。
+  - maplenk/grok-wear：走未公开的客户端私有接口，作者自己写了可能违反 xAI 条款。
+  - Cisen07/harness-bridge：通用调度器，安装说明不提 Grok Bot。
+  - hermeshai/hermesh：多家通用，默认走托管中继。
+  - walter-grace/cooks：通用销售 MCP。
+  - digitalocean/grokbot-plugin：README 不提 Grok Bot。
+- **recheck 延期 11 个到 11-05**：
+  - 10 个第 1 次延期，都是建仓后没有新提交。
+  - franklinjavier/grokbot-quota-template 第 2 次延期，再不过线就移出。
+- **X 收 3 篇**（docs 里已有，核过保留）：
+  - @VibeMarketer_：3.8 万粉。
+  - @thebobmcintosh：2 万粉，文末工作坊推广已在短评注明。
+  - @DotComParker：13.6 万粉。
+- **X 撤 1 篇**：@runes_leo 2115466116831068329。
+  - 提醒条件原文是 claim、mint、allowlist、snapshot，偏币圈空投；而且 1 赞 0 收藏。
+  - 你的短评把 mint 和 snapshot 换成了「抢先领取、白名单」，又是把原主题藏了。
+- X 从 232 篇增至 235 篇，教程合计从 265 增至 268，首图已重出。
+- **进 recheck 1 个**：huaspirit123/grokbot-visual-office，11-04 到期。
+- **不收 5 个**：
+  - alexkrnlv/grokbot-second-brain：无 License。
+  - Usefnoureldin/hostbase-grok-bot-plugin：单一商业服务。
+  - espinobj/grok-bot-tray：今天才建仓，下次有提交再报。
+  - talentacommerce、inorbit01：短帖。

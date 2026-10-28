@@ -87,28 +87,19 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [cwijayasundara/cloud_harness_bots_v1](https://github.com/cwijayasundara/cloud_harness_bots_v1) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 六个 bot 岗位派 `claude --cloud` 干活，每次提交跑 ub-crap/ub-dry 质量门，`chb merge` 按策略决定能否合并；过线时放「多 Bot 团队」 |
 | [nsoliven/grok-bot-setup](https://github.com/nsoliven/grok-bot-setup) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 家用 Linux 不开公网接 bot：T3 Code 线程真在等你才发 webhook（只发元数据、有日上限），回聊天一句话经 4 个工具的窄权限 MCP 回复；cloudflared 只出站；过线时和 t3-tots、T3 Code Bridge 模板一起看 |
 | [rakei076/resethook](https://github.com/rakei076/resethook) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | Codex 额度重置预告经 webhook 叫醒 bot，skill 估算能否在截止前用完再派只读 Codex 任务；安装走第三方站点 `curl \| sh` 和托管服务，过线时先读源码、确认能不能自部署，不能就拒 |
+| [huaspirit123/grokbot-visual-office](https://github.com/huaspirit123/grokbot-visual-office) | 11-04 | 0★ · Apache-2.0 · 建 10-28 · 最近提交 10-28 | 多 Bot 像素办公室看板：一眼看谁在干活、谁卡住、谁等你确认；纯前端无后端无 key，按 JSON Schema 喂数据，中文默认、示例数据虚构；过线时和 Olivia295/grokbot-team-monitor-UI 比一比 |
 | [Crokily/pi-durable-bot](https://github.com/Crokily/pi-durable-bot) | 11-04 | 1★ · MIT · 建 10-28 · 最近提交 10-28 | 开源平替 Pots：自托管任意模型，崩溃续跑、发送去重；过线时放「自托管与平替」，和已收平替比有没有独到处 |
-| [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 10-29 | 0★ · MIT · 建 10-22 · 3 次提交 | 云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
-| [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
-| [maplenk/grok-wear](https://github.com/maplenk/grok-wear) | 10-29 | 0★ · 自定义 LICENSE（API 显示 NOASSERTION）· 建 10-22 · 2 次提交 | 非官方 Wear OS 手表语音客户端；到期读 LICENSE 原文，非标准许可证就不收 |
-| [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 10-29 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
-| [mehh/vm-vitals](https://github.com/mehh/vm-vitals) | 10-29 | 0★ · MIT · 建 10-22 · 14 次提交 | 一段 prompt 让 bot 在云电脑上装监控 agent，出 CPU/内存/进程仪表盘；数据报给作者的站点，还能开公开页，到期核隐私说明和数据存哪 |
-| [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 10-29 | 0★ · MIT · 建 10-22 | 中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
-| [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 10-29 | 0★ · MIT · 建 10-22 | 主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
-| [company-notes/grok-bot-backup](https://github.com/company-notes/grok-bot-backup) | 10-29 | 0★ · MIT · 建 10-22 | 繁中 box 备份/导出（人设、记忆、对话、附件）；产出含私密对话和可能的凭证，收录时短评必须带这条警示 |
-| [207studio-oss/kiwi-hook](https://github.com/207studio-oss/kiwi-hook) | 10-29 | 0★ · MIT · 建 10-22 | Codex / Claude Code 回合结束 hook → webhook 叫醒 bot 验收、开 PR、派下一步；短评写清「规则允许才合并」 |
-| [crusader0711/specialized-ai-grok-empire](https://github.com/crusader0711/specialized-ai-grok-empire) | 10-29 | 0★ · MIT · 建 10-22 | 家庭/小公司 bot 团队制度包：幕僚长前门、GREEN/YELLOW/RED 审批分级、缺数据出 gap card；过线放「多 Bot 团队」 |
-| [zzyong24/grokbot-team-kit](https://github.com/zzyong24/grokbot-team-kit) | 10-29 | 0★ · MIT · 建 10-22 | 中文一人内容团队整包：总管 + 14 张岗位卡、6 类审批点、共享罗盘目录；过线放「中文一人公司」或「多 Bot 团队」 |
-| [Cisen07/harness-bridge](https://github.com/Cisen07/harness-bridge) | 10-29 | 0★ · MIT · 建 10-22 | 云端 bot 经 Tailscale 调度本机 Codex / Claude Code，终态 webhook 回推；短评写明要开 tailnet 和本机常驻服务 |
-| [0xreggiej/grok-bot-router](https://github.com/0xreggiej/grok-bot-router) | 10-29 | 0★ · MIT · 建 10-22 | 本机 shell 桥，Grok Bot 经 Magpie 派活给 Codex / OpenCode，验收要回读产出文件；需本机已装 Magpie CLI |
-| [devicki/ourobot](https://github.com/devicki/ourobot) | 10-29 | 0★ · MIT · 建 10-22 | 顾问 bot：把 Q00/ouroboros 包成 Grok Bot 引擎，本机跑 Ouroboros MCP + Claude Code + Grok Build；默认只咨询、验收，到期核是否真以 Grok Bot 为主 |
-| [ericyangpan/grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin) | 10-29 | 0★ · MIT · 建 10-22 | 微信 iLink → Grok Bot webhook 双向桥，目前只有 README；到期看代码有没有补上；10-24 Grok 报已长成完整 TS 桥（CF Worker/Node、媒体解密、allowlist），到期按新内容写短评 |
-| [naoiseirwin/Tesla-Grokbot-Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) | 10-29 | 0★ · MIT · 建 10-22 | 只读 Tesla Fleet MCP（电量、充电、行程，不能控车），目前只有 README |
-| [hermeshai/hermesh](https://github.com/hermeshai/hermesh) | 10-29 | 0★ · Apache-2.0 · 建 10-22 | 云端 bot 经 MCP 派活给本机 Claude Code / Codex，Touch ID 批项目授权；短评写明本机要常驻服务 |
-| [walter-grace/cooks](https://github.com/walter-grace/cooks) | 10-29 | 0★ · MIT · 建 10-22 | 自托管销售外联 + 32 工具 MCP；到期核是否以 Grok Bot 为主，还是通用 MCP |
-| [Obiwayne/grokbot-receipts](https://github.com/Obiwayne/grokbot-receipts) | 10-29 | 0★ · MIT · 建 10-22 | @bot 事实核验 skill：归档原文、逐字核引文、两家独立来源才下结论，只出草稿不发帖；作者注明 Grok Bot 包没真机测 |
-| [antonyfuentesdev/spanish-teacher-bot-template](https://github.com/antonyfuentesdev/spanish-teacher-bot-template) | 10-29 | 0★ · CC BY-NC 4.0（GitHub 识别为 Other）· 建 10-22 | 西语教师 bot 模板源：人设、记忆、routine、13 个 skill；收录时注明不能商用 |
-| [digitalocean/grokbot-plugin](https://github.com/digitalocean/grokbot-plugin) | 10-29 | 0★ · MIT · 建 10-22 | DO 官方插件：7 个 MCP + 11 个 skill；README 主写 Cursor，到期核能否原生装进 Grok Bot，商业类每节最多 1 条 |
+| [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 11-05 | 0★ · MIT · 建 10-22 · 3 次提交 | 10-29 第 1 次延期：建仓后没有新提交；云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
+| [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 11-05 | 0★ · MIT · 建 10-22 · 1 次提交 | 10-29 第 1 次延期：建仓后没有新提交；Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
+| [franklinjavier/grokbot-quota-template](https://github.com/franklinjavier/grokbot-quota-template) | 11-05 | 0★ · MIT · 建 10-15 · 只有 1 次提交 | 10-29 第 2 次延期：唯一一次提交在建仓次日，之后没有新提交，11-05 再不过线就移出；只读的舰队用量看板模板；已满 7 天但建仓后没有新提交，不过线；到期有新提交再看 |
+| [mehh/vm-vitals](https://github.com/mehh/vm-vitals) | 11-05 | 0★ · MIT · 建 10-22 · 14 次提交 | 10-29 第 1 次延期：建仓后没有新提交；一段 prompt 让 bot 在云电脑上装监控 agent，出 CPU/内存/进程仪表盘；数据报给作者的站点，还能开公开页，到期核隐私说明和数据存哪 |
+| [misselvexu/grokbot-x-ops-skill](https://github.com/misselvexu/grokbot-x-ops-skill) | 11-05 | 0★ · MIT · 建 10-22 | 10-29 第 1 次延期：建仓后没有新提交；中英双语单文件 skill，访谈后自动建 X 运营 bot + skills + routines，起草→人批→发布；过线放「技能与玩法」 |
+| [Obiwayne/grokbot-inbox-assistant](https://github.com/Obiwayne/grokbot-inbox-assistant) | 11-05 | 0★ · MIT · 建 10-22 | 10-29 第 1 次延期：建仓后没有新提交；主线是 n8n + AgentMail + Grok API，不是 Grok Bot；`grok-bot/` 子包作者注明未实测。到期看 Grok Bot 轨道是否成主线，否则移出 |
+| [207studio-oss/kiwi-hook](https://github.com/207studio-oss/kiwi-hook) | 11-05 | 0★ · MIT · 建 10-22 | 10-29 第 1 次延期：建仓后没有新提交；Codex / Claude Code 回合结束 hook → webhook 叫醒 bot 验收、开 PR、派下一步；短评写清「规则允许才合并」 |
+| [zzyong24/grokbot-team-kit](https://github.com/zzyong24/grokbot-team-kit) | 11-05 | 0★ · MIT · 建 10-22 | 10-29 第 1 次延期：建仓后没有新提交；中文一人内容团队整包：总管 + 14 张岗位卡、6 类审批点、共享罗盘目录；过线放「中文一人公司」或「多 Bot 团队」 |
+| [devicki/ourobot](https://github.com/devicki/ourobot) | 11-05 | 0★ · MIT · 建 10-22 | 10-29 第 1 次延期：建仓后没有新提交；顾问 bot：把 Q00/ouroboros 包成 Grok Bot 引擎，本机跑 Ouroboros MCP + Claude Code + Grok Build；默认只咨询、验收，到期核是否真以 Grok Bot 为主 |
+| [Obiwayne/grokbot-receipts](https://github.com/Obiwayne/grokbot-receipts) | 11-05 | 0★ · MIT · 建 10-22 | 10-29 第 1 次延期：建仓后没有新提交；@bot 事实核验 skill：归档原文、逐字核引文、两家独立来源才下结论，只出草稿不发帖；作者注明 Grok Bot 包没真机测 |
+| [antonyfuentesdev/spanish-teacher-bot-template](https://github.com/antonyfuentesdev/spanish-teacher-bot-template) | 11-05 | 0★ · CC BY-NC 4.0（GitHub 识别为 Other）· 建 10-22 | 10-29 第 1 次延期：建仓后没有新提交；西语教师 bot 模板源：人设、记忆、routine、13 个 skill；收录时注明不能商用 |
 | [aipmer/codex-grok-task-bridge](https://github.com/aipmer/codex-grok-task-bridge) | 10-30 | 4★ · Apache-2.0 · 建 09-12 · 最近提交 09-20 | 门槛已过，但 README 自己写 Grok Bot 侧「还要接 connector、测 routine」。到期看作者跑通没有，跑通就收；仍没跑通就移出 |
 | [markmcnair/chief-of-staff-kit](https://github.com/markmcnair/chief-of-staff-kit) | 10-30 | 0★ · MIT · 建 10-23 | Beeper / iMessage 新消息 → webhook routine 起草，只有你批准的行才经 Supabase outbox 发出；短评写明要接 Supabase 和本机 Mac |
 | [yeemio/grokbots-team](https://github.com/yeemio/grokbots-team) | 10-30 | 0★ · MIT · 建 10-23 | 多 bot 团队运维小工具（PR 交接唤醒总管、X 草稿队列不自动发）；到期看是否脱离个人环境、能给别人用 |
@@ -120,7 +111,6 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Vedant817/vesper-grok-bot-bridge](https://github.com/Vedant817/vesper-grok-bot-bridge) | 10-30 | 0★ · MIT · 建 10-23 | Grok Bot 当编码 agent 的监工：派活、补输入、同会话返工、看真实验证结果再验收；两套模板（T3 Connect / 本仓 MCP 桥接 ACP 编码 CLI，隔离 worktree）；过线放「多 Bot 团队」或「技能与玩法」，短评写明本机要跑 MCP 桥 |
 | [mascarock/grokbot-inbox](https://github.com/mascarock/grokbot-inbox) | 10-30 | 0★ · MIT · 建 10-23 | bot 按 skill 只读导出自己的邮件，打包进 URL fragment，纯前端本地解码显示，不发信不回信；过线放「技能与玩法」 |
 | [Zhanweelee/wechat-clawbot-grok-bridge](https://github.com/Zhanweelee/wechat-clawbot-grok-bridge) | 10-30 | 0★ · MIT · 建 10-23 | 微信 ClawBot ↔ webhook routine 的 Go 单文件桥，扫码登录、长轮询转发、本地接口回帖；过线放「中文一人公司」，短评提醒微信接口合规风险 |
-| [vib-z/stampede](https://github.com/vib-z/stampede) | 10-29 | 3★ · MIT · 建 10-22 · 最近提交 10-23 | Grok Bot 当入口，经 Tailscale 私网把任务交给本机 Claude Code lead，再分派 Codex/Cursor 等本地 agent，进度走 webhook 回 bot；和 vesper-grok-bot-bridge 同方向，到期一起看，过线放「多 Bot 团队」并写明要开本机执行 |
 | [RongleCat/grok-bot-esp32-sdk](https://github.com/RongleCat/grok-bot-esp32-sdk) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 非官方 ESP-IDF C++ 组件：PKCE 登录、bot 名册、发消息、回复流解码；作者同已收的 Grok Bot Clipper。走非公开接口，过线放「硬件」并写明非官方 |
 | [TeebooTed/desk](https://github.com/TeebooTed/desk) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-24 | 本机单文件项目看板，经本地 relay 发消息到 webhook routine，bot 回写 status.json；过线放「技能与玩法」 |
 | [Obiwayne/dawnbrief](https://github.com/Obiwayne/dawnbrief) | 10-30 | 0★ · MIT · 建 10-23 · 最近提交 10-23 | 早 7 点只读简报（日历、邮件、RSS），带本机 preview；作者说 Grok 包未真机测，收的话写明；过线放「Routine 与摘要」 |
@@ -139,8 +129,6 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [ThreeArisesAll/grok-bot-team-builder](https://github.com/ThreeArisesAll/grok-bot-team-builder) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 中文 skill：按「一 bot 一事、文件交接、只在决策点等人」现场建队并冒烟，附三人试跑产出；过线放「多 Bot 团队」 |
 | [SnazzyGaz/bot-beacons](https://github.com/SnazzyGaz/bot-beacons) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Windows 桌面悬浮信标，一 bot 一个，有活发光；经免费 ntfy 中继（加密），收的话写明 |
 | [jbronssin/echo-dot-grok](https://github.com/jbronssin/echo-dot-grok) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 旧 Echo Dot 解锁后当语音听筒接 Grok Bot；要刷机、走桌面端私有接口，过线放「硬件」并写明风险 |
-| [alexsergivan/kwant](https://github.com/alexsergivan/kwant) | 10-29 | 2★ · Apache-2.0 · 建 10-22 · 最近提交 10-24 | 自托管多 bot 一体二进制（Rust+React）：spaces、@ 交接、审批卡、routines，对标 Grok Bot；过线放「自托管与平替」 |
-| [GlennHasABeard/foreman](https://github.com/GlennHasABeard/foreman) | 10-29 | 0★ · MIT · 建 10-22 · 最近提交 10-25 | 一组只读 X 运营 bot，可用 Foreman 整队装或单个挑；只读不发帖 |
 | [rystedtcreative/grokbot-omalauncher-widget](https://github.com/rystedtcreative/grokbot-omalauncher-widget) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | Android Omalauncher 主屏挂件：bot 列表加未读点，setup bot 引导建私有 GitHub feed、手机只用只读 deploy key；过线放「技能与玩法」 |
 | [hnn22/lesgooo-grok-plugin](https://github.com/hnn22/lesgooo-grok-plugin) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-24 | 好友凑局 skill + 远程 MCP（空闲比对、地点投票、分账不转账），走作者的 lesgooo.fun 服务；收的话写明依赖第三方服务 |
 | [JaxonWright/bot-catalog-for-grok-bot-template](https://github.com/JaxonWright/bot-catalog-for-grok-bot-template) | 10-30 | 1★ · GPL-3.0 · 建 10-23 · 最近提交 10-24 | 自更新 bot 目录模板：分享链接给的是拷贝、不随作者更新，目录里每个 bot 带日更 routine，有新 release 才问你升不升；GPL-3.0 要写明；过线放「模板与目录」 |
@@ -167,6 +155,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 
 ## 已移出
 
+- 10-29 收进 README：company-notes/grok-bot-backup、naoiseirwin/Tesla-Grokbot-Connector、crusader0711/specialized-ai-grok-empire、vib-z/stampede、GlennHasABeard/foreman、ericyangpan/grokbot-weixin、alexsergivan/kwant（15★，AGPL-3.0）。都是满 7 天且建仓后有新提交
+- 10-29 移出：0xreggiej/grok-bot-router（仓库已 404）；maplenk/grok-wear（作者写明走 Grok Bot 未公开的客户端私有接口，可能违反 xAI 条款）；Cisen07/harness-bridge（21★，但安装说明不提 Grok Bot，是通用云端调度器）；hermeshai/hermesh（Grok Bot、ChatGPT、Claude、Codex 通用，默认走 hermesh.io 托管中继）；walter-grace/cooks（通用销售 MCP，Claude、Grok、Cursor 都能接）；digitalocean/grokbot-plugin（README 不提 Grok Bot，是通用 Agent Plugins 包）
 - 10-28 收进 README：twhit223/grok-bot-cos（建仓 10-01，10-20、10-21 有新提交）、DynamaxVV/mygrokbot-host、AIPMAndy/grok-bot-handbook、themsquared/grok-bot-cross-agent-leak（Techdirt 10-19 报道可查，放学习资源）。都是满 7 天且建仓后有新提交
 - 10-28 移出：siuserxiaowei/grokbot-recipes（grokguide.si 站方的同类清单，参考本仓结构并已注明出处；清单套清单不收，站点导航也有代充入口）；taasky/plugin（Cursor / Claude Code / Codex 通用的商业 MCP）；Amal-David/talk-to-me（ChatGPT、dots、Grok 通用中继，未部署，Grok Bot 唤醒适配器默认关闭、只用假 HTTP 测过）；Twiniti-Hub/needful-things-plugin（README 只写 Grok Build，不提 Grok Bot）；yunjian-ai/yunjian（通用组合 skill，Grok Bot 只是「也可以装」的客户端之一）
 - 10-27 收进 README：jethros-projects/botter、lingverse-ai/lingverse（LICENSE 文件写明内容 CC BY 4.0、代码 MIT）、qubicsdata/grok-starter-kit、holdtapp/holdt、heyalchang/grokbot-box-heal、skorten/grokbot-os、devrecated/grokbot-management-console（原 grokbot-routines 改名，两行合一）。都是满 7 天且建仓后有新提交
