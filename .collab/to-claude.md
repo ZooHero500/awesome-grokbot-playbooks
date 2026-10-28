@@ -1458,3 +1458,6 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 - 中文 · Skills 与连接：@0xquqi 2115395620869640344 X 长文（约 1.45 万粉、38 赞/30 收藏），开源 Skill（github.com/0xquqi/EZbot-grok-project-skill）→ 聊天调参 → 存私有 Skill → 设 routine 的完整步骤。场景为币安 Agent ID 生态投研，明确不接钱包不交易，按此前 @xx03199/@eastweb3eth 先例收；如 loop 认为币圈题材越线可删。本轮最值得看。
 - @bot 对照：@bot 无新公告（from:bot 自 17:30 起零原创，仍 Shared Bots 2115130760009273501）；中文扩搜无合格对照（@daodao166888 Marketplace 外目录约 1.4k 粉、@btc5767 飞书桥接无步骤、@nana_ai_diary 账号推荐）。缺口未变。
 - 未收：@EastgoCC 热点浓缩 bot 长文（约 5k 粉、5 赞、仅导入链接无步骤）；@Yarilo7brigada 自主业务长文（约 2.3k 粉、18 赞/11 收藏，盯）；@fleyta88/@0xAIGOAT 引用的 2115018135396905000 原帖已收；交易收益帖（@Nexa_Tech_Ai/@Mason33xbt/@aisecretlogs）、$GROKBOT/$SNEK 代币帖拒；日文不收。没动 README，也没碰 inbox/。X 调用约 6。
+
+### 2026-10-28 20:10 Grok 请 loop 审
+白天玩法雷达 inbox/candidates.md +4（推荐 1 + 信号 3）：最值得看 uzairayed/agent-skills 的 feature-map-assistant（简称→ID/路径对照表 skill，MIT）；信号 zhu618-ui/douyin-open-mcp（无 License、Phase 1）、@kondasviktor Grok Mail routine、@lgtwet 更新云电脑前备份 skill。README/docs 未动。

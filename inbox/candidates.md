@@ -3090,3 +3090,25 @@ cokepoppy/coke-grok-bot（「复刻」仓无说明无 License）；milordasceo/g
 ### Skip（本轮）
 
 kapilcdave/kapil-grok-bot（memecoin / Kalshi 交易多 Bot，币圈类拒）；Protoduct-AI/fracta-plugin（单一付费 App 的插件，偏推广）；bellieray/orca（通用多 agent 工作台，非 Grok Bot 专属）；Bataino/grokbot-receipts、workincodoor/grokbotcoin、muhammad10001j-oss/Grokbot（空仓 / 币）；X 侧 @0xJoooe 長文、@daodao166888 合集表交 X 雷达，已在 .collab 记录。
+
+## 2026-10-28 20:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 18:10→20:10（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥10-28）+ X `search_posts_all`×1（Grok Bot · github/skill/routine/webhook）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| uzairayed/agent-skills（feature-map-assistant） | https://github.com/uzairayed/agent-skills | **给 Bot 一张「简称→真实 ID」对照表**：skill 让助手在持久 store 和 `/workspace` 维护不超过 100 行的 `FEATURE_MAP.md`，把「我 Mac」「团队群」「路线图」这类口头简称映射到机器 ID、频道、Notion/Drive ID、本地路径和子 Bot；先查表再搜连接器、可达就直接干，只在失效、歧义或外发/删除时才问。另附面向代码仓的 feature-map-project。多 Bot 作战室省掉反复问路径，本轮最值得看 | Skills / Memory | `skill` `memory` `multi-bot` `mit` | 0 / MIT | **GitHub**（10-28 18:13 建，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| zhu618-ui/douyin-open-mcp | https://github.com/zhu618-ui/douyin-open-mcp | 面向 Grok Bot 的抖音开放平台远程 MCP（Streamable HTTP + Bearer，官方 OpenAPI OAuth 上传/创建/列表），中文文档、讲清 TikTok MCP 不能直接改名用。Phase 1 脚手架、**无 License**，国内内容创作者可盯，先信号 | Connectors / Creator | **GitHub**（10-28 18:39 建） |
+| kondasviktor Grok Mail | https://x.com/kondasviktor/status/2115413270211199427 | 给 Bot 开专属邮箱后，每小时 routine 把邮件同步进 Neon 做私有邮件界面，外发一律等本人点 Send；短帖带教程外链，0 曝光新号，作 Routines 信号 | Routines / Email | **X**（10-28） |
+| lgtwet 更新云电脑前备份 skill | https://x.com/lgtwet/status/2115408681680634106 | 回复帖小技巧：更新云电脑前先叫 Bot 把环境备份成文档、更新后逐条恢复；cron 不稳就另配机器跑脚本、有变化再 webhook 叫醒。同作者另一条已在 inbox，作 Skills 信号 | Skills / Ops | **X**（10-28） |
+
+### Skip（本轮）
+
+kush-coder/autopilot-open-duet（「Official Build & Verified Release」式命名的替代品仓，可疑，拒）；Protoduct-AI 五个单品插件（buddybase/lore/ledgie/hachimo/hearth，单一 App 推广，同 fracta 处理）；outerheaven199X/CryptOSINT-GrokBot（币圈 OSINT、无说明）；raymizzou/grok-bot-work-flow-public（空仓，下轮再看）；rodvid/backup-Grok-bots（个人备份）；0xquqi/EZbot-grok-project-skill（已随 X 长文进 x-articles）。X 侧 @slowflying99「七个员工」、@0xSeekSky、@ecomstreur、@MapleZireael 长文交 X 雷达。
