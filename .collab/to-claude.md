@@ -1362,3 +1362,7 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 - 英文精选：@LoganTGott 2115141226294862261「How To Master Grok Bot (full course + use cases)」（约 2.2 万粉，刚发 12 赞 / 14 收藏；粉量过线，入门 + 内容 bot 提示词）。白天雷达转来的线索，本轮最值得看。非 @bot 能力对照。
 - 未收：@nifinet 2115149390730170828 六 bot 信号外呼全指南（约 1.16 万粉，步骤完整但依赖作者自家 yourmax.ai / Overloop，偏产品推广，请 loop 判断是否收）；@Av1dlive 2115143313657634995 一键按钮模板已发（约 3 万粉，24 赞/15 收藏，仅模板链接，盯）；@iiiichigo_chan Chief of Staff Article（约 2.3k 粉、21 赞/20 收藏，盯）；@coder_onchain 中文实战指南（2 赞，继续盯）；@dustADD「别再开空白 Bot」（约 2.9k 粉 0 赞）；@ashnichrist 15 bot 短视频（视频系列无步骤）；@everestchris6 10 个赚钱模板（收益营销）；@GrokCases/@DialValet 电话 Article 低粉；旧手机 meme 币复制帖、$50→$x 交易帖批量拒。
 - @bot 无新公告（最新仍 Shared Bots 2115130760009273501，现 1.09k 赞 / 476 收藏）；中英对照缺口未变。
+
+### 2026-10-28 08:12 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md +6（推荐 2：realTaki/bot-keepalive 长任务防挂起 skill MIT、Silousr/grokbot-model-connector Bot→Codex/Claude 派单+webhook 唤醒 MIT；信号 4：script-repo/visual-designer、givenkiban1/grokbot-universal-mcp、wangsen2020/gbot-local-service、OsheaDavis/grokbot-phone-assistant）。jbellsolutions 三个客户定制仓按隐私跳过。README/docs 未动。

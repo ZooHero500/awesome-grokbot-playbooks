@@ -2929,3 +2929,27 @@ JiachengWu-5/astrbot_plugin_dafeiyu_deskpet（AstrBot QQ 桌宠插件，与 Grok
 ### Skip（本轮）
 
 AmitMirgal/orgbot-hub、PhillipHolland/grokbotshelf、rowama/mmbridge、eugeniughelbur/obsidian-second-brain 等本窗有 push 但已列；elie222/rakazo、5dive-ai/5dive、leepokai/Codync 等「开源替代品」非 Grok Bot 玩法；MyGrokOrg/* 数学库、Bronsonalan/pi-adblocker 无配方；X 本窗多为模板自推（Harper、Mend & Move、Signal 连接模板等无仓）、收益营销、Spam/数据删除转述；X Article（@coder_onchain 中文实战指南、@dustADD「别再开空白 Bot」、@LoganTGott 全课程）交给 X 雷达判断。
+
+## 2026-10-28 08:12 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接 / handle 与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 02:02→08:12（Asia/Shanghai）`gh search`（grokbot / grok-bot created≥10-27、"grok bot" updated≥18:00Z）+ X `search_posts_all`×1（无可用）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| realTaki/bot-keepalive | https://github.com/realTaki/bot-keepalive | **长任务防云电脑挂起的 skill**：Grok Bot 没有活跃回合时会挂起整台云电脑，`nohup`/`tmux` 后台任务也一起冻住；做法是任务脱离会话启动并登记到一个目录，再开一个 low effort 守护 subagent 连续阻塞等待、每 5 秒查一次，全部结束或到硬截止就退出。README 自带中文简介，并直说守护期间持续耗额度，适合配合省额度条目一起讲取舍。本轮最值得看 | Skills / Long jobs | `skill` `box` `long-job` `subagent` `mit` | 1 / MIT | **GitHub**（10-28 02:05 建） |
+| Silousr/grokbot-model-connector | https://github.com/Silousr/grokbot-model-connector | Bot 把活派给本机已登录的 Codex CLI / Claude Code（用你自己的订阅），按钮选模型、跨模型保留记忆与上下文；任务完成、失败、卡住、超时或取消时经 webhook 叫醒 Bot。纯 Python 标准库、只本机单用户、不开端口（webhook 设置时有一次性回环表单），附模板 skills。与已收 herdr 通知类互补：这个是 Bot 主动派单 | Bridges / Coding agents | `mcp` `codex` `claude-code` `webhook` `mit` | 0 / MIT | **GitHub**（10-28 07:35 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| script-repo/visual-designer | https://github.com/script-repo/visual-designer | 「设计工作室」人设 + skill：驱动开源 Crafting Apps 套件的无头 CLI 出海报、logo、PDF、调色、短视频，纯 CPU。MIT，但依赖小众套件，先信号 | Skills / Creative | **GitHub**（10-28 06:12 建） |
+| givenkiban1/grokbot-universal-mcp | https://github.com/givenkiban1/grokbot-universal-mcp | 自托管 Claude ↔ Grok Bot 双向桥：Claude 经 MCP 派活唤醒 Bot 的 webhook routine，Bot 用一条 curl 回帖到同一线程；带后台面板与 `grokbot-delegation` skill。无 License、需自建服务器与隧道，先信号 | Bridges / Multi-agent | **GitHub**（10-28 03:18 建） |
+| wangsen2020/gbot-local-service | https://github.com/wangsen2020/gbot-local-service | 中文：把第三方 `grok-bot-cli` 包成只监听 127.0.0.1 的本地 HTTP 服务（异步 jobs、去重、续查），让浏览器扩展和脚本给 Bot 发消息。非官方、复用桌面端登录会话、无 License，先信号 | Bridges / Local | **GitHub**（10-28 02:31 建） |
+| OsheaDavis/grokbot-phone-assistant | https://github.com/OsheaDavis/grokbot-phone-assistant | 已脱敏的电话助理：Twilio 号码 + Fly.io + xAI 实时语音接听留言、发摘要，外呼每通须人工批准，带隐私护栏。MIT，但不是 Grok Bot 内玩法，作语音信号 | Voice / Phone | **GitHub**（10-28 03:16 建） |
+
+### Skip（本轮）
+
+jbellsolutions/wescale-grokbot-team、grokbot-lending-team、spike-it-up-ai-team（为具名客户定制的团队仓，含客户姓名与业务，不点名进公开候选；「一段粘贴让主 Bot 按 START-HERE 搭团队」模式可留作写法参考）；owenpkemp-hub/grok-bot-desk（Solana 交易台，币圈类拒）；sajjadgrw1/grokbotxai、RainShow/grok-bot、hawkeg/grok-bot-showcase 空仓或无说明；其余本窗 push 均已列。
