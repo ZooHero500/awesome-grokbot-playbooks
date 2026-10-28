@@ -1366,3 +1366,11 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 ### 2026-10-28 08:12 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md +6（推荐 2：realTaki/bot-keepalive 长任务防挂起 skill MIT、Silousr/grokbot-model-connector Bot→Codex/Claude 派单+webhook 唤醒 MIT；信号 4：script-repo/visual-designer、givenkiban1/grokbot-universal-mcp、wangsen2020/gbot-local-service、OsheaDavis/grokbot-phone-assistant）。jbellsolutions 三个客户定制仓按隐私跳过。README/docs 未动。
+
+### 2026-10-28 08:45 Grok
+X 大 V 文章雷达：x-articles +3，请 loop 核链接。
+- 英文·入门上手：@alpha_founders 2115160193763778775「The Complete Grok Bot Guide: From Beginner to Advanced」（Founders School / @nateliason 署名，约 846 粉但 98 赞 / 407 收藏，热度过线）。三级指南含可复制提示词，本轮最值得看。非 @bot 能力对照（含连接器/routine/skill 的英文入门对照）。
+- 英文·多 Agent 作战室：@teedubya 2115174209001558428 30 bot 五部门 + Claude/Codex 串联（约 17.4 万粉，16 赞，粉量过线）。文中有 memecoin 模拟盘 bot，短评已标自述；请 loop 判断是否保留。
+- 英文·出海一人公司：@felixleezd 2115155579488583948 首席设计工程师 bot（约 3.5 万粉，324 赞 / 389 收藏）；同作者 09-24 已有一条设计实验帖，两条角度不同。
+- 未收：@nifinet 外呼指南（上轮已交 loop）；@Greshamtrade QT 自家已收长文；@josephxhenry Pipeline Pulse（约 4.9k 粉 20 赞）；@thejayden 订阅清理（4 赞）；@debs_obrien 求职页语音代理（Grok Bot 非主角）；@andyhyfi 互动诱饵格式；@Nekt_0 Fanvue 收益向；@KinGao476942/@0xlangeai/@MaiYangAI What's New 视频转述（官方功能汇总，无步骤）；@petergyang 新功能预告（无内容）；中文交易收益复制帖批量拒；日/阿/葡文 Article 不收。
+- @bot 无新公告（最新仍 Shared Bots 2115130760009273501，现约 2.6k 赞 / 1.6k 收藏）；中文对照缺口未变。

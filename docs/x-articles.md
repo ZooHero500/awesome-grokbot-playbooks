@@ -135,6 +135,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [十步搭一支 Grok Bot 生活助理团队：Daily Chief + 三个专员](https://x.com/irongiantXBT/status/2109293672495784029) — @irongiantXBT · 2026-10-11 · X 长文十步：先让 Daily Chief 出带 AGENDA/SOURCES/OPEN QUESTIONS 的晨报，再写角色合同、连接一次、登录交接、存技能、挂 routine、拆 Inbox/Research/Life Admin 专员、群聊协作、ACTION/TARGET/REASON 审批线、每周 USED/REWORKED/IGNORED 复盘，每步附可粘贴提示词；约 500 赞 / 1.8k 收藏 · 英文
 - [Meet Your Cheapest Employee: Grok Bot](https://x.com/k1rallik/status/2114726480559112502) — @k1rallik · 2026-10-26 · X 长文：先给有终点线的活（竞品比价、清表格、小工具），手机派活再追问，附 5 段可复制提示词和 2 个可复用 skill，最后教你核算订阅值不值 · 英文
 - [Grok Bot Agents: How to Build an AI Team You Can Actually Trust (Full Guide)](https://x.com/0xjmori/status/2101661510091034926) — @0xjmori · 2026-09-20 · X 长文：先给 bot 一件出错也无所谓的小活，再写清终点线、权限边界、验收方式和必须停手的地方，一步步放权到 24/7 团队；约 1,800 收藏、466 赞 · 英文
+- [The Complete Grok Bot Guide: From Beginner to Advanced](https://x.com/alpha_founders/status/2115160193763778775) — @alpha_founders · 2026-10-28 · X 长文：Founders School 给学生写的三级上手指南，第一级接连接器、设晨间收件箱和会前准备 routine、做「像我一样写」skill，第二级拆出专职效率 bot 并让 bot 互相派活、接 SEO 等 API，第三级讲 23 个 bot 分工和手机端派活；开头附一段「先采访我再建两个 bot」的提示词；约 400 收藏 · 英文
 
 ### 多 Agent 作战室
 
@@ -175,6 +176,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Launch Anything from X with Grok Bot: 7 Bots, 1 Clock, 60 Runs a Week (Full Guide)](https://x.com/gippp69/status/2115018135396905000) — @gippp69 · 2026-10-27 · X 长文：7 个窄职 bot 共写一个 LEDGER.md 交接、首席 bot 把账本做成手机看板 Page，一个时钟加 6 个事件触发把周运行压到约 60 次，附可粘贴的共享规则与各 bot 指令（约 1.2 万粉，37 赞/25 收藏）· 英文
 - [9 个 bot 分四个部门：首席 bot 统管，夜班出货、早 7 点汇总](https://x.com/milesdeutscher/status/2115095293209539012) — @milesdeutscher · 2026-10-27 · X 长文：总务/市场/产品/销售四部门 9 岗，夜班 routine 交付、首席 bot 早报与晚间收尾，附每岗可粘贴提示词和一段「先访谈再设计团队、批准后再逐个建 bot、只起草不代发」的建队启动提示词，另列优缺点；约 68 万粉、约 60 收藏 · 英文
 - [11 个 bot 零点击跑九个平台：一岗一条线、互相传话不找人](https://x.com/drew_ponder/status/2115120349151219892) — @drew_ponder · 2026-10-28 · X 长文：内容、视频、音乐发行、会员活动等 11 岗各管一条线，先给每个 bot 贴一段「只守本岗、先读共享计划、记录每步、不花钱」的通用规则，再附每岗可粘贴设定和发帖前检查清单；约 1.8 万粉 · 英文
+- [How to Master Grok Bot in Under 15 Minutes (From a Guy Running 30 of Them)](https://x.com/teedubya/status/2115174209001558428) — @teedubya · 2026-10-28 · X 长文：约 17 万粉作者把 30 个 bot 按媒体、资金、研究、运营、建造五个部门列出各自岗位，由一个首席 bot 统管；后半讲 Pages、Vault 等新能力怎么接进现有团队，以及用 Cursor 云端代理、共用 MCP、GitHub issue 交接把 Grok Bot 和 Claude、Codex 串起来，已验证和待测试分开写；其中模拟盘交易 bot 仅作者自述 · 英文
 
 ### Routine 雷达与额度
 
@@ -271,6 +273,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [I Run My Content With Six AI Bots. I Only Talk to One of Them.](https://x.com/anytwocardzz/status/2115009901273497811) — @anytwocardzz · 2026-10-27 · X 长文：内容团队拆成热点、选题、写稿、书签转选题等单职 bot，首席 bot 每天 10:45 打包一条消息给三份草稿，附可复制提示词和第一周踩坑（约 1.5 万粉）· 英文
 - [Flop Coroner：让 bot 专门解剖没起量的帖子，复盘出五条死因](https://x.com/slash1sol/status/2115049607902200007) — @slash1sol · 2026-10-27 · 长帖：给 bot 一个只管「验尸」的岗位，逐条打开低于 5K 浏览的旧帖找原因，结论写进 never_again.md 发帖前必读；总结出首行超两行、凌晨发、视频黑屏开头、正文带链接、整段不换行五类坑，bot 不代发帖；作者约 1.4 万粉，涨幅为自述 · 英文
 - [How To Master Grok Bot (full course + use cases)](https://x.com/LoganTGott/status/2115141226294862261) — @LoganTGott · 2026-10-28 · X 长文：先讲清 Grok Bot 的云电脑、记忆、Routine、连接器、Skills 和多 bot 群聊，再按约 15 分钟走完安装和第一个 bot（只给一个岗），最后附作者做内容研究与分发的几个 bot 和可粘贴提示词；作者约 2.2 万粉 · 英文
+- [Grok Bot 当首席设计工程师：每周把数据流失点变成一版待批设计](https://x.com/felixleezd/status/2115155579488583948) — @felixleezd · 2026-10-28 · 长帖：给 bot 定好岗位后，它每周读分析数据找流失点、在 Paper 出一版设计、在 Linear 写清问题和改法、提醒别过度打磨，等本人选定才上线；作者约 3.5 万粉，约 320 赞 / 390 收藏，增长数字为自述 · 英文
 
 ## 不收的例子
 
