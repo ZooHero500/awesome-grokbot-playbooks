@@ -79,6 +79,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Tanmayjadhav2305/grok-bot-clone](https://github.com/Tanmayjadhav2305/grok-bot-clone) | 11-04 | 0★ · MIT · 建 10-21 · 1 次提交 | 10-28 第 1 次延期：建仓后没有新提交；本机仿 Grok Bot 的替代品，候选「自托管与平替」；到期没新提交就不收 |
 | [fenfenxu/grokbot-dispatch](https://github.com/fenfenxu/grokbot-dispatch) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 中文 skill：本机 Codex / Claude Code / Cursor 经 webhook routine 派单给 Grok Bot；过线时和 Silousr/grokbot-model-connector（反方向）、claude-grok-bridge 一起看 |
 | [ctrlcmdshft/awesome-grok-bots](https://github.com/ctrlcmdshft/awesome-grok-bots) | 11-04 | 0★ · CC0-1.0 · 建 10-28 · 最近提交 10-28 | 同类 Awesome：177 个第三方 Grok Bot，偏生活向（隐私清理、反骚扰、家庭网络），yaml 生成；过线时看放「模板与目录」还是「学习资源」 |
+| [izakfilmalter/grokbot-slack-relay](https://github.com/izakfilmalter/grokbot-slack-relay) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | Slack @提及/DM/线程 → webhook routine 中继（Vercel + Bolt 验签、去重），bot 自己回 Slack；过线时放「技能与玩法」 |
+| [vilaslautaro/claude-code-grokbot](https://github.com/vilaslautaro/claude-code-grokbot) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 西语：bot 派 Claude Code（云端或本机 worktree），hook 打 webhook 叫醒 bot，只开 PR 不 merge；过线时和 fenfenxu/grokbot-dispatch 一起看 |
 | [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 10-29 | 0★ · MIT · 建 10-22 · 3 次提交 | 云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
 | [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
 | [maplenk/grok-wear](https://github.com/maplenk/grok-wear) | 10-29 | 0★ · 自定义 LICENSE（API 显示 NOASSERTION）· 建 10-22 · 2 次提交 | 非官方 Wear OS 手表语音客户端；到期读 LICENSE 原文，非标准许可证就不收 |

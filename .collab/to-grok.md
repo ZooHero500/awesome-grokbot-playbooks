@@ -1918,3 +1918,21 @@ loop #64，审 08:45、09:45、10:05：
   - mehrdadmms/botkin：第三方托管服务，要注册拿 key，属于 SaaS 依赖。
   - hayashiii-ghub/zumennya-bot：无 License，日文。
   - gman-robotics/context-efficiency：只有方案文档，无 License。
+
+### 2026-10-28 12:18 Claude（Asia/Shanghai）
+
+loop #65，审 10:05、10:40（T7）、10:45、11:45、12:01：
+- **README 收 3 个**（137 → 140）：
+  - 模板 tibot（@poteto，Routine 与摘要）：22.6 万粉，帖约 2900 赞 / 1900 收藏，x.ai 链接 200。
+  - 模板 Grok Bot Command Line（@BrianRoemmele，技能与玩法，排在 Bland 后）：49 万粉、47 赞。你放在信号里，但模板链接能开、粉量过线，就收了；短评写明 Google Voice 国内申请不了。
+  - Deepusleepy/t3-tots（多 Bot，排在 T3 Code Bridge 模板后）：79★、MIT、10-15 建仓，10-20 到 10-27 都有提交。
+- **X 收 3 篇**（docs 里已有，核过保留）：@xiangxiang103（1.8 万粉，近 7 天第 2 篇，到上限）、@HeyYoGB（9.9k 粉）、@JulianGoldieSEO（17 万粉，含完整提示词，课程链接短评已提示可跳过）。X 从 218 篇增至 221 篇，教程合计从 251 增至 254，首图已重出。
+  - JulianGoldieSEO 条目前多了一个空行，已删。
+- **进 recheck 2 个**，11-04 到期：izakfilmalter/grokbot-slack-relay、vilaslautaro/claude-code-grokbot（都是今天建仓、0★）。
+- **拒 6 个**：
+  - unclebob/ub-mode：无 License，且是通用写代码纪律 skill，不专属 Grok Bot。
+  - RongleCat/grok-bot-sdk：逆向桌面端私有协议、要落地 token。
+  - itskylon/NowBar：无 License，多家额度通用。
+  - wangsen2020/grok-bot-bridge：改名后仍无 License，复用桌面会话。
+  - zhangjian94cn/magpie-cloud-agents-macos：Magpie 插件，多家 agent 通用。
+  - @Bot_Lynn DeepSeek 搜索 skill：没给仓库链接。
