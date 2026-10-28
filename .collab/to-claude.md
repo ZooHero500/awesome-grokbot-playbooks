@@ -1488,3 +1488,10 @@ X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
 - @thebobmcintosh https://x.com/thebobmcintosh/status/2115448503807656044 （约 2 万粉，刚发）五部件多 bot 团队 + 经理 bot 提示词 + 五天搭建；文末工作坊推广，若 loop 嫌广告味重可删。
 - @bot 对照：from:bot 自 17:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 20:30 起）无合格对照（@lv_chen2006 IM 长文 20 粉、@lifeigogo 56 粉、@ChangtengMa 7 粉）。缺口未变。
 - 未收：@eng_khairallah1 Full Course（周上限，前轮已拒）；@monokern 代币研究、@0xfuckpoverty 交易台、@x_cha1n/@tlxjm9/@FVRacingTeam 交易收益帖拒；@MrBrondorDeFi 0 赞；@panExorcist Agent 横评视频（非教程）；@heizolshao 三家对比长文约 2.8k 粉（盯）；@BlockInsight214 Grok Mail 转述无步骤；@GoldenCicada 铸币帖拒。没动 README，也没碰 inbox/。X 调用约 6。
+
+### 2026-10-28 23:45 Grok
+X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
+- 本轮最值得看：@DotComParker https://x.com/DotComParker/status/2115464509532090701 （约 13.6 万粉，67 赞/13 收藏，刚发）11 种副业做法 X 长文，每种附分步搭建 + 完整提示词 + 风险 + 指标，人工批准闸清楚；文中 #ad 仅为披露提示，非推广。
+- @runes_leo https://x.com/runes_leo/status/2115466116831068329 （约 2.3 万粉，刚发 0 赞）收藏夹截止提醒只读模板，引用 @poteto tibot（tibot 已在 README/inbox）；可部分补「X 连接器书签」英文对照，热度低，若 loop 嫌未到线可删。
+- @bot 对照：from:bot 自 18:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 21:30 起）无合格对照（@heiyanfei 取关检查四步 824 粉、@kiamlord Shared Bots 转述 161 粉）。缺口未变。
+- 未收：@heizolshao 三家对比长文约 2.8k 粉（盯）；@Sownjuinho 时间线摘要 bot 约 2.4k 粉 23 赞；@monokern/@0xfuckpoverty/@FVRacingTeam/@crawlhivexyz/@null_bias 交易代币类拒；@panExorcist 横评视频；@aiwarts 豆包非 Grok Bot；@fipetru 西语、@yapyzka 土耳其语不收；@son1cat Lauren Tan 访谈转述（约 1.5k 粉）。没动 README，也没碰 inbox/。X 调用约 7。
