@@ -1395,3 +1395,9 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - 英文精选：@HeyYoGB https://x.com/HeyYoGB/status/2115265797115527389 （约 9.9k 粉，2 赞/1 收藏，靠粉量过线；X 连接器 Lists 建列表英文实操）。
 - 拒：@aehyok 2115252802163548365「替换 Siri」实为 Renoise MCP + Pi 剪辑推广，主角非 Grok Bot；@congge918/@erichsu_eth 币安 Agent ID 打新拒；@BrianRoemmele Command Line 已在 inbox 信号；@SIAxiom 资源库目录偏薄；@Smallvillers 视频存档工作流（约 1.4k 粉 0 赞，盯）；@ai_chuhai AI-SEO Article（2.7k 粉 0 赞，盯）；@Bowen2xiong 7 bot 选题雷达（108 粉）。
 - @bot 无新产品帖（from:bot 自 02:00 UTC-ish 起零原创，最新仍 Shared Bots 2115130760009273501）。
+
+### 2026-10-28 11:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
+- 英文·出海一人公司：@JulianGoldieSEO https://x.com/JulianGoldieSEO/status/2115287849092477332 （约 17 万粉，刚发；粉量过线）。五岗 SEO 系统（Scout/Director/Writer/Doctor/Linker）提示词全给 + 周循环与人工闸。本轮最值得看。非 @bot 能力对照。同作者旧帖 2111799212505780327 曾在 inbox 标「SEO 营销文无配方」；本篇不同 ID、正文含完整提示词，请 loop 再判是否保留（文末 Skool/咨询链接偏多）。
+- 未收：@ai_goge 2115280899516584064 系列 1-6 文件与结果（步骤完整、约 3.6k 粉刚发 0 赞，但近 7 天同作者已收 1-2 + 1-5 达周上限，下轮盯）；@Openminded187A 2115264904198271175 铁工建队回忆录（约 5k 粉，叙事非可跟做配方）；@Joshua_WD 2115281654231036156 落地 ryangrowthh 变现指南（约 2.4k 粉未过线，内容扎实继续盯）；@AI_DVD6 2115277625145057448 Hey Grok 中文视频（约 4.4k 粉 0 赞，原帖 @Texas_Twins_Dad 周上限）；@BrianRoemmele Command Line 已在 inbox 信号；交易/旧手机 meme 币复制帖、日文 Article 拒；@ai_chuhai 选题/AI-SEO（约 2.6k 粉低互动，前轮同类已拒）。
+- @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501，约 2.9k 赞 / 1.9k 收藏）。中文扩搜 Shared Bots/Vault/电话/IncidentSweep/飞书/书签·私信/Auto-review：仅公告转述（@ppmmzzcn）与低粉感想，无合格对照。缺口仍开。

@@ -278,6 +278,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 当首席设计工程师：每周把数据流失点变成一版待批设计](https://x.com/felixleezd/status/2115155579488583948) — @felixleezd · 2026-10-28 · 长帖：给 bot 定好岗位后，它每周读分析数据找流失点、在 Paper 出一版设计、在 Linear 写清问题和改法、提醒别过度打磨，等本人选定才上线；作者约 3.5 万粉，约 320 赞 / 390 收藏，增长数字为自述 · 英文
 - [Have Grok Bot build X lists for you](https://x.com/HeyYoGB/status/2115265797115527389) — @HeyYoGB · 2026-10-28 · 长帖：一句提示词让 bot 按话题建公开 X 列表（排除已关注你的人），人工删掉不合适的再重复，最后置顶或放进 X Pro；作者 5 分钟建了 3 个各 45 人的列表，约 9.9k 粉 · 英文
 
+- [328 → 18,036 Google Clicks a Month: My Grok Bot SEO System (Full Guide)](https://x.com/JulianGoldieSEO/status/2115287849092477332) — @JulianGoldieSEO · 2026-10-28 · X 长文：Scout/Director/Writer/Doctor/Linker 五岗各附可粘贴提示词，周循环 + 上线前人工闸；流量与 AI 曝光数字为作者自述，文末有课程与咨询链接可跳过；约 17 万粉 · 英文
+
 ## 不收的例子
 
 - 「62 agents / 29 routines」一类多号同文的爆款模板帖（原帖正文只有一句，配置在图里）
