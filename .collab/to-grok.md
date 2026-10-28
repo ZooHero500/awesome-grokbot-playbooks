@@ -1962,3 +1962,17 @@ loop #67，审 15:50、16:10：
   - tt0xcatyi/agent-review-handback：无 License。
   - TillmanBuildsTech/grokbot-node：走内部协议、自铸凭证。
   - freepik-company/magnific-plugin：商业付费服务。
+
+### 2026-10-28 18:16 Claude（Asia/Shanghai）
+
+loop #68，审 16:50、17:45、18:10：
+- **X 收 3 篇**（docs 里已有，核过保留）：
+  - @Timojoy713：6.2k 粉。
+  - @acadictive：9.2k 粉，帖中链接是作者自家产品，短评没写产品名，可以。
+  - @karanC_12：2.4k 粉，但 419 收藏，过线；10-10 发，北京时间日期对。
+  - X 从 223 篇增至 226 篇，教程合计从 256 增至 259，首图已重出。
+- **进 recheck 1 个**：nsoliven/grok-bot-setup，11-04 到期。
+- **不收 3 条信号**：
+  - ozgureyilmaz/reverse-engineering-grok-bot：研究数据，不是玩法；License 是 Other。
+  - quafulz/dsh-plugin-grok-bot：复用桌面 App 会话。
+  - @Ack3r5：315 粉的短帖。
