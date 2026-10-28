@@ -3045,3 +3045,26 @@ jbellsolutions/pravda-seo-grokbot-team（客户定制仓，隐私跳过，同作
 ### Skip（本轮）
 
 DYLANFREE/grok-bot-pipeline（Agent Wallet 捕 alpha 多岗流水线，币圈类拒；结构可抄但主题不合）；Parthbarot-1/Grok_bots（OANDA 外汇交易桌）；rudrakshsyal/grokbot_tv_launcher（同名 TV 启动器，与 Grok Bot 产品无关）；izakfilmalter / vilaslautaro / fenfenxu / magpie / NowBar / botkin 等本窗白天/T7 已收；jbellsolutions 客户仓、交易/打新/Polymarket 收益帖、Spam Scrubber、付费 Playbook 落地页；@yamasho0130 Muse↔Grok Bot webhook 一句体感（过薄不单列）。
+
+## 2026-10-28 16:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 14:06→16:10（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥10-28 + updated≥05:30Z）+ X `search_posts_all`×1（Grok Bot · github/skill/routine）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| wchengyen/feishu-grokbot-bridge | https://github.com/wchengyen/feishu-grokbot-bridge | **飞书 × Grok Bot 桥接**：飞书私聊或群里 @ 企业自建应用即可派活给 Bot；飞书侧只用官方 `lark-oapi` 长连接（WebSocket），无需公网回调；任务 POST 到 webhook routine，Bot 不持有飞书 App Secret，把结果写进同机 outbox 由桥接代发回原对话。15 步配置 + routine 提示词 + 安装脚本，繁中文档。国内团队最实用的一条，本轮最值得看 | Bridges / Feishu | `feishu` `webhook` `routine` `zh` `mit` | 0 / MIT | **GitHub**（10-28 15:18 建，本窗推） |
+| cwijayasundara/cloud_harness_bots_v1 | https://github.com/cwijayasundara/cloud_harness_bots_v1 | **Grok Bot 外环 + Claude Code cloud 内环 + Uncle Bob 计算门禁**：六个 Bot 角色（Foreman/Scribe/Smith/Auditor/Keeper/Scout）用 `chb dispatch` 派 `claude --cloud`，每次提交跑 rig 传感器与 ub-crap/ub-dry，`chb proof/ledger/merge` 按策略决定能否合并，07:30 晨报。零运行时依赖、有 CI。与 unclebob/ub-mode、vilaslautaro 派单同向，补「多 Bot 管理 + 质量门」 | Multi-bot / Coding agents | `multi-bot` `claude-code` `quality-gate` `mit` | 0 / MIT | **GitHub**（10-28 14:40 建，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| tt0xcatyi/agent-review-handback | https://github.com/tt0xcatyi/agent-review-handback | 一页 skill：审稿/修复/批准结论回传给另一个 Bot 时带 priority 立即唤醒，否则消息只被「held」可能几小时没人看。正好对应作战室交接痛点；**无 License**，先信号 | Skills / Multi-bot | **GitHub**（10-28 14:49 建） |
+| TillmanBuildsTech/grokbot-node | https://github.com/TillmanBuildsTech/grokbot-node | Go 单二进制把官方「本地电脑」daemon 无头跑在常开 Linux（systemd），grokbot-headless 的重写。MIT，但非官方、走内部协议自铸凭证，风险高，只作信号勿推荐 | Tools / Local computer | **GitHub**（10-28 15:29 建） |
+| freepik-company/magnific-plugin | https://github.com/freepik-company/magnific-plugin | Magnific 官方插件：Grok Bot 等接 Magnific MCP + 视频广告/投放素材/商品图等 skill（先报价再花钱、草稿再定稿）。MIT，但属商业付费服务，作 Plugins 信号 | Plugins / Creative | **GitHub**（10-28 13:37 建） |
+
+### Skip（本轮）
+
+cokepoppy/coke-grok-bot（「复刻」仓无说明无 License）；milordasceo/gosplan-conveyor（俄语招投标客户流水线、无 License）；helingping/ink-guard（测试仓）；Phoobobo/grokbot-bridge-herdr（10-27 建，待下轮看是否已收/再评）；X 侧多为体感短帖（Grok Bot 201 转述、书签晨报、Pages 功能）、Fanvue 收益长文、币圈 TermiX，交 X 雷达或拒。
