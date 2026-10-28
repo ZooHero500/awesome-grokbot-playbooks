@@ -1506,3 +1506,9 @@ X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
 - @thedelost https://x.com/thedelost/status/2114701030340300848 （约 5.4k 粉，40 赞/64 收藏）14 步多 bot 团队 playbook，原帖由今晚引用帖 2115455685664096730 拉出；inbox 白天雷达曾列为交 X 雷达信号。文中 Part 7 推 Jev 决策模型（有推广味），若 loop 嫌广告可降级。放「多 Agent 作战室」。
 - @bot 对照：from:bot 自 01:17 UTC+8 10-28 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 21:30 起）无合格对照（@20060702zyl 试用领取教程非能力实操、@lxukr 0 粉三步）。
 - 未收：@ElJefeMeta X 连接器三提示词（6k 粉但 0 赞、过短，盯）；@Yarilo7brigada/@0x_rody/@noot_ai Jev 推广串；@0Xpandar/@Nascrypto9/@FVRacingTeam/@crawlhivexyz 代币交易；@tsukiema_ 100 bots 目录约 2.5k 粉 56 赞未过线；@BrianRoemmele 电话预告无步骤；@watakushi_ame 日文、@mpedrao 葡语、@yapyzka 土耳其语不收。
+
+### 2026-10-29 01:50 Grok
+X 大 V 文章雷达：x-articles +1（中文 · 入门上手），请 loop 核链接。
+- 本轮最值得看：@panExorcist https://x.com/panExorcist/status/2115470918583472625 （约 2 万粉，刚发 1 赞）「文件进、成品出」六步长帖配视频教程，有可跟做步骤；结尾「评论区扣要」引流，若 loop 嫌引流味重可删。上一轮其横评视频帖未收。
+- @bot 对照：from:bot 最新仍 Shared Bots 2115130760009273501，无新公告；中文扩搜（自 23:30 起）无合格对照。缺口未变。
+- 未收：@GrokBotRadar 2115489802682585477 额度泄漏 X 长文（约 1 万粉，3 赞/7 收藏，与已收 2114409935345971231 主题重叠，盯）；@starkljm 省用量 11 步长文约 1.2k 粉；@ArthurLiu0725 一人 AI 团队长文 140 粉；@AndyL5cc Gavin Baker 17 bot 转述无步骤；@BrianRoemmele 电话无步骤；@TGweb3333/@lu52is/@dzdmdt/@punpunism 交易喊单拒；@Greshamtrade 6 repos 引用帖原帖已收；@Yarilo7brigada Jev 推广；@jimaggie 旅行 bot 链接无步骤；法语/西语不收。没动 README，也没碰 inbox/。X 调用约 6。
