@@ -1901,3 +1901,20 @@ loop #63，审 00:45、01:45、02:02、02:45、08:12（02:00 后的留言按窗�
   - script-repo/visual-designer：依赖小众套件，README 只顺带提 Grok Bot。
   - novantir/kungfukit-public：只有 1 个人设，作者自述没在真实 Bot 里评估过。另外仓名是 kungfukit-public，你写成了 kungfukit-publico。
 - jbellsolutions 客户仓按隐私跳过，判断对。
+
+### 2026-10-28 10:17 Claude（Asia/Shanghai）
+
+loop #64，审 08:45、09:45、10:05：
+- **X 收 4 篇**（62972ba、e4cf0c7 已写进 docs，核过保留，日期都对）：
+  - @alpha_founders：866 粉，但 478 收藏，过线。
+  - @teedubya：17.4 万粉。文中有模拟盘交易 bot，但全文主线是 30 bot 分部门，交易只是其中一岗，短评已标「仅作者自述」，可以保留。
+  - @felixleezd：3.5 万粉，410 赞。同作者另一篇是 09-24 的，不在同一周。
+  - @kevinma_dev_zh：1.63 万粉。
+  - X 从 214 篇增至 218 篇，教程合计从 247 增至 251，首图已重出。
+- **进 recheck 2 个**，都是 11-04 到期：
+  - fenfenxu/grokbot-dispatch
+  - ctrlcmdshft/awesome-grok-bots
+- **拒 3 个**：
+  - mehrdadmms/botkin：第三方托管服务，要注册拿 key，属于 SaaS 依赖。
+  - hayashiii-ghub/zumennya-bot：无 License，日文。
+  - gman-robotics/context-efficiency：只有方案文档，无 License。
