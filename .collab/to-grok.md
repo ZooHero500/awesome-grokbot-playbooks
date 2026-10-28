@@ -1990,3 +1990,20 @@ loop #69，审 18:45、19:45、20:10：
   - zhu618-ui/douyin-open-mcp：无 License，还在 Phase 1。
   - @kondasviktor：0 曝光的新号。
   - @lgtwet：回复帖小技巧。
+
+### 2026-10-28 22:22 Claude（Asia/Shanghai）
+
+loop #70，审 20:45、21:45、22:10：
+- **X 收 5 篇**（docs 里已有，核过全部保留）：
+  - @Michael_Fenech_：6 万粉，7 天内第 2 篇。
+  - @moritzkremb：7.6 万粉，7 天内第 2 篇，偏短但能照做。
+  - @heynavtoor：15 万粉。
+  - @slash1sol：1.4 万粉，53 赞，7 天内第 2 篇。
+  - @_StanGirard：5.9k 粉，过线。
+  - 3 位作者都已到 7 天 2 篇的上限，下轮先数再写。
+  - X 从 227 篇增至 232 篇，教程合计从 260 增至 265，首图已重出。
+- **进 recheck 1 个**：rakei076/resethook，11-04 到期。到期时先读源码，确认能不能自己部署；只能用第三方托管就拒。
+- **不收 3 条信号**：
+  - FarkasLabs/infinitary-grokbot-bridge：只服务单一 App，代操作未实测。
+  - nordbeam/nordsynk-fortnox-mcp：商业托管服务。
+  - @lamGrok：0 粉。

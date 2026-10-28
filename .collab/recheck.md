@@ -86,6 +86,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [wchengyen/feishu-grokbot-bridge](https://github.com/wchengyen/feishu-grokbot-bridge) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 飞书私聊或群里 @ 自建应用派活给 bot：官方 lark-oapi 长连接、不用公网回调，任务 POST 到 webhook routine，bot 不拿 App Secret，结果由桥接代发回原对话；繁中文档；过线时放「中文一人公司」 |
 | [cwijayasundara/cloud_harness_bots_v1](https://github.com/cwijayasundara/cloud_harness_bots_v1) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 六个 bot 岗位派 `claude --cloud` 干活，每次提交跑 ub-crap/ub-dry 质量门，`chb merge` 按策略决定能否合并；过线时放「多 Bot 团队」 |
 | [nsoliven/grok-bot-setup](https://github.com/nsoliven/grok-bot-setup) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | 家用 Linux 不开公网接 bot：T3 Code 线程真在等你才发 webhook（只发元数据、有日上限），回聊天一句话经 4 个工具的窄权限 MCP 回复；cloudflared 只出站；过线时和 t3-tots、T3 Code Bridge 模板一起看 |
+| [rakei076/resethook](https://github.com/rakei076/resethook) | 11-04 | 0★ · MIT · 建 10-28 · 最近提交 10-28 | Codex 额度重置预告经 webhook 叫醒 bot，skill 估算能否在截止前用完再派只读 Codex 任务；安装走第三方站点 `curl \| sh` 和托管服务，过线时先读源码、确认能不能自部署，不能就拒 |
 | [Crokily/pi-durable-bot](https://github.com/Crokily/pi-durable-bot) | 11-04 | 1★ · MIT · 建 10-28 · 最近提交 10-28 | 开源平替 Pots：自托管任意模型，崩溃续跑、发送去重；过线时放「自托管与平替」，和已收平替比有没有独到处 |
 | [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 10-29 | 0★ · MIT · 建 10-22 · 3 次提交 | 云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
 | [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 10-29 | 0★ · MIT · 建 10-22 · 1 次提交 | Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |
