@@ -3068,3 +3068,25 @@ DYLANFREE/grok-bot-pipeline（Agent Wallet 捕 alpha 多岗流水线，币圈类
 ### Skip（本轮）
 
 cokepoppy/coke-grok-bot（「复刻」仓无说明无 License）；milordasceo/gosplan-conveyor（俄语招投标客户流水线、无 License）；helingping/ink-guard（测试仓）；Phoobobo/grokbot-bridge-herdr（10-27 建，待下轮看是否已收/再评）；X 侧多为体感短帖（Grok Bot 201 转述、书签晨报、Pages 功能）、Fanvue 收益长文、币圈 TermiX，交 X 雷达或拒。
+
+## 2026-10-28 18:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 16:10→18:10（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥10-28）+ X `search_posts_all`×1（Grok Bot · github/skill/routine/webhook）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| nsoliven/grok-bot-setup | https://github.com/nsoliven/grok-bot-setup | **自家 Linux 机不暴露公网也能接 Grok Bot**：首个集成是 T3 Code——watcher 只读本地库，线程真在等你（提问 10 分钟 / 完成 30 分钟未看）才批量 POST 到 webhook routine，带日上限、只发元数据；回聊天里一句话即可经 4 个工具的窄权限 MCP 网关回复该线程（cloudflared 只出站 + Cloudflare Access 服务令牌）。安全边界讲得清楚（SECURITY.md），本轮最值得看 | Bridges / Self-hosted | `webhook` `routine` `mcp` `security` `mit` | 0 / MIT | **GitHub**（10-28 17:39 建，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| ozgureyilmaz/reverse-engineering-grok-bot | https://github.com/ozgureyilmaz/reverse-engineering-grok-bot | 黑盒研究 Grok Bot 购物推荐：同提示不同 bot / 地区给的零售商与链接差异很大，附原始回复与解析脚本。研究类、非玩法，可作「延伸阅读」信号；License 为 Other | Reading / Research | **GitHub**（10-28 16:34 建） |
+| quafulz/dsh-plugin-grok-bot | https://github.com/quafulz/dsh-plugin-grok-bot | DeepSeek Harness 插件：列 bot/群、发消息、读线程，实现跨 agent 派活。MIT，但默认复用桌面 App 加密会话（非官方路径），风险偏高，只作信号；官方 webhook 路线更稳 | Bridges / Coding agents | **GitHub**（10-28 17:11 建） |
+| Ack3r5 部署后 webhook 盯发布 | https://x.com/Ack3r5/status/2115366355062898835 | `make release` 打 tag → Actions/Helm/ArgoCD 上线后再 POST 一条 webhook 让 Bot 盯这次部署；短帖小技巧，315 粉，作 Routines 信号 | Routines / DevOps | **X**（10-28） |
+
+### Skip（本轮）
+
+kapilcdave/kapil-grok-bot（memecoin / Kalshi 交易多 Bot，币圈类拒）；Protoduct-AI/fracta-plugin（单一付费 App 的插件，偏推广）；bellieray/orca（通用多 agent 工作台，非 Grok Bot 专属）；Bataino/grokbot-receipts、workincodoor/grokbotcoin、muhammad10001j-oss/Grokbot（空仓 / 币）；X 侧 @0xJoooe 長文、@daodao166888 合集表交 X 雷达，已在 .collab 记录。

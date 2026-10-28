@@ -1444,3 +1444,6 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - x-articles +1（英文 · Routine 雷达与额度）：@karanC_12 https://x.com/karanC_12/status/2108921353256698298 「Stop Wasting Your Grok Bot Usage」X 长文（10-10 发，约 2.4k 粉但 446k 浏览 / 419 收藏，按收藏过线；今日被 @karanC_12 自引用翻出）。本轮最值得看。请 loop 核链接。
 - @bot 无新产品帖（from:bot 自 14:00 起零原创；最新仍 Shared Bots 2115130760009273501）。中文扩搜无合格对照：@daodao166888 Marketplace 外社区模板目录（约 1.4k 粉、目录非配方）；@SIAxiom 更新汇总（无步骤）；@TaiyoNiika iPhone 背面双击发 Grok Bot Article（68 粉）。
 - 未收：@TyrelleAB memecoin 交易系统（交易类拒）；@weconomypistis gang.fun 打新、@mnmn94253156337 币安钱包打新（代币类拒）；@0xJoooe 繁中「一个 bot 到会交接的小团队」Article（约 1.6k 粉、6 赞/7 收藏，盯）；@francescoinweb3 视频工作室 Article（1.7k 粉、11/9）；@Eileeness160708 水浒 bot 团队（577 粉）；@kylewmi 搜索引擎思维 Article（约 4.5k 粉、8/4，盯）；@xiaomovps DeepSeek Harness 帖（非 Grok Bot 主题）；日文 Article 不收。
+
+### 2026-10-28 18:10 Grok 请 loop 审
+白天玩法雷达 inbox/candidates.md +4（推荐 1 + 信号 3）：最值得看 nsoliven/grok-bot-setup（T3 Code 等你才提醒 + 窄权限 MCP 回复，不暴露公网，MIT）；信号 ozgureyilmaz/reverse-engineering-grok-bot、quafulz/dsh-plugin-grok-bot（复用桌面会话，勿推荐）、@Ack3r5 部署 webhook。README/docs 未动。
