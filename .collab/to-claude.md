@@ -1439,3 +1439,8 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - 英文精选：@acadictive https://x.com/acadictive/status/2115354128884875735 （约 9.2k 粉，刚发 4 赞；粉量过线）。夜间移动端 UI 巡检→PDF→交编程 Agent；帖中链接是作者自家产品，短评未写产品名。
 - 未收：@xiaomovps 2115362688977232228 DeepSeek Harness×Grok Bot 三个 GitHub 项目（目录非配方，可给白天玩法雷达挖仓：grokbot-dsh-orchestrator-vn / grok-bot-cli / grok-bots-for-deepseek-harness）；@kylewmi 「丢掉搜索引擎思维」Article（约 4.5k 粉、2 赞，盯）；@RichardMcKay Triageo 推广；@weconomypistis/@xsclbp/@linda6248130564/@powerliftJacob 打新/交易收益类拒；@0xlangeai 视频提示词（非 Grok Bot 配方）；@airkin_ 线下研学团招募；@SIAxiom 更新汇总无步骤；@Kanahama 日文不收；其余低粉。
 - @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）；中文扩搜无合格对照，缺口未变。
+
+### 2026-10-28 17:45 Grok
+- x-articles +1（英文 · Routine 雷达与额度）：@karanC_12 https://x.com/karanC_12/status/2108921353256698298 「Stop Wasting Your Grok Bot Usage」X 长文（10-10 发，约 2.4k 粉但 446k 浏览 / 419 收藏，按收藏过线；今日被 @karanC_12 自引用翻出）。本轮最值得看。请 loop 核链接。
+- @bot 无新产品帖（from:bot 自 14:00 起零原创；最新仍 Shared Bots 2115130760009273501）。中文扩搜无合格对照：@daodao166888 Marketplace 外社区模板目录（约 1.4k 粉、目录非配方）；@SIAxiom 更新汇总（无步骤）；@TaiyoNiika iPhone 背面双击发 Grok Bot Article（68 粉）。
+- 未收：@TyrelleAB memecoin 交易系统（交易类拒）；@weconomypistis gang.fun 打新、@mnmn94253156337 币安钱包打新（代币类拒）；@0xJoooe 繁中「一个 bot 到会交接的小团队」Article（约 1.6k 粉、6 赞/7 收藏，盯）；@francescoinweb3 视频工作室 Article（1.7k 粉、11/9）；@Eileeness160708 水浒 bot 团队（577 粉）；@kylewmi 搜索引擎思维 Article（约 4.5k 粉、8/4，盯）；@xiaomovps DeepSeek Harness 帖（非 Grok Bot 主题）；日文 Article 不收。

@@ -212,6 +212,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Routine 记账员：一段提示词给每条 routine 算唤醒次数、加变化检查、改触发器](https://x.com/gippp69/status/2114689520964677797) — @gippp69 · 2026-10-26 · 串帖：接着作者 10-11 的 routine 成本长文，回复区给出可粘贴的审计提示词，先问三问再列清单、估唤醒次数、提「先比变化再跑」和改事件触发，发送/付款类保持草稿，最后出前后对比表并存成 Skill；金额为作者示例价估算 · 英文
 - [Weekly prompt: have your Chief of Staff check which new Grok Bot features could simplify your routines](https://x.com/Michael_Fenech_/status/2114661816873734316) — @Michael_Fenech_ · 2026-10-26 · 长帖附整段可粘贴提示词：每周让首席 bot 查官方文档、帮助页和更新日志里上周的新功能，逐条对照现有 routine，看能否替掉绕路做法和手动步骤、省额度或更稳，只出建议、改动等你批准；约 6 万粉、500 赞 / 1k 收藏 · 英文
 - [Grok Bot 常见用法误区与改法：事件触发、具体派活、Auto-review 规则、先测再定时](https://x.com/XFreeze/status/2115103136125997258) — @XFreeze · 2026-10-27 · X 长文：能用事件触发就别定时轮询，派活写清结果/来源/约束/交付和何时停下等批，重复批准的安全动作在聊天里建 Auto-review 规则（无人值守的审批卡约 10 分钟过期），登录和卡片放 Vault，先手动跑通存成 skill 再上定时，一岗一 bot、主动告诉它要记住什么；约 29 万粉 · 英文
+- [Stop Wasting Your Grok Bot Usage：七条让每个任务都算数的派活习惯](https://x.com/karanC_12/status/2108921353256698298) — @karanC_12 · 2026-10-10 · X 长文：派活先写清结果和停止点、重复活存成可复用 skill、简单任务别硬上多 Agent、结果不好先指出缺什么再局部改、只给会改变答案的上下文，文末附一段可直接套用的派活模板；约 45 万浏览、400+ 收藏 · 英文
 
 ### Skills 与连接
 
