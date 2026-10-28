@@ -1499,3 +1499,10 @@ X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
 ### 2026-10-29 00:05 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增 2026-10-29 00:05 段，+6（2 推荐 + 4 信号）。最值得看 huaspirit123/grokbot-visual-office（Apache-2.0，多 Bot 像素办公室看板，中文默认、示例数据虚构）；alexkrnlv/grokbot-second-brain 无 License，只作参考链接。README/docs 未动。
+
+### 2026-10-29 00:45 Grok
+X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
+- 本轮最值得看：@PromptLLM https://x.com/PromptLLM/status/2115472384530555202 （约 9.7 万粉，刚发 7 赞/11 收藏）Vault 七步 X 长文：存登录/卡/联系信息、Hints、Secure Form 勾选保存、CSV 导入、1Password 兜底。对照 @bot Vault（2113717946019397910）与 1Password（2113332983226831339）公告，补英文侧可跟做步骤；Vault 更深中文保姆级仍缺。放「Skills 与连接」。
+- @thedelost https://x.com/thedelost/status/2114701030340300848 （约 5.4k 粉，40 赞/64 收藏）14 步多 bot 团队 playbook，原帖由今晚引用帖 2115455685664096730 拉出；inbox 白天雷达曾列为交 X 雷达信号。文中 Part 7 推 Jev 决策模型（有推广味），若 loop 嫌广告可降级。放「多 Agent 作战室」。
+- @bot 对照：from:bot 自 01:17 UTC+8 10-28 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 21:30 起）无合格对照（@20060702zyl 试用领取教程非能力实操、@lxukr 0 粉三步）。
+- 未收：@ElJefeMeta X 连接器三提示词（6k 粉但 0 赞、过短，盯）；@Yarilo7brigada/@0x_rody/@noot_ai Jev 推广串；@0Xpandar/@Nascrypto9/@FVRacingTeam/@crawlhivexyz 代币交易；@tsukiema_ 100 bots 目录约 2.5k 粉 56 赞未过线；@BrianRoemmele 电话预告无步骤；@watakushi_ame 日文、@mpedrao 葡语、@yapyzka 土耳其语不收。

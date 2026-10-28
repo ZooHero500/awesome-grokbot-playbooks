@@ -183,6 +183,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [11 个 bot 零点击跑九个平台：一岗一条线、互相传话不找人](https://x.com/drew_ponder/status/2115120349151219892) — @drew_ponder · 2026-10-28 · X 长文：内容、视频、音乐发行、会员活动等 11 岗各管一条线，先给每个 bot 贴一段「只守本岗、先读共享计划、记录每步、不花钱」的通用规则，再附每岗可粘贴设定和发帖前检查清单；约 1.8 万粉 · 英文
 - [How to Master Grok Bot in Under 15 Minutes (From a Guy Running 30 of Them)](https://x.com/teedubya/status/2115174209001558428) — @teedubya · 2026-10-28 · X 长文：约 17 万粉作者把 30 个 bot 按媒体、资金、研究、运营、建造五个部门列出各自岗位，由一个首席 bot 统管；后半讲 Pages、Vault 等新能力怎么接进现有团队，以及用 Cursor 云端代理、共用 MCP、GitHub issue 交接把 Grok Bot 和 Claude、Codex 串起来，已验证和待测试分开写；其中模拟盘交易 bot 仅作者自述 · 英文
 - [How to Automate Your Life With Grok Bot (Full System + PROMPTS)](https://x.com/thejayden/status/2115388434025955778) — @thejayden · 2026-10-28 · X 长文：作者同时跑 10 个 bot（写帖、找赞助、清理网上个人信息，再配一个 Chief of Staff 统筹），先讲云电脑、连接器、Skills、Routine 四块积木，再给 12 个岗位各自的建 bot 提示词、任务提示词和 routine 提示词，最后讲怎么组成团队；约 1.3 万粉 · 英文
+- [The Grok Bot Playbook: Turn One Chat Into a Self-Running AI Team (Step by Step)](https://x.com/thedelost/status/2114701030340300848) — @thedelost · 2026-10-26 · X 长文：从一个首席 bot 写岗位说明起步，到自检清单、先 skill 后 routine、一首席多专员交接字段、按「能否撤回」划审批线，14 步加首周日程，提示词可直接粘贴；约 5.4k 粉、64 收藏 · 英文
 
 ### Routine 雷达与额度
 
@@ -247,6 +248,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Tesla Fleet 六步：用 Grok Bot 控车（电量/空调/充电/开锁）](https://x.com/Chansoo/status/2110436904705397053) — @Chansoo · 2026-10-15 · Fleet API 建应用→密钥放云电脑→GitHub Pages 验签→secure fields 不进聊天→一次 OAuth→车端配对；敏感动作先问你；附可分享模板；约 1.6 万粉 · 英文
 - [Bridge Bot：让 ChatGPT / Claude Code 把任务丢给你的 Grok Bot](https://x.com/moritzkremb/status/2114051840102768922) — @moritzkremb · 2026-10-25 · 公开模板：加 bot 后拿到 webhook URL、密钥和一段现成提示，贴进 ChatGPT 或 Claude Code 就装好 /send-to-grok-bot，跨工具派活不用再复制粘贴；密钥只放对方工具的密钥设置里 · 英文
 - [I Wrote an X Article with Grok Bot](https://x.com/FFBuncho/status/2114935585098129851) — @FFBuncho · 2026-10-27 · X 长文：免开发者账号后直接让 bot 起草 Article，草稿写入 X Articles（含引用帖），本人点发布，bot 不代发；约 1.06 万粉 · 英文
+- [Set Up Grok Bot Vault: A Step-by-Step Guide](https://x.com/PromptLLM/status/2115472384530555202) — @PromptLLM · 2026-10-28 · X 长文：Vault 七步上手，存登录/卡/联系信息、加使用提示、聊天里勾选保存、CSV 导入密码、接 1Password，以及让 bot 先查 Vault 再问你；约 9.7 万粉 · 英文
 
 ### 出海一人公司
 
