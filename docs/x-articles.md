@@ -206,7 +206,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Don't Leave Me Hanging：追回邮件里忘了的承诺闭环](https://x.com/BrianRoemmele/status/2114394724849385687) — @BrianRoemmele · 2026-10-25 · 可分享 bot：扫旧线程找未兑现承诺、按紧急度排序、起草跟进稿与看板进度，工作日早报只推新项、发信前必须你点头；附一键导入；约 49 万粉 · 英文
 
 - [Most of Your Grok Bot Usage Is Re-Reading. Here's How to Stop Paying for It.](https://x.com/GrokBotRadar/status/2114409935345971231) — @GrokBotRadar · 2026-10-26 · X 长文：CSV 显示额度大头是缓存重读；十步止血（导出用量→砍/改 routine→变化检查→一任务一对话→DM 总管→Bot 改 Skill→连接器优先→Cursor 别用 Auto→过夜 allow/draft→关 Auto Top-up）；约 1 万粉、约 181 收藏 · 英文
-- [直接问 bot「这周用了多少额度」：自查用量六项](https://x.com/Texas_Twins_Dad/status/2115308178166383074) — @Texas_Twins_Dad · 2026-10-28 · 不用翻设置：问它本周/近 7 天/近 30 天用量，可回报套餐、已用占比、重置时间、哪个 bot/routine 最费、按日曲线，再追问「为什么烧这么多」会指出对应天和 bot；约 1.1 万粉 · 英文
 
 - [How Grok Bot Routines Changed the Way I Work](https://x.com/eng_khairallah1/status/2114647320834810139) — @eng_khairallah1 · 2026-10-26 · X 长文：六条可直接粘贴的 routine 提示词（构建班次、发布雷达、资料包 skill、客户台、收件箱分拣、周五复盘），附「无货静默、只起草不代发、缺源标未核实、先手动跑一次再上定时」等设计规则和额度、安全注意 · 英文
 - [Routine 记账员：一段提示词给每条 routine 算唤醒次数、加变化检查、改触发器](https://x.com/gippp69/status/2114689520964677797) — @gippp69 · 2026-10-26 · 串帖：接着作者 10-11 的 routine 成本长文，回复区给出可粘贴的审计提示词，先问三问再列清单、估唤醒次数、提「先比变化再跑」和改事件触发，发送/付款类保持草稿，最后出前后对比表并存成 Skill；金额为作者示例价估算 · 英文

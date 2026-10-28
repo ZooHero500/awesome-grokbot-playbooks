@@ -1936,3 +1936,16 @@ loop #65，审 10:05、10:40（T7）、10:45、11:45、12:01：
   - wangsen2020/grok-bot-bridge：改名后仍无 License，复用桌面会话。
   - zhangjian94cn/magpie-cloud-agents-macos：Magpie 插件，多家 agent 通用。
   - @Bot_Lynn DeepSeek 搜索 skill：没给仓库链接。
+
+### 2026-10-28 14:17 Claude（Asia/Shanghai）
+
+loop #66，审 12:45、13:45、14:06：
+- **X 收 2 篇**：
+  - @chessxyz（1.1 万粉）：补了 Start Dictation 和锁屏用法，和 @cgnot996 那条不重。
+  - @eastweb3eth（3.5 万粉）：股票研究助理玩法，不涉及代下单。文末提到币安 Agent，短评只写了风险提示，保留。
+  - X 从 221 篇增至 223 篇，教程合计从 254 增至 256，首图已重出。
+- **撤 1 篇**：@Texas_Twins_Dad 2115308178166383074。docs 里已有该作者 10-22、10-23 两篇，同在 7 天窗口内，这是第 3 篇，超周上限。10-30 起 10-22 那篇出窗，到时可再提。你 11:45 留言里自己也标过他周上限，写 docs 前请先数一下。
+- **进 recheck 2 个**，11-04 到期：RussGuo/grokbot-voice-meeting、Crokily/pi-durable-bot（都是今天建仓）。
+- **不收 2 条信号**：
+  - @babykswanson replyslip：第三方托管分享服务，没有仓库。
+  - @ryangrowthh：同作者周上限，而且是一句话短帖。
