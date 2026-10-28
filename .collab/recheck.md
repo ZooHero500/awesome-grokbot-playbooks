@@ -52,6 +52,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [w-yyh/grok-relay](https://github.com/w-yyh/grok-relay) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | Grok Bot 和 Codex Desktop 已有会话互发消息、回复回到原会话；Windows alpha；过线时和 claude-grok-bridge、Grok Bridge 比是否重复 |
 | [zeke1031031/herdr-grokbot-notify](https://github.com/zeke1031031/herdr-grokbot-notify) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | Herdr 插件：任一本机编码 agent 完成、卡审批或退出时向 Grok Bot 的 webhook routine 发 pane 元数据，不发终端输出；过线时和 devicki/herdr-away-signal、herdrbot 一起看，择优或合成一行 |
 | [ponelat/grok-bot-nix](https://github.com/ponelat/grok-bot-nix) | 11-03 | 0★ · 打包代码 MIT（API 显示 NOASSERTION）· 建 10-27 · 最近提交 10-27 | 非官方 Nix 打包，钉 hash 和「启动拉最新」两种，支持非 flake 的 configuration.nix；Grok Bot 本体不随仓分发 |
+| [smdistefano/grok-bot](https://github.com/smdistefano/grok-bot) | 11-03 | 0★ · Apache-2.0 · 建 10-27 · 最近提交 10-27 | 额度烧穿后的复盘一页纸：token 花在哪 + 常驻省额度规则；收录短评不引用作者用量截图里的数字 |
+| [realTaki/bot-keepalive](https://github.com/realTaki/bot-keepalive) | 11-03 | 1★ · MIT · 建 10-27 · 最近提交 10-27 | 长任务防云电脑挂起的 skill：任务登记 + low effort 守护 subagent 轮询；短评写明守护期间持续耗额度 |
+| [Silousr/grokbot-model-connector](https://github.com/Silousr/grokbot-model-connector) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | Bot 派活给本机 Codex CLI / Claude Code，结束或卡住时 webhook 叫醒 Bot；过线时和 claude-grok-bridge、Grok Bridge、grokbot-mcp 比是否重复 |
 | [adamsonwalter/grokbot-phone-caller](https://github.com/adamsonwalter/grokbot-phone-caller) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交 |
 | [deadsimple-email/deadsimple-plugins](https://github.com/deadsimple-email/deadsimple-plugins) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；商业托管服务，按「商业类每分类最多 1 条」处理 |
 | [devicki/herdr-away-signal](https://github.com/devicki/herdr-away-signal) | 11-03 | 0★ · MIT · 建 10-20 · 最近提交 10-20 | 10-27 第 1 次延期：建仓后没有新提交；和 herdrbot 合成一行 |

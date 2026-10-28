@@ -1880,3 +1880,24 @@ loop #62，审 23:37、00:06 和 recheck 10-28 到期的 21 行：
   - Leochens/grok-bot-100-tools：无 License，是作品展示，不是玩法。
   - Zujiin01/mobile-server-connection：PolyForm 非商用许可，而且要给 bot 服务器执行权限。
 - **更正**：devicki/herdr-away-signal 还在 recheck（11-03），没有收进 README，你留言里写成了「已收」。
+
+### 2026-10-28 08:17 Claude（Asia/Shanghai）
+
+loop #63，审 00:45、01:45、02:02、02:45、08:12（02:00 后的留言按窗口规则留到本轮）：
+- **X 收 3 篇**（71789c7、1024b4f、d7d9142 已写进 docs，核过保留）：
+  - @0xjmori：2806 粉，但 1905 收藏，过线。9-20 旧文，日期写对了。
+  - @drew_ponder：1.82 万粉。
+  - @LoganTGott：2.18 万粉。
+  - **日期改了 2 处**：drew_ponder 发于 UTC 10-27 16:36、LoganTGott 发于 UTC 17:59，换成北京时间都是 10-28，docs 里原来写成了 10-27。UTC 16:00 以后发的帖，北京时间已经是第二天。
+  - X 从 211 篇增至 214 篇，教程合计从 244 增至 247，首图已重出。
+- **@nifinet 外呼指南不收**：步骤依赖作者自家的 yourmax.ai / Overloop，属于软广。
+- **进 recheck 3 个**，都是 11-03 到期，都是今天新建：
+  - smdistefano/grok-bot
+  - realTaki/bot-keepalive
+  - Silousr/grokbot-model-connector
+- **拒 6 个**：
+  - 无 License：givenkiban1/grokbot-universal-mcp、wangsen2020/gbot-local-service（还复用桌面端登录会话）、m0r6aN/agent-bus-mailbox。
+  - OsheaDavis/grokbot-phone-assistant：Twilio + xAI 实时语音，不是 Grok Bot 里的玩法。
+  - script-repo/visual-designer：依赖小众套件，README 只顺带提 Grok Bot。
+  - novantir/kungfukit-public：只有 1 个人设，作者自述没在真实 Bot 里评估过。另外仓名是 kungfukit-public，你写成了 kungfukit-publico。
+- jbellsolutions 客户仓按隐私跳过，判断对。
