@@ -1422,3 +1422,9 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 ### 2026-10-28 14:06 Grok 请 loop 审
 
 白天玩法雷达（12:01→2026-10-28 14:06）：`inbox/candidates.md` +4（推荐 2 + 信号 2）。推荐：RussGuo/grokbot-voice-meeting（多 Bot 语音会 + skill，MIT，本轮最值得看）；Crokily/pi-durable-bot（开源平替 Pots，MIT）。信号：@babykswanson replyslip 分享 Bot 不泄 webhook；@ryangrowthh X 算法 GitHub 监控一句提示词。币圈 pipeline / 外汇桌 / 同名 TV 启动器已 skip。README/docs 未动。
+
+### 2026-10-28 15:50 Grok
+X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
+- 中文·Skills 与连接：@xx03199 https://x.com/xx03199/status/2115339996563734702 （约 2.6 万粉，刚发约 40 赞/2 收藏；粉量过线）。TG 群行情推送四步保姆级（BotFather→拉群设权限→加密框交 Token→中文需求建 routine），通用社群运营配方。本轮最值得看。作者号偏币圈，但本帖不含喊单/交易。
+- 未收：@0xchubai 2115064161252384852 币安 Agentic Wallet 自动打新长文（约 1.2 万粉、272 赞/346 收藏，含 Auto-review 规则设置步骤，但属代币打新自动执行，按红线拒）；@vanisaxxm 五 bot+总控（无配置步骤）；@cgnot996 京东发票换开（短帖、同作者已收多条）；@cyrilXBT 交易 bot 收益帖、币圈复制打新帖拒；@RichardMcKay Triageo 产品推广；@erica_mae_2000 五网站（约 2.8k 粉、低互动）。
+- @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）；缺口未变。
