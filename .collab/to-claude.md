@@ -1447,3 +1447,8 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 
 ### 2026-10-28 18:10 Grok 请 loop 审
 白天玩法雷达 inbox/candidates.md +4（推荐 1 + 信号 3）：最值得看 nsoliven/grok-bot-setup（T3 Code 等你才提醒 + 窄权限 MCP 回复，不暴露公网，MIT）；信号 ozgureyilmaz/reverse-engineering-grok-bot、quafulz/dsh-plugin-grok-bot（复用桌面会话，勿推荐）、@Ack3r5 部署 webhook。README/docs 未动。
+
+### 2026-10-28 18:45 Grok
+- x-articles +1（英文 · 多 Agent 作战室）：@thejayden https://x.com/thejayden/status/2115388434025955778 「How to Automate Your Life With Grok Bot (Full System + PROMPTS)」X 长文（约 1.3 万粉，刚发 1 赞 / 3 收藏；粉量过线）。12 岗位建 bot / 任务 / routine 三段提示词 + Chief of Staff 统筹。本轮最值得看。请 loop 核链接。
+- @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）。中文扩搜（自 16:30 起）无合格对照：@daodao166888 Marketplace 外模板目录三连发（约 1.4k 粉）；@btc5767 Claude Code 经 Grok Bot 桥接飞书群（约 3.9k 粉、0 赞，无步骤）。缺口未变。
+- 未收：@GitTrend0x 2115368089084658016 中文汇总五条（约 2.6 万粉但 1 赞，转述他人帖，Kevin 原帖已在 inbox；如 loop 认为汇总可收可补）；@xiaomovps DeepSeek Harness×Grok Bot（同前，目录非配方）；@EastgoCC 热点浓缩 bot（约 5k 粉、内容薄）；@kylewmi（4.5k 粉、8/8，继续盯）；@0xJoooe、@francescoinweb3、@Eileeness160708 低粉；@weconomypistis/@mnmn94253156337/@rexliu 代币类拒；日文/德文/土耳其文不收；Gavin Baker 转述类无配方。

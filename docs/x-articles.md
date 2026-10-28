@@ -182,6 +182,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [9 个 bot 分四个部门：首席 bot 统管，夜班出货、早 7 点汇总](https://x.com/milesdeutscher/status/2115095293209539012) — @milesdeutscher · 2026-10-27 · X 长文：总务/市场/产品/销售四部门 9 岗，夜班 routine 交付、首席 bot 早报与晚间收尾，附每岗可粘贴提示词和一段「先访谈再设计团队、批准后再逐个建 bot、只起草不代发」的建队启动提示词，另列优缺点；约 68 万粉、约 60 收藏 · 英文
 - [11 个 bot 零点击跑九个平台：一岗一条线、互相传话不找人](https://x.com/drew_ponder/status/2115120349151219892) — @drew_ponder · 2026-10-28 · X 长文：内容、视频、音乐发行、会员活动等 11 岗各管一条线，先给每个 bot 贴一段「只守本岗、先读共享计划、记录每步、不花钱」的通用规则，再附每岗可粘贴设定和发帖前检查清单；约 1.8 万粉 · 英文
 - [How to Master Grok Bot in Under 15 Minutes (From a Guy Running 30 of Them)](https://x.com/teedubya/status/2115174209001558428) — @teedubya · 2026-10-28 · X 长文：约 17 万粉作者把 30 个 bot 按媒体、资金、研究、运营、建造五个部门列出各自岗位，由一个首席 bot 统管；后半讲 Pages、Vault 等新能力怎么接进现有团队，以及用 Cursor 云端代理、共用 MCP、GitHub issue 交接把 Grok Bot 和 Claude、Codex 串起来，已验证和待测试分开写；其中模拟盘交易 bot 仅作者自述 · 英文
+- [How to Automate Your Life With Grok Bot (Full System + PROMPTS)](https://x.com/thejayden/status/2115388434025955778) — @thejayden · 2026-10-28 · X 长文：作者同时跑 10 个 bot（写帖、找赞助、清理网上个人信息，再配一个 Chief of Staff 统筹），先讲云电脑、连接器、Skills、Routine 四块积木，再给 12 个岗位各自的建 bot 提示词、任务提示词和 routine 提示词，最后讲怎么组成团队；约 1.3 万粉 · 英文
 
 ### Routine 雷达与额度
 
