@@ -1411,3 +1411,10 @@ X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
 - 中文·出海一人公司与内容：@eastweb3eth https://x.com/eastweb3eth/status/2115292530971668749 （约 3.5 万粉，刚发约 3 赞/4 收藏；粉量过线）。财报/宏观/盘前盘后/盯票/公告速读五类研究玩法，标黑句可当指令。本轮最值得看。非 @bot 能力对照（研究助理配方，非 Shared Bots/Vault/电话等缺口）。文末币安 Agent 风险提示可保留语境，短评已避开收益向。
 - 未收：@Mulight 2115288933038964970 Chief of Staff 五岗管家（约 1.9 万粉，有分工示例与可跟做指令，但近 7 天同作者已收 2 篇达周上限）；@ryangrowthh 2115300023844102346 X 算法 GitHub 监控一句提示词（约 6.5k 粉，周上限且偏短帖）；@JeffRuan_ 私人秘书 Article（约 84 粉未过线）；@Bagel8343 Muse vs Grok 选型（约 1k 粉，选型非配方）；@OnePersonHQ/@GDegen Article 低粉低互动；@ai_goge 系列 1-6 周上限；@KinGao 采访/代码整洁短帖无配方；Shared Bots 仅公告转述（@ppmmzzcn/@davidzhouyu）；交易/打新/旧手机 meme 币复制帖拒；日文 Article 不收。
 - @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）；缺口仍开：Shared Bots 中文、IncidentSweep、Marketplace 深销售、Vault 更深中文保姆级、原生电话中文、飞书连接器保姆级、X 连接器书签/私信/Article 中文、Auto-review 规则中文保姆级。
+
+### 2026-10-28 13:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
+- 中文·Skills 与连接：@chessxyz https://x.com/chessxyz/status/2115277445310070866 （约 1.1 万粉，刚发约 5 赞/1 收藏；粉量过线）。锁屏 Action Button 绑 Start Dictation + 四选项说明 + 主管家整理碎片想法案例。本轮最值得看。同主题已有 @cgnot996 操作按钮四步；本篇补 Dictation/锁屏与四快捷选项细节，非新缺口对照（Action Button 中文已关）。
+- 英文·Routine 雷达与额度：@Texas_Twins_Dad https://x.com/Texas_Twins_Dad/status/2115308178166383074 （约 1.1 万粉，约 17 赞/7 收藏；粉量过线）。问 bot 自查用量六项，可与既有 CSV 审计条搭配。
+- 未收：@Mulight Chief of Staff（周上限，近 7 天已 2 篇）；@fankaishuoai AI 编程五步观点帖（无 Bot 配置步骤）；@BiteyeCN/@DRbitcoin36 币圈/广场展示拒；@aehyok 再推 Renoise 引用帖拒；@SIAxiom 民宿数字员工创业构想（非配方）；@KinGao 采访自宣；@JeffRuan_/@zoojoo_art 粉量/互动未过线；Shared Bots 仍仅公告转述；交易/打新/邀请码帖拒；日文 Article 不收。
+- @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）；缺口仍开：Shared Bots 中文、IncidentSweep 中文、Marketplace 深销售、Vault 更深中文保姆级、原生电话中文、飞书连接器保姆级、X 连接器书签/私信/Article 中文、Auto-review 规则中文保姆级。

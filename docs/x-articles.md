@@ -84,6 +84,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [自有域名经 Cloudflare 转发到 Grok Bot 邮箱，最小化做个智能客服](https://x.com/vikingmute/status/2112735841634378175) — @vikingmute · 2026-10-21 · 在 CF 开 Email Routing，把 hey@/support@ 等地址都转到 bot 邮箱，产品咨询自动回、建议转工单、拿不准的留给自己；对应 @bot 邮箱别名能力，英文原帖见 @ManaEngineer · 中文
 - [邮箱 plus 别名分流：不同来源触发不同 routine](https://x.com/MaiYangAI/status/2110606555578335572) — @MaiYangAI · 2026-10-15 · bot 自带邮箱支持 plus 别名，+newsletters/+receipts/+travel 分地址收信，再建只听某个别名的 routine 做摘要或整理账单；哪个别名开始收垃圾邮件就知道是谁泄露的；作者约 5k 粉 · 中文
 - [iPhone 操作按钮一键唤起 Grok Bot 语音：四步设置](https://x.com/cgnot996/status/2112328304170828230) — @cgnot996 · 2026-10-20 · 设置里搜「操作按钮」→ 快捷指令 → Grok Bot → 开始语音聊天，四步可跟做并配截图，作者约 8.9k 粉 · 中文
+- [锁屏按一下就开始听写：Action Button 绑 Start Dictation 给主管家记碎片想法](https://x.com/chessxyz/status/2115277445310070866) — @chessxyz · 2026-10-28 · 日记式实操：操作按钮选 Shortcut，搜 grok 可见 List Bots / Send Message / Start Dictation / Start Voice Chat 四个选项；作者绑 Start Dictation，锁屏按一下直接录音发给主管家 bot，整理成笔记并等成熟再起草 X 文；配截图；约 1.1 万粉 · 中文
 - [喊「Hey Grok」开语音聊天：iOS 人声快捷指令三步](https://x.com/xiangxiang103/status/2114524472820818073) — @xiangxiang103 · 2026-10-26 · 快捷指令选 Start Voice Chat → 辅助功能·人声快捷指令录「Hey Grok」三遍；锁屏需点一下、Face ID 已解则全程免手；真机视频；英文原发现见 @Texas_Twins_Dad；约 1.8 万粉、约 92 赞 / 99 收藏 · 中文
 - [别人把 Grok Bot 都调好了，53 个模板点一下就复制来用，我按场景分好了七类](https://x.com/yaohongan2025/status/2112348685778489753) — @yaohongan2025 · 2026-10-20 · X 长文：讲清 Add to Grok Bot→预览→Add Bot、密钥不随模板走，按七类筛了 53 个可装模板并点名描述里藏指令/下陌生代码的坑；作者约 0.8k 粉但约 172 赞 / 427 收藏 · 中文
 - [还在手搓 bot？官方 Marketplace 10 个模板导入就能用（附起步五步）](https://x.com/Sukiea1008/status/2113544871197933660) — @Sukiea1008 · 2026-10-23 · X 长文：按造 bot/写代码、设计内容、增长生意挑出 10 个官方模板并写清人在哪一步把关；讲为何先用模板（范围收窄、审批线画好、改比写易），附主管+专员结构和 5 步起步顺序，以及 github.com/doublesq97-ui/bot-team-playbook；约 108 收藏 · 中文
@@ -205,6 +206,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Don't Leave Me Hanging：追回邮件里忘了的承诺闭环](https://x.com/BrianRoemmele/status/2114394724849385687) — @BrianRoemmele · 2026-10-25 · 可分享 bot：扫旧线程找未兑现承诺、按紧急度排序、起草跟进稿与看板进度，工作日早报只推新项、发信前必须你点头；附一键导入；约 49 万粉 · 英文
 
 - [Most of Your Grok Bot Usage Is Re-Reading. Here's How to Stop Paying for It.](https://x.com/GrokBotRadar/status/2114409935345971231) — @GrokBotRadar · 2026-10-26 · X 长文：CSV 显示额度大头是缓存重读；十步止血（导出用量→砍/改 routine→变化检查→一任务一对话→DM 总管→Bot 改 Skill→连接器优先→Cursor 别用 Auto→过夜 allow/draft→关 Auto Top-up）；约 1 万粉、约 181 收藏 · 英文
+- [直接问 bot「这周用了多少额度」：自查用量六项](https://x.com/Texas_Twins_Dad/status/2115308178166383074) — @Texas_Twins_Dad · 2026-10-28 · 不用翻设置：问它本周/近 7 天/近 30 天用量，可回报套餐、已用占比、重置时间、哪个 bot/routine 最费、按日曲线，再追问「为什么烧这么多」会指出对应天和 bot；约 1.1 万粉 · 英文
 
 - [How Grok Bot Routines Changed the Way I Work](https://x.com/eng_khairallah1/status/2114647320834810139) — @eng_khairallah1 · 2026-10-26 · X 长文：六条可直接粘贴的 routine 提示词（构建班次、发布雷达、资料包 skill、客户台、收件箱分拣、周五复盘），附「无货静默、只起草不代发、缺源标未核实、先手动跑一次再上定时」等设计规则和额度、安全注意 · 英文
 - [Routine 记账员：一段提示词给每条 routine 算唤醒次数、加变化检查、改触发器](https://x.com/gippp69/status/2114689520964677797) — @gippp69 · 2026-10-26 · 串帖：接着作者 10-11 的 routine 成本长文，回复区给出可粘贴的审计提示词，先问三问再列清单、估唤醒次数、提「先比变化再跑」和改事件触发，发送/付款类保持草稿，最后出前后对比表并存成 Skill；金额为作者示例价估算 · 英文
