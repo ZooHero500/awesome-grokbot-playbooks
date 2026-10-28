@@ -113,6 +113,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [我的 Grok Bot 配置：出海站点、自媒体、AI 周报、计划清单四个 bot](https://x.com/Pluvio9yte/status/2113065297284599924) — @Pluvio9yte · 2026-10-22 · 实配分享：站点 bot 盯新词、流量并借插件每天上外链，自媒体 bot 盯热点和关注博主，周报 bot 用 X 检索不耗 API，清单 bot 对没完成的事反复提醒；约 5 万粉 · 中文
 - [让 Grok Bot 研究「低粉爆帖」账号：六步建选题库，最后存成 Skill + 每周 Routine](https://x.com/SIAxiom/status/2114738425567891579) — @SIAxiom · 2026-10-26 · 长帖：找 1k–2w 粉高互动账号→筛异常爆帖→挖评论区高频问题→拆写法并让 bot 采访你出 3 版草稿→按表格数据复盘→把验证过的流程存成 Skill 并建每周 Routine；每步附可复制中文指令，提醒无法核实的数据标「未知」· 中文
 - [把 Grok Bot 当 24 小时研究助理：财报、宏观、盘前盘后、盯票池和公告速读五类玩法](https://x.com/eastweb3eth/status/2115292530971668749) — @eastweb3eth · 2026-10-28 · 长帖：财报拆收入利润与指引变化、宏观理定价逻辑、盘前扫异动盘后盯公告、重点票池定期汇总多空与风险、并购增发等事件先事实梳理；标黑句可直接当指令；约 3.5 万粉，文末有币安 Agent 风险提示 · 中文
+- [从 Reddit「额度烧光」抱怨里挖出海小产品：四步法 + 每日 Routine 提示词](https://x.com/Timojoy713/status/2115352795935367605) — @Timojoy713 · 2026-10-28 · 长帖：在 Reddit 搜 burned through / used up my quota 等抱怨句，只收一周内重复 3 次以上的痛点，看评论有没有付费意愿，先做用量告警这类最小功能；附一段可直接设成每天 9 点跑的中文提示词，输出痛点表和一个 $9–$99 小 skill 选题；售价为网友自述仅作参考；约 6.2k 粉 · 中文
 
 ## 英文精选
 
@@ -280,6 +281,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 当首席设计工程师：每周把数据流失点变成一版待批设计](https://x.com/felixleezd/status/2115155579488583948) — @felixleezd · 2026-10-28 · 长帖：给 bot 定好岗位后，它每周读分析数据找流失点、在 Paper 出一版设计、在 Linear 写清问题和改法、提醒别过度打磨，等本人选定才上线；作者约 3.5 万粉，约 320 赞 / 390 收藏，增长数字为自述 · 英文
 - [Have Grok Bot build X lists for you](https://x.com/HeyYoGB/status/2115265797115527389) — @HeyYoGB · 2026-10-28 · 长帖：一句提示词让 bot 按话题建公开 X 列表（排除已关注你的人），人工删掉不合适的再重复，最后置顶或放进 X Pro；作者 5 分钟建了 3 个各 45 人的列表，约 9.9k 粉 · 英文
 - [328 → 18,036 Google Clicks a Month: My Grok Bot SEO System (Full Guide)](https://x.com/JulianGoldieSEO/status/2115287849092477332) — @JulianGoldieSEO · 2026-10-28 · X 长文：Scout/Director/Writer/Doctor/Linker 五岗各附可粘贴提示词，周循环 + 上线前人工闸；流量与 AI 曝光数字为作者自述，文末有课程与咨询链接可跳过；约 17 万粉 · 英文
+- [A nightly Grok Bot that finds mobile UI bugs and hands the fix list to a coding agent](https://x.com/acadictive/status/2115354128884875735) — @acadictive · 2026-10-28 · 长帖：bot 每晚打开真实站点（登录与未登录各一遍），按 320–430 七种手机宽度逐页检查，按阻断/主要/次要分级并截图，邮件发一份图文对照的 PDF，再把 PDF 交给编程 Agent 修；适合做 Web 产品的独立开发者，约 9.2k 粉 · 英文
 
 ## 不收的例子
 

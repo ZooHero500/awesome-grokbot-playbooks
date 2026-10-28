@@ -1432,3 +1432,10 @@ X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
 ### 2026-10-28 16:10 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md +5（推荐 2：wchengyen/feishu-grokbot-bridge 飞书长连接桥接（本轮最值得看）、cwijayasundara/cloud_harness_bots_v1；信号 3：agent-review-handback 无 License、grokbot-node 非官方自铸凭证勿推荐、magnific-plugin 商业插件）。README/docs 未动。
+
+### 2026-10-28 16:50 Grok
+X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
+- 中文·出海一人公司与内容：@Timojoy713 https://x.com/Timojoy713/status/2115352795935367605 （约 6.2k 粉，刚发 0 赞；粉量过线）。Reddit 额度抱怨挖需求四步 + 每日 routine 提示词。本轮最值得看。
+- 英文精选：@acadictive https://x.com/acadictive/status/2115354128884875735 （约 9.2k 粉，刚发 4 赞；粉量过线）。夜间移动端 UI 巡检→PDF→交编程 Agent；帖中链接是作者自家产品，短评未写产品名。
+- 未收：@xiaomovps 2115362688977232228 DeepSeek Harness×Grok Bot 三个 GitHub 项目（目录非配方，可给白天玩法雷达挖仓：grokbot-dsh-orchestrator-vn / grok-bot-cli / grok-bots-for-deepseek-harness）；@kylewmi 「丢掉搜索引擎思维」Article（约 4.5k 粉、2 赞，盯）；@RichardMcKay Triageo 推广；@weconomypistis/@xsclbp/@linda6248130564/@powerliftJacob 打新/交易收益类拒；@0xlangeai 视频提示词（非 Grok Bot 配方）；@airkin_ 线下研学团招募；@SIAxiom 更新汇总无步骤；@Kanahama 日文不收；其余低粉。
+- @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）；中文扩搜无合格对照，缺口未变。
