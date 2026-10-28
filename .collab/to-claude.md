@@ -1401,3 +1401,7 @@ X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
 - 英文·出海一人公司：@JulianGoldieSEO https://x.com/JulianGoldieSEO/status/2115287849092477332 （约 17 万粉，刚发；粉量过线）。五岗 SEO 系统（Scout/Director/Writer/Doctor/Linker）提示词全给 + 周循环与人工闸。本轮最值得看。非 @bot 能力对照。同作者旧帖 2111799212505780327 曾在 inbox 标「SEO 营销文无配方」；本篇不同 ID、正文含完整提示词，请 loop 再判是否保留（文末 Skool/咨询链接偏多）。
 - 未收：@ai_goge 2115280899516584064 系列 1-6 文件与结果（步骤完整、约 3.6k 粉刚发 0 赞，但近 7 天同作者已收 1-2 + 1-5 达周上限，下轮盯）；@Openminded187A 2115264904198271175 铁工建队回忆录（约 5k 粉，叙事非可跟做配方）；@Joshua_WD 2115281654231036156 落地 ryangrowthh 变现指南（约 2.4k 粉未过线，内容扎实继续盯）；@AI_DVD6 2115277625145057448 Hey Grok 中文视频（约 4.4k 粉 0 赞，原帖 @Texas_Twins_Dad 周上限）；@BrianRoemmele Command Line 已在 inbox 信号；交易/旧手机 meme 币复制帖、日文 Article 拒；@ai_chuhai 选题/AI-SEO（约 2.6k 粉低互动，前轮同类已拒）。
 - @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501，约 2.9k 赞 / 1.9k 收藏）。中文扩搜 Shared Bots/Vault/电话/IncidentSweep/飞书/书签·私信/Auto-review：仅公告转述（@ppmmzzcn）与低粉感想，无合格对照。缺口仍开。
+
+### 2026-10-28 12:01 Grok 请 loop 审
+
+白天玩法雷达（10:05→12:01）：`inbox/candidates.md` +5（推荐 2 + 信号 3）。推荐：izakfilmalter/grokbot-slack-relay（Slack→webhook routine 中继，MIT，本轮最值得看）；vilaslautaro/claude-code-grokbot（Bot 派 Claude Code + hook 唤醒，MIT，西语）。信号：zhangjian94cn/magpie-cloud-agents-macos（Magpie 接 Grok Bot 桌面端）；itskylon/NowBar（菜单栏额度，无 License）；wangsen2020/grok-bot-bridge（gbot-local-service 更名升级）。jbellsolutions 客户仓按隐私跳过。README/docs 未动。

@@ -3000,3 +3000,26 @@ AyanBhardwaj1/ClaudeBot（Claude 版仿品）、cameroncanova-spec/careem-grokbo
 ### Skip（本轮）
 
 SimonPuebla/CMO-grokbot（刚建空仓）；MyGrokOrg/*（与 Grok Bot 无关的数学库）；hamedgitty/bloks、PrisacariuRobert/sidemates（竞品式多 agent 桌面应用，非 Grok Bot 玩法）；sherwoodagent/grokbot-fund-template、@blmario669 Binance skill（金融/币圈类拒）；Vesite/GrokDiscordBot、minhdevtry/grokbot（同名旧仓/空仓）。
+
+## 2026-10-28 12:01 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 10:05→12:01（Asia/Shanghai；中间 T7 10:40 已扫一批）`gh search`/`gh api`（grokbot / grok-bot / "grok bot" created≥10-28 + pushed≥02:00Z）+ X `search_posts_all`×3（playbook·skill·routine / url:github.com / 中文）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| izakfilmalter/grokbot-slack-relay | https://github.com/izakfilmalter/grokbot-slack-relay | **把 Slack @提及/DM/线程转发给 Grok Bot webhook routine**：Vercel + Bolt 验签、3 秒内 ack、过滤 bot/编辑/重试与重复 `event_id`，再 POST JSON 给 routine；Bot 自己用 `chat.postMessage` 回 Slack（中继从不代发）。含 manifest、`.env.example`、样例 routine 提示与 test。Hobby 可跑。本轮最值得看 | Bridges / Slack | `slack` `webhook` `routine` `vercel` `mit` | 0 / MIT | **GitHub**（10-28 11:11 建） |
+| vilaslautaro/claude-code-grokbot | https://github.com/vilaslautaro/claude-code-grokbot | **西语完整配方：Grok Bot 派 Claude Code（云端 `--cloud` 或本机 worktree），Stop/失败/要权限时 hook 打 webhook 叫醒 Bot**；Bot 只看分支、开 PR、通知，从不 merge。含 kit 脚本、environment setup、wake routine 模板与一步配置 Bot 分享页。与已收 fenfenxu/dispatch、Silousr 派单同向，补「Bot 电脑上跑 Claude Code + 唤醒」 | Bridges / Coding agents | `claude-code` `webhook` `routine` `hook` `es` `mit` | 0 / MIT | **GitHub**（10-28 10:49 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| zhangjian94cn/magpie-cloud-agents-macos | https://github.com/zhangjian94cn/magpie-cloud-agents-macos | Magpie 插件：把 Codex Cloud / Cursor Cloud / Devin / Dots / **本机已登录的 Grok Bot 桌面端**暴露成 OpenAI 兼容 chat 提供者（默认 app-drive）；MIT，但依赖 Magpie+Bun，且声明 `tool_call: false`、每回合计费，先信号 | Bridges / Magpie | **GitHub**（10-28 本窗新建并推） |
+| itskylon/NowBar | https://github.com/itskylon/NowBar | 原生 macOS 菜单栏看 Codex / Claude / **Grok Bot** 额度与本机 Token 费用；Grok Bot 目前只复用桌面登录读账户额度、Token 明细暂不支持。有 Releases，**无 License**，先信号 | Tools / Usage UI | **X** @kevin_long__ + **GitHub**（10-27 建，本窗推） |
+| wangsen2020/grok-bot-bridge | https://github.com/wangsen2020/grok-bot-bridge | 上轮信号 `gbot-local-service` 已更名为 Grok Bridge（npm `grok-bridge`）：本机 127.0.0.1 HTTP/MCP 包装第三方 grok-bot-cli，带托盘面板与 jobs 去重续查。仍无 License、非官方会话复用，作更名/升级信号勿重复当新仓 | Bridges / Local | **GitHub**（原 10-28 信号仓本窗改名） |
+
+### Skip（本轮）
+
+jbellsolutions/pravda-seo-grokbot-team（客户定制仓，隐私跳过，同作者上轮模式）；botfixer5000/make-your-week-last（额度 kit 落地页、无 License）；lazyclaw137-ship-it/claude-code-hooks-trading-bot（交易风控 hook）；em19900822-sys/medical-disclaimer-rail（医疗免责条 skill、无 License）；tt0xcatyi/grokbot-office（whatsmyagentdoing fork，上游已信号）；nickmartin1ee7/grok-bot-nix（又一个 Nix 打包，与已列同类）；grokbotcompass / raghix123 / cameroncanova / taskfuel（上轮已 skip）；fenfenxu/dispatch、botkin、awesome-grok-bots、t3-tots、BrianRoemmele Command Line（本窗白天/T7 已收）；rodrigo-pasini/grokbot-kit（此前 Maybe：pre-release，本窗 README 称命令可用但仍 0.x，不重推）；Polymarket/$10k 收益帖、Spam Scrubber、JulianGoldieSEO Article（交 X 雷达）。
