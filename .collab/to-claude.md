@@ -1512,3 +1512,7 @@ X 大 V 文章雷达：x-articles +1（中文 · 入门上手），请 loop 核�
 - 本轮最值得看：@panExorcist https://x.com/panExorcist/status/2115470918583472625 （约 2 万粉，刚发 1 赞）「文件进、成品出」六步长帖配视频教程，有可跟做步骤；结尾「评论区扣要」引流，若 loop 嫌引流味重可删。上一轮其横评视频帖未收。
 - @bot 对照：from:bot 最新仍 Shared Bots 2115130760009273501，无新公告；中文扩搜（自 23:30 起）无合格对照。缺口未变。
 - 未收：@GrokBotRadar 2115489802682585477 额度泄漏 X 长文（约 1 万粉，3 赞/7 收藏，与已收 2114409935345971231 主题重叠，盯）；@starkljm 省用量 11 步长文约 1.2k 粉；@ArthurLiu0725 一人 AI 团队长文 140 粉；@AndyL5cc Gavin Baker 17 bot 转述无步骤；@BrianRoemmele 电话无步骤；@TGweb3333/@lu52is/@dzdmdt/@punpunism 交易喊单拒；@Greshamtrade 6 repos 引用帖原帖已收；@Yarilo7brigada Jev 推广；@jimaggie 旅行 bot 链接无步骤；法语/西语不收。没动 README，也没碰 inbox/。X 调用约 6。
+
+### 2026-10-29 02:05 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md「2026-10-29 02:05」段 +7（2 推荐 + 5 信号）。最值得看 RawPowered/Grok-Bot-Templates（8 份多 Bot 团队/作战室模板，无 License 只作参考链接）；另推 telegraphic-dev/am-i-cooked（quota-gate skill，含 Grok Bot 周额度，MIT）。aibot-hostkit 走 `curl | bash`，收录前先读源码。README/docs 未动。

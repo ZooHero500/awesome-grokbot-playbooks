@@ -3158,3 +3158,28 @@ HatayaMisuzu/grokbot-s-working-home（DSH 插件快照，非 Grok Bot 玩法）�
 ### Skip（本轮）
 
 P3NN4L/Tribot（只有 LICENSE）；doitupsolutions810-crow/grok-bot-（空仓）；habilmind-webs/borrador-prueba（测试仓）。@Rakel076 resethook 介绍帖（仓已在上轮收）；X 侧 @0xChonsy、@Drrubentorrest、@Chriswong、@godofwaaar、@thedelost 长文/引用交 X 雷达；@mrfundman 迁移吐槽、@KimSmit55267347 互动帖拒。
+
+## 2026-10-29 02:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复（telegraphic-dev/a2a-exposed 已在库，am-i-cooked 是同作者另一仓；ExpeditedProjects/hutchdb 曾拒，streamdeck 是另一仓）。窗口约 00:05→02:05（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot skill，created≥10-28）+ X `search_posts_all`×1。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| RawPowered/Grok-Bot-Templates | https://github.com/RawPowered/Grok-Bot-Templates | **一人创作者 / 营销的多 Bot 团队模板包**：8 份可直接粘进 Bot 说明的 md（内容猎手、制片、回复、数据增长、邮件、外联，外加内容团队群聊与协调群聊两份作战室模板），每份写清成员、目的、运行方式，凡以本人名义外发一律先过审批。本轮最值得看。**无 License**，收录时只作参考链接 | Templates / War Room | `multi-bot` `war-room` `template` `approval` | 0 / 无 | **GitHub**（10-29 00:05 建） |
+| telegraphic-dev/am-i-cooked | https://github.com/telegraphic-dev/am-i-cooked | **跑大活前先查额度的 quota-gate skill**：读本机 Claude Code / Codex / Cursor 凭据（Cursor 侧含 Grok Bot 周额度），按阈值返回 allow/skip，可做 Claude 插件钩子或经 skills.sh 装成纯 skill；作者称已接入 Grok Bot，让总管 Bot 在重置前自己判断还能不能加跑。MIT、带测试 | Skills / Usage | `skill` `quota` `routine` `mit` | 4 / MIT | **GitHub**（07-02 建，10-28 作者 X 推 Grok Bot 支持） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| monarchsofchaos004-gif/aibot-hostkit | https://github.com/monarchsofchaos004-gif/aibot-hostkit | 一条命令把 Grok Bot 云电脑（或任意 VPS）配成常驻 Claude Code/Codex 主机：tmux 守护、自动拉起、手机提醒，支持 `--plan` 让 Bot 代跑；繁中/英。MIT，但 `curl | bash` 且 v0.1.0，作 Box 信号 | Box / Tools | **GitHub**（10-29 01:30 建） |
+| kylin-feng/grokbot | https://github.com/kylin-feng/grokbot | 非官方开源复刻 Grok Bot 界面：预置 Chief of Staff 等 Bot 团队、同事式线程、模拟「云电脑」面板，BYOK。MIT，偏学习 Demo，作 Community 信号 | Community / Clones | **GitHub**（10-29 00:35 建） |
+| ExpeditedProjects/grokbot-streamdeck-releases | https://github.com/ExpeditedProjects/grokbot-streamdeck-releases | Stream Deck 一键对某个 Bot 发起语音对话（macOS 辅助功能代点按钮），MIT，桌面小工具作 Tools 信号 | Tools / Desktop | **GitHub**（10-29 00:39 建） |
+| adplug-app/adplug-cursor-plugin | https://github.com/adplug-app/adplug-cursor-plugin | Google/LinkedIn/Microsoft Ads 的托管 MCP，只加一个远程 server，改动需你批准；商业服务，作 Plugins 信号 | Plugins / Ads | **GitHub**（10-29 00:56 建） |
+| xpunkmonkx「routine 最后建」 | https://x.com/xpunkmonkx/status/2115476209093992695 | 先在真数据上跑一次、改错、存成 skill，最后才挂 routine，避免定时重复犯错。186 粉短帖，作 Routines 方法信号 | Routines / Method | **X**（10-29） |
+
+### Skip（本轮）
+
+jabowery/grokbot-update-loop-bypass（Linux 更新 bug 绕过，带二进制包，不收）；XYAIStudio/XYAIbot（只有 README 一行）；habilmind-webs/borrador-prueba（测试仓，已拒）。X 侧 @Av1dlive、@GrokBotRadar、@monetization_x、@twinedon0、@byalexai、@godofwaaar 长文/清单交 X 雷达；@zsz1210 Reason Network webhook 回帖与上轮 @inorbit01 同思路不另收；@irongiantXBT、@Yarilo7brigada 标题党拒。
