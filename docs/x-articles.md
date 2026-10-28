@@ -286,6 +286,9 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [A nightly Grok Bot that finds mobile UI bugs and hands the fix list to a coding agent](https://x.com/acadictive/status/2115354128884875735) — @acadictive · 2026-10-28 · 长帖：bot 每晚打开真实站点（登录与未登录各一遍），按 320–430 七种手机宽度逐页检查，按阻断/主要/次要分级并截图，邮件发一份图文对照的 PDF，再把 PDF 交给编程 Agent 修；适合做 Web 产品的独立开发者，约 9.2k 粉 · 英文
 - [Make Grok Bot read websites with fewer tokens: connector first, then script, then browser, screenshots last](https://x.com/Michael_Fenech_/status/2115421573524148479) — @Michael_Fenech_ · 2026-10-28 · 长帖：同一站点三种抓法实测，看屏点击约 213K token、浏览器内脚本约 51K、纯脚本执行时几乎不耗模型；附一段可粘贴给首席 bot 的规则，按连接器→脚本→浏览器脚本→屏幕操作的顺序选法，要求核对条数、失败说清、复用脚本、不绕登录和验证码，改规则前先等本人批准；约 6 万粉，token 数为作者自测 · 英文
 - [Pick which model a Grok Bot request uses, via a Cursor project](https://x.com/moritzkremb/status/2115390588983849105) — @moritzkremb · 2026-10-28 · 三步短帖：在 Cursor 建一个空工作区项目，让 bot 连上它并写成所有 bot 都能用的 skill，之后一句「用 Cursor 项目里的 Opus 做这件事」就能指定模型；需要你的 Cursor 账号能用云端 agent；约 7.6 万粉 · 英文
+- [Steal These 15 Grok Bot Workflows: Copy the Prompts. Skip the Work.](https://x.com/heynavtoor/status/2115425844839751726) — @heynavtoor · 2026-10-28 · X 长文：给个人创作者的 15 个工作流，赞助邮件回复（你按发送才发）、合作排期、数据汇总、催款等，每个都附可直接粘贴的提示词；文中省时数字为作者估算；约 15 万粉 · 英文
+- [Reply Window: a Grok Bot that tells you which posts to reply to in the first 15 minutes](https://x.com/slash1sol/status/2115428869247320547) — @slash1sol · 2026-10-28 · 长帖：bot 只盯约 400 个 AI 账号，标出发布不到 15 分钟且正在起量的帖子，起草两行回复由本人改完手动发；附四条规则（15 分钟内回、补一个原帖没有的数字、不写空夸、跳过已超 40 条回复的帖）；涨粉与曝光为作者自述，约 1.4 万粉 · 英文
+- [Steal this. How I run Grok Bot for content on two websites](https://x.com/_StanGirard/status/2115433346301841808) — @_StanGirard · 2026-10-28 · X 长文：两个站同时做 SEO 与 GEO 的内容流水线，Research bot 只查资料不写稿、产出带来源的简报和「禁止编造」清单，SEO bot 必须先拿简报再写，早上雷达 bot 只进待选池不定选题，每篇由本人合并上线；约 5.9k 粉 · 英文
 
 ## 不收的例子
 

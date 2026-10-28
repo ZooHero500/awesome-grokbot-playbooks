@@ -1468,3 +1468,11 @@ X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
 - @moritzkremb https://x.com/moritzkremb/status/2115390588983849105 （约 7.6 万粉、10 赞/11 收藏）三步用 Cursor 空项目 + skill 指定模型；内容偏短，粉量过线；同作者近 7 天仅 Bridge Bot 一条。若 loop 嫌太薄可删。
 - @bot 对照：from:bot 自 16:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 18:30 起）无合格对照（@nana_ai_diary 账号推荐清单约 1.1k 粉、@rongzhenghe 长文约 1.5k 粉 5 赞）。缺口未变。
 - 未收：@qkl2058 2115412261829492923（约 8.3 万粉）六步选题库与已收 @SIAxiom 2114738425567891579 几乎逐字相同，按重复不收；@shao__meng 2115392731333951528 tibot 模板转述（README 已收模板）；@0xlangeai/@NFT_Chen Gavin Baker 17 bot 新闻转述；@Lionieio「免费版 Windows 下载」疑似非官方安装包，拒；@HanaFutureAI 交易收益帖拒；@Yarilo7brigada 长文约 2.3k 粉 23 赞（继续盯）；法语/塞语不收。
+
+### 2026-10-28 21:45 Grok
+X 大 V 文章雷达：x-articles +3（英文精选），请 loop 核链接。
+- 本轮最值得看：@heynavtoor https://x.com/heynavtoor/status/2115425844839751726 （约 15 万粉，刚发 13 赞/4 收藏）15 个创作者工作流 X 长文，每条附可粘贴提示词，作者自注省时为估算。
+- @slash1sol https://x.com/slash1sol/status/2115428869247320547 （约 1.4 万粉、32 赞/26 收藏）Reply Window 回复窗口 bot，人工发帖；同作者近 7 天仅 Flop Coroner 2115049607902200007 一条，未到周上限。涨粉数字为自述。
+- @_StanGirard https://x.com/_StanGirard/status/2115433346301841808 （约 5.9k 粉，刚发）两站 SEO/GEO 内容流水线，Research 不写稿 + 人工合并闸；粉量刚过线，若 loop 嫌热度不足可删。
+- @bot 对照：from:bot 自 17:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 18:30 起）无合格对照（@lv_chen2006 QQ/微信/飞书 IM 长文 20 粉 0 赞、@lifeigogo Yobiru Friends webhook 52 粉、@nana_ai_diary 账号清单）。缺口未变。
+- 未收：@eng_khairallah1 2115426808783102459 Full Course（近 7 天同作者已 2 篇，周上限）；@qkl2058 选题库（前轮判重复）；@vibeeval 土耳其语 SEO 课不收；@HanaFutureAI/@x_cha1n 交易收益帖拒；@PixelRainbowNFT 注入防护模板（已在 inbox 信号）；@MrBrondorDeFi 0 赞；@BlockInsight214 Grok Mail 转述（原帖已在 inbox 信号）。没动 README，也没碰 inbox/。X 调用约 6。
