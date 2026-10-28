@@ -185,6 +185,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Master Grok Bot in Under 15 Minutes (From a Guy Running 30 of Them)](https://x.com/teedubya/status/2115174209001558428) — @teedubya · 2026-10-28 · X 长文：约 17 万粉作者把 30 个 bot 按媒体、资金、研究、运营、建造五个部门列出各自岗位，由一个首席 bot 统管；后半讲 Pages、Vault 等新能力怎么接进现有团队，以及用 Cursor 云端代理、共用 MCP、GitHub issue 交接把 Grok Bot 和 Claude、Codex 串起来，已验证和待测试分开写；其中模拟盘交易 bot 仅作者自述 · 英文
 - [How to Automate Your Life With Grok Bot (Full System + PROMPTS)](https://x.com/thejayden/status/2115388434025955778) — @thejayden · 2026-10-28 · X 长文：作者同时跑 10 个 bot（写帖、找赞助、清理网上个人信息，再配一个 Chief of Staff 统筹），先讲云电脑、连接器、Skills、Routine 四块积木，再给 12 个岗位各自的建 bot 提示词、任务提示词和 routine 提示词，最后讲怎么组成团队；约 1.3 万粉 · 英文
 - [The Grok Bot Playbook: Turn One Chat Into a Self-Running AI Team (Step by Step)](https://x.com/thedelost/status/2114701030340300848) — @thedelost · 2026-10-26 · X 长文：从一个首席 bot 写岗位说明起步，到自检清单、先 skill 后 routine、一首席多专员交接字段、按「能否撤回」划审批线，14 步加首周日程，提示词可直接粘贴；约 5.4k 粉、64 收藏 · 英文
+- [How to Build Your Own AI Team: Start With One Bot, Not Ten](https://x.com/joelcomm/status/2115507903171887128) — @joelcomm · 2026-10-29 · X 长文：作者把 62 个 bot 精简成 10 个各管一件事的团队，先建首席 bot 负责派活和追踪，再加一个专门挑错的核对 bot；给出 15 分钟搭建顺序、「一天只加一个 bot」的五日计划、禁止 bot 擅自做的事项清单和一段可粘贴的首席 bot 提示词；作者约 59 万粉，团队刚搭好暂无效果数据 · 英文
 
 ### Routine 雷达与额度
 
@@ -216,6 +217,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Weekly prompt: have your Chief of Staff check which new Grok Bot features could simplify your routines](https://x.com/Michael_Fenech_/status/2114661816873734316) — @Michael_Fenech_ · 2026-10-26 · 长帖附整段可粘贴提示词：每周让首席 bot 查官方文档、帮助页和更新日志里上周的新功能，逐条对照现有 routine，看能否替掉绕路做法和手动步骤、省额度或更稳，只出建议、改动等你批准；约 6 万粉、500 赞 / 1k 收藏 · 英文
 - [Grok Bot 常见用法误区与改法：事件触发、具体派活、Auto-review 规则、先测再定时](https://x.com/XFreeze/status/2115103136125997258) — @XFreeze · 2026-10-27 · X 长文：能用事件触发就别定时轮询，派活写清结果/来源/约束/交付和何时停下等批，重复批准的安全动作在聊天里建 Auto-review 规则（无人值守的审批卡约 10 分钟过期），登录和卡片放 Vault，先手动跑通存成 skill 再上定时，一岗一 bot、主动告诉它要记住什么；约 29 万粉 · 英文
 - [Stop Wasting Your Grok Bot Usage：七条让每个任务都算数的派活习惯](https://x.com/karanC_12/status/2108921353256698298) — @karanC_12 · 2026-10-10 · X 长文：派活先写清结果和停止点、重复活存成可复用 skill、简单任务别硬上多 Agent、结果不好先指出缺什么再局部改、只给会改变答案的上下文，文末附一段可直接套用的派活模板；约 45 万浏览、400+ 收藏 · 英文
+- [Your Grok Bot Week Isn't Running Out. It's LEAKING. Here's Every Leak and the Fix.](https://x.com/GrokBotRadar/status/2115489802682585477) — @GrokBotRadar · 2026-10-29 · X 长文：先教你导出用量 CSV 看重读占比，再逐条讲十处额度漏洞和对应改法，比如把 routine 移到专用 bot、放慢频率、没变化就静默、长对话存成文件再开新 bot、bot 之间来回限两轮、能用连接器就别开浏览器、夜间需审批的 routine 改成放行或只出草稿；每条附可粘贴提示词和官方文档出处；约 1 万粉 · 英文
 
 ### Skills 与连接
 

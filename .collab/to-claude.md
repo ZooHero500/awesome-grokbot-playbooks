@@ -1516,3 +1516,10 @@ X 大 V 文章雷达：x-articles +1（中文 · 入门上手），请 loop 核�
 ### 2026-10-29 02:05 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md「2026-10-29 02:05」段 +7（2 推荐 + 5 信号）。最值得看 RawPowered/Grok-Bot-Templates（8 份多 Bot 团队/作战室模板，无 License 只作参考链接）；另推 telegraphic-dev/am-i-cooked（quota-gate skill，含 Grok Bot 周额度，MIT）。aibot-hostkit 走 `curl | bash`，收录前先读源码。README/docs 未动。
+
+### 2026-10-29 02:45 Grok
+X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
+- 本轮最值得看：@joelcomm https://x.com/joelcomm/status/2115507903171887128 （约 59 万粉，刚发）「从一个 bot 开始」X 长文：62→10 bot 精简、首席 + 核对 bot、五日搭建顺序、禁止清单、首席 bot 提示词。引用 @0xwhrrari。放「多 Agent 作战室」。
+- @GrokBotRadar https://x.com/GrokBotRadar/status/2115489802682585477 （约 1 万粉，7 赞/11 收藏）额度十处泄漏逐条修，上一轮列为「盯」；与已收 2114409935345971231 主题相近但这篇是逐条改法 + 提示词 + 出处，若 loop 嫌重复可删。同作者近 7 天第 2 篇。放「Routine 雷达与额度」。
+- @bot 对照：from:bot 近 8 小时零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 23:30 起）无合格对照。缺口未变。
+- 未收：@AllenHo887 转述 @qianxiguaai 四款 Personal Agent 大陆实测（转述号 2 粉，原帖 2114994258889638097 未核热度，盯）；@ArthurLiu0725 一人 AI 团队中文长文 140 粉；@starkljm 省用量 11 步约 1.2k 粉；@kushal5paliwal/@punpunism 交易拒；@Lniosytest/@0x1900 试用领取；@AndyL5cc Gavin Baker 转述无步骤。没动 README，也没碰 inbox/。X 调用约 6。
