@@ -1476,3 +1476,8 @@ X 大 V 文章雷达：x-articles +3（英文精选），请 loop 核链接。
 - @_StanGirard https://x.com/_StanGirard/status/2115433346301841808 （约 5.9k 粉，刚发）两站 SEO/GEO 内容流水线，Research 不写稿 + 人工合并闸；粉量刚过线，若 loop 嫌热度不足可删。
 - @bot 对照：from:bot 自 17:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 18:30 起）无合格对照（@lv_chen2006 QQ/微信/飞书 IM 长文 20 粉 0 赞、@lifeigogo Yobiru Friends webhook 52 粉、@nana_ai_diary 账号清单）。缺口未变。
 - 未收：@eng_khairallah1 2115426808783102459 Full Course（近 7 天同作者已 2 篇，周上限）；@qkl2058 选题库（前轮判重复）；@vibeeval 土耳其语 SEO 课不收；@HanaFutureAI/@x_cha1n 交易收益帖拒；@PixelRainbowNFT 注入防护模板（已在 inbox 信号）；@MrBrondorDeFi 0 赞；@BlockInsight214 Grok Mail 转述（原帖已在 inbox 信号）。没动 README，也没碰 inbox/。X 调用约 6。
+
+### 2026-10-28 22:10 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md +4（1 推荐 + 3 信号），README/docs 未动。
+- 本轮最值得看：https://github.com/rakei076/resethook （MIT，中英文档）Codex 重置预告 → webhook routine → skill 估算并烧额度；安装依赖第三方站点 `curl | sh`，请核源码后再决定是否推荐。
+- 信号：FarkasLabs/infinitary-grokbot-bridge（0.1.0、代操作未实测）；nordbeam/nordsynk-fortnox-mcp（商业、地区性）；@lamGrok 桥接前 5 项检查（0 粉）。

@@ -3112,3 +3112,25 @@ kapilcdave/kapil-grok-bot（memecoin / Kalshi 交易多 Bot，币圈类拒）；
 ### Skip（本轮）
 
 kush-coder/autopilot-open-duet（「Official Build & Verified Release」式命名的替代品仓，可疑，拒）；Protoduct-AI 五个单品插件（buddybase/lore/ledgie/hachimo/hearth，单一 App 推广，同 fracta 处理）；outerheaven199X/CryptOSINT-GrokBot（币圈 OSINT、无说明）；raymizzou/grok-bot-work-flow-public（空仓，下轮再看）；rodvid/backup-Grok-bots（个人备份）；0xquqi/EZbot-grok-project-skill（已随 X 长文进 x-articles）。X 侧 @slowflying99「七个员工」、@0xSeekSky、@ecomstreur、@MapleZireael 长文交 X 雷达。
+
+## 2026-10-28 22:10 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 20:10→22:10（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥10-28）+ X `search_posts_all`×1（Grok Bot · github/skill/routine/webhook）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| rakei076/resethook | https://github.com/rakei076/resethook | **Codex 额度重置预告 → 叫醒 Grok Bot 先用完剩余额度**：Cloudflare Workers 监听重置预告，按事件（announced / landed / banked / retracted）POST 到你的 webhook routine；附 skill 读取本机 Codex 实时额度、估算截止前能否用完，再后台跑只读 Codex 任务。中英双语文档，「外部事件 → webhook routine → skill 决策」的干净样板，本轮最值得看。注意：安装走第三方站点 `curl | sh` 与托管服务，收录时提示先读源码 | Routines / Webhook | `webhook` `routine` `skill` `codex` `zh` `mit` | 0 / MIT | **GitHub**（10-28 21:21 建，本窗推） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| FarkasLabs/infinitary-grokbot-bridge | https://github.com/FarkasLabs/infinitary-grokbot-bridge | Infinitary 卡片经 webhook 转给 Grok Bot，按显式命令才代答卡片/回线程；https-only、不重试、有 SECURITY.md。MIT，但 0.1.0 且「代操作」未实测，单一 App 场景，先信号 | Bridges / Webhook | **GitHub**（10-28 20:42 建） |
+| nordbeam/nordsynk-fortnox-mcp | https://github.com/nordbeam/nordsynk-fortnox-mcp | 瑞典记账系统 Fortnox 的托管 MCP 插件，改动默认逐行审批后才落库，有 Grok Bot 模板。MIT，但商业服务且地区性强，作 Plugins 信号 | Plugins / Finance | **GitHub**（10-28 21:36 建） |
+| lamGrok 桥接前 5 项检查 | https://x.com/lamGrok/status/2115432755026678101 | 接外部 agent 前：写明上游、webhook URL 只放工具槽不进聊天、首单只读产物且不开发送工具等。0 粉新号短帖，作 Bridges 安全清单信号 | Bridges / Security | **X**（10-28） |
+
+### Skip（本轮）
+
+HatayaMisuzu/grokbot-s-working-home（DSH 插件快照，非 Grok Bot 玩法）；uiskys/gais-office-preview（个人 Office 预览页、无说明）；S1nned1/x-region-highlighter（Bot 写的浏览器扩展，与玩法无关）；oexapp/grokbot、hk1088/-Grokbot-、neo-meldlabs/test-grok-bot（空仓/测试）；raymizzou/grok-bot-work-flow-public（仍为空仓）。X 侧 @lv_chen2006 IM 长文、@0xChonsy、@Drrubentorrest、@heyrobinai 长文交 X 雷达；@Assassin_Malvo 合约叙事搜索（币圈）拒。
