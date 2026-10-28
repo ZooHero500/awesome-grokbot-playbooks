@@ -1495,3 +1495,7 @@ X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
 - @runes_leo https://x.com/runes_leo/status/2115466116831068329 （约 2.3 万粉，刚发 0 赞）收藏夹截止提醒只读模板，引用 @poteto tibot（tibot 已在 README/inbox）；可部分补「X 连接器书签」英文对照，热度低，若 loop 嫌未到线可删。
 - @bot 对照：from:bot 自 18:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 21:30 起）无合格对照（@heiyanfei 取关检查四步 824 粉、@kiamlord Shared Bots 转述 161 粉）。缺口未变。
 - 未收：@heizolshao 三家对比长文约 2.8k 粉（盯）；@Sownjuinho 时间线摘要 bot 约 2.4k 粉 23 赞；@monokern/@0xfuckpoverty/@FVRacingTeam/@crawlhivexyz/@null_bias 交易代币类拒；@panExorcist 横评视频；@aiwarts 豆包非 Grok Bot；@fipetru 西语、@yapyzka 土耳其语不收；@son1cat Lauren Tan 访谈转述（约 1.5k 粉）。没动 README，也没碰 inbox/。X 调用约 7。
+
+### 2026-10-29 00:05 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增 2026-10-29 00:05 段，+6（2 推荐 + 4 信号）。最值得看 huaspirit123/grokbot-visual-office（Apache-2.0，多 Bot 像素办公室看板，中文默认、示例数据虚构）；alexkrnlv/grokbot-second-brain 无 License，只作参考链接。README/docs 未动。

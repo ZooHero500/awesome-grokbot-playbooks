@@ -3134,3 +3134,27 @@ kush-coder/autopilot-open-duet（「Official Build & Verified Release」式命�
 ### Skip（本轮）
 
 HatayaMisuzu/grokbot-s-working-home（DSH 插件快照，非 Grok Bot 玩法）；uiskys/gais-office-preview（个人 Office 预览页、无说明）；S1nned1/x-region-highlighter（Bot 写的浏览器扩展，与玩法无关）；oexapp/grokbot、hk1088/-Grokbot-、neo-meldlabs/test-grok-bot（空仓/测试）；raymizzou/grok-bot-work-flow-public（仍为空仓）。X 侧 @lv_chen2006 IM 长文、@0xChonsy、@Drrubentorrest、@heyrobinai 长文交 X 雷达；@Assassin_Malvo 合约叙事搜索（币圈）拒。
+
+## 2026-10-29 00:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复（espinobj/grok-bot-tray 与此前已拒的 foztrk 同名仓不是同一作者）。窗口约 22:10→00:05（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot skill，created≥10-28）+ X `search_posts_all`×1（Grok Bot · github/skill/routine/webhook）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| huaspirit123/grokbot-visual-office | https://github.com/huaspirit123/grokbot-visual-office | **多 Bot 作战室的像素办公室看板**：等距像素风办公室里每个 agent 一个小机器人，一眼看出谁在干活、谁卡住、谁举手等你确认；点开看进度、已完成和「待你确认」，可配 HTTP provider 在页面里直接答复。纯 Vanilla JS + canvas，无构建无后端无 key，按 JSON Schema 喂数据或写 adapter 接自己的 Bot，中文默认、示例数据全虚构。本轮最值得看 | War Room / Dashboard | `multi-bot` `war-room` `dashboard` `zh` `apache-2.0` | 0 / Apache-2.0 | **GitHub**（10-28 22:54 建，本窗推） |
+| alexkrnlv/grokbot-second-brain | https://github.com/alexkrnlv/grokbot-second-brain | **git 托管的 Bot 第二大脑模板**：hot/warm/cold 三层 markdown 记忆，Bot 每次对话和摘要后重读 hot（<20KB）；附 AGENT-RULES 协议、ONBOARDING 提示词，以及每日 23:30 收尾、每周复盘的 routine 提示词（pull→归档事实→更新 hot→自检→commit/push）。README 明确要求私有仓、敏感业务数据不入库。**无 License**，收录时只作参考链接 | Memory / Routines | `memory` `routine` `git` `template` | 0 / 无 | **GitHub**（10-28 22:24 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Usefnoureldin/hostbase-grok-bot-plugin | https://github.com/Usefnoureldin/hostbase-grok-bot-plugin | 民宿/短租 PMS Hostbase 的只读 MCP 连接器（订单、房态、价格），MIT，单一商业服务，作 Plugins 信号 | Plugins / Vertical | **GitHub**（10-28 22:13 建） |
+| espinobj/grok-bot-tray | https://github.com/espinobj/grok-bot-tray | Windows 非官方托盘助手：隐藏到托盘、开机启动、崩溃拉起且识别更新安装不打断。MIT、带测试，桌面端小工具，作 Tools 信号 | Tools / Desktop | **GitHub**（10-28 23:44 建） |
+| talentacommerce 订单 webhook 桥 | https://x.com/talentacommerce/status/2115449894836064419 | 客户案例回复帖：票务系统无营销邮件集成，Bot 用 v0+Vercel 搭小桥，每单 webhook→读订阅同意→upsert 联系人并触发流程。真实落地但短帖，作 Bridges 信号 | Bridges / Webhook | **X**（10-28） |
+| inorbit01 Claude 结束 webhook | https://x.com/inorbit01/status/2115454886972198959 | 葡语短帖：给 Claude 跑完挂「run 结束」webhook 叫醒 Grok Bot，解决 Bot 不知道外部 agent 何时完工；与 FrancoE114696 用 skill 打 trigger webhook 让 Bot 提醒「agent 等你拍板」同一思路，作 Routines 信号 | Routines / Webhook | **X**（10-28） |
+
+### Skip（本轮）
+
+P3NN4L/Tribot（只有 LICENSE）；doitupsolutions810-crow/grok-bot-（空仓）；habilmind-webs/borrador-prueba（测试仓）。@Rakel076 resethook 介绍帖（仓已在上轮收）；X 侧 @0xChonsy、@Drrubentorrest、@Chriswong、@godofwaaar、@thedelost 长文/引用交 X 雷达；@mrfundman 迁移吐槽、@KimSmit55267347 互动帖拒。
