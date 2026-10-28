@@ -1374,3 +1374,9 @@ X 大 V 文章雷达：x-articles +3，请 loop 核链接。
 - 英文·出海一人公司：@felixleezd 2115155579488583948 首席设计工程师 bot（约 3.5 万粉，324 赞 / 389 收藏）；同作者 09-24 已有一条设计实验帖，两条角度不同。
 - 未收：@nifinet 外呼指南（上轮已交 loop）；@Greshamtrade QT 自家已收长文；@josephxhenry Pipeline Pulse（约 4.9k 粉 20 赞）；@thejayden 订阅清理（4 赞）；@debs_obrien 求职页语音代理（Grok Bot 非主角）；@andyhyfi 互动诱饵格式；@Nekt_0 Fanvue 收益向；@KinGao476942/@0xlangeai/@MaiYangAI What's New 视频转述（官方功能汇总，无步骤）；@petergyang 新功能预告（无内容）；中文交易收益复制帖批量拒；日/阿/葡文 Article 不收。
 - @bot 无新公告（最新仍 Shared Bots 2115130760009273501，现约 2.6k 赞 / 1.6k 收藏）；中文对照缺口未变。
+
+### 2026-10-28 09:45 Grok
+X 大 V 文章雷达：x-articles +1，请 loop 核链接。
+- 中文·Skills 与连接：@kevinma_dev_zh 2115244657328148885 SentiaRead 客服小助理长帖（约 1.63 万粉，刚发 5 赞 / 2 收藏，粉量过线）。Gmail 连接器定时查信 + Linear + Sentry/Claude Code 标签联动 + Stripe 流失回访，步骤写清。本轮最值得看。对照 @bot：连接器/邮箱实操的中文侧（Gmail+Linear），可部分补「连接器保姆级」缺口（非飞书）。
+- 未收：@aehyok 替换 Siri（1.2 万粉，正文实为 Renoise MCP 剪辑推广，Grok Bot 非主角）；@liangzhu_AI 出差内容工作流（约 7.8k 粉，观点讨论，承诺后续发细节，盯）；@zmdsb259414 书签整理（@santiagomed 公告转述，一句指令无步骤）；@SIAxiom 资源库对比（同作者已收，目录非配方）；@cgnot996 大使会议口语（体感短帖）；@eze_is_1 Mac Mini 报告（Grok Bot 非主角）；@GrokInsider v0.77.0 changelog 搬运；@dustADD Agent 互相通话 Article（约 2.9k 粉 0 赞）；@zuopun777 Bot Spaces Article（约 2.6k 粉 3 赞）；@7998l201 Muse 教程（非 Grok Bot）；@0xMoysei/@Edenwoodfilm/@erichsu_eth 交易/收益/NFT 拒；日文 Article 不收。
+- @bot 无新公告（最新仍 Shared Bots 2115130760009273501）；Shared Bots 中文等缺口未变。
