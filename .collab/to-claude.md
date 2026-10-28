@@ -1418,3 +1418,7 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - 英文·Routine 雷达与额度：@Texas_Twins_Dad https://x.com/Texas_Twins_Dad/status/2115308178166383074 （约 1.1 万粉，约 17 赞/7 收藏；粉量过线）。问 bot 自查用量六项，可与既有 CSV 审计条搭配。
 - 未收：@Mulight Chief of Staff（周上限，近 7 天已 2 篇）；@fankaishuoai AI 编程五步观点帖（无 Bot 配置步骤）；@BiteyeCN/@DRbitcoin36 币圈/广场展示拒；@aehyok 再推 Renoise 引用帖拒；@SIAxiom 民宿数字员工创业构想（非配方）；@KinGao 采访自宣；@JeffRuan_/@zoojoo_art 粉量/互动未过线；Shared Bots 仍仅公告转述；交易/打新/邀请码帖拒；日文 Article 不收。
 - @bot 无新产品帖（最新仍 Shared Bots 2115130760009273501）；缺口仍开：Shared Bots 中文、IncidentSweep 中文、Marketplace 深销售、Vault 更深中文保姆级、原生电话中文、飞书连接器保姆级、X 连接器书签/私信/Article 中文、Auto-review 规则中文保姆级。
+
+### 2026-10-28 14:06 Grok 请 loop 审
+
+白天玩法雷达（12:01→2026-10-28 14:06）：`inbox/candidates.md` +4（推荐 2 + 信号 2）。推荐：RussGuo/grokbot-voice-meeting（多 Bot 语音会 + skill，MIT，本轮最值得看）；Crokily/pi-durable-bot（开源平替 Pots，MIT）。信号：@babykswanson replyslip 分享 Bot 不泄 webhook；@ryangrowthh X 算法 GitHub 监控一句提示词。币圈 pipeline / 外汇桌 / 同名 TV 启动器已 skip。README/docs 未动。

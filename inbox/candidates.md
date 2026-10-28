@@ -3023,3 +3023,25 @@ SimonPuebla/CMO-grokbot（刚建空仓）；MyGrokOrg/*（与 Grok Bot 无关的
 ### Skip（本轮）
 
 jbellsolutions/pravda-seo-grokbot-team（客户定制仓，隐私跳过，同作者上轮模式）；botfixer5000/make-your-week-last（额度 kit 落地页、无 License）；lazyclaw137-ship-it/claude-code-hooks-trading-bot（交易风控 hook）；em19900822-sys/medical-disclaimer-rail（医疗免责条 skill、无 License）；tt0xcatyi/grokbot-office（whatsmyagentdoing fork，上游已信号）；nickmartin1ee7/grok-bot-nix（又一个 Nix 打包，与已列同类）；grokbotcompass / raghix123 / cameroncanova / taskfuel（上轮已 skip）；fenfenxu/dispatch、botkin、awesome-grok-bots、t3-tots、BrianRoemmele Command Line（本窗白天/T7 已收）；rodrigo-pasini/grokbot-kit（此前 Maybe：pre-release，本窗 README 称命令可用但仍 0.x，不重推）；Polymarket/$10k 收益帖、Spam Scrubber、JulianGoldieSEO Article（交 X 雷达）。
+
+## 2026-10-28 14:06 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 12:01→2026-10-28 14:06（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" created≥10-28 + pushed≥04:00Z）+ X `search_posts_all`×3（playbook·skill·routine / url:github.com / 中文·voice/replyslip）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| RussGuo/grokbot-voice-meeting | https://github.com/RussGuo/grokbot-voice-meeting | **多 Bot 语音会**：人与若干 agent 同房间语音开会，主持排议程/举手，人一开口全体 bot 停（barge-in）；附 `skills/voice-meeting/SKILL.md`，Bot 导出各参会者真实上下文后在 Linux box 跑 `meet` 回 join link；会中答不上的问题可经 file/webhook 问回真实 Bot，会后 `meet followup` 出纪要与各 bot 行动提示词。默认 LiveKit + 豆包 ASR/TTS + DeepSeek，可换。中英 README、`meet demo` 无 key 可跑。本轮最值得看 | Multi-bot / Voice | `multi-bot` `voice` `skill` `livekit` `zh` `mit` | 0 / MIT | **GitHub**（10-28 12:54 建，本窗推） |
+| Crokily/pi-durable-bot | https://github.com/Crokily/pi-durable-bot | **开源 Grok Bot 平替「Pots」**：自托管任意模型；读全频道/邮件/事件再判断要不要开口；自带电脑写跑代码、定时回访、跨频道长记忆；基于 pi-durable 崩溃续跑与去重发送。MIT、文档完整。与已列 OpenGrokBot / DeepSeekBot 同向，可作 Self-hosted 新对照 | Self-hosted / Alternatives | `self-hosted` `alternative` `durable` `mit` | 1 / MIT | **GitHub**（10-28 本窗新建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| replyslip 分享 Bot（不泄 webhook） | https://x.com/babykswanson/status/2115310376539623573 | 给每个 grokbot 挂 webhook → 让 bot 自助 onboard 到 replyslip → 可把 bot 分享给别人并按访客限额/任务范围、随时撤销，且从不把 webhook secret 给客人。无独立仓，约 1.9k 粉刚发，先信号 | Sharing / Webhook | **X**（10-28） |
+| X 算法变更监控 routine 提示词 | https://x.com/ryangrowthh/status/2115300023844102346 | 可复制一句：让 Bot 隔几天盯指定 GitHub（X algo 仓库）有更新再短信通知、无变则静默。约 6.5k 粉 / 11 赞；短帖，作 Routines 小技巧信号 | Routines / X | **X**（10-28） |
+
+### Skip（本轮）
+
+DYLANFREE/grok-bot-pipeline（Agent Wallet 捕 alpha 多岗流水线，币圈类拒；结构可抄但主题不合）；Parthbarot-1/Grok_bots（OANDA 外汇交易桌）；rudrakshsyal/grokbot_tv_launcher（同名 TV 启动器，与 Grok Bot 产品无关）；izakfilmalter / vilaslautaro / fenfenxu / magpie / NowBar / botkin 等本窗白天/T7 已收；jbellsolutions 客户仓、交易/打新/Polymarket 收益帖、Spam Scrubber、付费 Playbook 落地页；@yamasho0130 Muse↔Grok Bot webhook 一句体感（过薄不单列）。
