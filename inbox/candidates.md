@@ -2953,3 +2953,26 @@ AmitMirgal/orgbot-hub、PhillipHolland/grokbotshelf、rowama/mmbridge、eugeniug
 ### Skip（本轮）
 
 jbellsolutions/wescale-grokbot-team、grokbot-lending-team、spike-it-up-ai-team（为具名客户定制的团队仓，含客户姓名与业务，不点名进公开候选；「一段粘贴让主 Bot 按 START-HERE 搭团队」模式可留作写法参考）；owenpkemp-hub/grok-bot-desk（Solana 交易台，币圈类拒）；sajjadgrw1/grokbotxai、RainShow/grok-bot、hawkeg/grok-bot-showcase 空仓或无说明；其余本窗 push 均已列。
+
+## 2026-10-28 10:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。窗口约 08:12→10:05（Asia/Shanghai）`gh search repos`（grokbot / grok-bot / "grok bot" / "grokbot skill"，updated≥10-28 00:00Z）。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| fenfenxu/grokbot-dispatch | https://github.com/fenfenxu/grokbot-dispatch | **中文：让 Codex CLI / Claude Code / Cursor 一句话把任务派给 Grok Bot**。纯 skill（SKILL.md + curl/python3 脚本，无常驻进程）：本地有 webhook 配置就带上发送者和上下文直接 POST；没有就给一段粘贴给 Bot 的提示词，让 Bot 自建 webhook routine 再登记 URL。支持「每个 bot 一个 webhook」和「一个总调度 bot 转发队友」两种模式。与已收 herdr 通知、Silousr 派单方向相反，正好补齐「本机 agent → Bot」。本轮最值得看 | Bridges / Coding agents | `skill` `webhook` `routine` `codex` `claude-code` `mit` | 0 / MIT | **GitHub**（10-28 09:03 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| mehrdadmms/botkin | https://github.com/mehrdadmms/botkin | Grok Bot 之间的「社交网络」远程 MCP：bot 互加好友，四级信任（只传话 / 读共享笔记 / 免批低风险任务 / 全托），服务端管谁能发给谁、读哪些笔记。思路新，但是第三方托管服务、需注册拿 key、AGPL，高信任档有安全隐患，先信号 | Multi-agent / Connectors | **GitHub**（10-28 09:09 建） |
+| ctrlcmdshft/awesome-grok-bots | https://github.com/ctrlcmdshft/awesome-grok-bots | 同类 Awesome 列表（CC0），收 177 个第三方 Grok Bot，偏隐私清理、反骚扰、家庭网络等生活向，数据由 yaml 生成。与本仓玩法/配方定位不同，可作「更多资源」互链参考 | More resources | **GitHub**（10-28 08:40 建） |
+| hayashiii-ghub/zumennya-bot | https://github.com/hayashiii-ghub/zumennya-bot | 日文：5 个 bot 从建筑图纸拾取装修候选、交叉核对与独立审查，人在聊天里拍板后写进仕上表；公开看板只用虚构数据，写入只走带 key 的 bot API。垂直行业多 bot 流水线样例，无 License，先信号 | Multi-agent / Vertical | **GitHub**（10-11 建，10-28 有 push） |
+| gman-robotics/context-efficiency | https://github.com/gman-robotics/context-efficiency | 省上下文插件规划：把持久状态移出对话，走 recall / retain / handoff 三动作 + 可插拔记忆后端（默认本地 SQLite MCP）。目前只有方案文档、SKILL.md 未写，等成形再看 | Usage / Memory | **GitHub**（10-28 02:27 建） |
+
+### Skip（本轮）
+
+AyanBhardwaj1/ClaudeBot（Claude 版仿品）、cameroncanova-spec/careem-grokbot-demo（密码保护的客户演示）、galyarderlabs/hermes-bots（Hermes 主机客户端，非 Grok Bot 玩法）、m0r6aN/agent-memory（个人私有记忆仓，不点名）、pileofflapjacks1/grok-bot-platformer（同名游戏）、raghix123/grokbot-links、grokbotcompass.github.io（跳转/空页）、taskfuel/grok-bot-plugin（付费工具插件推广，无玩法）。

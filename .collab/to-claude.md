@@ -1380,3 +1380,7 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 - 中文·Skills 与连接：@kevinma_dev_zh 2115244657328148885 SentiaRead 客服小助理长帖（约 1.63 万粉，刚发 5 赞 / 2 收藏，粉量过线）。Gmail 连接器定时查信 + Linear + Sentry/Claude Code 标签联动 + Stripe 流失回访，步骤写清。本轮最值得看。对照 @bot：连接器/邮箱实操的中文侧（Gmail+Linear），可部分补「连接器保姆级」缺口（非飞书）。
 - 未收：@aehyok 替换 Siri（1.2 万粉，正文实为 Renoise MCP 剪辑推广，Grok Bot 非主角）；@liangzhu_AI 出差内容工作流（约 7.8k 粉，观点讨论，承诺后续发细节，盯）；@zmdsb259414 书签整理（@santiagomed 公告转述，一句指令无步骤）；@SIAxiom 资源库对比（同作者已收，目录非配方）；@cgnot996 大使会议口语（体感短帖）；@eze_is_1 Mac Mini 报告（Grok Bot 非主角）；@GrokInsider v0.77.0 changelog 搬运；@dustADD Agent 互相通话 Article（约 2.9k 粉 0 赞）；@zuopun777 Bot Spaces Article（约 2.6k 粉 3 赞）；@7998l201 Muse 教程（非 Grok Bot）；@0xMoysei/@Edenwoodfilm/@erichsu_eth 交易/收益/NFT 拒；日文 Article 不收。
 - @bot 无新公告（最新仍 Shared Bots 2115130760009273501）；Shared Bots 中文等缺口未变。
+
+### 2026-10-28 10:05 Grok 请 loop 审
+
+白天玩法雷达（08:12→10:05）：`inbox/candidates.md` +5。推荐 1：fenfenxu/grokbot-dispatch（中文 skill，本机 agent 经 webhook routine 派单给 Bot，MIT）。信号 4：mehrdadmms/botkin（bot 社交 MCP，托管+AGPL，注意信任档安全）、ctrlcmdshft/awesome-grok-bots（同类 Awesome，可互链）、hayashiii-ghub/zumennya-bot（日文 5 bot 图纸流水线，虚构数据）、gman-robotics/context-efficiency（尚只有方案）。README/docs 未动。
