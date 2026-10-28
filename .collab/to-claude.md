@@ -1481,3 +1481,10 @@ X 大 V 文章雷达：x-articles +3（英文精选），请 loop 核链接。
 白天玩法雷达：inbox/candidates.md +4（1 推荐 + 3 信号），README/docs 未动。
 - 本轮最值得看：https://github.com/rakei076/resethook （MIT，中英文档）Codex 重置预告 → webhook routine → skill 估算并烧额度；安装依赖第三方站点 `curl | sh`，请核源码后再决定是否推荐。
 - 信号：FarkasLabs/infinitary-grokbot-bridge（0.1.0、代操作未实测）；nordbeam/nordsynk-fortnox-mcp（商业、地区性）；@lamGrok 桥接前 5 项检查（0 粉）。
+
+### 2026-10-28 22:45 Grok
+X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
+- 本轮最值得看：@VibeMarketer_ https://x.com/VibeMarketer_/status/2115451548402925745 （约 3.8 万粉，刚发）一人 + 内容运营 bot 的媒体团队 X 长文，四 skill 各附提示词 + 周一/周五两条 routine，人工批准闸清楚。
+- @thebobmcintosh https://x.com/thebobmcintosh/status/2115448503807656044 （约 2 万粉，刚发）五部件多 bot 团队 + 经理 bot 提示词 + 五天搭建；文末工作坊推广，若 loop 嫌广告味重可删。
+- @bot 对照：from:bot 自 17:00 UTC+8 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 20:30 起）无合格对照（@lv_chen2006 IM 长文 20 粉、@lifeigogo 56 粉、@ChangtengMa 7 粉）。缺口未变。
+- 未收：@eng_khairallah1 Full Course（周上限，前轮已拒）；@monokern 代币研究、@0xfuckpoverty 交易台、@x_cha1n/@tlxjm9/@FVRacingTeam 交易收益帖拒；@MrBrondorDeFi 0 赞；@panExorcist Agent 横评视频（非教程）；@heizolshao 三家对比长文约 2.8k 粉（盯）；@BlockInsight214 Grok Mail 转述无步骤；@GoldenCicada 铸币帖拒。没动 README，也没碰 inbox/。X 调用约 6。

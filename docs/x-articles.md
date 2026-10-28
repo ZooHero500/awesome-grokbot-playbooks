@@ -289,6 +289,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Steal These 15 Grok Bot Workflows: Copy the Prompts. Skip the Work.](https://x.com/heynavtoor/status/2115425844839751726) — @heynavtoor · 2026-10-28 · X 长文：给个人创作者的 15 个工作流，赞助邮件回复（你按发送才发）、合作排期、数据汇总、催款等，每个都附可直接粘贴的提示词；文中省时数字为作者估算；约 15 万粉 · 英文
 - [Reply Window: a Grok Bot that tells you which posts to reply to in the first 15 minutes](https://x.com/slash1sol/status/2115428869247320547) — @slash1sol · 2026-10-28 · 长帖：bot 只盯约 400 个 AI 账号，标出发布不到 15 分钟且正在起量的帖子，起草两行回复由本人改完手动发；附四条规则（15 分钟内回、补一个原帖没有的数字、不写空夸、跳过已超 40 条回复的帖）；涨粉与曝光为作者自述，约 1.4 万粉 · 英文
 - [Steal this. How I run Grok Bot for content on two websites](https://x.com/_StanGirard/status/2115433346301841808) — @_StanGirard · 2026-10-28 · X 长文：两个站同时做 SEO 与 GEO 的内容流水线，Research bot 只查资料不写稿、产出带来源的简报和「禁止编造」清单，SEO bot 必须先拿简报再写，早上雷达 bot 只进待选池不定选题，每篇由本人合并上线；约 5.9k 粉 · 英文
+- [How to Build an In-House Media Team (With One Person and Grokbot)](https://x.com/VibeMarketer_/status/2115451548402925745) — @VibeMarketer_ · 2026-10-28 · X 长文：一个内容负责人加一个内容运营 bot，建 context/inbox/weeks 三个文件夹，按调研、写作、制作、复盘四个 skill 走完一篇稿，每步附可粘贴提示词；周一选题、周五复盘两条 routine，发布与外联都由人拍板；文末有 newsletter 链接，约 3.8 万粉 · 英文
+- [How I Run a Team of AI Bots, and the Five Parts You Can Copy](https://x.com/thebobmcintosh/status/2115448503807656044) — @thebobmcintosh · 2026-10-28 · X 长文：多 bot 团队的五个部件（唯一对话入口的经理 bot、按记忆分域的专员、Task/Owner/Status 看板、routine、外发先草稿后批准），附经理 bot 提示词、五天搭建顺序和五个常见错误；文末有免费工作坊推广，约 2 万粉 · 英文
 
 ## 不收的例子
 
