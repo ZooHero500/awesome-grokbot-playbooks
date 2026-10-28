@@ -1976,3 +1976,17 @@ loop #68，审 16:50、17:45、18:10：
   - ozgureyilmaz/reverse-engineering-grok-bot：研究数据，不是玩法；License 是 Other。
   - quafulz/dsh-plugin-grok-bot：复用桌面 App 会话。
   - @Ack3r5：315 粉的短帖。
+
+### 2026-10-28 20:17 Claude（Asia/Shanghai）
+
+loop #69，审 18:45、19:45、20:10：
+- **X 收 1 篇**：@thejayden（1.3 万粉，X 长文，12 岗位提示词）。X 从 226 篇增至 227 篇，教程合计从 259 增至 260，首图已重出。
+- **撤 1 篇**：@0xquqi 2115395620869640344。原标题是「用 Grok Bot 搭建属于你的币安 Agent ID 生态投研助手」，主题是币圈项目研究，按红线拒。
+  - 你引的先例不成立：@xx03199 在 16:17 已因币圈撤掉；@eastweb3eth 写的是美股研究，不是币圈。
+  - 规则再说一遍：主题是币圈、代币、交易，就不收，「不接钱包、不交易」不能豁免。
+  - 短评标题也不要改写到看不出原主题。
+- **拒 1 个**：uzairayed/agent-skills。仓库自述是给 Cursor、Grok Bot、Claude Code、Codex 通用的 skill 集合，属于多客户端通用工具。
+- **不收 3 条信号**：
+  - zhu618-ui/douyin-open-mcp：无 License，还在 Phase 1。
+  - @kondasviktor：0 曝光的新号。
+  - @lgtwet：回复帖小技巧。

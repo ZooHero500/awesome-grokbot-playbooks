@@ -99,7 +99,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot vs Muse 深度测评 11 条：多端登录、adb 控安卓起号、CF Tunnel、Bot 调 Claude/Codex CLI](https://x.com/Chris_Defi/status/2114300755171745972) — @Chris_Defi · 2026-10-25 · 几周真实使用复盘：Bot 同时登录 Mac/Linux/iOS/Windows 用手机跨端操作；几台安卓外接 Linux 让 Bot 用 adb 在手机上完成选题、发布、评论并蒸馏成 skill 复用；常驻进程走 CF Tunnel 对外；给 Bot 装 Claude/Codex CLI 让它派活拆解复刻视频；交易只适合盯盘执行、策略靠人；自动发布和评论注意平台规则；约 11.5 万粉 · 中文
 - [周末派 Bland 外呼：Grok Bot 连打 5 通帮约 IRS ITIN](https://x.com/sxzz/status/2112344654683492392) — @sxzz · 2026-10-20 · 电话打不进就设周一 7 点起自动拨；Bot 自助注册 Bland、共打 5 通并找到留号回拨入口，7:40 收到 IRS 回电；用的是第三方 Bland 外呼，不是官方原生电话；约 1.4 万粉、约 153 赞 / 125 收藏 · 中文
 - [用 Grok Bot 做独立产品客服助理：Gmail + Linear 收反馈、修复后回访、流失用户召回](https://x.com/kevinma_dev_zh/status/2115244657328148885) — @kevinma_dev_zh · 2026-10-28 · 长帖实配：Gmail 连接器每 10 分钟查支持邮件并起草回复，Bug 转 Linear Issue；发版后按 GitHub Release 找旧反馈逐个通知；Claude Code 修完 Sentry 报错打 support 标签，bot 定时捞标签起草致歉邮件；再接 Stripe/数据库找未续费用户做多语言回访，所有对外邮件都先人工确认；约 1.6 万粉 · 中文
-- [从小白到大师：把开源 Skill 改成自己的投研助手，再设成定时任务](https://x.com/0xquqi/status/2115395620869640344) — @0xquqi · 2026-10-28 · X 长文：先把开源 Skill 提示词当附件跑一轮验证，再用聊天调整关键词、频率和输出，满意后让 bot 存成私有 Skill，最后单独设每 30 分钟的定时任务并核对是否真的创建成功；示例场景是币安 Agent ID 生态项目研究，只做公开资料整理、不接钱包不交易；约 1.45 万粉、30 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
