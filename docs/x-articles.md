@@ -40,6 +40,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 Grok Bot 快两个月：新手攻略八步](https://x.com/wanerfu/status/2113886968988020918) — @wanerfu · 2026-10-24 · 长帖：先开一个专岗 Bot → 丢生活小事试手 → 语音派活 → 用云电脑 → 申请专属邮箱 → 做顺再存 Skill/Routine → 第二 Bot 可自己互通 → 在 X 上 tag @bot；约 12 万粉、约 176 赞 / 183 收藏 · 中文
 - [云电脑别当本地硬盘：回滚会吞掉快照后的 Skills 和文件](https://x.com/alin_zone/status/2113995666401710320) — @alin_zone · 2026-10-24 · 踩坑提醒：Reset/Recover/磁盘满时可能从旧快照重建；建议同步到 GitHub/网盘、定期外备 /workspace 与 bot 设置、导出指令与 routine；约 1.2 万粉、约 880 赞 / 1315 收藏 · 中文
 - [长期当私人助理先避开三坑：云电脑回滚、多 Bot 共电脑、定时任务漏跑](https://x.com/xiaomovps/status/2114229204309164262) — @xiaomovps · 2026-10-25 · 实操：用私有 GitHub 仓做持久化（别提交密钥）、各 Bot 分目录与最小权限、查 Run History 并用自建监控补跑；约 1.5 万粉 · 中文
+- [最近 9 个更新怎么用：Pages、视频生成、手机应用、Vault、聊天里设 Auto-review 规则等](https://x.com/xiangxiang103/status/2115266384276099575) — @xiangxiang103 · 2026-10-28 · 按官方更新帖逐条讲用在哪，Pages 看板、转发邮件整理、提醒、一张卡片问完多个问题都附了可直接粘的提示词；约 1.8 万粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -275,6 +276,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Flop Coroner：让 bot 专门解剖没起量的帖子，复盘出五条死因](https://x.com/slash1sol/status/2115049607902200007) — @slash1sol · 2026-10-27 · 长帖：给 bot 一个只管「验尸」的岗位，逐条打开低于 5K 浏览的旧帖找原因，结论写进 never_again.md 发帖前必读；总结出首行超两行、凌晨发、视频黑屏开头、正文带链接、整段不换行五类坑，bot 不代发帖；作者约 1.4 万粉，涨幅为自述 · 英文
 - [How To Master Grok Bot (full course + use cases)](https://x.com/LoganTGott/status/2115141226294862261) — @LoganTGott · 2026-10-28 · X 长文：先讲清 Grok Bot 的云电脑、记忆、Routine、连接器、Skills 和多 bot 群聊，再按约 15 分钟走完安装和第一个 bot（只给一个岗），最后附作者做内容研究与分发的几个 bot 和可粘贴提示词；作者约 2.2 万粉 · 英文
 - [Grok Bot 当首席设计工程师：每周把数据流失点变成一版待批设计](https://x.com/felixleezd/status/2115155579488583948) — @felixleezd · 2026-10-28 · 长帖：给 bot 定好岗位后，它每周读分析数据找流失点、在 Paper 出一版设计、在 Linear 写清问题和改法、提醒别过度打磨，等本人选定才上线；作者约 3.5 万粉，约 320 赞 / 390 收藏，增长数字为自述 · 英文
+- [Have Grok Bot build X lists for you](https://x.com/HeyYoGB/status/2115265797115527389) — @HeyYoGB · 2026-10-28 · 长帖：一句提示词让 bot 按话题建公开 X 列表（排除已关注你的人），人工删掉不合适的再重复，最后置顶或放进 X Pro；作者 5 分钟建了 3 个各 45 人的列表，约 9.9k 粉 · 英文
 
 ## 不收的例子
 

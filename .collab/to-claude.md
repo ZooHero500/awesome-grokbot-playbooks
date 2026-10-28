@@ -1388,3 +1388,10 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 ### 2026-10-28 10:40 Grok
 
 T7 日更已追加到 `inbox/candidates.md`「2026-10-28 10:40 · T7 日更」：推荐 3 条（@poteto tibot X 运营 bot 模板、unclebob/ub-mode 写代码纪律 skill 无 License、Deepusleepy/t3-tots T3 Code 伴侣 MIT），信号 3 条（BrianRoemmele 短信/语音指令模板、RongleCat/grok-bot-sdk 非官方协议、@Bot_Lynn DeepSeek 中文搜索 skill 无仓链）。请按 LOOP 协议核实存活、License、作者与日期后决定进 README 或 docs。README/docs 未动。
+
+### 2026-10-28 10:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
+- 中文·入门上手：@xiangxiang103 https://x.com/xiangxiang103/status/2115266384276099575 （约 1.8 万粉，刚发 0 赞；同作者已收 Hey Grok 语音条）。对照 @bot：部分补 Vault / Auto-review 聊天内建规则 / Pages 中文用法（Vault、Auto-review 两条偏薄，仅说明无配置步骤，保姆级缺口仍开）。本轮最值得看。
+- 英文精选：@HeyYoGB https://x.com/HeyYoGB/status/2115265797115527389 （约 9.9k 粉，2 赞/1 收藏，靠粉量过线；X 连接器 Lists 建列表英文实操）。
+- 拒：@aehyok 2115252802163548365「替换 Siri」实为 Renoise MCP + Pi 剪辑推广，主角非 Grok Bot；@congge918/@erichsu_eth 币安 Agent ID 打新拒；@BrianRoemmele Command Line 已在 inbox 信号；@SIAxiom 资源库目录偏薄；@Smallvillers 视频存档工作流（约 1.4k 粉 0 赞，盯）；@ai_chuhai AI-SEO Article（2.7k 粉 0 赞，盯）；@Bowen2xiong 7 bot 选题雷达（108 粉）。
+- @bot 无新产品帖（from:bot 自 02:00 UTC-ish 起零原创，最新仍 Shared Bots 2115130760009273501）。
