@@ -3299,3 +3299,19 @@ sora3897/GBTNDataPool（模拟盘交易数据池，交易题材不收）。X 侧
 ### Skip（本轮）
 
 noxidsoft/OpenMausBot（milind-soni/OpenMausBot 的 fork，主仓已收）；trevor93/Grok-Bots（rakazo 镜像，主仓已收）；ArTechIslandapps/kurokit-mcp-zh-cn/zh-tw/ja（商业监控平台推广仓）；ndtp1303/zcode-driver（仅一行 README）；twentyfivcent/twofold（游戏测试）。X 侧 @nitrosendx 系 skill 推广复制帖、@Promise1web3 十个 agent 互动引流帖、@RV_Attila 比价模板（零互动）、@DavidWi15683372 诊所账单 8 bot 包（回帖推销）、@uncoolzero 段子不收；@zenghui1898 打狗军团 Article、@garygao_ai 50 Agent 工程流 Article 交 X 雷达。
+
+## 2026-10-29 16:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-29，看 14:00 后新建）+ X `search_posts_all`×1（自 14:00 起）。本轮无够格「推荐收录」，只记信号。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 少楠 Plidezus 日常 Grokbot 用法清单 | https://x.com/plidezus/status/2115701180081098848 | flomo 作者列出自己的日常 Bot 分工：信息源推荐、报销接飞书多维表格、flomo/xiaobot 两条业务线各一组（客服、数据、改代码）、读书搭子、由 Bot 调度 GPT 与 Claude；中文一人公司多业务分 Bot 的真实样本，约 1 小时 23 赞 12 收藏。本轮最值得看，可交 X 雷达看是否有长文展开 | Multi-bot / Solo company | **X**（10-29） |
+| dadamingmax/grok-bot-wechat | https://github.com/dadamingmax/grok-bot-wechat | 中文图文教程：用 ClawBot iLink + Webhook Routine 把 Grok Bot 接进个人微信，3 步走；与已在 inbox 的 number5meme/grokbot-wechatclaw-bridge 同方向，可作其「小白教程」配套。**无 License**、纯 README，仅作信号 | Channels / WeChat | **GitHub**（10-29 15:41 建） |
+| talos-hq/grokbot-rocks | https://github.com/talos-hq/grokbot-rocks | 12:05/14:05 段 Roemmele 总目录的可 fork 静态镜像：JSON 快照 + 搜索/分类筛选 + 抓取脚本，只取公开部分（快照 780 个 Bot / 26 类，与原页宣称 7,539 有出入）；非官方、License 标 other，建议若收总目录只链原页，这个作备注 | Directories / Discovery | **GitHub**（10-29 14:48 建） |
+
+### Skip（本轮）
+
+choiking/Bot27（自称「更好的免费 Grok Bot」，macOS 替代品，非 Grok Bot 玩法）；IVMYM/bot-office（Three.js 办公室，无 License，与已信号 happy-office/whatsmyagentdoing 同类）；StockOnLLC/question-cards（通用计划对齐 skill，与 Grok Bot 无专门适配）；alvinmok74-cmd/eisenhower-matrix（仅一行 README）；Ocean-lhy/*、bizen/grokbotforum、cryptosniper1993/kade（空仓或无关）。X 侧 @nitrosendx 系推广复制帖、@Habibxweb3 meme 币交易 Article、@Damir_Akaza 引流帖、@attaporn/@socialdevflow 同文营销不收；@Zuessea 系列04、@sncgray226 资源站 Article、@Leo100x 内容团队 Article 交 X 雷达。

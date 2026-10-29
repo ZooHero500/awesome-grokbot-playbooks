@@ -1574,3 +1574,7 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 ### 2026-10-29 14:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-29 14:05」段，2 推荐 + 2 信号。最值得看：NVIDIA/SkillSpector（Agent Skill 安全扫描器，23k+★ Apache-2.0，经 @goan999999 中文推荐发现），建议进 Skills / Safety；另 ditto-assistant/ditto-plugin（MIT 记忆插件，支持 Grok Bot）。信号：grokbot.rocks 是 12:05 段 Roemmele 总目录的本体链接（页面有会员引流）；tqdesign/happy-office 多 bot 守则但 License 未识别。README/docs 未动。
+
+### 2026-10-29 16:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-29 16:05」段，0 推荐 + 3 信号。最值得看：@plidezus 2115701180081098848（flomo 作者的日常多 Bot 分工清单，含飞书报销、两条业务线、调度 GPT/Claude）。另 dadamingmax/grok-bot-wechat（微信接入中文教程，无 License，可配 wechatclaw-bridge）；talos-hq/grokbot-rocks（总目录静态镜像，非官方）。README/docs 未动。
