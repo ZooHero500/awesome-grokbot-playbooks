@@ -103,6 +103,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [周末派 Bland 外呼：Grok Bot 连打 5 通帮约 IRS ITIN](https://x.com/sxzz/status/2112344654683492392) — @sxzz · 2026-10-20 · 电话打不进就设周一 7 点起自动拨；Bot 自助注册 Bland、共打 5 通并找到留号回拨入口，7:40 收到 IRS 回电；用的是第三方 Bland 外呼，不是官方原生电话；约 1.4 万粉、约 153 赞 / 125 收藏 · 中文
 - [用 Grok Bot 做独立产品客服助理：Gmail + Linear 收反馈、修复后回访、流失用户召回](https://x.com/kevinma_dev_zh/status/2115244657328148885) — @kevinma_dev_zh · 2026-10-28 · 长帖实配：Gmail 连接器每 10 分钟查支持邮件并起草回复，Bug 转 Linear Issue；发版后按 GitHub Release 找旧反馈逐个通知；Claude Code 修完 Sentry 报错打 support 标签，bot 定时捞标签起草致歉邮件；再接 Stripe/数据库找未续费用户做多语言回访，所有对外邮件都先人工确认；约 1.6 万粉 · 中文
 - [一次讲清：把 Codex、Claude Code、Gemini、DeepSeek Harness、Muse 都接进 Grok Bot](https://x.com/KinGao476942/status/2115592603605557564) — @KinGao476942 · 2026-10-29 · 长帖：五段可直接复制给总管 bot 的提示词，在云电脑用各家 CLI 或 muse2api 登录自己的账号，让编程、调研、生图、剪辑等活改走对应订阅的额度；登录验证码和 API key 仍需本人手动输入；约 1.3 万粉、约 115 赞 / 190 收藏 · 中文
+- [「Teach a task」：在云电脑上演示一遍，让 Grok Bot 学成可复用 Skill](https://x.com/SIAxiom/status/2115660704409661813) — @SIAxiom · 2026-10-29 · 聊天框点「+」选 Teach a task → 在云电脑上把任务做一遍 → AI 整理成 Skill 并列出步骤供检查测试 → 测通后可设定时任务；提醒网页变化时仍需人工复核，作者约 9.6k 粉 · 中文
 
 ## 中文 · 出海一人公司与内容
 

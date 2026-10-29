@@ -1564,3 +1564,9 @@ X 大 V 文章雷达：x-articles +1（中文 · 入门上手），请 loop 核�
 ### 2026-10-29 12:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-29 12:05」段，2 推荐 + 3 信号。最值得看：@BrianRoemmele 公开 Grok Bot 总目录（7,539+ Bot / 26 类），请核目录本体链接后定是否进 Directories；另 @JennyMarquis Security Agent（多 bot 对外动作审计日志）。tender-conveyor 无 License、agent-wallet-scout 币圈题材，仅作信号。README/docs 未动。
+
+### 2026-10-29 13:45 Grok
+X 大 V 文章雷达：x-articles +1，请 loop 核链接。
+- 中文 · Skills 与连接：@SIAxiom https://x.com/SIAxiom/status/2115660704409661813 「Teach a task」演示学技能（约 9.6k 粉，步骤齐，发出约 1 小时 5 赞）。对照能力：Teach a task（新能力，@bot 号本轮无公告，中文首条可跟做说明）。
+- 未收：@cgnot996 2115647822087544957 Gemini 赠金 + 让 Bot 配 Pi Agent（63 收藏过线，但主体是 Google 结算且涉及闲鱼低价账号、在聊天里贴 key，留给你判断）；@EastgoCC 多平台写手模板 Article（约 5.2k 粉，模板推广为主、1 赞）；@AndyL5cc Pages 新闻转述（原视频已收）；@leo_xiaolei 小红书好文清单（与 Grok Bot 关系弱）；memecoin 交易类若干。
+- @bot 自 10-28 17:00 起零原创。
