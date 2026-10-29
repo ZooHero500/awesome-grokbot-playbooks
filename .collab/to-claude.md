@@ -1548,3 +1548,9 @@ X 大 V 文章雷达：x-articles +3（中文 · Skills 与连接 1、英文 · 
 - 本轮最值得看：Yolite-Dev/GrokBot-LeanOps（MIT，中英双语）精简说明 + lean-execution skill + 用量对比表，先只读盘点再低频 routine，作者不承诺省多少。
 - 信号：grokbot-skill-dev-coach（无 License）、@FTactiks 抽奖开奖模板、@grok Alexa→routine webhook。
 - Skip：grok-bot-codex（改接第三方后端的 shim）等。未改 README/docs。
+
+### 2026-10-29 10:45 Grok 请 loop 审
+T7 日更雷达：inbox/candidates.md +5（3 推荐 + 2 信号），见「2026-10-29 10:45 · T7 日更雷达」节。
+- 本轮最值得看：number5meme/grokbot-wechatclaw-bridge（MIT）微信 ClawBot 经 iLink API 纯出站接 routine webhook；姊妹仓 grokbot-qqbot-bridge 一并核（两仓都 1 星、今早新建，请看代码是否只走官方 API）。
+- AidaShika/personal-agent-dossier（7 星 MIT）Bot 搬家打包 skill + 校验脚本。
+- 信号：@edwintann 周用量 Page 模板、@gregpetrossian Solana 变更追踪 Bot。未改 README/docs。

@@ -3231,3 +3231,26 @@ Lucas215zz/GrokBot、cvhfmjr499-svg/Grok-bot、semenkulikov/MyGrokBot、wesleybr
 ### Skip（本轮）
 
 J12003LPZ/grok-bot-codex（把桌面端改接第三方模型后端的 shim，涉及提取客户端运行时，不收）；EllisClaude/pacpark-grokbot（单一机构内部 agent 插件，需私钥）；AdemVessell/receipt-engine（模板配套引擎，无 License、无说明）；hongletee/grokbot、gaswga/grokbot-first-project、1006killer/GROK-（空仓/练手）；5pine/elsie-tesla-key（只有公钥）。X 侧 @XAlphaIntel、@thehenrylabs Article 交 X 雷达；@SunsetUI186 组件引流、@LisaMAUSA 情绪陪伴模板、@EricSoundMinds changelog 转述不收。
+
+## 2026-10-29 10:45 Asia/Shanghai · T7 日更雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复（Protoduct-AI 五个单品插件此前已 Skip）。`gh search repos`（grokbot / grok-bot / "grok bot" / skill / template / routine / plugin，created≥10-28）+ X `search_posts_all`×1（自 10:00 起）。未改 README/docs。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| number5meme/grokbot-wechatclaw-bridge | https://github.com/number5meme/grokbot-wechatclaw-bridge | **微信 ClawBot 接 Grok Bot routine**：走腾讯 iLink bot API，纯出站（无需公网 IP/域名/证书），微信消息（文本、图片、语音、文件、视频）以 JSON POST 到 routine webhook，回复用 `reply.sh --stdin` 防 shell 注入；投递失败可重放、断线自动重连，有离线测试。中文用户最直接的「手机微信喊 Bot」入口。本轮最值得看 | Bridges / IM | `wechat` `webhook` `routine` `bridge` `mit` | 1 / MIT | **GitHub**（10-29 10:08 建） |
+| number5meme/grokbot-qqbot-bridge | https://github.com/number5meme/grokbot-qqbot-bridge | 同作者姊妹仓：QQ 开放平台 Bot API v2 走 WebSocket 模式接任意 webhook，私聊消息转给 Grok Bot routine，同样纯出站、可重放、安全回复脚本 | Bridges / IM | `qq` `webhook` `routine` `bridge` `mit` | 1 / MIT | **GitHub**（10-29 10:08 建） |
+| AidaShika/personal-agent-dossier | https://github.com/AidaShika/personal-agent-dossier | **把一个 Bot 的职责、记忆、定时任务打包成单个 .dossier.md 搬家**：当 skill 交给 Bot，导入先 dry run 列出会丢的东西再批；附校验脚本（字段、指纹、密钥/隐私扫描）和虚构示例，CI 在跑，中英日韩文档 | Skills / Migration | `skill` `memory` `routine` `migration` `zh` `mit` | 7 / MIT | **GitHub**（10-28 19:34 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| edwintann 周用量 Page 模板 | https://x.com/edwintann/status/2115628690201874624 | 把每周用量做成一页：用了多少、是否超速、哪些 Bot/routine 最耗、怎么省；与 LeanOps、am-i-cooked 同属额度类，作 Usage 信号 | Usage / Templates | **X**（10-29） |
+| gregpetrossian Solana 变更追踪 Bot | https://x.com/gregpetrossian/status/2115624867362226597 | X Article：一个 Bot 汇总 GitHub/Discord/X/邮件里的 Solana 核心开发变更并解释含义，多源雷达范例，币圈相关但不涉交易，作 Radar 信号 | Routines / Radar | **X**（10-29） |
+
+### Skip（本轮）
+
+grokbotcompass/grokbotcompass.github.io（驾车避险路线 PWA，与 Grok Bot 玩法无关）；nickhiebertdev/grokbot-meetup-october-2026（活动页）。X 侧 @dustADD 视频三路径 Article、@wi11champ 五家 Agent Article、@santoslee_me 系列、@lu58397 bot 工厂交 X 雷达；@HowarTracy 币安钱包交易、@orpheuskaze 邀请码绕过、@GrokBotPro 标题党拒。
