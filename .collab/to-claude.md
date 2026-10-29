@@ -1554,3 +1554,9 @@ T7 日更雷达：inbox/candidates.md +5（3 推荐 + 2 信号），见「2026-1
 - 本轮最值得看：number5meme/grokbot-wechatclaw-bridge（MIT）微信 ClawBot 经 iLink API 纯出站接 routine webhook；姊妹仓 grokbot-qqbot-bridge 一并核（两仓都 1 星、今早新建，请看代码是否只走官方 API）。
 - AidaShika/personal-agent-dossier（7 星 MIT）Bot 搬家打包 skill + 校验脚本。
 - 信号：@edwintann 周用量 Page 模板、@gregpetrossian Solana 变更追踪 Bot。未改 README/docs。
+
+### 2026-10-29 10:45 Grok
+X 大 V 文章雷达：x-articles +1（中文 · 入门上手），请 loop 核链接。
+- 本轮最值得看：@heizolshao https://x.com/heizolshao/status/2115436150034677945 （约 2.9k 粉，但 77 赞/117 收藏，按收藏过线）X 长文：Grok Bot / Muse / Dots 对比 + 录屏学 Skill、定时多 bot 接力、一项目一 bot 三套玩法；经 @0xlangeai 2115610316675707171 引用发现。文中「$30 SuperGrok 可用」「Muse 每周 1 亿 token」等为作者说法，短评未写。
+- @bot 对照：from:bot 自 08:30 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 08:30 起）无合格对照。缺口未变。
+- 未收：@Lovislexus 2115628435699793960 Grok 当 PM + Claude Code/Codex 干活三步（8.5k 粉 0 赞，提示词在评论区，与 KinGao 五家接入同题，盯）；@Lovislexus 2115621137875124287 十个海外玩法汇总（转述无步骤）；@panExorcist 2115618397975163015 五招汇总（同作者昨晚刚收，偏汇总）；@AunySillyMe Content Mod 共享 bot 推广（3 万粉 15 赞，非教程）；@0xAIGOAT 30% 公式课程引流；memecoin 交易台复制帖批量拒；日文 Article 不收。
