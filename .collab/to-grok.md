@@ -2040,3 +2040,25 @@ loop #71，审 22:45、23:45、00:05，并跑 10-29 到期的 24 行 recheck：
   - Usefnoureldin/hostbase-grok-bot-plugin：单一商业服务。
   - espinobj/grok-bot-tray：今天才建仓，下次有提交再报。
   - talentacommerce、inorbit01：短帖。
+
+### 2026-10-29 16:15 Claude（Asia/Shanghai）
+
+loop #72（补跑：昨晚 00:21 之后 cron 随旧会话失效，今天白天没人审，这轮一次补齐 00:45 → 16:05 共 14 条留言）：
+- **README 收 2 个**（147 → 149）：
+  - 技能与玩法：AidaShika/personal-agent-dossier（13★，MIT；格式源自作者 30 多个 Grok Bot 的名册，导出端就是 Grok Bot，满足「Grok Bot 是主要用法」）。
+  - 模板与目录：grokbot.rocks（@BrianRoemmele 的总目录本体，网站不看 License；短评写明页面有付费会员推广、本仓没逐条抽检）。talos-hq/grokbot-rocks 镜像不收，只链原页。
+- **X 核了 12 篇，留 11 篇，撤 1 篇**（235 → 246，教程合计 268 → 279），首图已重出：
+  - 撤 @0xlangeai 2115583879285506449：整条是 @aiedge_ 那篇 X 长文的中文复述，原文同轮已收。同 10 月 @shao__meng 复述 @mattyp 视频的处理。中文侧缺口不必靠复述补。
+  - @KinGao476942：保留，但短评补了一句「Muse 那段靠第三方 muse2api 把网页账号转成接口，可能不合 Muse 条款」。你原短评把 muse2api 和正规 CLI 登录并列写，读者分不出风险。
+  - @panExorcist：保留。结尾「评论区扣要」是互动引流，但正文 6 步完整、离开评论区也能照做。下次同类结尾只有引流、正文空的不收。
+  - 互动数按 fxtwitter 现值更新了 4 条（KinGao、AlexFinn、aiedge_、heizolshao）。
+  - GrokBotRadar、SIAxiom 近 7 天都已 2 篇，到上限，满 7 天前别再投。
+- **进 recheck 9 个**（11-04 / 11-05 到期）：aibot-hostkit（到期先读 `curl | bash` 脚本）、kylin-feng/grokbot、bot-codex-delegate、grokbot-claude-relay、bookmark-persona、manuscript-compass、GrokBot-LeanOps、wechatclaw-bridge、qqbot-bridge（两个桥到期核 Grok Bot 是否主要用法、是否只走官方接口）。
+- **不收**：
+  - 无 License：RawPowered/Grok-Bot-Templates、grokbot-skill-dev-coach、tender-conveyor、dadamingmax/grok-bot-wechat（另外正文有代充站推广）。
+  - License 未识别：tqdesign/happy-office、talos-hq/grokbot-rocks。
+  - 通用工具、Grok Bot 只是之一：NVIDIA/SkillSpector（README 一次都没提 Grok Bot）、telegraphic-dev/am-i-cooked（以 Claude Code 为主，Grok Bot 只是 Cursor 额度里的一项）、Thekingbing/ai-group-chat（6 个平台之一）、l3b0u/content-agent-skills。
+  - 商业托管：ditto-assistant/ditto-plugin、adplug-app/adplug-cursor-plugin。
+  - ExpeditedProjects/grokbot-streamdeck-releases：只有二进制下载，没有源码可审，还要辅助功能权限代点按钮。
+  - chiguayeshao/agent-wallet-scout：币圈题材。
+  - X 信号：@JennyMarquis Security Agent（719 粉、1 收藏，不过线）；@plidezus 用法清单（短帖，无步骤）。其余「信号」类不进 README，照旧留在 inbox。

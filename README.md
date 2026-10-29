@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-147-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-149-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-10-blueviolet?style=flat-square" alt="Recipes">
-  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--22-success?style=flat-square" alt="Last verified">
+  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--29-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <img src="https://img.shields.io/badge/%E9%9D%9E%E5%AE%98%E6%96%B9-lightgrey?style=flat-square" alt="Unofficial">
@@ -25,10 +25,10 @@
 
 | | |
 |---:|---|
-| **147** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **149** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
-| **268** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 235），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
+| **279** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 246），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
 | **2 个 AI** | 在维护：Grok Bot 每天找料，Claude Code 核实、写短评，人只拍板。协作记录全公开在 [`.collab/`](.collab/README.md) |
 
 和英文生态导航 [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) 的分工：它覆盖面广；本仓侧重**中文一人公司、多 Bot 作战室、雷达 Routine 和可抄配方**。不拼数量，宁缺毋滥。
@@ -61,7 +61,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
-- **10-29** 新增 7 个：微信私聊桥 [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin)、经 Tailscale 让本机 Claude Code 带队干活的 [stampede](https://github.com/vib-z/stampede)、家庭和小公司 bot 团队制度包 [Project SAGE](https://github.com/crusader0711/specialized-ai-grok-empire)、只读 X 运营队 [Foreman](https://github.com/GlennHasABeard/foreman)、云电脑数据导出 [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup)、只读 [Tesla MCP](https://github.com/naoiseirwin/Tesla-Grokbot-Connector)、自托管 bot 团队 [kwant](https://github.com/alexsergivan/kwant)；X 大 V 文章增至 235 篇
+- **10-29** 新增 9 个：Bot 搬家打包 [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier)、7500 多个公开 bot 的总目录 [grokbot.rocks](https://grokbot.rocks/)、微信私聊桥 [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin)、经 Tailscale 让本机 Claude Code 带队干活的 [stampede](https://github.com/vib-z/stampede)、家庭和小公司 bot 团队制度包 [Project SAGE](https://github.com/crusader0711/specialized-ai-grok-empire)、只读 X 运营队 [Foreman](https://github.com/GlennHasABeard/foreman)、云电脑数据导出 [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup)、只读 [Tesla MCP](https://github.com/naoiseirwin/Tesla-Grokbot-Connector)、自托管 bot 团队 [kwant](https://github.com/alexsergivan/kwant)；X 大 V 文章增至 246 篇
 - **10-28** 新增 7 个：幕僚长 bot 配置 [Chief of Staff](https://github.com/twhit223/grok-bot-cos)、自建桌面版 [MyGrokbot](https://github.com/DynamaxVV/mygrokbot-host)、中文 [保姆级使用攻略](https://github.com/AIPMAndy/grok-bot-handbook)、跨 bot 泄露事故的 [复现与护栏](https://github.com/themsquared/grok-bot-cross-agent-leak)、管 X 提及的模板 [tibot](https://x.ai/bot/xZ4wRvomWqzCXnyYFr7i3)、短信和语音留言派活的 [Command Line](https://x.ai/bot/PKtdrwJNC54pLQIAT3H60)、T3 Code 伴侣 [T3 Tots](https://github.com/Deepusleepy/t3-tots)；X 大 V 文章增至 232 篇
 - **10-27** 新增 9 个：非官方 Node SDK [botter](https://github.com/jethros-projects/botter)、中文写手 bot 系列 [灵境](https://github.com/lingverse-ai/lingverse)、[grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit)、iCloud 日历 MCP [Holdt](https://github.com/holdtapp/holdt)、云电脑自愈脚本 [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal)、个人舰队起步包 [Grok Bot OS](https://github.com/skorten/grokbot-os)、routine 总控台 [GrugBot Console](https://github.com/devrecated/grokbot-management-console)、多工具任务交接 CLI [Grok Bridge](https://github.com/niharnm/grok-bridge)、Mac 上的本地版 Grok Bot [Local Bot](https://github.com/patrick-mns/localbot)；X 大 V 文章增至 209 篇
 
@@ -70,8 +70,8 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 ## 📚 目录
 
 - [官方与 SDK](#-官方与-sdk)（6）- 官方文档、模板市场、SDK 和命令行
-- [模板与目录](#-模板与目录)（15）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
-- [技能与玩法](#-技能与玩法)（47）- skill、MCP、单个模板、可粘贴人设
+- [模板与目录](#-模板与目录)（16）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
+- [技能与玩法](#-技能与玩法)（48）- skill、MCP、单个模板、可粘贴人设
 - [多 Bot 团队](#-多-bot-团队)（31）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（10）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（6）- 出海客服、微信接入、中文配置
@@ -102,6 +102,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [templatesgrokbot.com](https://github.com/templatesgrokbot/templatesgrokbot.com) - 3000+ 模板按岗位检索，可经 MCP 接入；量大质量参差，当灵感库用。标签：`templates` `catalog` `mcp`
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 开源 bot prompt 目录，Grok Bot、Rakazo 都能用，当灵感库翻。标签：`templates` `directory` `prompts`
 - [Useful Bots](https://usefulbots.pages.dev/) - 面向创作者的免费 Grok Bot 模板目录，按视频、增长、发布等分类；个人站，质量没逐个抽检，当灵感翻。标签：`templates` `creators` `directory`
+- [Every Grok Bot（grokbot.rocks）](https://grokbot.rocks/) - @BrianRoemmele 维护的公开 Grok Bot 总目录：7500 多个分享链接分 26 类，每条一句说明，点开就能加到自己的 Grok Bot，作者称每周更新；可以让 bot 读这份目录，按你的目标挑 skill 补齐。目录免费，页面里有作者付费会员的推广，本仓没有逐条抽检。标签：`directory` `templates` `discovery`
 - [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - grokbot.dev 的源码仓：由一组 bot 自己运营的玩法目录，Scouts 盯 X 找真实配置，Curator 决定收录，Builder 维护网站，每次改动都走 PR。插件、用例、组合包各有页面，另有 JSON API、RSS 和 MCP，可以让你的 bot 定时订阅。和本仓「AI 找料、人拍板」的思路相近，可以对照着看。代码 MIT、内容 CC BY 4.0。标签：`directory` `agent-run` `mcp`
 - [GrokBot HQ](https://github.com/V-harshith/grokbothq) - grokbothq.xyz 的源码仓：4200 多个 Grok Bot 按分类列出，另有组合包、指南，以及和 Custom GPTs 等的对比。作者称每条上架前都人工打开测过，本仓没有逐条复核。代码 MIT、内容 CC BY 4.0。标签：`directory` `combos` `guides`
 - [Grok Bot 导航](https://github.com/ddhjy/grok-bot-hub) - 中文非官方 Grok Bot 目录站，在线版 ddhjy.github.io/grok-bot-hub：教程、模板、工具按栏目列出，每条一句中文说明；内容放在仓里的 `catalog.json`，加条目走 PR，提交前跑校验脚本。和本仓定位相近，可以互相补着翻。代码 MIT、目录数据 CC0。标签：`directory` `chinese` `catalog`
@@ -160,6 +161,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [Holdt](https://github.com/holdtapp/holdt) - 让 Grok Bot 读写 iCloud 日历的 MCP，部署在你自己的 Cloudflare 账号上；每次改动先出预览，bot 要先问过你。把仓里的安装文档链接发给 bot 就能装，不用开终端。要给它一个 Apple 专用密码，这个密码能碰的不只是日历。MIT。标签：`mcp` `calendar` `icloud`
 - [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal) - 云电脑自愈脚本：平台重置、换机或休眠之后，自动装回 Tailscale、常用软件包和 gh 登录态，并修好休眠后假在线的 Tailscale 连接。云电脑上所有 bot 共用一个带 sudo 的用户，装前看清它改了哪些文件。MIT。标签：`cloud-computer` `tailscale` `recovery`
 - [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup) - 把共享云电脑里的人设、记忆、对话和附件导出成原始文件加可读 Markdown，换助手或交接时用；不想自己跑脚本，可以导入作者做好的备份 bot，按向导选存 Google Drive 还是本地、多久备一次。作者在真实云电脑上测过。导出的 ZIP 没有密码，可能含私密对话和凭证，务必放私密位置。MIT。标签：`backup` `export` `privacy`
+- [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier) - 把一个 bot 的岗位、不许做的事、记忆、routine 和依赖打成一个 `.dossier.md` 搬家：把仓交给 bot 当 skill，说一句「打包你的工作，我要把你搬走」就导出；换平台导入先 dry run，列出会丢什么再等你批。附校验脚本，查字段、重算指纹、扫密钥和隐私。格式源自作者 30 多个 Grok Bot 的真实名册，已试过搬到 Muse、Hermes、OpenClaw。有 CI，中英日韩文档。MIT。标签：`skill` `migration` `memory` `routine`
 - [Tesla Grokbot Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) - 只读的 Tesla Fleet API MCP：问 bot 车还剩多少电、这周开了多远、续航有没有掉，不能控车；在你自己的 bot 云电脑上以 stdio 命令运行，不对公网开放，VIN 打码。要自己申请 Tesla 开发者应用，非官方。MIT。标签：`mcp` `tesla` `read-only`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
@@ -268,7 +270,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [两个 bot 把 CEO 银行余额发进 Slack：复现与护栏](https://github.com/themsquared/grok-bot-cross-agent-leak) - 复现 10-19 Techdirt 报道的事故：同一台机器上一个只读银行的 bot、一个能发 Slack 的 bot，敏感数据跨工具流了出去；用两个玩具 MCP 先重现泄露，再加一条 agentgateway 护栏拦住带敏感标记的内容进入发消息工具。附作者长文。Apache-2.0。标签：`security` `mcp` `incident`
 - [sitin 的 Grok Bot 教程索引](docs/sitin-tutorials.md) - 本仓作者的「Grok Bot 实战」连载与 X 教程，按入门 / 作战室 / Routine / Skills / 一人公司分类，只收公开链接（作者相关）。标签：`chinese` `tutorials` `author`
 - [社区 Grok Bot 教程精选](docs/community-tutorials.md) - 33 篇其他博主的教程和长文，以 X 为主，也收博客、掘金、V2EX、B 站等平台上能照着做的；按入门、作战室、Routine 与额度、Skills、一人公司、合集分类；每条都核过存活和日期。标签：`chinese` `tutorials` `community`
-- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 235 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
+- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 246 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
 - [配方模板](examples/_template.md) - 投稿配方前先照这个格式写：场景 / 输入 / 步骤 / prompt / 产出 / 坑。标签：`template` `learning`
 
 <sub>[⬆ 回到目录](#-目录)</sub>

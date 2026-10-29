@@ -42,8 +42,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [长期当私人助理先避开三坑：云电脑回滚、多 Bot 共电脑、定时任务漏跑](https://x.com/xiaomovps/status/2114229204309164262) — @xiaomovps · 2026-10-25 · 实操：用私有 GitHub 仓做持久化（别提交密钥）、各 Bot 分目录与最小权限、查 Run History 并用自建监控补跑；约 1.5 万粉 · 中文
 - [最近 9 个更新怎么用：Pages、视频生成、手机应用、Vault、聊天里设 Auto-review 规则等](https://x.com/xiangxiang103/status/2115266384276099575) — @xiangxiang103 · 2026-10-28 · 按官方更新帖逐条讲用在哪，Pages 看板、转发邮件整理、提醒、一张卡片问完多个问题都附了可直接粘的提示词；约 1.8 万粉 · 中文
 - [文件丢进去、成品拿回来：六步用附件交付代替聊天](https://x.com/panExorcist/status/2115470918583472625) — @panExorcist · 2026-10-28 · 长帖配视频：拖文件进对话框、提示词写清格式/文件名/存放位置、文件卡片预览、事实与判断分开写、改原文件不建副本、熟了再拆多模型；附避坑（别传密码证件、大文件先截小段、发信发帖先出草稿）；约 2 万粉 · 中文
-- [Elon 和官方团队的 Grok Bot 用法：4 个可直接抄的工作流](https://x.com/0xlangeai/status/2115583879285506449) — @0xlangeai · 2026-10-29 · 长帖：中文拆解查账单抓僵尸订阅（做成可更新 Page、不批准不退订）、同类故障工单归拢后一次批准批量回复、比价下单走 Vault 付款且签收即停查物流、iPhone 侧边键绑定语音派活的完整设置路径；英文原文是 @aiedge_ 的 X 长文；约 1.1 万粉 · 中文
-- [Grok Bot、Muse、Dots 三家自带云电脑的 Bot 怎么选，附三套可照抄玩法](https://x.com/heizolshao/status/2115436150034677945) — @heizolshao · 2026-10-28 · X 长文：按价格、稳定性、地区限制对比三家，再给出录屏教 bot 学操作存成 Skill、定时多 bot 接力出日报、一个项目一个 bot 三套做法和三步行动清单；117 收藏 · 中文
+- [Grok Bot、Muse、Dots 三家自带云电脑的 Bot 怎么选，附三套可照抄玩法](https://x.com/heizolshao/status/2115436150034677945) — @heizolshao · 2026-10-28 · X 长文：按价格、稳定性、地区限制对比三家，再给出录屏教 bot 学操作存成 Skill、定时多 bot 接力出日报、一个项目一个 bot 三套做法和三步行动清单；约 160 收藏 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -102,7 +101,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot vs Muse 深度测评 11 条：多端登录、adb 控安卓起号、CF Tunnel、Bot 调 Claude/Codex CLI](https://x.com/Chris_Defi/status/2114300755171745972) — @Chris_Defi · 2026-10-25 · 几周真实使用复盘：Bot 同时登录 Mac/Linux/iOS/Windows 用手机跨端操作；几台安卓外接 Linux 让 Bot 用 adb 在手机上完成选题、发布、评论并蒸馏成 skill 复用；常驻进程走 CF Tunnel 对外；给 Bot 装 Claude/Codex CLI 让它派活拆解复刻视频；交易只适合盯盘执行、策略靠人；自动发布和评论注意平台规则；约 11.5 万粉 · 中文
 - [周末派 Bland 外呼：Grok Bot 连打 5 通帮约 IRS ITIN](https://x.com/sxzz/status/2112344654683492392) — @sxzz · 2026-10-20 · 电话打不进就设周一 7 点起自动拨；Bot 自助注册 Bland、共打 5 通并找到留号回拨入口，7:40 收到 IRS 回电；用的是第三方 Bland 外呼，不是官方原生电话；约 1.4 万粉、约 153 赞 / 125 收藏 · 中文
 - [用 Grok Bot 做独立产品客服助理：Gmail + Linear 收反馈、修复后回访、流失用户召回](https://x.com/kevinma_dev_zh/status/2115244657328148885) — @kevinma_dev_zh · 2026-10-28 · 长帖实配：Gmail 连接器每 10 分钟查支持邮件并起草回复，Bug 转 Linear Issue；发版后按 GitHub Release 找旧反馈逐个通知；Claude Code 修完 Sentry 报错打 support 标签，bot 定时捞标签起草致歉邮件；再接 Stripe/数据库找未续费用户做多语言回访，所有对外邮件都先人工确认；约 1.6 万粉 · 中文
-- [一次讲清：把 Codex、Claude Code、Gemini、DeepSeek Harness、Muse 都接进 Grok Bot](https://x.com/KinGao476942/status/2115592603605557564) — @KinGao476942 · 2026-10-29 · 长帖：五段可直接复制给总管 bot 的提示词，在云电脑用各家 CLI 或 muse2api 登录自己的账号，让编程、调研、生图、剪辑等活改走对应订阅的额度；登录验证码和 API key 仍需本人手动输入；约 1.3 万粉、约 115 赞 / 190 收藏 · 中文
+- [一次讲清：把 Codex、Claude Code、Gemini、DeepSeek Harness、Muse 都接进 Grok Bot](https://x.com/KinGao476942/status/2115592603605557564) — @KinGao476942 · 2026-10-29 · 长帖：五段可直接复制给总管 bot 的提示词，在云电脑用各家 CLI 登录自己的账号，让编程、调研、生图、剪辑等活改走对应订阅的额度；登录验证码和 API key 仍需本人手动输入。Muse 那段靠第三方 muse2api 把网页账号转成接口，可能不合 Muse 的使用条款，用前自己判断；约 1.3 万粉、约 500 赞 / 900 收藏 · 中文
 - [「Teach a task」：在云电脑上演示一遍，让 Grok Bot 学成可复用 Skill](https://x.com/SIAxiom/status/2115660704409661813) — @SIAxiom · 2026-10-29 · 聊天框点「+」选 Teach a task → 在云电脑上把任务做一遍 → AI 整理成 Skill 并列出步骤供检查测试 → 测通后可设定时任务；提醒网页变化时仍需人工复核，作者约 9.6k 粉 · 中文
 
 ## 中文 · 出海一人公司与内容
@@ -146,8 +145,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Meet Your Cheapest Employee: Grok Bot](https://x.com/k1rallik/status/2114726480559112502) — @k1rallik · 2026-10-26 · X 长文：先给有终点线的活（竞品比价、清表格、小工具），手机派活再追问，附 5 段可复制提示词和 2 个可复用 skill，最后教你核算订阅值不值 · 英文
 - [Grok Bot Agents: How to Build an AI Team You Can Actually Trust (Full Guide)](https://x.com/0xjmori/status/2101661510091034926) — @0xjmori · 2026-09-20 · X 长文：先给 bot 一件出错也无所谓的小活，再写清终点线、权限边界、验收方式和必须停手的地方，一步步放权到 24/7 团队；约 1,800 收藏、466 赞 · 英文
 - [The Complete Grok Bot Guide: From Beginner to Advanced](https://x.com/alpha_founders/status/2115160193763778775) — @alpha_founders · 2026-10-28 · X 长文：Founders School 给学生写的三级上手指南，第一级接连接器、设晨间收件箱和会前准备 routine、做「像我一样写」skill，第二级拆出专职效率 bot 并让 bot 互相派活、接 SEO 等 API，第三级讲 23 个 bot 分工和手机端派活；开头附一段「先采访我再建两个 bot」的提示词；约 400 收藏 · 英文
-- [How Elon Musk & SpaceXSI Use Grok Bot (copy this)](https://x.com/aiedge_/status/2115459312994914327) — @aiedge_ · 2026-10-28 · X 长文：把 Elon 和官方团队公开过的用法改成可复制提示词，含查账单抓僵尸订阅、IncidentSweep 式同类工单批量回复（先批准再发）、比价下单并在签收后自动停查物流、iPhone Action Button 绑定语音派活的设置路径，并提醒外呼电话尚未进稳定版；作者约 8 万粉、约 78 收藏，经约 68 万粉的 @milesdeutscher 转引后近 400 收藏 · 英文
-- [Grok Bot Pages and dashboards: the 5 dashboards I built](https://x.com/AlexFinn/status/2115596225793921048) — @AlexFinn · 2026-10-29 · 约 12 分钟视频：新上线的 Pages 与仪表盘功能怎么用，作者搭的 5 个仪表盘，其中一个用来盯用量、帮他省了不少额度；约 48 万粉、约 590 赞 / 790 收藏 · 英文
+- [How Elon Musk & SpaceXSI Use Grok Bot (copy this)](https://x.com/aiedge_/status/2115459312994914327) — @aiedge_ · 2026-10-28 · X 长文：把 Elon 和官方团队公开过的用法改成可复制提示词，含查账单抓僵尸订阅、IncidentSweep 式同类工单批量回复（先批准再发）、比价下单并在签收后自动停查物流、iPhone Action Button 绑定语音派活的设置路径，并提醒外呼电话尚未进稳定版；作者约 8 万粉、约 200 收藏，经约 68 万粉的 @milesdeutscher 转引后近 400 收藏 · 英文
+- [Grok Bot Pages and dashboards: the 5 dashboards I built](https://x.com/AlexFinn/status/2115596225793921048) — @AlexFinn · 2026-10-29 · 约 12 分钟视频：新上线的 Pages 与仪表盘功能怎么用，作者搭的 5 个仪表盘，其中一个用来盯用量、帮他省了不少额度；约 48 万粉、约 1700 赞 / 2400 收藏 · 英文
 
 ### 多 Agent 作战室
 
