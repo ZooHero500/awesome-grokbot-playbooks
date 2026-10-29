@@ -60,6 +60,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [Grokbot 怎么管理：从企业组织架构学会分工与协作](https://x.com/AdrianPunk115/status/2114648961399349608) — @AdrianPunk115 · 2026-10-26 · X 长文：直线制、职能型、事业部、矩阵、项目制、扁平化、网络型七种组织架构各配一个多 bot 分工例子，结论是小任务直接找岗位、复杂任务才组队加层 · 中文
 - [走在马路上交代一句：把 Grok Bot 当秘书，按「路由」规矩分活给云电脑上的 Claude Code / Codex](https://x.com/wshuyi/status/2114712927358128211) — @wshuyi · 2026-10-26 · X 长文：语音派活、改 Skill 后由秘书判断哪些片子续做哪些重拍，简单活自己干、难活按大白话路由交给云电脑上的编码 Agent，末尾附起步建议 · 中文
+- [用 6 个 Grok Bot 分工跑财报季：日历、预览、期权隐含波动、业绩对比、电话会解读到一页晨报](https://x.com/cnfinancewatch/status/2115737209286660584) — @cnfinancewatch · 2026-10-29 · 长帖：中文梳理一套财报季多 bot 群聊，接 Public 期权数据做自定义连接器，6 个角色提示词全文可直接复制，先拿一家公司测通再按纽约时间设周日更新日历、早 8 点出汇总；明确只给信息不下单，数据要点来源核对；约 13.6 万粉 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -304,6 +305,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build an In-House Media Team (With One Person and Grokbot)](https://x.com/VibeMarketer_/status/2115451548402925745) — @VibeMarketer_ · 2026-10-28 · X 长文：一个内容负责人加一个内容运营 bot，建资料、待处理素材、按周归档三个文件夹，按调研、写作、制作、复盘四个 skill 走完一篇稿，每步附可粘贴提示词；周一选题、周五复盘两条 routine，发布与外联都由人拍板；文末有 newsletter 链接，约 3.8 万粉 · 英文
 - [How I Run a Team of AI Bots, and the Five Parts You Can Copy](https://x.com/thebobmcintosh/status/2115448503807656044) — @thebobmcintosh · 2026-10-28 · X 长文：多 bot 团队的五个部件（唯一对话入口的经理 bot、按记忆分域的专员、Task/Owner/Status 看板、routine、外发先草稿后批准），附经理 bot 提示词、五天搭建顺序和五个常见错误；文末有免费工作坊推广，约 2 万粉 · 英文
 - [11 Income Streams You Can Run with Grok Bot (With the Exact Prompts)](https://x.com/DotComParker/status/2115464509532090701) — @DotComParker · 2026-10-28 · X 长文：社媒主页、转卖比价、无脸频道、建站、咨询、模板、newsletter、本地商家客服、简历改写、课程、翻译 11 种做法，每种都有适合人群、分步搭建、可粘贴提示词、风险和衡量指标；统一用调研、起草、排期、routine、日报五个部件，对外发布和花钱都留人工批准；作者明说不承诺收入，约 13.6 万粉 · 英文
+- [My content team works while I sleep, and none of them are human](https://x.com/Leo100x/status/2115715241677930811) — @Leo100x · 2026-10-29 · X 长文：一个主 bot 带 Scout、Analyst、Writer、Creative、Growth 五个队友，每天早上一条 routine 交带链接的 AI 简报和 7 条按本人语气写的推文草稿（一键发帖链接，由本人决定发不发），定死「队友不替我发帖、关注、私信」；文末三步起步：交代领域与语气、用大白话描述团队、设一条晨报 routine；约 1.1 万粉 · 英文
 
 ## 不收的例子
 

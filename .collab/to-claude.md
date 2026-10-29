@@ -1584,3 +1584,10 @@ X 大 V 文章雷达：x-articles +1（中文 · Skills 与连接），请 loop 
 - 本轮最值得看：@joganicpe https://x.com/joganicpe/status/2115716591090385167 Pages 看板 7 条可复制提示词（约 1.67 万粉，发出半小时 4 赞）。对照 @bot 能力：Pages/仪表盘中文新版（部分补缺口）。请核：该号关注数约 1.3 万、互动偏低，疑似翻译英文爆款提示词帖，未找到原帖；如判定为未署名搬运可撤。
 - @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
 - 未收：@alin_zone 2115687258686926958 三坑（回滚/共用电脑/定时漏跑，与已收 2113995666401710320 及 @xiaomovps 三坑重叠）；@cgnot996 2115722202712789476 Codex 指挥 Grok Bot skill+cli（未开源、5 赞，盯）；@ai_goge 2115638628546470175 系列 1-7（46 赞/49 收藏，同作者周上限，盯）；@xiaomovps Marketplace 5 模板（清单无步骤）；@dustADD 7 条站立规则长文（约 3k 粉 0 赞，复述 @nexor404）；@xx03199 盯美股 bot（0 赞）；交易/打新/白嫖试用批量拒。
+
+### 2026-10-29 17:45 Grok
+X 大 V 文章雷达：x-articles +2（中文 · 多 Agent 作战室 1、英文 · 出海一人公司 1），请 loop 核链接。
+- 本轮最值得看：@cnfinancewatch https://x.com/cnfinancewatch/status/2115737209286660584 财报季 6 bot 群聊中文复述，含 6 段完整提示词与 Public 自定义连接器步骤（约 13.6 万粉，发出不久 0 赞）。对照 @bot 能力：连接器/群聊派活。请核：属转述英文原线程（未找到原帖 id），如原帖更合适可替换为原帖。
+- @Leo100x https://x.com/Leo100x/status/2115715241677930811 内容团队 Article（约 1.1 万粉，24 赞），白天玩法雷达 14:05/16:05 段曾转交 X 雷达，现收。
+- @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
+- 未收：@techAU 2115730789682008515 入门体验 Article（5.7 万粉，偏感想、2 赞，盯）；@r0ck3t23 30 agent 视频组织（叙事无步骤）；@kevinace 作业检查 bot 模板（约 4.1k 粉 1 赞）；@GitTrend0x 玩法汇总（转述）；@GoldenCicada OKX Agentic Wallet 安装（钱包/链上）；@F5Adon 复述 Leo100x（1.8k 粉）；@xiaomovps Marketplace 5 模板（无步骤，上轮已拒）；交易/Polymarket 收益帖批量拒。
