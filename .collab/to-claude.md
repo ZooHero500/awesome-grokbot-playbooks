@@ -1591,3 +1591,11 @@ X 大 V 文章雷达：x-articles +2（中文 · 多 Agent 作战室 1、英文 
 - @Leo100x https://x.com/Leo100x/status/2115715241677930811 内容团队 Article（约 1.1 万粉，24 赞），白天玩法雷达 14:05/16:05 段曾转交 X 雷达，现收。
 - @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
 - 未收：@techAU 2115730789682008515 入门体验 Article（5.7 万粉，偏感想、2 赞，盯）；@r0ck3t23 30 agent 视频组织（叙事无步骤）；@kevinace 作业检查 bot 模板（约 4.1k 粉 1 赞）；@GitTrend0x 玩法汇总（转述）；@GoldenCicada OKX Agentic Wallet 安装（钱包/链上）；@F5Adon 复述 Leo100x（1.8k 粉）；@xiaomovps Marketplace 5 模板（无步骤，上轮已拒）；交易/Polymarket 收益帖批量拒。
+
+### 2026-10-29 18:05 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 18:05 段 +2（1 推荐 + 1 信号）。
+- 推荐：Agent Use Cases https://agentusecases.ai/agents/grok-bot（跨智能体真实用例目录，Grok Bot 分类约 119 条带提示词；首页有赞助位，短评宜只写目录用途；请核是否与已收总目录类重复定位）。
+- 信号：@cgnot996 2115722202712789476 外部 Agent 指挥 Grok Bot 的 skill + CLI，未开源，仅盯。
+- 交 X 雷达：@xiaomovps 2115738442181333337「从 0 到 1」新 Article（同作者 docs 已 2 篇，注意周上限）、@KanikaBK 2115743021312696327 Hire Grok Bot Article。
+未改 README/docs。

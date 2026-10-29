@@ -3315,3 +3315,23 @@ noxidsoft/OpenMausBot（milind-soni/OpenMausBot 的 fork，主仓已收）；tre
 ### Skip（本轮）
 
 choiking/Bot27（自称「更好的免费 Grok Bot」，macOS 替代品，非 Grok Bot 玩法）；IVMYM/bot-office（Three.js 办公室，无 License，与已信号 happy-office/whatsmyagentdoing 同类）；StockOnLLC/question-cards（通用计划对齐 skill，与 Grok Bot 无专门适配）；alvinmok74-cmd/eisenhower-matrix（仅一行 README）；Ocean-lhy/*、bizen/grokbotforum、cryptosniper1993/kade（空仓或无关）。X 侧 @nitrosendx 系推广复制帖、@Habibxweb3 meme 币交易 Article、@Damir_Akaza 引流帖、@attaporn/@socialdevflow 同文营销不收；@Zuessea 系列04、@sncgray226 资源站 Article、@Leo100x 内容团队 Article 交 X 雷达。
+
+## 2026-10-29 18:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-29，看 16:00 后新建）+ X `search_posts_all`×1（自 16:00 起）。未改 README/docs。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Agent Use Cases（Grok Bot 分类页） | https://agentusecases.ai/agents/grok-bot | **不知道拿 Bot 干什么时先逛这里**：每天从网页、X、Reddit、HN 抓真实的智能体用例，按智能体和主题分类，每条给用途、结果和可直接抄的提示词；Grok Bot 分类约 119 条（全站约 1,697 条），免费、可订阅每日 5 条。跨智能体通用目录，非 Grok Bot 专属；首页带赞助位。本轮最值得看 | Directories / Discovery | `directory` `use-cases` `prompts` `free` | 网站 / — | **X** @baozong_facai 2115725084145172578（约 9.5 万粉中文推荐）→ 网站 |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 铁柱 AGI：Codex / Claude Code 指挥 Grok Bot（skill + CLI） | https://x.com/cgnot996/status/2115722202712789476 | 一个 skill + CLI 让外部 Agent 列出账号下全部 Bot、单独派活收结果，支持跨账号 Bot 互相派活、外部模型当总指挥、中途把上下文交给 Bot 接着做；约 2 小时 34 赞 20 收藏。**尚未开源**（作者称看反响），先盯仓库地址，开源后再评 | Multi-bot / Orchestration | **X**（10-29） |
+
+### Skip（本轮）
+
+SvenKunkka/grokbot-byok-dsh-setup（DeepSeekBot BYOK 配置，主角非 Grok Bot，且含拆客户端 asar 内容）；NUSLCC/grokbot-robot-manipulation（仅标题 README）。X 侧 @GoldenCicada OKX Agentic Wallet 安装（钱包/交易类不收）、@0xburg3r 链上情报试水 Article、@caocaorich 链上项目助手 Article（链上类）、@panExorcist 投研盘前笔记（交易题材）、@fluixoo/@crbpite8 转述 200 agent 工程师帖、@AISystems_hq 订阅引流、@KuttyPrabhu webhook 三步（低粉、与官方功能说明重复）不收；@xiaomovps「从 0 到 1」新 Article 2115738442181333337、@KanikaBK「Hire Grok Bot」Article 交 X 雷达。
