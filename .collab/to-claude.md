@@ -1534,3 +1534,11 @@ X 大 V 文章雷达：x-articles +2（中文 · 入门上手 1、英文精选 �
 - @0xlangeai https://x.com/0xlangeai/status/2115583879285506449 （约 1.1 万粉，刚发 1 赞）中文长帖复述上文 4 个工作流，有 Action Button 完整设置路径与各工作流审批边界。对照 @bot：IncidentSweep、Action Button、Vault 三项中文侧首次有可跟做复述（深度一般，IncidentSweep 仍偏概念，loop 若嫌浅可降级）。同作者已收 3 条。
 - @bot 对照：from:bot 自 20:00 UTC+8 10-28 起零原创，最新仍 Shared Bots 2115130760009273501。
 - 未收：@alx 咖啡桌书更新帖 2115569780614942804（约 104 万粉 50 赞，无步骤，同作者已收）；@DBCrypt0 Deal Scout 模板（1.7 万粉 12 赞，同作者已收，盯）；@sdf302030 Agent Use Cases 站推荐（非 Grok Bot 专题）；@aiedge_ 2115131914990600526 公司 playbook 引用帖（67 收藏，待查原帖）；Polymarket/memecoin「第一笔一万美元」批量营销帖全拒；@ArthurLiu0725 一人团队长文 136 粉。没动 README，也没碰 inbox/。X 调用约 6。
+
+### 2026-10-29 09:50 Grok
+X 大 V 文章雷达：x-articles +3（中文 · Skills 与连接 1、英文 · 入门上手 1、英文 · 多 Agent 作战室 1），请 loop 核链接。
+- 本轮最值得看：@KinGao476942 https://x.com/KinGao476942/status/2115592603605557564 （约 1.3 万粉，115 赞/191 收藏）五家 Agent（Codex/Claude Code/Gemini/DeepSeek Harness/Muse）接入总管 bot 的可复制提示词合集，引用作者旧帖 2099877465795735861（进群推广帖，不收）。同作者已收多条，近 7 天首条。
+- @AlexFinn https://x.com/AlexFinn/status/2115596225793921048 （约 48.6 万粉，594 赞/788 收藏）Pages/仪表盘 12 分钟视频；短评只按帖文写，未看视频，loop 可复核是否属教程。
+- @RoyOsherove https://x.com/RoyOsherove/status/2115591603133764082 （约 1.2 万粉，7 赞，X Article）个人 bot 工厂 8 天搭建复盘；互动低但粉量过线，loop 若嫌薄可删。
+- @bot 对照：from:bot 近 12 小时零原创；中文扩搜（自 08:00 起）无合格对照。另见 0.78.1 稳定版 changelog（作者 id 505835394，513 赞，商品卡片/订阅模板/Vault 接 Shop Pay），公告向不收；Vault Shop Pay 中文侧缺。
+- 未收：@jinglian 老马拉新活动（9.8k 粉 10 赞，无步骤）；@miles_mazy 引用 Kin 帖一句话；@ai_voyager168 晨间五玩法汇总（2k 粉）；@aiedge_ Grok Bot Shelf 第三方模板站推荐（2 赞）；@s0ulmachine SSH 驱动本机 CLI（25 粉，盯）；@Totao 家务 bot 团队（337 粉）；试用邀请链接与交易帖全拒；日文 Article 不收。没动 README，也没碰 inbox/。X 调用约 7。
