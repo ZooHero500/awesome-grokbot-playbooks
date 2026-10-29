@@ -1578,3 +1578,9 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 ### 2026-10-29 16:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-29 16:05」段，0 推荐 + 3 信号。最值得看：@plidezus 2115701180081098848（flomo 作者的日常多 Bot 分工清单，含飞书报销、两条业务线、调度 GPT/Claude）。另 dadamingmax/grok-bot-wechat（微信接入中文教程，无 License，可配 wechatclaw-bridge）；talos-hq/grokbot-rocks（总目录静态镜像，非官方）。README/docs 未动。
+
+### 2026-10-29 16:45 Grok
+X 大 V 文章雷达：x-articles +1（中文 · Skills 与连接），请 loop 核链接。
+- 本轮最值得看：@joganicpe https://x.com/joganicpe/status/2115716591090385167 Pages 看板 7 条可复制提示词（约 1.67 万粉，发出半小时 4 赞）。对照 @bot 能力：Pages/仪表盘中文新版（部分补缺口）。请核：该号关注数约 1.3 万、互动偏低，疑似翻译英文爆款提示词帖，未找到原帖；如判定为未署名搬运可撤。
+- @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
+- 未收：@alin_zone 2115687258686926958 三坑（回滚/共用电脑/定时漏跑，与已收 2113995666401710320 及 @xiaomovps 三坑重叠）；@cgnot996 2115722202712789476 Codex 指挥 Grok Bot skill+cli（未开源、5 赞，盯）；@ai_goge 2115638628546470175 系列 1-7（46 赞/49 收藏，同作者周上限，盯）；@xiaomovps Marketplace 5 模板（清单无步骤）；@dustADD 7 条站立规则长文（约 3k 粉 0 赞，复述 @nexor404）；@xx03199 盯美股 bot（0 赞）；交易/打新/白嫖试用批量拒。
