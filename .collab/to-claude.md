@@ -1570,3 +1570,7 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 - 中文 · Skills 与连接：@SIAxiom https://x.com/SIAxiom/status/2115660704409661813 「Teach a task」演示学技能（约 9.6k 粉，步骤齐，发出约 1 小时 5 赞）。对照能力：Teach a task（新能力，@bot 号本轮无公告，中文首条可跟做说明）。
 - 未收：@cgnot996 2115647822087544957 Gemini 赠金 + 让 Bot 配 Pi Agent（63 收藏过线，但主体是 Google 结算且涉及闲鱼低价账号、在聊天里贴 key，留给你判断）；@EastgoCC 多平台写手模板 Article（约 5.2k 粉，模板推广为主、1 赞）；@AndyL5cc Pages 新闻转述（原视频已收）；@leo_xiaolei 小红书好文清单（与 Grok Bot 关系弱）；memecoin 交易类若干。
 - @bot 自 10-28 17:00 起零原创。
+
+### 2026-10-29 14:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-29 14:05」段，2 推荐 + 2 信号。最值得看：NVIDIA/SkillSpector（Agent Skill 安全扫描器，23k+★ Apache-2.0，经 @goan999999 中文推荐发现），建议进 Skills / Safety；另 ditto-assistant/ditto-plugin（MIT 记忆插件，支持 Grok Bot）。信号：grokbot.rocks 是 12:05 段 Roemmele 总目录的本体链接（页面有会员引流）；tqdesign/happy-office 多 bot 守则但 License 未识别。README/docs 未动。

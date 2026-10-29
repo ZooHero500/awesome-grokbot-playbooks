@@ -3277,3 +3277,25 @@ grokbotcompass/grokbotcompass.github.io（驾车避险路线 PWA，与 Grok Bot 
 ### Skip（本轮）
 
 sora3897/GBTNDataPool（模拟盘交易数据池，交易题材不收）。X 侧 @HowarTracy 币安钱包交易教程、@orpheuskaze 邀请码绕过、@nitrosendx 系推广、@JustTapYes 零粉落地页、@StockBrau 末日预警 routine 体感帖不收；@songsong275452「失败即停」Article 转述 @koko668800，交 X 雷达看原帖。
+
+## 2026-10-29 14:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-29，看 12:00 后新建）+ X `search_posts_all`×1（自 12:00 起）。未改 README/docs。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| NVIDIA/SkillSpector | https://github.com/NVIDIA/SkillSpector | **装 skill 前先扫一遍**：NVIDIA 开源的 Agent Skill 安全扫描器，查恶意模式、提示注入、数据外传、供应链风险；面向 Claude Code / Codex / MCP skill，SKILL.md 格式通用，Grok Bot 装第三方 skill 前同样适用。生态已有 GitHub Action（NPJigaK/skillspector-action）和质量分扩展。本轮最值得看 | Skills / Safety | `skill` `security` `supply-chain` `apache-2.0` | 23k+ / Apache-2.0 | **X** @goan999999 2115685263703753169（约 2.8 万粉中文推荐）→ GitHub |
+| ditto-assistant/ditto-plugin | https://github.com/ditto-assistant/ditto-plugin | 第三方记忆插件：托管 MCP（OAuth，无需贴 key）+ 两个 skill（按需回忆/写入长期记忆、关聊天前存「接续笔记」）；明确支持 Grok Bot 插件市场。厂商插件，Ditto 本身有免费额度 | Plugins / Memory | `plugin` `mcp` `memory` `skill` `handoff` `mit` | 0 / MIT | **GitHub**（10-29 13:47 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Grok Bot 总目录本体链接（补 12:05 段） | https://grokbot.rocks/ | 12:05 段 @BrianRoemmele 总目录的本体落地页：7,539 个公开 Bot / 26 类，标「每周更新」，可直接点链接加 Bot；作者新帖 2115661327016615998 建议「让 Bot 读这个目录、按目标补 skill」（约 1 小时 122 收藏）。注意页面带付费会员引流，短评宜只写目录用途 | Directories / Discovery | **X**（10-29） |
+| tqdesign/happy-office | https://github.com/tqdesign/happy-office | 23 个 Bot 的团队互相问「什么样的工作环境让你开心」，汇总成 Three.js 办公室 + 十条团队守则（交接写清、卡三次就停下问、不编结果、不可逆先问）；多 bot 文化/守则范例，**License 未识别**（GitHub 报 NOASSERTION），仅作信号 | Multi-bot / Culture | **GitHub**（10-29 12:23 建） |
+
+### Skip（本轮）
+
+noxidsoft/OpenMausBot（milind-soni/OpenMausBot 的 fork，主仓已收）；trevor93/Grok-Bots（rakazo 镜像，主仓已收）；ArTechIslandapps/kurokit-mcp-zh-cn/zh-tw/ja（商业监控平台推广仓）；ndtp1303/zcode-driver（仅一行 README）；twentyfivcent/twofold（游戏测试）。X 侧 @nitrosendx 系 skill 推广复制帖、@Promise1web3 十个 agent 互动引流帖、@RV_Attila 比价模板（零互动）、@DavidWi15683372 诊所账单 8 bot 包（回帖推销）、@uncoolzero 段子不收；@zenghui1898 打狗军团 Article、@garygao_ai 50 Agent 工程流 Article 交 X 雷达。
