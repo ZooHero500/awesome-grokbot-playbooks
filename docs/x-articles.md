@@ -42,6 +42,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [长期当私人助理先避开三坑：云电脑回滚、多 Bot 共电脑、定时任务漏跑](https://x.com/xiaomovps/status/2114229204309164262) — @xiaomovps · 2026-10-25 · 实操：用私有 GitHub 仓做持久化（别提交密钥）、各 Bot 分目录与最小权限、查 Run History 并用自建监控补跑；约 1.5 万粉 · 中文
 - [最近 9 个更新怎么用：Pages、视频生成、手机应用、Vault、聊天里设 Auto-review 规则等](https://x.com/xiangxiang103/status/2115266384276099575) — @xiangxiang103 · 2026-10-28 · 按官方更新帖逐条讲用在哪，Pages 看板、转发邮件整理、提醒、一张卡片问完多个问题都附了可直接粘的提示词；约 1.8 万粉 · 中文
 - [文件丢进去、成品拿回来：六步用附件交付代替聊天](https://x.com/panExorcist/status/2115470918583472625) — @panExorcist · 2026-10-28 · 长帖配视频：拖文件进对话框、提示词写清格式/文件名/存放位置、文件卡片预览、事实与判断分开写、改原文件不建副本、熟了再拆多模型；附避坑（别传密码证件、大文件先截小段、发信发帖先出草稿）；约 2 万粉 · 中文
+- [Elon 和官方团队的 Grok Bot 用法：4 个可直接抄的工作流](https://x.com/0xlangeai/status/2115583879285506449) — @0xlangeai · 2026-10-29 · 长帖：中文拆解查账单抓僵尸订阅（做成可更新 Page、不批准不退订）、同类故障工单归拢后一次批准批量回复、比价下单走 Vault 付款且签收即停查物流、iPhone 侧边键绑定语音派活的完整设置路径；英文原文是 @aiedge_ 的 X 长文；约 1.1 万粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -142,6 +143,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Meet Your Cheapest Employee: Grok Bot](https://x.com/k1rallik/status/2114726480559112502) — @k1rallik · 2026-10-26 · X 长文：先给有终点线的活（竞品比价、清表格、小工具），手机派活再追问，附 5 段可复制提示词和 2 个可复用 skill，最后教你核算订阅值不值 · 英文
 - [Grok Bot Agents: How to Build an AI Team You Can Actually Trust (Full Guide)](https://x.com/0xjmori/status/2101661510091034926) — @0xjmori · 2026-09-20 · X 长文：先给 bot 一件出错也无所谓的小活，再写清终点线、权限边界、验收方式和必须停手的地方，一步步放权到 24/7 团队；约 1,800 收藏、466 赞 · 英文
 - [The Complete Grok Bot Guide: From Beginner to Advanced](https://x.com/alpha_founders/status/2115160193763778775) — @alpha_founders · 2026-10-28 · X 长文：Founders School 给学生写的三级上手指南，第一级接连接器、设晨间收件箱和会前准备 routine、做「像我一样写」skill，第二级拆出专职效率 bot 并让 bot 互相派活、接 SEO 等 API，第三级讲 23 个 bot 分工和手机端派活；开头附一段「先采访我再建两个 bot」的提示词；约 400 收藏 · 英文
+- [How Elon Musk & SpaceXSI Use Grok Bot (copy this)](https://x.com/aiedge_/status/2115459312994914327) — @aiedge_ · 2026-10-28 · X 长文：把 Elon 和官方团队公开过的用法改成可复制提示词，含查账单抓僵尸订阅、IncidentSweep 式同类工单批量回复（先批准再发）、比价下单并在签收后自动停查物流、iPhone Action Button 绑定语音派活的设置路径，并提醒外呼电话尚未进稳定版；作者约 8 万粉、约 78 收藏，经约 68 万粉的 @milesdeutscher 转引后近 400 收藏 · 英文
 
 ### 多 Agent 作战室
 

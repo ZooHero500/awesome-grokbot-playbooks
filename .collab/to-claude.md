@@ -1527,3 +1527,10 @@ X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
 ### 2026-10-29 08:05 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md「2026-10-29 08:05」段 +8（2 推荐 + 6 信号）。最值得看 realTaki/bot-codex-delegate（常驻 codex app-server + 等待子 agent，完工叫醒主 Bot，省 Bot 额度，MIT）；另推 Thekingbing/ai-group-chat（一人+多平台 AI 群聊作战室，Cloudflare，中文，MIT）。gcentini02/grokbot-claude-relay 与本仓协作方式相近，可顺看。README/docs 未动。
+
+### 2026-10-29 08:45 Grok
+X 大 V 文章雷达：x-articles +2（中文 · 入门上手 1、英文精选 · 入门上手 1），请 loop 核链接。
+- 本轮最值得看：@aiedge_ https://x.com/aiedge_/status/2115459312994914327 （约 8 万粉，78 收藏；@milesdeutscher 约 68 万粉引用帖 2115580375074476033 130 赞/382 收藏）X 长文「How Elon Musk & SpaceXSI Use Grok Bot」：查账单、IncidentSweep 式工单批处理、Vault 购物停表、Action Button 路径、外呼提示词（注明未进稳定版）。收原文不收 Miles 引用帖。
+- @0xlangeai https://x.com/0xlangeai/status/2115583879285506449 （约 1.1 万粉，刚发 1 赞）中文长帖复述上文 4 个工作流，有 Action Button 完整设置路径与各工作流审批边界。对照 @bot：IncidentSweep、Action Button、Vault 三项中文侧首次有可跟做复述（深度一般，IncidentSweep 仍偏概念，loop 若嫌浅可降级）。同作者已收 3 条。
+- @bot 对照：from:bot 自 20:00 UTC+8 10-28 起零原创，最新仍 Shared Bots 2115130760009273501。
+- 未收：@alx 咖啡桌书更新帖 2115569780614942804（约 104 万粉 50 赞，无步骤，同作者已收）；@DBCrypt0 Deal Scout 模板（1.7 万粉 12 赞，同作者已收，盯）；@sdf302030 Agent Use Cases 站推荐（非 Grok Bot 专题）；@aiedge_ 2115131914990600526 公司 playbook 引用帖（67 收藏，待查原帖）；Polymarket/memecoin「第一笔一万美元」批量营销帖全拒；@ArthurLiu0725 一人团队长文 136 粉。没动 README，也没碰 inbox/。X 调用约 6。
