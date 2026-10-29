@@ -3183,3 +3183,29 @@ P3NN4L/Tribot（只有 LICENSE）；doitupsolutions810-crow/grok-bot-（空仓�
 ### Skip（本轮）
 
 jabowery/grokbot-update-loop-bypass（Linux 更新 bug 绕过，带二进制包，不收）；XYAIStudio/XYAIbot（只有 README 一行）；habilmind-webs/borrador-prueba（测试仓，已拒）。X 侧 @Av1dlive、@GrokBotRadar、@monetization_x、@twinedon0、@byalexai、@godofwaaar 长文/清单交 X 雷达；@zsz1210 Reason Network webhook 回帖与上轮 @inorbit01 同思路不另收；@irongiantXBT、@Yarilo7brigada 标题党拒。
+
+## 2026-10-29 08:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复（realTaki/bot-keepalive 曾见于 inbox，bot-codex-delegate 是同作者另一仓；@Argona0x、@alx、@thecsguy 已在 docs/inbox，不另收）。窗口约 02:05→08:05（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot，created≥10-29 01:00）+ X `search_posts_all`×1。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| realTaki/bot-codex-delegate | https://github.com/realTaki/bot-codex-delegate | **让 Bot 像派云端 agent 一样派 Codex**：云电脑上常驻 `codex app-server`（仅 localhost，tmux+看门狗，带健康检查），主 Bot 把每轮活交给一个低成本等待子 agent 前台阻塞跑，完工再叫醒主 Bot；可插话打断、复用会话。解决 Bot 盯 Codex 烧额度、一放手云电脑就睡的问题，额度花在 Codex 上。中英双语。本轮最值得看 | Skills / Delegation | `skill` `codex` `box` `quota` `mit` | 1 / MIT | **GitHub**（10-29 04:25 建；作者 @realTaki42 中文推介） |
+| Thekingbing/ai-group-chat | https://github.com/Thekingbing/ai-group-chat | **一人 + 多平台 AI 的自建群聊作战室**：Cloudflare Workers + Durable Objects，Grok Bot（routine webhook 推送）、Manus、DeepSeek 等经极简 HTTP Bot API 进同一房间共享上下文；webhook 推送或长轮询唤醒，15 秒触发合并、30 分钟在线期、防死循环限速、@ 补全。中文文档含踩坑与安全须知 | War Room / Bridges | `multi-bot` `war-room` `webhook` `cloudflare` `zh` `mit` | 0 / MIT | **GitHub**（10-29 02:58 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| gcentini02/grokbot-claude-relay | https://github.com/gcentini02/grokbot-claude-relay | 同一台电脑上 Claude Code 与 Grok Bot 桌面端的本地信箱 MCP（Rust、无网络监听、单 SQLite、各自 token、限速与敏感词告警），和本仓 .collab 互通思路相近，MIT，作 Bridges 信号 | Bridges / Claude | **GitHub**（10-29 02:39 建） |
+| ItsOdeLeo/bookmark-persona | https://github.com/ItsOdeLeo/bookmark-persona | Bot 模板 + 纯 skill 插件：读你的帖子 vs 收藏/点赞，四轴打分生成「公开人格 vs 收藏人格」分享卡，本地运行。MIT（美术另有授权），偏娱乐，作 Templates 信号 | Templates / X | **GitHub**（10-29 04:10 建） |
+| black93fox-alt/manuscript-compass | https://github.com/black93fox-alt/manuscript-compass | 书稿逐阶段审校插件（结构→准确性→文风→校对→出版 QA，P0–P3 问题单），MIT，垂直写作类作 Plugins 信号 | Plugins / Writing | **GitHub**（10-29 04:19 建） |
+| l3b0u/content-agent-skills | https://github.com/l3b0u/content-agent-skills | 54 个内容运营 skill 的多平台打包（含 grok-bot 目标），先草稿后发，MIT；葡语文档、改编自他人仓，作 Skills 信号 | Skills / Content | **GitHub**（10-29 04:45 建） |
+| bfrench Learner 自学习模板 | https://x.com/bfrench/status/2115588526804959293 | 定时读各 Bot 新轨迹、提 skill 改进，只问一次「批/跳过」，无货静默；附模板与 X 长文，约 2.4k 粉，作 Skills/Routines 信号 | Skills / Self-improve | **X**（10-29） |
+| DeepDiscussion1 Harvester | https://x.com/DeepDiscussion1/status/2115541927089053845 | 免费模板：扫自选来源挖技巧，按「对哪个 Bot 有用」分拣并可起草待批 skill，与本仓雷达同型，作 Templates 信号 | Templates / Radar | **X**（10-29） |
+
+### Skip（本轮）
+
+Lucas215zz/GrokBot、cvhfmjr499-svg/Grok-bot、semenkulikov/MyGrokBot、wesleybraden-oss/grokbot-petsmart-demo（空仓/无说明）；NexisFlare/nexis-flare-kova（个人日志）；piotr-liszka/a-bot、identity-md-launches/*（复刻/生成站）；Abomination81/amazon-public-fetch-mcp、ilyaviache/b2bsearch-plugin、adplug-app/adplug-search-console-plugin（单一商业/抓取服务，暂不收）。X 侧 @0xGhostyx 10 步长文、@yourm11nd Lauren Tan 访谈转述交 X 雷达；@0xCortexq、@Greshamtrade、@AIMoneySystem 标题党/卖课拒。

@@ -1523,3 +1523,7 @@ X 大 V 文章雷达：x-articles +2（英文精选），请 loop 核链接。
 - @GrokBotRadar https://x.com/GrokBotRadar/status/2115489802682585477 （约 1 万粉，7 赞/11 收藏）额度十处泄漏逐条修，上一轮列为「盯」；与已收 2114409935345971231 主题相近但这篇是逐条改法 + 提示词 + 出处，若 loop 嫌重复可删。同作者近 7 天第 2 篇。放「Routine 雷达与额度」。
 - @bot 对照：from:bot 近 8 小时零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 23:30 起）无合格对照。缺口未变。
 - 未收：@AllenHo887 转述 @qianxiguaai 四款 Personal Agent 大陆实测（转述号 2 粉，原帖 2114994258889638097 未核热度，盯）；@ArthurLiu0725 一人 AI 团队中文长文 140 粉；@starkljm 省用量 11 步约 1.2k 粉；@kushal5paliwal/@punpunism 交易拒；@Lniosytest/@0x1900 试用领取；@AndyL5cc Gavin Baker 转述无步骤。没动 README，也没碰 inbox/。X 调用约 6。
+
+### 2026-10-29 08:05 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md「2026-10-29 08:05」段 +8（2 推荐 + 6 信号）。最值得看 realTaki/bot-codex-delegate（常驻 codex app-server + 等待子 agent，完工叫醒主 Bot，省 Bot 额度，MIT）；另推 Thekingbing/ai-group-chat（一人+多平台 AI 群聊作战室，Cloudflare，中文，MIT）。gcentini02/grokbot-claude-relay 与本仓协作方式相近，可顺看。README/docs 未动。
