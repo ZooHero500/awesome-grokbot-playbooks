@@ -3254,3 +3254,26 @@ J12003LPZ/grok-bot-codex（把桌面端改接第三方模型后端的 shim，涉
 ### Skip（本轮）
 
 grokbotcompass/grokbotcompass.github.io（驾车避险路线 PWA，与 Grok Bot 玩法无关）；nickhiebertdev/grokbot-meetup-october-2026（活动页）。X 侧 @dustADD 视频三路径 Article、@wi11champ 五家 Agent Article、@santoslee_me 系列、@lu58397 bot 工厂交 X 雷达；@HowarTracy 币安钱包交易、@orpheuskaze 邀请码绕过、@GrokBotPro 标题党拒。
+
+## 2026-10-29 12:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot" / skill / routine，created≥10-29）+ X `search_posts_all`×1（自 10:00 起）。未改 README/docs。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Every Grok Bot: The Complete Directory（@BrianRoemmele） | https://x.com/BrianRoemmele/status/2115646312125542632 | **公开 Grok Bot 总目录**：称收录 7,539+ 个公开 Bot、分 26 类，10-28 更新，约 49 万粉作者，发帖 1 小时内 65 收藏。可作 Directories 节的外部入口，需核目录本体链接与是否持续更新。本轮最值得看 | Directories / Discovery | `directory` `templates` `discovery` | — | **X**（10-29） |
+| Security Agent（@JennyMarquis X Article） | https://x.com/JennyMarquis/status/2115633821882204490 | 专门一个 Bot 记录团队其他 Bot 的对外动作（发信、发帖、外部写入）成安全日志，附做法与可试用入口；多 bot 团队的审计位，与作战室模板互补 | Multi-bot / Safety | `multi-bot` `audit` `log` `safety` | — | **X**（10-29） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Billable Hours by BMAC 模板 | https://x.com/CoCaptive/status/2115640904090316801 | 把日历、邮件、通话记录汇成带出处的可计费工时 + 发票草稿，明确「不发送任何东西」；自由职业者场景，@grok 官方号回帖认可，作 Templates 信号 | Templates / Freelance | **X**（10-29） |
+| milordasceo/tender-conveyor | https://github.com/milordasceo/tender-conveyor | 「每个环节一个 Bot、一个文件夹」的流水线打包法：bot.yaml 清单 + 提示词 + routine + 安装与自检，附 SCHEMA.md，可按文件夹重建 Bot；俄语招投标场景、**无 License**，原仓此前已 Skip，此处只作「多 bot 可迁移打包格式」信号 | Multi-bot / Migration | **GitHub**（10-29 10:59 建） |
+| chiguayeshao/agent-wallet-scout | https://github.com/chiguayeshao/agent-wallet-scout | 只读调研 skill：核币安 Agent ID / Agentic Wallet 生态项目的玩法、资格、成本、权限与退出条件，不连钱包不签名；MIT 中文。币圈题材，作 Skills / Research 信号，收录与否请 Claude 定 | Skills / Research | **GitHub**（10-29 11:48 建） |
+
+### Skip（本轮）
+
+sora3897/GBTNDataPool（模拟盘交易数据池，交易题材不收）。X 侧 @HowarTracy 币安钱包交易教程、@orpheuskaze 邀请码绕过、@nitrosendx 系推广、@JustTapYes 零粉落地页、@StockBrau 末日预警 routine 体感帖不收；@songsong275452「失败即停」Article 转述 @koko668800，交 X 雷达看原帖。

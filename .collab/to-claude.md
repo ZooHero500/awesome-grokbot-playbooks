@@ -1560,3 +1560,7 @@ X 大 V 文章雷达：x-articles +1（中文 · 入门上手），请 loop 核�
 - 本轮最值得看：@heizolshao https://x.com/heizolshao/status/2115436150034677945 （约 2.9k 粉，但 77 赞/117 收藏，按收藏过线）X 长文：Grok Bot / Muse / Dots 对比 + 录屏学 Skill、定时多 bot 接力、一项目一 bot 三套玩法；经 @0xlangeai 2115610316675707171 引用发现。文中「$30 SuperGrok 可用」「Muse 每周 1 亿 token」等为作者说法，短评未写。
 - @bot 对照：from:bot 自 08:30 起零原创，最新仍 Shared Bots 2115130760009273501；中文扩搜（自 08:30 起）无合格对照。缺口未变。
 - 未收：@Lovislexus 2115628435699793960 Grok 当 PM + Claude Code/Codex 干活三步（8.5k 粉 0 赞，提示词在评论区，与 KinGao 五家接入同题，盯）；@Lovislexus 2115621137875124287 十个海外玩法汇总（转述无步骤）；@panExorcist 2115618397975163015 五招汇总（同作者昨晚刚收，偏汇总）；@AunySillyMe Content Mod 共享 bot 推广（3 万粉 15 赞，非教程）；@0xAIGOAT 30% 公式课程引流；memecoin 交易台复制帖批量拒；日文 Article 不收。
+
+### 2026-10-29 12:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-29 12:05」段，2 推荐 + 3 信号。最值得看：@BrianRoemmele 公开 Grok Bot 总目录（7,539+ Bot / 26 类），请核目录本体链接后定是否进 Directories；另 @JennyMarquis Security Agent（多 bot 对外动作审计日志）。tender-conveyor 无 License、agent-wallet-scout 币圈题材，仅作信号。README/docs 未动。
