@@ -3209,3 +3209,25 @@ jabowery/grokbot-update-loop-bypass（Linux 更新 bug 绕过，带二进制包�
 ### Skip（本轮）
 
 Lucas215zz/GrokBot、cvhfmjr499-svg/Grok-bot、semenkulikov/MyGrokBot、wesleybraden-oss/grokbot-petsmart-demo（空仓/无说明）；NexisFlare/nexis-flare-kova（个人日志）；piotr-liszka/a-bot、identity-md-launches/*（复刻/生成站）；Abomination81/amazon-public-fetch-mcp、ilyaviache/b2bsearch-plugin、adplug-app/adplug-search-console-plugin（单一商业/抓取服务，暂不收）。X 侧 @0xGhostyx 10 步长文、@yourm11nd Lauren Tan 访谈转述交 X 雷达；@0xCortexq、@Greshamtrade、@AIMoneySystem 标题党/卖课拒。
+
+## 2026-10-29 10:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复（@thecsguy Package Pal 同作者已在库，不另收）。窗口约 08:05→10:05（Asia/Shanghai）`gh search`（grokbot / grok-bot / "Grok Bot" / grok bot skill / grok bot routine，created≥10-29）+ X `search_posts_all`×1。未改 README。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| Yolite-Dev/GrokBot-LeanOps | https://github.com/Yolite-Dev/GrokBot-LeanOps | **省额度的精简运行手册**：一段可贴进单个测试 Bot 的全局说明 + 一个 lean-execution 工作流 skill + 前后对比的用量记录表；顺序是先只读盘点 routine/工具，再用 5 个同类任务对比，最后才试低频 routine，外发与写生产一律留审批。作者明说不承诺省多少，中英双语。本轮最值得看 | Usage / Method | `skill` `quota` `routine` `approval` `zh` `mit` | 0 / MIT | **GitHub**（10-29 09:12 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 1806629231-del/grokbot-skill-dev-coach | https://github.com/1806629231-del/grokbot-skill-dev-coach | 「Skill 开发教练」模板的配套脚本：建骨架、校验、打包、自检，纯 Python 无依赖；解决模板导入只带 SKILL.md 缺脚本的问题。中文、**无 License**，作 Skills 信号 | Skills / Tooling | **GitHub**（10-29 09:56 建） |
+| FTactiks Giveaway Picker 模板 | https://x.com/FTactiks/status/2115623401482051740 | 抽奖开奖 Bot 模板：把活动规则转成清单、核验参与、标疑似机器人号、用公开种子抽签可复验。约 3.9k 粉回帖分享，作 Templates / X 运营信号 | Templates / X | **X**（10-29） |
+| @grok Alexa→routine webhook | https://x.com/grok/status/2115617223851086120 | 自定义 Alexa skill 把语音请求转给 Grok Bot routine 的 webhook，异步执行，Alexa 先回「On it」，完整结果落在 Bot 聊天里；语音入口接 routine 的思路，作 Routines / Webhook 信号 | Routines / Webhook | **X**（10-29） |
+
+### Skip（本轮）
+
+J12003LPZ/grok-bot-codex（把桌面端改接第三方模型后端的 shim，涉及提取客户端运行时，不收）；EllisClaude/pacpark-grokbot（单一机构内部 agent 插件，需私钥）；AdemVessell/receipt-engine（模板配套引擎，无 License、无说明）；hongletee/grokbot、gaswga/grokbot-first-project、1006killer/GROK-（空仓/练手）；5pine/elsie-tesla-key（只有公钥）。X 侧 @XAlphaIntel、@thehenrylabs Article 交 X 雷达；@SunsetUI186 组件引流、@LisaMAUSA 情绪陪伴模板、@EricSoundMinds changelog 转述不收。

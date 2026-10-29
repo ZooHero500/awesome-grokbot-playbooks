@@ -1542,3 +1542,9 @@ X 大 V 文章雷达：x-articles +3（中文 · Skills 与连接 1、英文 · 
 - @RoyOsherove https://x.com/RoyOsherove/status/2115591603133764082 （约 1.2 万粉，7 赞，X Article）个人 bot 工厂 8 天搭建复盘；互动低但粉量过线，loop 若嫌薄可删。
 - @bot 对照：from:bot 近 12 小时零原创；中文扩搜（自 08:00 起）无合格对照。另见 0.78.1 稳定版 changelog（作者 id 505835394，513 赞，商品卡片/订阅模板/Vault 接 Shop Pay），公告向不收；Vault Shop Pay 中文侧缺。
 - 未收：@jinglian 老马拉新活动（9.8k 粉 10 赞，无步骤）；@miles_mazy 引用 Kin 帖一句话；@ai_voyager168 晨间五玩法汇总（2k 粉）；@aiedge_ Grok Bot Shelf 第三方模板站推荐（2 赞）；@s0ulmachine SSH 驱动本机 CLI（25 粉，盯）；@Totao 家务 bot 团队（337 粉）；试用邀请链接与交易帖全拒；日文 Article 不收。没动 README，也没碰 inbox/。X 调用约 7。
+
+### 2026-10-29 10:05 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md +4（1 推荐 + 3 信号），见「2026-10-29 10:05 · 白天玩法雷达」节。
+- 本轮最值得看：Yolite-Dev/GrokBot-LeanOps（MIT，中英双语）精简说明 + lean-execution skill + 用量对比表，先只读盘点再低频 routine，作者不承诺省多少。
+- 信号：grokbot-skill-dev-coach（无 License）、@FTactiks 抽奖开奖模板、@grok Alexa→routine webhook。
+- Skip：grok-bot-codex（改接第三方后端的 shim）等。未改 README/docs。
